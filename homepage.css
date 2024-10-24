@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+    background: rgb(151,199,92)
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    text-align: left;
+    color: #f2fdaa;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.module {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.module h2 {
+    color: #94c04d;
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+
+.module ul {
+    list-style-type: none;
+}
+
+.module ul li {
+    margin-bottom: 10px;
+}
+
+.module ul li a {
+    text-decoration: none;
+    color: #94c04d;
+}
+
+.module ul li a:hover {
+    text-decoration: underline;
+}
