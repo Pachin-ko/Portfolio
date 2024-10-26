@@ -1,0 +1,68 @@
+/* Fond de la page */
+body {
+    background-color: #fce4ec;
+    font-family: 'Arial', cursive, sans-serif;
+    color: #555;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+/* Conteneur central */
+.container {
+    margin-top: 100px;
+    background-color: #fff;
+    border-radius: 20px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    width: 50%;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Style des boutons */
+button {
+    background-color: #ffccbc;
+    border: none;
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px;
+    cursor: pointer;
+    border-radius: 50px;
+    box-shadow: 0 4px #d78a76;
+    transition: all 0.3s ease-in-out;
+}
+
+/* Effet hover pour les boutons */
+button:hover {
+    background-color: #ffab91;
+    box-shadow: 0 6px #d78a76;
+    transform: translateY(-2px);
+}
+
+/* Styles mignons pour les titres */
+h1 {
+    font-size: 2.5rem;
+    color: #f48fb1;
+}
+
+h2 {
+    font-size: 2rem;
+    color: #f8bbd0;
+}
+
+/* Styles des liens */
+a {
+    color: #ff8a80;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ff5252;
+    text-decoration: underline;
+}
