@@ -1,6 +1,7 @@
 body{
     background-image: url(pgr3.png);
     background-position: center;
+    position: fixed;
     opacity: 1;
 }
 
