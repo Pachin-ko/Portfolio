@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A Propos</title>
+    <link rel="stylesheet" href="loading.css">
+    <link rel="stylesheet" href="a_propos.css">
+    <link rel="icon" href="icon.png">
+</head>
+<body>
+    <center>
+        <audio playload="playload" loop="loop" id="bg-music">
+            <source src="Another Winter.mp3"></source>
+            <source src="Another-Winter.ogg"></source>
+        </audio>
+
+        <div id="loading" onload="document.getElementById('bg-music').play()"><div class="screen">
+            <br><br><br><br><br><br><br><br><br><br><br><br><br>
+            <img id="ramona" src="loading_screen_6.gif" alt=""><br><br>
+            <div class="loader"></div>
+        </div>
+    </div>
+    
+        <div class="screen" id="screen" style="display: none;"> <br>
+            <table>
+                <tr><td><link href='https://fonts.googleapis.com/css?family=VT323' rel='stylesheet' type='text/css'>
+                <div class="container">
+                <div class="pixel2">INSTAGRAM</div>
+                </div></td> <td><link href='https://fonts.googleapis.com/css?family=VT323' rel='stylesheet' type='text/css'>
+                <div class="container">
+                <a href="CV GUEGUEN A..pdf" target="blank"><div class="pixel2">CV</div></a>
+                </div></td></tr>
+
+                <tr><td><link href='https://fonts.googleapis.com/css?family=VT323' rel='stylesheet' type='text/css'>
+                <div class="container">
+                <div class="pixel2">TIKTOK</div>
+                </div></td> <td><link href='https://fonts.googleapis.com/css?family=VT323' rel='stylesheet' type='text/css'>
+                <div class="container">
+                <a href="https://www.linkedin.com/in/ana%C3%AFs-gueguen-5327a3304/?trk=opento_sprofile_topcard" target="_blank"><div class="pixel2">LINKEDIN</div></a>
+                </div></td></tr>
+
+                <tr><td><link href='https://fonts.googleapis.com/css?family=VT323' rel='stylesheet' type='text/css'>
+                <div class="container">
+                <div class="pixel2">PINTEREST</div>
+                </div></td> <td><link href='https://fonts.googleapis.com/css?family=VT323' rel='stylesheet' type='text/css'>
+                <div class="container">
+                <div class="pixel2">MAIL</div>
+                </div></td></tr>
+            </table>
+                <br><br><br>
+                <link href='https://fonts.googleapis.com/css?family=VT323' rel='stylesheet' type='text/css'>
+                <div class="container">
+                <a href="#" target="_blank"><div class="pixel2" id="webtoon">WEBTOON CANVAS <br>FOLLOW ME !</div></a>
+                
+
+                
+
+                
+
+                
+
+                <br><br><br><br><br><br><br><br>
+                <link href='https://fonts.googleapis.com/css?family=VT323' rel='stylesheet' type='text/css'>
+                <div class="container">
+                <a href="menu.html"><div class="pixel2">RETOUR</div></a>
+                </div>
+            </div>
+    </center>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            const delay = 3000;
+
+            setTimeout(function() {
+                document.getElementById("loading").style.display = "none";
+                document.getElementById("screen").style.display = "block";
+            }, delay);
+        });
+
+        document.addEventListener("mousemove", () => {
+    let audio = document.getElementById("bg-music");
+    if (audio.paused) {
+        audio.play();
+    }
+}, { once: true });
+    </script>
+</body>
+</html>

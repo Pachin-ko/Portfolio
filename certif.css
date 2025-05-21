@@ -1,0 +1,10 @@
+#screen {
+    border-radius: 20px;
+    height: 90vh;
+    width: 80vw;
+    background-image: url(certifications_bg.jpg);
+    background-size: cover;
+    position: center;
+    border: 5px solid rgb(255, 255, 255);
+    margin-top: 22px;
+}

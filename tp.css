@@ -1,0 +1,17 @@
+#screen {
+    border-radius: 20px;
+    height: 90vh;
+    width: 80vw;
+    background-image: url(tp_bg.png);
+    background-size: cover;
+    position: center;
+    border: 5px solid rgb(255, 255, 255);
+    margin-top: 22px;
+}
+
+.page {
+    display: none;
+  }
+  .page.active {
+    display: block;
+  }

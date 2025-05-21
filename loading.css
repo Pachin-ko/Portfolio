@@ -1,0 +1,128 @@
+body {
+    background-color: rgb(14, 14, 14);
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+audio {
+    display: none;
+}
+
+.screen {
+    border-radius: 20px;
+    height: 90vh;
+    width: 80vw;
+    background-color: black;
+    background-size: cover;
+    position: center;
+    border: 5px solid rgb(255, 255, 255);
+    margin-top: 22px;
+}
+
+.container {
+    gap: 10px;
+}
+
+#todd {
+    width: 170px;
+}
+
+#negascott {
+    width: 100px;
+}
+
+#katayanagi_kyoudai {
+    width: 220px;
+}
+
+#ramona {
+    width: 160px;
+}
+
+#scott {
+  width: 170px;
+}
+
+.loader {
+    width: fit-content;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    clip-path: inset(0 3ch 0 0);
+    animation: l4 1s steps(4) infinite;
+  }
+  .loader:before {
+    content:"LOADING..."
+  }
+  @keyframes l4 {to{clip-path: inset(0 -1ch 0 0)}}
+
+  .pixel, .pixel2 {
+    font-size: 25px;
+    color: white;
+    height: auto;
+    margin: 10px;
+    font-family: 'VT323';
+    
+    position: relative;
+    display: inline-block;
+    vertical-align: top;
+    text-transform: uppercase;
+    
+    cursor: pointer;
+
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+
+  .pixel2 {
+    position: relative;
+    display: block;
+    margin: 10px;
+    font-family: 'VT323';
+    text-transform: uppercase;
+    
+    font-size: 28px;
+    color: white;
+  }
+  
+  .pixel2::before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 10px;
+    bottom: 10px;
+    left: -10px;
+    right: -10px;
+    background: black;
+    z-index: -1;
+  }
+  
+  .pixel2::after {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 4px;
+    bottom: 4px;
+    left: -6px;
+    right: -6px;
+    background: black;
+    z-index: -1;
+  }
+  
+  .pixel2 {
+    padding: 10px 10px;
+    position: relative;
+    background: black;
+    width: 150px;
+    z-index: 2;
+  }
+
+  #webtoon {
+    width: 200px;
+    color: rgb(32, 249, 28);
+  }

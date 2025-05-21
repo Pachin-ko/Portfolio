@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TP</title>
+    <link rel="stylesheet" href="loading.css">
+    <link rel="stylesheet" href="tp.css">
+    <link rel="icon" href="icon.png">
+</head>
+<body>
+    <center>
+        <audio playload="playload" loop="loop" id="bg-music">
+            <source src="Twin Dragons.mp3"></source>
+            <source src="Twin Dragons.ogg"></source>
+        </audio>
+
+        <div id="loading" onload="document.getElementById('bg-music').play()"><div class="screen">
+            <br><br><br><br><br><br><br><br><br><br>
+            <img id="todd" src="loading_screen_1.gif" alt=""><br><br>
+            <div class="loader"></div>
+        </div>
+    </div>
+    
+        <div class="screen" id="screen" style="display: none;"> <br>
+
+            <div class="nav-buttons">
+                <link href='https://fonts.googleapis.com/css?family=VT323' rel='stylesheet' type='text/css'>
+                <button onclick="prevPage()">Previous</button>
+                <span class="page-indicator">1/2</span>
+                <button onclick="nextPage()">Next</button>
+            </div>
+            
+            <div id="page1" class="page active">
+                <link href='https://fonts.googleapis.com/css?family=VT323' rel='stylesheet' type='text/css'>
+                <div class="container">
+                <a href="tp1/index.html" target="_blank"><div class="pixel2">TP1 (HTML)</div></a>
+                </div>
+
+                <link href='https://fonts.googleapis.com/css?family=VT323' rel='stylesheet' type='text/css'>
+                <div class="container">
+                <a href="tp1_JS/index.html" target="_blank"><div class="pixel2">TP1 (JS)</div></a>
+                </div>
+    
+                <link href='https://fonts.googleapis.com/css?family=VT323' rel='stylesheet' type='text/css'>
+                <div class="container">
+                <a href="tp2/index.html" target="_blank"><div class="pixel2">TP2</div></a>
+                </div>
+    
+                <link href='https://fonts.googleapis.com/css?family=VT323' rel='stylesheet' type='text/css'>
+                <div class="container">
+                <a href="tp3/index.html" target="_blank"><div class="pixel2">TP3</div></a>
+                </div>
+    
+                <link href='https://fonts.googleapis.com/css?family=VT323' rel='stylesheet' type='text/css'>
+                <div class="container">
+                <a href="tp4/Exercice 1/index.html" target="_blank"><div class="pixel2">TP4 (1)</div></a>
+                </div>
+
+                <link href='https://fonts.googleapis.com/css?family=VT323' rel='stylesheet' type='text/css'>
+                <div class="container">
+                <a href="tp4/Exercice 2/index.html" target="_blank"><div class="pixel2">TP4 (2)</div></a>
+                </div>
+
+                <link href='https://fonts.googleapis.com/css?family=VT323' rel='stylesheet' type='text/css'>
+                <div class="container">
+                <a href="tp5/index.html" target="_blank"><div class="pixel2">TP5</div></a>
+                </div>
+            </div>
+            
+            <div id="page2" class="page">
+                <link href='https://fonts.googleapis.com/css?family=VT323' rel='stylesheet' type='text/css'>
+                <div class="container">
+                <a href="tp6/Exercice 1/index.html" target="_blank"><div class="pixel2">TP6 (1)</div></a>
+                </div>
+
+                <link href='https://fonts.googleapis.com/css?family=VT323' rel='stylesheet' type='text/css'>
+                <div class="container">
+                <a href="tp6/Exercice 2/index.html" target="_blank"><div class="pixel2">TP6 (2)</div></a>
+                </div>
+            </div>
+
+            <script>
+                let currentPage = 1;
+                const totalPages = 2;
+                
+                function updatePage() {
+                    document.querySelectorAll('.page').forEach(page => {
+                        page.classList.remove('active');
+                    });
+                    
+                    document.getElementById(`page${currentPage}`).classList.add('active');
+                    
+                    document.querySelector('.page-indicator').textContent = 
+                        `${currentPage}/${totalPages}`;
+                }
+                
+                function nextPage() {
+                    if (currentPage < totalPages) {
+                        currentPage++;
+                        updatePage();
+                    }
+                }
+                
+                function prevPage() {
+                    if (currentPage > 1) {
+                        currentPage--;
+                        updatePage();
+                    }
+                }
+            </script>
+
+                <br><br><br><br><br><br>
+                <link href='https://fonts.googleapis.com/css?family=VT323' rel='stylesheet' type='text/css'>
+                <div class="container">
+                <a href="menu.html"><div class="pixel2">RETOUR</div></a>
+                </div>
+            </div>
+    </center>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            const delay = 3000;
+
+            setTimeout(function() {
+                document.getElementById("loading").style.display = "none";
+                document.getElementById("screen").style.display = "block";
+            }, delay);
+        });
+
+        document.addEventListener("mousemove", () => {
+    let audio = document.getElementById("bg-music");
+    if (audio.paused) {
+        audio.play();
+    }
+}, { once: true });
+    </script>
+</body>
+</html>

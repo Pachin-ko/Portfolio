@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>certifications</title>
+    <link rel="stylesheet" href="loading.css">
+    <link rel="stylesheet" href="certif.css">
+    <link rel="icon" href="icon.png">
+</head>
+<body>
+    <center>
+        <audio playload="playload" loop="loop" id="bg-music">
+            <source src="Cheap Shop.mp3"></source>
+            <source src="Cheap-Shop.ogg"></source>
+        </audio>
+
+        <div id="loading" onload="document.getElementById('bg-music').play()"><div class="screen">
+            <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+            <img id="katayanagi_kyoudai" src="loading_screen_7.gif" alt=""><br><br>
+            <div class="loader"></div>
+        </div>
+    </div>
+    
+        <div class="screen" id="screen" style="display: none;"> <br>
+                <link href='https://fonts.googleapis.com/css?family=VT323' rel='stylesheet' type='text/css'>
+                <div class="container">
+                <a href="Certificat_Module 1.pdf" target="blank"><div class="pixel2">CNIL MODULE 1</div></a>
+                </div>
+
+                <link href='https://fonts.googleapis.com/css?family=VT323' rel='stylesheet' type='text/css'>
+                <div class="container">
+                <a href="Certificat_Module 2.pdf" target="_blank"><div class="pixel2">CNIL MODULE 2</div></a>
+                </div>
+    
+                <link href='https://fonts.googleapis.com/css?family=VT323' rel='stylesheet' type='text/css'>
+                <div class="container">
+                <a href="Certificat_Module 3.pdf" target="_blank"><div class="pixel2">CNIL MODULE 3</div></a>
+                </div>
+    
+                <link href='https://fonts.googleapis.com/css?family=VT323' rel='stylesheet' type='text/css'>
+                <div class="container">
+                <a href="Certificat_Module 4.pdf" target="_blank"><div class="pixel2">CNIL MODULE 4</div></a>
+                </div>
+    
+                <link href='https://fonts.googleapis.com/css?family=VT323' rel='stylesheet' type='text/css'>
+                <div class="container">
+                <div class="pixel2">CNIL MODULE 5</div>
+                </div>
+
+                <br><br><br><br><br><br><br><br><br><br><br>
+                <link href='https://fonts.googleapis.com/css?family=VT323' rel='stylesheet' type='text/css'>
+                <div class="container">
+                <a href="menu.html"><div class="pixel2">RETOUR</div></a>
+                </div>
+            </div>
+    </center>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            const delay = 3000;
+
+            setTimeout(function() {
+                document.getElementById("loading").style.display = "none";
+                document.getElementById("screen").style.display = "block";
+            }, delay);
+        });
+
+        document.addEventListener("mousemove", () => {
+    let audio = document.getElementById("bg-music");
+    if (audio.paused) {
+        audio.play();
+    }
+}, { once: true });
+    </script>
+</body>
+</html>

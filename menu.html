@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu Principal</title>
+    <link rel="stylesheet" href="loading.css">
+    <link rel="stylesheet" href="menu.css">
+    <link rel="icon" href="icon.png">
+</head>
+<body>
+    <center>
+        <audio playload="playload" loop="loop" id="bg-music">
+        <source src="Scott Pilgrim Anthem.mp3"></source>
+        <source src="Scott-Pilgrim-Anthem.ogg"></source>
+    </audio>
+
+            <div id="loading" onload="document.getElementById('bg-music').play()"><div class="screen">
+            <br><br><br><br><br><br><br><br><br><br><br>
+            <img id="scott" src="loading_screen_2.gif" alt=""><br><br>
+            <div class="loader"></div>
+        </div>
+    </div>
+
+    <div class="screen" id="screen" style="display: none;"> <br><br>
+            <img src="Scott_pilgrim_logo2.png" alt="scott-pilgrim-2">
+            <br>
+                <link href='https://fonts.googleapis.com/css?family=VT323' rel='stylesheet' type='text/css'>
+                <div class="container">
+                <a href="tp.html"><div class="pixel2">TRAVAUX PRATIQUES</div></a>
+                </div>
+    
+                <link href='https://fonts.googleapis.com/css?family=VT323' rel='stylesheet' type='text/css'>
+                <div class="container">
+                <a href="missions.html"><div class="pixel2">MISSIONS</div></a>
+                </div>
+    
+                <link href='https://fonts.googleapis.com/css?family=VT323' rel='stylesheet' type='text/css'>
+                <div class="container">
+                <a href="certifications.html"><div class="pixel2">CERTIFICATIONS</div></a>
+                </div>
+    
+                <link href='https://fonts.googleapis.com/css?family=VT323' rel='stylesheet' type='text/css'>
+                <div class="container">
+                <a href="a_propos.html"><div class="pixel2">A PROPOS</div></a>
+                </div>
+            </div>
+</center>
+
+             <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            const delay = 3000;
+
+            setTimeout(function() {
+                document.getElementById("loading").style.display = "none";
+                document.getElementById("screen").style.display = "block";
+            }, delay);
+        });
+
+        document.addEventListener("mousemove", () => {
+    let audio = document.getElementById("bg-music");
+    if (audio.paused) {
+        audio.play();
+    }
+}, { once: true });
+    </script>
+</body>
+</html>
