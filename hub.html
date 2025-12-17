@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio - Hub</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script defer>
+let text = [
+    "BOOTING SYSTEM...",
+    "LOADING MEMORY...",
+    "INITIALIZING INTERFACE...",
+    "INITIALIZATION COMPLETE.",
+    "STARTING SIMULATION."
+];
+
+let index = 0;
+
+function nextLine(){
+    if(index < text.length){
+        const line = document.createElement("p");
+        line.className = "text-white text-xl font-mono";
+        line.textContent = text[index++];
+        document.querySelector("#boot-log").appendChild(line);
+
+        // continue jusqu’à ce que toutes les lignes soient affichées
+        setTimeout(nextLine, 600);
+    } else {
+        // >>> quand toutes les lignes sont affichées <<<
+        setTimeout(()=>{
+            document.getElementById("bootText").style.display = "none";
+            document.getElementById("hub").classList.remove("hidden");
+        }, 800);
+    }
+}
+
+// lancer l’animation au chargement
+window.onload = nextLine;
+</script>
+
+<!-- START MENU -->
+<div id="startMenu" class="hidden fixed bottom-16 left-6 z-50 w-96 rounded-lg frosted-glass p-4 border border-white/20 shadow-xl">
+
+    <!-- Header Avatar + Username -->
+    <div class="flex items-center space-x-3 mb-4">
+        <img src="assets/icons/Scott-Pilgrim.ico" class="w-10 h-10 rounded-md">
+        <p class="text-white text-lg font-bold" style="font-family: KindlyRewind;">Anais Gueguen</p>
+    </div>
+
+    <div class="grid grid-cols-2 gap-3">
+
+        <!-- LEFT apps -->
+        <div class="space-y-1">
+
+            <button class="start-item">
+                <img src="assets/icons/folder-svgrepo-com.svg" class="inline m-1 mb-2" width="15px">Documents
+            </button>
+            <button class="start-item">
+                <a href="browser.html">
+                    <img src="assets/icons/compass-svgrepo-com.svg" class="inline m-1 mb-2" width="15px">Navigateur
+                </a>
+            </button>
+            <button class="start-item">
+                <a href="jukebox.html">
+                    <img src="assets/icons/Neko_Logo_placeholder.PNG" class="inline m-1 mb-2" width="15px">Jukebox
+                </a>
+            </button>
+            <button class="start-item">
+                <a href="diary.html">
+                   <img src="assets/icons/book-white-svgrepo-com.svg" class="inline m-1 mb-2" width="15px">Whatever Diary 
+                </a>
+            </button>
+            <button class="start-item">
+                <a href="stage.html">
+                    <img src="assets/icons/clipboard-svgrepo-com.svg" class="inline m-1 mb-2" width="15px">Rapport de stage
+                </a>
+            </button>
+            <button class="start-item">
+                <a href="veille_techno.html">
+                    <img src="assets/icons/card-text-svgrepo-com.svg" class="inline m-1 mb-2" width="15px">Veille Techno
+                </a>
+            </button>
+        </div>
+
+        <!-- RIGHT shortcuts -->
+        <div class="space-y-1 text-right">
+
+            <button class="start-item">
+                <img src="assets/icons/device-svgrepo-com.svg" class="inline m-1 mb-2" width="20px">Games
+            </button>
+            <button class="start-item">
+                <img src="assets/icons/webtoon-logo.png" class="inline m-1 mb-2" width="20px" target="_blank">Webtoon
+            </button>
+            <button class="start-item">
+                <img src="assets/icons/instagram-new.png" class="inline m-1 mb-2" width="20px" target="_blank">Instagram
+            </button>
+            <button class="start-item">
+                <img src="assets/icons/linkedin-app-white-icon.webp" class="inline m-1 mb-2" width="15px" target="_blank">LinkedIn
+            </button>
+            <button class="start-item">
+                <a href="Anaïs-GUEGUEN-Resume (1).pdf" target="_blank">
+                    <img src="assets/icons/account-box-svgrepo-com.svg" class="inline m-1 mb-2" width="15px">CV
+                </a>
+            </button>
+        </div>
+
+    </div>
+
+    <!-- Footer shutdown / close -->
+    <div class="border-t border-white/20 mt-4 pt-2 text-right">
+        <button id="shutdownBtn" class="text-white hover:underline font-bold text-sm">CLOSE</button>
+    </div>
+
+</div>
+
+    <style>
+        @font-face {
+            font-family: "KindlyRewind";
+            src: url("./assets/fonts/Kindly-Rewind-Font/KindlyRewind-BOon.ttf") format("truetype");
+        }
+
+        @font-face {
+            font-family: "Edunline";
+            src: url("./assets/fonts/Edit-Undo-Line-Font/edunline.ttf") format("truetype");
+        }
+
+        @font-face {
+            font-family: "VCR-OSD-Mono";
+            src: url(./assets/fonts/VCR-OSD-Mono-Font/VCR_OSD_MONO_1.001.ttf) format("truetype");
+        }
+
+        #bootText {
+            animation: crt-flicker 0.08s infinite alternate;
+        }
+
+        @keyframes crt-flicker {
+            0% { opacity: 1; }
+            100% { opacity: 0.80; }
+        }
+        
+        .frosted-glass {
+            background-color: rgba(255, 255, 255, 0.2);
+            backdrop-filter: blur(5px);
+            -webkit-backdrop-filter: blur(5px);
+            border: 1px solid rgba(255, 255, 255, 0.5);
+        }
+
+        .dashboard-bg {
+            background-image: var(--bg-image);
+            background-size: cover;
+            background-position: center;
+        }
+
+        .icon-grid {
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+            grid-template-rows: repeat(5, minmax(0, 1fr));
+        }
+
+        .start-item {
+            display: block;
+            width: 100%;
+            text-align: left;
+            background: transparent;
+            color: #f3f3f3;
+            padding: 4px 0;
+            font-size: 14px;
+            transition: 0.15s;
+            font-family: 'KindlyRewind';
+        }
+
+        .start-item:hover {
+            background: rgba(255,255,255,0.1);
+            padding-left: 6px;
+            cursor: pointer;
+        }
+
+        #startMenu {
+            transform: scale(0.95);
+            opacity: 0;
+            transition: all 0.25s ease;
+        }
+
+        #startMenu.open {
+            opacity: 1;
+            transform: scale(1);
+        }
+
+    </style>
+
+</head>
+<body class="bg-black flex items-center justify-center min-h-screen p-4">
+
+    <audio id="bgMusic" loop>
+        <source src="assets/music/hub.mp3" type="audio/mpeg">
+    </audio>
+    
+    <div class="w-[100vw] max-w-[1200px] h-[100vh] max-h-[700px] border-4 border-white rounded-2xl overflow-hidden shadow-2xl relative">
+
+        <div id="bootText">
+            <div id="boot-log" class="absolute bottom-10 left-10"></div>
+        </div>
+        
+
+        <div id="hub" class="hidden">
+
+    <!-- Wallpaper -->
+    <div class="dashboard-bg absolute inset-0" style="background-image: url('assets/wallpapers/city1.gif');"></div>
+
+    <!-- Zone principale -->
+    <div class="absolute inset-0 flex p-6 space-x-6">
+
+        <!-- Zone Icônes -->
+        <div class="w-1/3 h-full flex flex-col justify-start">
+            
+            <div class="grid grid-cols-3 gap-10 w-full h-[90%]">
+
+                <div class="aspect-square rounded-lg frosted-glass flex items-center justify-center cursor-pointer">
+                    <img src="assets/icons/trash-svgrepo-com.svg" class="w-full p-1 opacity-80">
+                </div>
+
+                <div class="aspect-square rounded-lg frosted-glass flex items-center justify-center cursor-pointer">
+                    <a href="browser.html">
+                        <img src="assets/icons/compass-svgrepo-com.svg" class="w-full p-1 opacity-80">
+                    </a>
+                </div>
+
+                <div class="aspect-square rounded-lg frosted-glass flex items-center justify-center cursor-pointer">
+                    <img src="assets/icons/folder-svgrepo-com.svg" class="w-full p-1 opacity-80">
+                </div>
+
+                <div class="aspect-square rounded-lg frosted-glass flex items-center justify-center cursor-pointer">
+                    <img src="assets/icons/card-text-svgrepo-com.svg" class="w-full p-1 opacity-80">
+                </div>
+
+                <div class="aspect-square rounded-lg frosted-glass flex items-center justify-center cursor-pointer">
+                    <a href="jukebox.html">
+                        <img src="assets/icons/Neko_Logo_placeholder.PNG" class="w-full p-1 opacity-80">
+                    </a>
+                </div>
+
+                <div class="aspect-square rounded-lg frosted-glass flex items-center justify-center cursor-pointer">
+                    <a href="diary.html">
+                        <img src="assets/icons/book-white-svgrepo-com.svg" class="w-full p-1 opacity-80">
+                    </a>
+                </div>
+
+                <div class="aspect-square rounded-lg frosted-glass flex items-center justify-center cursor-pointer">
+                    <img src="assets/icons/clipboard-svgrepo-com.svg" class="w-full p-1 opacity-80">
+                </div>
+
+                <div class="aspect-square rounded-lg frosted-glass flex items-center justify-center cursor-pointer">
+                    <a href="Missions/tp5/index.html" target="_blank">
+                        <img src="assets/icons/calculator-svgrepo-com.svg" class="w-full p-1 opacity-80">
+                    </a>
+                </div>
+
+                <div class="aspect-square rounded-lg frosted-glass flex items-center justify-center cursor-pointer">
+                    <img src="assets/icons/webtoon-logo.png" class="w-full p-1 opacity-80">
+                </div>
+
+                <div class="aspect-square rounded-lg frosted-glass flex items-center justify-center cursor-pointer">
+                    <img src="assets/icons/device-svgrepo-com.svg" class=" p-1 w-full opacity-80">
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="w-1/3 justify-center"></div>
+
+        <!-- Sidebar horloge + mails -->
+        <div class="w-1/3 flex flex-col justify-end space-y-3 mb-11">
+            
+            <div class="h-1/5 rounded-lg frosted-glass flex flex-col items-center justify-end p-4">
+                <p id="current-time" class="text-6xl text-white" style="font-family:Edunline;">--:--:--</p>
+                <p id="current-date" class="text-lg text-gray-200" style="font-family:Edunline;">--/--/----</p>
+            </div>
+
+            <div class="h-auto flex-grow rounded-lg frosted-glass p-4 overflow-y-auto space-y-2">
+                <p class="text-white font-semibold mb-2" style="font-family:KindlyRewind;">Mes Projets</p>
+                <ul class="text-sm text-gray-100 space-y-1">
+                    <li class="border-b border-gray-500/50 pb-1" style="font-family:VCR-OSD-Mono;">
+                        <a href="">
+                            Base de donnée Zoo
+                        </a></li>
+                    <li class="border-b border-gray-500/50 pb-1" style="font-family:VCR-OSD-Mono;">
+                        <a href="">
+                            Pachincorp (en cours)
+                        </a></li>
+                    <li class="border-b border-gray-500/50 pb-1" style="font-family:VCR-OSD-Mono;"></li>
+                </ul>
+            </div>
+
+        </div>
+
+    </div>
+
+
+  
+
+    <footer class="absolute bottom-0 left-0 w-full h-14 bg-black/70 border-t border-white/20 flex items-center px-6 gap-6 text-xs">
+        <button id="startButton" style="font-family:KindlyRewind;" class="bg-white/50 px-4 py-2 rounded-lg border border-solid-white border-2 text-white">
+            START
+        </button>
+        <button id="muteBtn">
+            <img src="assets/icons/volume-high-svgrepo-com.svg" width="20px">
+        </button>
+        <button id="theme-btn">
+            <img src="assets/icons/monitor-image-svgrepo-com.svg" width="20px">
+        </button>
+        <button>
+            <img src="assets/icons/email-svgrepo-com.svg" width="20px">
+        </button>
+    </footer>
+
+    </div>
+    </div>
+    </div>
+    
+    <script>
+        function updateTime() {
+            const now = new Date();
+            
+            const timeOptions = { hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: false };
+            const timeString = now.toLocaleTimeString('fr-FR', timeOptions);
+            
+            const dateOptions = { day: '2-digit', month: '2-digit', year: 'numeric' };
+            const dateString = now.toLocaleDateString('fr-FR', dateOptions);
+
+            document.getElementById('current-time').textContent = timeString;
+            document.getElementById('current-date').textContent = dateString;
+        }
+
+        updateTime();
+        setInterval(updateTime, 1000);
+
+        const startBtn = document.getElementById("startButton");
+const startMenu = document.getElementById("startMenu");
+
+let menuOpen = false;
+
+startBtn.addEventListener("click", (e) => {
+    menuOpen = !menuOpen;
+    startMenu.style.display = menuOpen ? "block" : "none";
+    startMenu.classList.toggle("open");
+    e.stopPropagation();
+});
+
+// Hide menu on outside click
+document.addEventListener("click", () => {
+    if(menuOpen){
+        startMenu.style.display = "none";
+        startMenu.classList.remove("open");
+        menuOpen = false;
+    }
+});
+
+let bgMusicStarted = false;
+
+function startMusicOnce() {
+    if (!bgMusicStarted) {
+        const audio = document.getElementById("bgMusic");
+        audio.volume = 0.4;
+        audio.play().catch(err => console.log("Autoplay blocked:", err));
+
+        bgMusicStarted = true;
+
+        window.removeEventListener("mousemove", startMusicOnce);
+        window.removeEventListener("click", startMusicOnce);
+    }
+}
+
+window.addEventListener("mousemove", startMusicOnce);
+window.addEventListener("click", startMusicOnce);
+
+
+// --- MUTE BUTTON --- //
+const muteBtn = document.getElementById("muteBtn");
+const muteIcon = document.getElementById("muteIcon");
+const bgMusic = document.getElementById("bgMusic");
+
+let isMuted = false;
+
+muteBtn.addEventListener("click", () => {
+    if (!bgMusicStarted) startMusicOnce(); // si mute pressé avant le démarrage
+
+    isMuted = !isMuted;
+    bgMusic.muted = isMuted;
+
+    // Change l'icône
+    muteIcon.src = isMuted 
+        ? "assets/icons/volume-mute-svgrepo-com.svg"
+        : "assets/icons/volume-high-svgrepo-com.svg";
+});
+
+function startMusicOnce() {
+    if (!bgMusicStarted) {
+        const audio = document.getElementById("bgMusic");
+        audio.volume = 0.3;   // Volume doux (modifiable)
+        audio.play().catch(e => console.log("Autoplay bloqué :", e));
+        bgMusicStarted = true;
+
+        // On enlève les listeners ensuite
+        window.removeEventListener("mousemove", startMusicOnce);
+        window.removeEventListener("click", startMusicOnce);
+    }
+}
+
+window.addEventListener("mousemove", startMusicOnce);
+window.addEventListener("click", startMusicOnce);
+
+    </script>
+</body>
+</html>

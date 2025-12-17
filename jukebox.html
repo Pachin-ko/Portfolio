@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio - Navigateur</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <!-- START MENU -->
+<div id="startMenu" class="hidden fixed bottom-16 left-6 z-50 w-96 rounded-lg frosted-glass p-4 border border-white/20 shadow-xl">
+
+    <!-- Header Avatar + Username -->
+    <div class="flex items-center space-x-3 mb-4">
+        <img src="assets/icons/Scott-Pilgrim.ico" class="w-10 h-10 rounded-md">
+        <p class="text-white text-lg font-bold" style="font-family: KindlyRewind;">Anais</p>
+    </div>
+
+    <div class="grid grid-cols-2 gap-3">
+
+        <!-- LEFT apps -->
+        <div class="space-y-1">
+
+            <button class="start-item">
+                <img src="assets/icons/folder-svgrepo-com.svg" class="inline m-1 mb-2" width="15px">Documents
+            </button>
+            <button class="start-item">
+                <a href="browser.html">
+                    <img src="assets/icons/compass-svgrepo-com.svg" class="inline m-1 mb-2" width="15px">Navigateur
+                </a>
+            </button>
+            <button class="start-item">
+                <a href="jukebox.html">
+                    <img src="assets/icons/Neko_Logo_placeholder.PNG" class="inline m-1 mb-2" width="15px">Jukebox
+                </a>
+            </button>
+            <button class="start-item">
+                <a href="diary.html">
+                   <img src="assets/icons/book-white-svgrepo-com.svg" class="inline m-1 mb-2" width="15px">Whatever Diary 
+                </a>
+            </button>
+            <button class="start-item">
+                <a href="stage.html">
+                    <img src="assets/icons/clipboard-svgrepo-com.svg" class="inline m-1 mb-2" width="15px">Rapport de stage
+                </a>
+            </button>
+            <button class="start-item">
+                <a href="veille_techno.html">
+                    <img src="assets/icons/card-text-svgrepo-com.svg" class="inline m-1 mb-2" width="15px">Veille Techno
+                </a>
+            </button>
+        </div>
+
+        <!-- RIGHT shortcuts -->
+        <div class="space-y-1 text-right">
+
+            <button class="start-item">
+                <img src="assets/icons/device-svgrepo-com.svg" class="inline m-1 mb-2" width="20px">Games
+            </button>
+            <button class="start-item">
+                <img src="assets/icons/webtoon-logo.png" class="inline m-1 mb-2" width="20px" target="_blank">Webtoon
+            </button>
+            <button class="start-item">
+                <img src="assets/icons/instagram-new.png" class="inline m-1 mb-2" width="20px" target="_blank">Instagram
+            </button>
+            <button class="start-item">
+                <img src="assets/icons/linkedin-app-white-icon.webp" class="inline m-1 mb-2" width="15px" target="_blank">LinkedIn
+            </button>
+            <button class="start-item">
+                <a href="Anaïs-GUEGUEN-Resume (1).pdf" target="_blank">
+                    <img src="assets/icons/account-box-svgrepo-com.svg" class="inline m-1 mb-2" width="15px">CV
+                </a>
+            </button>
+        </div>
+
+    </div>
+
+    <!-- Footer shutdown / close -->
+    <div class="border-t border-white/20 mt-4 pt-2 text-right">
+        <button id="shutdownBtn" class="text-white hover:underline font-bold text-sm">CLOSE</button>
+    </div>
+
+</div>
+
+    <style>
+        @font-face {
+            font-family: "KindlyRewind";
+            src: url("./assets/fonts/Kindly-Rewind-Font/KindlyRewind-BOon.ttf") format("truetype");
+        }
+
+        @font-face {
+            font-family: "SamsTown";
+            src: url("./assets/fonts/Sam-S-Town-Font/SAM_5C_27TRG_.TTF") format("truetype");
+        }
+
+        @font-face {
+            font-family: "VCR-OSD-Mono";
+            src: url("./assets/fonts/VCR-OSD-Mono-Font/VCR_OSD_MONO_1.001.ttf") format("truetype");
+        }
+
+        .start-item {
+            display: block;
+            width: 100%;
+            text-align: left;
+            background: transparent;
+            color: #f3f3f3;
+            padding: 4px 0;
+            font-size: 14px;
+            transition: 0.15s;
+            font-family: 'KindlyRewind';
+        }
+
+        .start-item:hover {
+            background: rgba(255,255,255,0.1);
+            padding-left: 6px;
+            cursor: pointer;
+        }
+
+        #startMenu {
+            transform: scale(0.95);
+            opacity: 0;
+            transition: all 0.25s ease;
+        }
+
+        #startMenu.open {
+            opacity: 1;
+            transform: scale(1);
+        }
+
+        .frosted-glass {
+            background-color: rgba(237, 47, 85, 0.2);
+            backdrop-filter: blur(5px);
+            -webkit-backdrop-filter: blur(5px);
+            border: 1px solid rgba(255, 255, 255, 0.5);
+        }
+
+        #trackList::-webkit-scrollbar {
+            width: 6px;
+        }
+
+        #trackList::-webkit-scrollbar-thumb {
+            background: #ed2f55;
+        }
+
+        </style>
+</head>
+<body class="bg-black flex items-center justify-center min-h-screen p-4">
+    
+<div class="w-[100vw] max-w-[1200px] h-[100vh] max-h-[700px] border-4 border-white rounded-2xl overflow-hidden shadow-2xl relative bg-[#FFE1E7]">
+
+    <!-- HEADER -->
+    <header class="flex items-center gap-4 px-6 py-4 bg-white/70">
+            <img src="assets/icons/Neko_Logo2.PNG" width="35px" class="inline mb-1">
+            <h1 class="text-2xl text-[#ED2F55]" style="font-family: SamsTown;">Jukebox</h1>
+
+        <div class="w-full"></div>
+
+    <button class="ml-2 px-6 py-2 bg-[#E24747] text-white text-sm rounded-lg hover:underline" style="font-family: VCR-OSD-Mono;">
+      Demo
+    </button>
+
+    <a href="hub.html">
+        <img src="assets/icons/checkbox-cross-svgrepo-com.svg" width="20px">
+    </a>
+    
+  </header>
+
+
+<div class="flex gap-8 p-6 h-[calc(100%-100px)]">
+
+    <!-- LEFT PANEL (LIBRARY) -->
+    <div class="w-1/2 bg-white rounded-2xl p-6 border border-[#ED2F55]">
+        
+        <!-- TABS -->
+        <div class="flex justify-center gap-6 mb-4 text-md text-[#ED2F55]">
+            <button class="px-6 py-4 bg-[#FFE1E7] rounded-lg" style="font-family: KindlyRewind;">Bibliotheque</button>
+            <button class="px-6 py-4 text-[#ED2F55]" style="font-family: KindlyRewind;">Playlists</button>
+        </div>
+
+        <!-- SEARCH -->
+        <input 
+            class="w-full p-2 mb-4 rounded-xl border border-[#ED2F55] outline-none" placeholder="Recherche..." style="font-family: VCR-OSD-Mono;">
+
+        <!-- TRACK LIST -->
+        <div id="trackList" class="space-y-3 overflow-y-auto h-[330px] pr-2 text-[#ED2F55]" style="font-family: VCR-OSD-Mono;">
+            <div class="trackItem p-3 bg-white border border-[#ED2F55] rounded-xl cursor-pointer hover:bg-[#FFE1E7]">
+                Track (1)
+            </div>
+            <div class="trackItem p-3 bg-white border border-[#ED2F55] rounded-xl cursor-pointer hover:bg-[#FFE1E7]">
+                Track (2)
+            </div>
+            <div class="trackItem p-3 bg-white border border-[#ED2F55] rounded-xl cursor-pointer hover:bg-[#FFE1E7]">
+                Track (3)
+            </div>
+            <div class="trackItem p-3 bg-white border border-[#ED2F55] rounded-xl cursor-pointer hover:bg-[#FFE1E7]">
+                Track (4)
+            </div>
+            <div class="trackItem p-3 bg-white border border-[#ED2F55] rounded-xl cursor-pointer hover:bg-[#FFE1E7]">
+                Track (5)
+            </div>
+            <div class="trackItem p-3 bg-white border border-[#ED2F55] rounded-xl cursor-pointer hover:bg-[#FFE1E7]">
+                Track (6)
+            </div>
+        </div>
+    </div>
+
+    <!-- RIGHT PANEL (PLAYER) -->
+    <div class="w-1/2 bg-white rounded-2xl p-6 border border-[#ED2F55]">
+
+        <!-- COVER -->
+        <div class="flex justify-center mb-6">
+            <img id="cover" 
+                 src="assets/icons/Neko_Logo_placeholder.PNG" 
+                 class="w-72 h-72 p-5 object-cover rounded-2xl border border-[#ED2F55] bg-gray-200">
+        </div>
+
+        <!-- CONTROLS -->
+        <div class="flex justify-center gap-4 mb-6">
+            <button class="w-12 h-12 bg-pink-300 rounded-xl">
+                <img src="assets/icons/menu-left-svgrepo-com.svg" class="object-cover p-2 border border-solid-1 border-[#ED2F55] rounded-xl bg-[#FFA6B8]">
+            </button>
+            <button id="playBtn" class="w-12 h-12 bg-pink-400 rounded-xl">
+                <img src="assets/icons/pause-svgrepo-com.svg" class="object-cover p-2 border border-solid-1 border-[#ED2F55] rounded-xl bg-[#FFA6B8]">
+            </button>
+            <button class="w-12 h-12 bg-pink-300 rounded-xl">
+                <img src="assets/icons/menu-right-svgrepo-com.svg" class="object-cover p-2 border border-solid-1 border-[#ED2F55] rounded-xl bg-[#FFA6B8]">
+            </button>
+        </div>
+
+        <!-- AUDIO PLAYER (hidden) -->
+        <audio id="audioPlayer" src="assets/music/track1.mp3"></audio>
+
+    </div>
+
+</div>
+    
+    <footer class="absolute bottom-0 left-0 w-full h-14 bg-[#ED2F55]/50 border-t border-white/20 flex items-center px-6 gap-6 text-xs">
+        <button id="startButton" style="font-family:KindlyRewind;" class="bg-[#ED2F55]/50 px-4 py-2 rounded-lg border border-solid-white border-2 text-white">
+            START
+        </button>
+        <button id="mute-btn">
+            <img src="assets/icons/volume-high-svgrepo-com.svg" width="20px">
+        </button>
+        <button id="theme-btn">
+            <img src="assets/icons/monitor-image-svgrepo-com.svg" width="20px">
+        </button>
+        <button>
+            <img src="assets/icons/email-svgrepo-com.svg" width="20px">
+        </button>
+        <button class="h-full w-36 bg-white/30 rounded-lg">
+            <span class="text-white text-xs" style="font-family: KindlyRewind;">Jukebox</span>
+        </button>
+    </footer>
+
+    </div>
+
+    <script>
+
+    const startBtn = document.getElementById("startButton");
+const startMenu = document.getElementById("startMenu");
+let menuOpen = false;
+
+startBtn.addEventListener("click", (e) => {
+    menuOpen = !menuOpen;
+    startMenu.style.display = menuOpen ? "block" : "none";
+    startMenu.classList.toggle("open");
+    e.stopPropagation();
+});
+
+// Hide menu on outside click
+document.addEventListener("click", () => {
+    if(menuOpen){
+        startMenu.style.display = "none";
+        startMenu.classList.remove("open");
+        menuOpen = false;
+    }
+});
+
+    const tracks = [
+    { name: "Track (1)", file: "track1.mp3", cover: "cover1.gif" },
+    { name: "Track (2)", file: "track2.mp3", cover: "cover2.gif" },
+    { name: "Track (3)", file: "track3.mp3", cover: "cover3.gif" },
+    { name: "Track (4)", file: "track4.mp3", cover: "cover4.gif" },
+    { name: "Track (5)", file: "track5.mp3", cover: "cover5.gif" },
+    { name: "Track (6)", file: "track6.mp3", cover: "cover6.gif" },
+];
+
+const audio = document.getElementById("audioPlayer");
+const playBtn = document.getElementById("playBtn");
+const cover = document.getElementById("cover");
+
+document.querySelectorAll(".trackItem").forEach((item, index) => {
+    item.addEventListener("click", () => {
+        const selected = tracks[index];
+
+        audio.src = "assets/music/" + selected.file;
+        cover.src = "assets/covers/" + selected.cover;
+
+        audio.play();
+    });
+});
+
+playBtn.addEventListener("click", () => {
+    if (audio.paused) audio.play();
+    else audio.pause();
+});
+
+    </script>
+</body>
+</html>

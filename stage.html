@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio - Rapport de stage</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+
+        article h2 {
+            border-bottom: 2px solid black;
+            padding-bottom: 4px;
+        }
+
+        @font-face {
+            font-family: "KindlyRewind";
+            src: url("./assets/fonts/Kindly-Rewind-Font/KindlyRewind-BOon.ttf") format("truetype");
+        }
+
+        @font-face {
+            font-family: "Fake-Receipt";
+            src: url(./assets/fonts/Fake-Receipt-Font/Fake\ Receipt.otf) format("truetype");
+        }
+        
+        .frosted-glass {
+            background-color: rgba(166, 153, 148, 0.2);
+            backdrop-filter: blur(5px);
+            -webkit-backdrop-filter: blur(5px);
+            border: 1px solid rgba(255, 255, 255, 0.5);
+        }
+
+        .start-item {
+            display: block;
+            width: 100%;
+            text-align: left;
+            background: transparent;
+            color: #f3f3f3;
+            padding: 4px 0;
+            font-size: 14px;
+            transition: 0.15s;
+            font-family: 'KindlyRewind';
+        }
+
+        .start-item:hover {
+            background: rgba(255,255,255,0.1);
+            padding-left: 6px;
+            cursor: pointer;
+        }
+
+        #startMenu {
+            transform: scale(0.95);
+            opacity: 0;
+            transition: all 0.25s ease;
+        }
+
+        #startMenu.open {
+            opacity: 1;
+            transform: scale(1);
+        }
+
+        main::-webkit-scrollbar {
+            width: 6px;
+        }
+
+        main::-webkit-scrollbar-thumb {
+            background: #a69994;
+        }
+
+    </style>
+    <!-- START MENU -->
+<div id="startMenu" class="hidden fixed bottom-16 left-6 z-50 w-96 rounded-lg frosted-glass p-4 border border-white/20 shadow-xl">
+
+    <!-- Header Avatar + Username -->
+    <div class="flex items-center space-x-3 mb-4">
+        <img src="assets/icons/Scott-Pilgrim.ico" class="w-10 h-10 rounded-md">
+        <p class="text-white text-lg font-bold" style="font-family: KindlyRewind;">Anais Gueguen</p>
+    </div>
+
+    <div class="grid grid-cols-2 gap-3">
+
+        <!-- LEFT apps -->
+        <div class="space-y-1">
+
+            <button class="start-item">
+                <img src="assets/icons/folder-svgrepo-com.svg" class="inline m-1 mb-2" width="15px">Documents
+            </button>
+            <button class="start-item">
+                <a href="browser.html">
+                    <img src="assets/icons/compass-svgrepo-com.svg" class="inline m-1 mb-2" width="15px">Navigateur
+                </a>
+            </button>
+            <button class="start-item">
+                <a href="jukebox.html">
+                    <img src="assets/icons/Neko_Logo_placeholder.PNG" class="inline m-1 mb-2" width="15px">Jukebox
+                </a>
+            </button>
+            <button class="start-item">
+                <a href="diary.html">
+                   <img src="assets/icons/book-white-svgrepo-com.svg" class="inline m-1 mb-2" width="15px">Whatever Diary 
+                </a>
+            </button>
+            <button class="start-item">
+                <a href="stage.html">
+                    <img src="assets/icons/clipboard-svgrepo-com.svg" class="inline m-1 mb-2" width="15px">Rapport de stage
+                </a>
+            </button>
+            <button class="start-item">
+                <a href="veille_techno.html">
+                    <img src="assets/icons/card-text-svgrepo-com.svg" class="inline m-1 mb-2" width="15px">Veille Techno
+                </a>
+            </button>
+        </div>
+
+        <!-- RIGHT shortcuts -->
+        <div class="space-y-1 text-right">
+
+            <button class="start-item">
+                <img src="assets/icons/device-svgrepo-com.svg" class="inline m-1 mb-2" width="20px">Games
+            </button>
+            <button class="start-item">
+                <img src="assets/icons/webtoon-logo.png" class="inline m-1 mb-2" width="20px" target="_blank">Webtoon
+            </button>
+            <button class="start-item">
+                <img src="assets/icons/instagram-new.png" class="inline m-1 mb-2" width="20px" target="_blank">Instagram
+            </button>
+            <button class="start-item">
+                <img src="assets/icons/linkedin-app-white-icon.webp" class="inline m-1 mb-2" width="15px" target="_blank">LinkedIn
+            </button>
+            <button class="start-item">
+                <a href="Anaïs-GUEGUEN-Resume (1).pdf" target="_blank">
+                    <img src="assets/icons/account-box-svgrepo-com.svg" class="inline m-1 mb-2" width="15px">CV
+                </a>
+            </button>
+        </div>
+
+    </div>
+
+    <!-- Footer shutdown / close -->
+    <div class="border-t border-white/20 mt-4 pt-2 text-right">
+        <button id="shutdownBtn" class="text-white hover:underline font-bold text-sm">CLOSE</button>
+    </div>
+
+</div>
+
+</head>
+<body class="bg-black text-[#363230] flex items-center justify-center min-h-screen p-4">
+    
+    <div class="w-[100vw] max-w-[1200px] h-[100vh] max-h-[700px] border-4 border-white rounded-2xl overflow-hidden shadow-2xl relative">
+        <div class="h-full w-full bg-[#fafafa] flex flex-col">
+
+            <header class="px-8 py-6 border-b-2 border-black bg-white">
+                <div class="flex justify-between">
+                    <p class="font-mono text-xs uppercase tracking-widest">
+                        Rapport de stage
+                    </p>
+                    <a href="hub.html">
+                        <img src="assets/icons/checkbox-cross-svgrepo-com.svg" width="20px" class="inline justify-end">
+                    </a>
+    </div>
+
+                <h1 class="font-pixel text-3xl mt-2" style="font-family: Fake-Receipt;">
+                    Stage développeur web full-stack
+                </h1>
+
+                <p class="font-mono text-sm mt-3 text-gray-600 max-w-3xl">
+                    Retour d’expérience sur un stage orienté développement web,
+                    conception d’interfaces et mise en pratique des compétences acquises.
+                </p>
+
+                <p class="font-mono text-xs mt-4 text-gray-400">
+                    Durée totale : 11 semaines — Année 2025
+                </p>
+            </header>
+
+            <main class="flex-1 overflow-y-auto px-8 pt-10 pb-24">
+                <article class="max-w-3xl mx-auto space-y-12 font-mono text-sm leading-relaxed">
+
+                    <section>
+                        <h2 class="font-pixel text-xl mb-4" style="font-family: Fake-Receipt;">
+                            Présentation de l’entreprise
+                        </h2>
+
+                        <p>
+                            J’ai effectué mon stage au sein de [Nom de l’entreprise], une structure
+                            spécialisée dans [domaine d’activité]. L’entreprise travaille principalement
+                            sur des projets liés à [web / immobilier / outils numériques].
+                        </p>
+                    </section>
+
+                    <section>
+                        <h2 class="font-pixel text-xl mb-4" style="font-family: Fake-Receipt;">
+                            Missions réalisées
+                        </h2>
+
+                        <ul class="list-disc ml-6 space-y-2">
+                            <li>Conception et intégration de pages web</li>
+                            <li>Développement d’interfaces utilisateur</li>
+                            <li>Travail sur un projet de portfolio interactif</li>
+                            <li>Découverte de nouvelles technologies et outils</li>
+                        </ul>
+                    </section>
+
+                    <section>
+                        <h2 class="font-pixel text-xl mb-4" style="font-family: Fake-Receipt;">
+                            Une journée type
+                        </h2>
+
+                        <p>
+                            Une journée de stage commence généralement par la prise en compte
+                            des tâches à réaliser. J’alterne entre phases de réflexion,
+                            développement, tests et ajustements visuels, avec une attention
+                            particulière portée à l’expérience utilisateur.
+                        </p>
+                    </section>
+
+                    <section>
+                        <h2 class="font-pixel text-xl mb-4" style="font-family: Fake-Receipt;">
+                            Compétences développées
+                        </h2>
+
+                        <ul class="list-disc ml-6 space-y-2">
+                            <li>HTML / CSS / Tailwind</li>
+                            <li>JavaScript (interactions, logique front-end)</li>
+                            <li>Organisation et structuration d’un projet</li>
+                            <li>Autonomie et résolution de problèmes</li>
+                        </ul>
+                    </section>
+
+                    <section>
+                        <h2 class="font-pixel text-xl mb-4" style="font-family: Fake-Receipt;">
+                            Difficultés rencontrées
+                        </h2>
+
+                        <p>
+                            Certaines difficultés techniques m’ont permis de mieux comprendre
+                            l’importance de la rigueur, de la documentation et des tests.
+                            Ces obstacles ont été formateurs et m’ont aidée à progresser.
+                        </p>
+                    </section>
+
+                    <section>
+                        <h2 class="font-pixel text-xl mb-4" style="font-family: Fake-Receipt;">
+                            Bilan du stage
+                        </h2>
+
+                        <p>
+                            Ce stage m’a permis de confirmer mon intérêt pour le développement web
+                            et la conception d’interfaces. Il m’a également donné une vision plus
+                            concrète du travail en milieu professionnel.
+                        </p>
+                    </section>
+
+                </article>
+            </main>
+
+            <footer class="absolute bottom-0 left-0 w-full h-14 bg-[#a69994]/70 border-t border-white/20 flex items-center px-6 gap-6 text-xs">
+                <button id="startButton" style="font-family:KindlyRewind;" class="bg-[#a69994]/50 px-4 py-2 rounded-lg border border-solid-white border-2 text-white">
+                    START
+                </button>
+                <button id="mute-btn">
+                    <img src="assets/icons/volume-high-svgrepo-com.svg" width="20px">
+                </button>
+                <button id="theme-btn">
+                    <img src="assets/icons/monitor-image-svgrepo-com.svg" width="20px">
+                </button>
+                <button>
+                    <img src="assets/icons/email-svgrepo-com.svg" width="20px">
+                </button>
+                <button class="h-full w-36 bg-white/30 rounded-lg">
+                    <span class="text-white text-xs" style="font-family: KindlyRewind;">Rapport de st...</span>
+                </button>
+            </footer>
+
+        </div>
+    </div>
+
+    <script>
+
+    const startBtn = document.getElementById("startButton");
+    const startMenu = document.getElementById("startMenu");
+
+    let menuOpen = false;
+
+    startBtn.addEventListener("click", (e) => {
+    menuOpen = !menuOpen;
+    startMenu.style.display = menuOpen ? "block" : "none";
+    startMenu.classList.toggle("open");
+    e.stopPropagation();
+    });
+
+// Hide menu on outside click
+    document.addEventListener("click", () => {
+    if(menuOpen){
+        startMenu.style.display = "none";
+        startMenu.classList.remove("open");
+        menuOpen = false;
+    }
+    });
+
+    </script>
+    
+</body>
+</html>

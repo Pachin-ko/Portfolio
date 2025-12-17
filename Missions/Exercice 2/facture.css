@@ -1,0 +1,35 @@
+h2{
+    font-size: 18px;
+    background-color: rgb(235, 236, 239);
+}
+
+body{
+    background-color: #d7f3dc;
+    color: #240a6a;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    align-items: center;
+    font-size: 12px;
+}
+
+table{
+    width: 50%;
+    padding: 3%;
+    margin: 1%;
+    background-color: white;
+    border-radius: 10px;
+
+}
+
+input{
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    border-color: grey;
+}
+
+button{
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    color: #240a6a;
+}

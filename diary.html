@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio - WD</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <!-- START MENU -->
+<div id="startMenu" class="hidden fixed bottom-16 left-6 z-50 w-96 rounded-lg frosted-glass p-4 border border-white/20 shadow-xl">
+
+    <!-- Header Avatar + Username -->
+    <div class="flex items-center space-x-3 mb-4">
+        <img src="assets/icons/Scott-Pilgrim.ico" class="w-10 h-10 rounded-md">
+        <p class="text-white text-lg font-bold" style="font-family: KindlyRewind;">Anais</p>
+    </div>
+
+    <div class="grid grid-cols-2 gap-3">
+
+        <!-- LEFT apps -->
+        <div class="space-y-1">
+
+            <button class="start-item">
+                <img src="assets/icons/folder-svgrepo-com.svg" class="inline m-1 mb-2" width="15px">Documents
+            </button>
+            <button class="start-item">
+                <a href="browser.html">
+                    <img src="assets/icons/compass-svgrepo-com.svg" class="inline m-1 mb-2" width="15px">Navigateur
+                </a>
+            </button>
+            <button class="start-item">
+                <a href="jukebox.html">
+                    <img src="assets/icons/Neko_Logo_placeholder.PNG" class="inline m-1 mb-2" width="15px">Jukebox
+                </a>
+            </button>
+            <button class="start-item">
+                <a href="diary.html">
+                   <img src="assets/icons/book-white-svgrepo-com.svg" class="inline m-1 mb-2" width="15px">Whatever Diary 
+                </a>
+            </button>
+            <button class="start-item">
+                <a href="stage.html">
+                    <img src="assets/icons/clipboard-svgrepo-com.svg" class="inline m-1 mb-2" width="15px">Rapport de stage
+                </a>
+            </button>
+            <button class="start-item">
+                <a href="veille_techno.html">
+                    <img src="assets/icons/card-text-svgrepo-com.svg" class="inline m-1 mb-2" width="15px">Veille Techno
+                </a>
+            </button>
+        </div>
+
+        <!-- RIGHT shortcuts -->
+        <div class="space-y-1 text-right">
+
+            <button class="start-item">
+                <img src="assets/icons/device-svgrepo-com.svg" class="inline m-1 mb-2" width="20px">Games
+            </button>
+            <button class="start-item">
+                <img src="assets/icons/webtoon-logo.png" class="inline m-1 mb-2" width="20px" target="_blank">Webtoon
+            </button>
+            <button class="start-item">
+                <img src="assets/icons/instagram-new.png" class="inline m-1 mb-2" width="20px" target="_blank">Instagram
+            </button>
+            <button class="start-item">
+                <img src="assets/icons/linkedin-app-white-icon.webp" class="inline m-1 mb-2" width="15px" target="_blank">LinkedIn
+            </button>
+            <button class="start-item">
+                <a href="Anaïs-GUEGUEN-Resume (1).pdf" target="_blank">
+                    <img src="assets/icons/account-box-svgrepo-com.svg" class="inline m-1 mb-2" width="15px">CV
+                </a>
+            </button>
+        </div>
+
+    </div>
+
+    <!-- Footer shutdown / close -->
+    <div class="border-t border-white/20 mt-4 pt-2 text-right">
+        <button id="shutdownBtn" class="text-white hover:underline font-bold text-sm">CLOSE</button>
+    </div>
+
+</div>
+
+    <style>
+
+        @font-face {
+            font-family: KindlyRewind;
+            src: url(assets/fonts/Kindly-Rewind-Font/KindlyRewind-BOon.ttf);
+        }
+    
+        .font-pixel {
+  font-family: "YourPixelFont", monospace;
+}
+
+main::-webkit-scrollbar {
+  width: 6px;
+}
+main::-webkit-scrollbar-thumb {
+  background: #000;
+}
+
+.frosted-glass {
+            background-color: rgba(255, 255, 255, 0.2);
+            backdrop-filter: blur(5px);
+            -webkit-backdrop-filter: blur(5px);
+            border: 1px solid rgba(255, 255, 255, 0.5);
+        }
+
+        .start-item {
+            display: block;
+            width: 100%;
+            text-align: left;
+            background: transparent;
+            color: #f3f3f3;
+            padding: 4px 0;
+            font-size: 14px;
+            transition: 0.15s;
+            font-family: 'KindlyRewind';
+        }
+
+        .start-item:hover {
+            background: rgba(255,255,255,0.1);
+            padding-left: 6px;
+            cursor: pointer;
+        }
+
+        #startMenu {
+            transform: scale(0.95);
+            opacity: 0;
+            transition: all 0.25s ease;
+        }
+
+        #startMenu.open {
+            opacity: 1;
+            transform: scale(1);
+        }
+
+    </style>
+</head>
+<body class="bg-black flex items-center justify-center min-h-screen p-4">
+    
+<div class="w-[100vw] max-w-[1200px] h-[100vh] max-h-[700px] border-4 border-white rounded-2xl overflow-hidden shadow-2xl relative">
+
+    <div class="h-full w-full bg-[#eaeaea] flex flex-col">
+
+  <!-- HEADER -->
+  <header class="flex items-center gap-4 px-6 py-4 border-b-2 border-black bg-white">
+    <h1 class="font-pixel text-xl">
+        <img src="assets/icons/book-svgrepo-com.svg" width="20px" class="inline mb-1">
+        Whatever Diary</h1>
+
+    <input
+      type="text"
+      placeholder="Search fragment..."
+      class="ml-auto px-3 py-1 border-2 border-black bg-white font-mono text-sm outline-none"
+    />
+
+    <button class="ml-2 px-3 py-1 border-2 border-black bg-black text-white font-pixel text-sm">
+      Demo
+    </button>
+
+    <a href="hub.html">
+        <img src="assets/icons/checkbox-cross-svgrepo-com.svg" width="20px">
+    </a>
+    
+  </header>
+
+  <!-- CONTENT -->
+  <main class="flex-1 overflow-y-auto p-6">
+    <div class="grid grid-cols-4 gap-6">
+
+        <div class="bg-white border-2 border-black rounded-xl p-4 font-mono text-sm leading-relaxed font-semibold">
+  The perfect anti-hero ?
+</div>
+
+<div class="bg-white border-2 border-black rounded-xl overflow-hidden">
+  <img src="assets/wallpapers/spiderpunk.jpg" class="w-full h-full object-cover" />
+</div>
+
+<div class="bg-white border-2 border-black rounded-xl overflow-hidden">
+  <img src="assets/wallpapers/neon zinepunk.jpg" class="w-full h-40 object-cover" />
+  <div class="p-3 font-mono font-semibold text-sm">
+    What punk era do we live in ?
+  </div>
+</div>
+
+</div>
+
+<footer class="absolute bottom-0 left-0 w-full h-14 bg-black/70 border-t border-white/20 flex items-center px-6 gap-6 text-xs">
+        <button id="startButton" style="font-family:KindlyRewind;" class="bg-white/50 px-4 py-2 rounded-lg border border-solid-white border-2 text-white">
+            START
+        </button>
+        <button id="muteBtn">
+            <img src="assets/icons/volume-high-svgrepo-com.svg" width="20px">
+        </button>
+        <button id="theme-btn">
+            <img src="assets/icons/monitor-image-svgrepo-com.svg" width="20px">
+        </button>
+        <button>
+            <img src="assets/icons/email-svgrepo-com.svg" width="20px">
+        </button>
+        <button class="h-full w-36 bg-white/30 rounded-lg">
+            <span class="text-white text-xs" style="font-family: KindlyRewind;">Whatever Diary</span>
+        </button>
+    </footer>
+
+    <script>
+        const startBtn = document.getElementById("startButton");
+    const startMenu = document.getElementById("startMenu");
+
+    let menuOpen = false;
+
+    startBtn.addEventListener("click", (e) => {
+    menuOpen = !menuOpen;
+    startMenu.style.display = menuOpen ? "block" : "none";
+    startMenu.classList.toggle("open");
+    e.stopPropagation();
+});
+
+// Hide menu on outside click
+document.addEventListener("click", () => {
+    if(menuOpen){
+        startMenu.style.display = "none";
+        startMenu.classList.remove("open");
+        menuOpen = false;
+    }
+});
+    </script>
+    
+</body>
+</html>
