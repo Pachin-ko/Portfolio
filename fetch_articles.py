@@ -128,6 +128,17 @@ def generate_readme(articles):
     return "\n".join(lines)
 
 
+def generate_json(articles):
+    import json
+    data = {
+        "last_updated": datetime.datetime.now(datetime.timezone.utc).strftime("%d %B %Y à %H:%M UTC"),
+        "articles": articles
+    }
+    with open("articles.json", "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+    print("articles.json généré avec succès !")
+
+
 if __name__ == "__main__":
     print("Récupération des articles...")
     articles = fetch_articles()
@@ -139,3 +150,4 @@ if __name__ == "__main__":
         f.write(readme_content)
 
     print("README.md mis à jour avec succès !")
+    generate_json(articles)
