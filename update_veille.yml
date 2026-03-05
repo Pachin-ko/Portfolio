@@ -1,0 +1,36 @@
+name: 🔄 Mise à jour de la veille Quantum Computing
+
+on:
+  schedule:
+    - cron: "0 7 * * *"  # Tous les jours à 7h00 UTC
+  workflow_dispatch:       # Permet aussi de lancer manuellement depuis GitHub
+
+jobs:
+  update-veille:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write  # Nécessaire pour pousser le README mis à jour
+
+    steps:
+      - name: 📥 Récupérer le dépôt
+        uses: actions/checkout@v4
+
+      - name: 🐍 Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 📦 Installer les dépendances
+        run: pip install feedparser
+
+      - name: 🚀 Lancer le script de veille
+        run: python fetch_articles.py
+
+      - name: 💾 Enregistrer les changements
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md articles.json
+          git diff --cached --quiet || git commit -m "🔄 Veille mise à jour – $(date +'%d/%m/%Y')"
+          git push
