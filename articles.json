@@ -1,5 +1,5 @@
 {
-  "last_updated": "05 March 2026 à 10:12 UTC",
+  "last_updated": "06 March 2026 à 07:33 UTC",
   "articles": [
     {
       "source": "Nature – Quantum Information",
@@ -14,10 +14,16 @@
       "date": "28 Feb 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "The Lie algebra of XY-mixer topologies and warm starting QAOA for constrained optimization",
-      "link": "https://www.nature.com/articles/s41534-026-01192-4",
-      "date": "27 Feb 2026"
+      "source": "Physics Today",
+      "title": "Shadow excited state molecular dynamics with the ΔSCF method",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/9/094118/3382268/Shadow-excited-state-molecular-dynamics-with-the",
+      "date": "05 Mar 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Toward accurate mixed quantum classical simulations of vibrational polaritonic chemistry",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/9/094116/3382266/Toward-accurate-mixed-quantum-classical",
+      "date": "05 Mar 2026"
     },
     {
       "source": "Physics Today",
@@ -38,16 +44,10 @@
       "date": "04 Mar 2026"
     },
     {
-      "source": "Physics Today",
-      "title": "Atom-centered electric multipole moments dynamically generated from QM/MM MD simulations",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/9/094112/3382072/Atom-centered-electric-multipole-moments",
-      "date": "04 Mar 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Full-dimensional investigation of the photoionization spectrum of benzonitrile",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/9/094305/3381957/Full-dimensional-investigation-of-the",
-      "date": "03 Mar 2026"
+      "source": "Hacker News – Quantum",
+      "title": "China's first homegrown quantum computing operating system",
+      "link": "https://www.globaltimes.cn/page/202602/1355718.shtml",
+      "date": "27 Feb 2026"
     }
   ]
 }
