@@ -1,17 +1,17 @@
 {
-  "last_updated": "06 March 2026 à 07:33 UTC",
+  "last_updated": "07 March 2026 à 07:22 UTC",
   "articles": [
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Integration of a single photon source with a fibre-compatible photonic waveguide",
+      "link": "https://www.nature.com/articles/s41534-026-01209-y",
+      "date": "06 Mar 2026"
+    },
     {
       "source": "Nature – Quantum Information",
       "title": "Non-Markovian exceptional points by interpolating quantum channels",
       "link": "https://www.nature.com/articles/s41534-026-01205-2",
       "date": "02 Mar 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Robust quality factor assessment of high-coherence superconducting qubits",
-      "link": "https://www.nature.com/articles/s41534-026-01199-x",
-      "date": "28 Feb 2026"
     },
     {
       "source": "Physics Today",
@@ -42,12 +42,6 @@
       "title": "Numerically exact quantum dynamics with tensor networks: Predicting the decoherence of interacting spin systems",
       "link": "https://pubs.aip.org/aip/jcp/article/164/9/091103/3382073/Numerically-exact-quantum-dynamics-with-tensor",
       "date": "04 Mar 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "China's first homegrown quantum computing operating system",
-      "link": "https://www.globaltimes.cn/page/202602/1355718.shtml",
-      "date": "27 Feb 2026"
     }
   ]
 }

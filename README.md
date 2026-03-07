@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **06 March 2026 à 07:33 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **07 March 2026 à 07:22 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -9,8 +9,8 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Nature – Quantum Information
 
+- [Integration of a single photon source with a fibre-compatible photonic waveguide](https://www.nature.com/articles/s41534-026-01209-y) — *06 Mar 2026*
 - [Non-Markovian exceptional points by interpolating quantum channels](https://www.nature.com/articles/s41534-026-01205-2) — *02 Mar 2026*
-- [Robust quality factor assessment of high-coherence superconducting qubits](https://www.nature.com/articles/s41534-026-01199-x) — *28 Feb 2026*
 
 ## 📰 Physics Today
 
@@ -19,10 +19,6 @@ agrégés depuis des sources académiques, tech et communautaires.
 - [Precision ultranarrow-linewidth resonance excitation (PURE) preparation of a molecular beam of nitric oxide molecules for inelastic scattering with argon](https://pubs.aip.org/aip/jcp/article/164/9/094202/3382079/Precision-ultranarrow-linewidth-resonance) — *04 Mar 2026*
 - [Modeling high-order harmonic generation in quantum dots using a real-space tight-binding approach](https://pubs.aip.org/aip/jcp/article/164/9/094114/3382077/Modeling-high-order-harmonic-generation-in-quantum) — *04 Mar 2026*
 - [Numerically exact quantum dynamics with tensor networks: Predicting the decoherence of interacting spin systems](https://pubs.aip.org/aip/jcp/article/164/9/091103/3382073/Numerically-exact-quantum-dynamics-with-tensor) — *04 Mar 2026*
-
-## 📰 Hacker News – Quantum
-
-- [China's first homegrown quantum computing operating system](https://www.globaltimes.cn/page/202602/1355718.shtml) — *27 Feb 2026*
 
 ---
 
