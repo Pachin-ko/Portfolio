@@ -1,6 +1,18 @@
 {
-  "last_updated": "07 March 2026 à 07:22 UTC",
+  "last_updated": "08 March 2026 à 07:25 UTC",
   "articles": [
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Polychromatic continuous-variable quantum communication network enabled by optical frequency combs",
+      "link": "https://www.nature.com/articles/s41534-026-01211-4",
+      "date": "07 Mar 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Overcoming limitations on gate fidelity in noisy static exchange-coupled surface qubits",
+      "link": "https://www.nature.com/articles/s41534-026-01214-1",
+      "date": "07 Mar 2026"
+    },
     {
       "source": "Nature – Quantum Information",
       "title": "Integration of a single photon source with a fibre-compatible photonic waveguide",
