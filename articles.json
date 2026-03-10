@@ -1,6 +1,12 @@
 {
-  "last_updated": "09 March 2026 à 07:44 UTC",
+  "last_updated": "10 March 2026 à 07:35 UTC",
   "articles": [
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Witness high-dimensional quantum steering via majorization lattice",
+      "link": "https://www.nature.com/articles/s41534-026-01204-3",
+      "date": "09 Mar 2026"
+    },
     {
       "source": "Nature – Quantum Information",
       "title": "Polychromatic continuous-variable quantum communication network enabled by optical frequency combs",
@@ -21,33 +27,33 @@
     },
     {
       "source": "Physics Today",
-      "title": "Shadow excited state molecular dynamics with the ΔSCF method",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/9/094118/3382268/Shadow-excited-state-molecular-dynamics-with-the",
-      "date": "05 Mar 2026"
+      "title": "A combined experimental and theoretical study on electron induced fragmentation of methyl acetate, a model compound for side chain fragmentation and decarboxylation as pathways to main chain scission of polymethyl methacrylate as EUV lithography resist material",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/10/104304/3382617/A-combined-experimental-and-theoretical-study-on",
+      "date": "09 Mar 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Toward accurate mixed quantum classical simulations of vibrational polaritonic chemistry",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/9/094116/3382266/Toward-accurate-mixed-quantum-classical",
-      "date": "05 Mar 2026"
+      "title": "Vibrational relaxation of D 2 O by collisions with Ar atoms",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/10/104305/3382616/Vibrational-relaxation-of-D2O-by-collisions-with",
+      "date": "09 Mar 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Precision ultranarrow-linewidth resonance excitation (PURE) preparation of a molecular beam of nitric oxide molecules for inelastic scattering with argon",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/9/094202/3382079/Precision-ultranarrow-linewidth-resonance",
-      "date": "04 Mar 2026"
+      "title": "Activation of methane by U +  studied by guided ion beam tandem mass spectrometry and quantum chemistry",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/10/104303/3382615/Activation-of-methane-by-U-studied-by-guided-ion",
+      "date": "09 Mar 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Modeling high-order harmonic generation in quantum dots using a real-space tight-binding approach",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/9/094114/3382077/Modeling-high-order-harmonic-generation-in-quantum",
-      "date": "04 Mar 2026"
+      "title": "Beyond the cutoff: Hybrid ML/MM electrostatics for neural network potentials",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/10/104102/3382612/Beyond-the-cutoff-Hybrid-ML-MM-electrostatics-for",
+      "date": "09 Mar 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Numerically exact quantum dynamics with tensor networks: Predicting the decoherence of interacting spin systems",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/9/091103/3382073/Numerically-exact-quantum-dynamics-with-tensor",
-      "date": "04 Mar 2026"
+      "title": "Sum-frequency generation spectroscopy of the libration mode at the air/water interface: Electric quadrupole effects",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/10/104101/3382610/Sum-frequency-generation-spectroscopy-of-the",
+      "date": "09 Mar 2026"
     },
     {
       "source": "Hacker News – Quantum",
