@@ -1,6 +1,12 @@
 {
-  "last_updated": "10 March 2026 à 07:35 UTC",
+  "last_updated": "11 March 2026 à 07:37 UTC",
   "articles": [
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Layered KIK quantum error mitigation for dynamic circuits",
+      "link": "https://www.nature.com/articles/s41534-026-01207-0",
+      "date": "10 Mar 2026"
+    },
     {
       "source": "Nature – Quantum Information",
       "title": "Witness high-dimensional quantum steering via majorization lattice",
@@ -27,6 +33,12 @@
     },
     {
       "source": "Physics Today",
+      "title": "Vibrational mode specificity in H + NHD 2  → H 2  + ND 2 : A full-dimensional quantum dynamics study",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/10/104302/3383084/Vibrational-mode-specificity-in-H-NHD2-H2-ND2-A",
+      "date": "10 Mar 2026"
+    },
+    {
+      "source": "Physics Today",
       "title": "A combined experimental and theoretical study on electron induced fragmentation of methyl acetate, a model compound for side chain fragmentation and decarboxylation as pathways to main chain scission of polymethyl methacrylate as EUV lithography resist material",
       "link": "https://pubs.aip.org/aip/jcp/article/164/10/104304/3382617/A-combined-experimental-and-theoretical-study-on",
       "date": "09 Mar 2026"
@@ -50,10 +62,10 @@
       "date": "09 Mar 2026"
     },
     {
-      "source": "Physics Today",
-      "title": "Sum-frequency generation spectroscopy of the libration mode at the air/water interface: Electric quadrupole effects",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/10/104101/3382610/Sum-frequency-generation-spectroscopy-of-the",
-      "date": "09 Mar 2026"
+      "source": "Hacker News – Quantum",
+      "title": "Scott Aaronson's View of My View About Quantum Computing",
+      "link": "https://gilkalai.wordpress.com/2026/03/10/scott-aaronsons-view-of-my-view-about-quantum-computing/",
+      "date": "10 Mar 2026"
     },
     {
       "source": "Hacker News – Quantum",
