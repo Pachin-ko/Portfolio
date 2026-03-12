@@ -1,6 +1,12 @@
 {
-  "last_updated": "11 March 2026 à 07:37 UTC",
+  "last_updated": "12 March 2026 à 07:40 UTC",
   "articles": [
+    {
+      "source": "Nature – Quantum Information",
+      "title": "QKAN: quantum Kolmogorov-Arnold networks with applications in machine learning and multivariate state preparation",
+      "link": "https://www.nature.com/articles/s41534-026-01202-5",
+      "date": "11 Mar 2026"
+    },
     {
       "source": "Nature – Quantum Information",
       "title": "Layered KIK quantum error mitigation for dynamic circuits",
@@ -26,10 +32,16 @@
       "date": "07 Mar 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "Integration of a single photon source with a fibre-compatible photonic waveguide",
-      "link": "https://www.nature.com/articles/s41534-026-01209-y",
-      "date": "06 Mar 2026"
+      "source": "Physics Today",
+      "title": "Surface chemistry governs ultrafast charge polarization in CdSe quantum dots: A real-time TDDFT study",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/10/104706/3383086/Surface-chemistry-governs-ultrafast-charge",
+      "date": "11 Mar 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Nuclear quantum effects in condensed phase: The case of the “association band” of liquid water",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/10/104111/3383081/Nuclear-quantum-effects-in-condensed-phase-The",
+      "date": "11 Mar 2026"
     },
     {
       "source": "Physics Today",
@@ -50,16 +62,16 @@
       "date": "09 Mar 2026"
     },
     {
-      "source": "Physics Today",
-      "title": "Activation of methane by U +  studied by guided ion beam tandem mass spectrometry and quantum chemistry",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/10/104303/3382615/Activation-of-methane-by-U-studied-by-guided-ion",
-      "date": "09 Mar 2026"
+      "source": "Hacker News – Quantum",
+      "title": "HTTPS certificates in the age of quantum computing",
+      "link": "https://lwn.net/SubscriberLink/1060941/4878284e2c9f19ba/",
+      "date": "11 Mar 2026"
     },
     {
-      "source": "Physics Today",
-      "title": "Beyond the cutoff: Hybrid ML/MM electrostatics for neural network potentials",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/10/104102/3382612/Beyond-the-cutoff-Hybrid-ML-MM-electrostatics-for",
-      "date": "09 Mar 2026"
+      "source": "Hacker News – Quantum",
+      "title": "HTTPS certificates in the age of quantum computing",
+      "link": "https://lwn.net/SubscriberLink/1060941/af07898a15c68291/",
+      "date": "11 Mar 2026"
     },
     {
       "source": "Hacker News – Quantum",
