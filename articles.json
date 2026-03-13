@@ -1,6 +1,18 @@
 {
-  "last_updated": "12 March 2026 à 07:40 UTC",
+  "last_updated": "13 March 2026 à 07:38 UTC",
   "articles": [
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Digitized counterdiabatic quantum critical dynamics",
+      "link": "https://www.nature.com/articles/s41534-026-01208-z",
+      "date": "13 Mar 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Superiority of Krylov shadow tomography in estimating quantum Fisher information: from bounds to exactness",
+      "link": "https://www.nature.com/articles/s41534-026-01216-z",
+      "date": "12 Mar 2026"
+    },
     {
       "source": "Nature – Quantum Information",
       "title": "QKAN: quantum Kolmogorov-Arnold networks with applications in machine learning and multivariate state preparation",
@@ -20,16 +32,10 @@
       "date": "09 Mar 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "Polychromatic continuous-variable quantum communication network enabled by optical frequency combs",
-      "link": "https://www.nature.com/articles/s41534-026-01211-4",
-      "date": "07 Mar 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Overcoming limitations on gate fidelity in noisy static exchange-coupled surface qubits",
-      "link": "https://www.nature.com/articles/s41534-026-01214-1",
-      "date": "07 Mar 2026"
+      "source": "Physics Today",
+      "title": "Elucidating many-body effects in molecular core spectra through real-time approaches: Efficient classical approximations and a quantum perspective",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/10/104113/3383265/Elucidating-many-body-effects-in-molecular-core",
+      "date": "12 Mar 2026"
     },
     {
       "source": "Physics Today",
@@ -53,12 +59,6 @@
       "source": "Physics Today",
       "title": "A combined experimental and theoretical study on electron induced fragmentation of methyl acetate, a model compound for side chain fragmentation and decarboxylation as pathways to main chain scission of polymethyl methacrylate as EUV lithography resist material",
       "link": "https://pubs.aip.org/aip/jcp/article/164/10/104304/3382617/A-combined-experimental-and-theoretical-study-on",
-      "date": "09 Mar 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Vibrational relaxation of D 2 O by collisions with Ar atoms",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/10/104305/3382616/Vibrational-relaxation-of-D2O-by-collisions-with",
       "date": "09 Mar 2026"
     },
     {
