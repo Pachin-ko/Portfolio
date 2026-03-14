@@ -1,6 +1,12 @@
 {
-  "last_updated": "13 March 2026 à 07:38 UTC",
+  "last_updated": "14 March 2026 à 07:29 UTC",
   "articles": [
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Degenerate quantum erasure decoding",
+      "link": "https://www.nature.com/articles/s41534-026-01212-3",
+      "date": "13 Mar 2026"
+    },
     {
       "source": "Nature – Quantum Information",
       "title": "Digitized counterdiabatic quantum critical dynamics",
@@ -26,10 +32,10 @@
       "date": "10 Mar 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "Witness high-dimensional quantum steering via majorization lattice",
-      "link": "https://www.nature.com/articles/s41534-026-01204-3",
-      "date": "09 Mar 2026"
+      "source": "Physics Today",
+      "title": "Attacking the integral transformation bottleneck: A fast orbital-optimization algorithm with sub-cubic computational cost for arbitrary seniority-zero wavefunctions",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/10/104117/3383342/Attacking-the-integral-transformation-bottleneck-A",
+      "date": "13 Mar 2026"
     },
     {
       "source": "Physics Today",
@@ -56,10 +62,10 @@
       "date": "10 Mar 2026"
     },
     {
-      "source": "Physics Today",
-      "title": "A combined experimental and theoretical study on electron induced fragmentation of methyl acetate, a model compound for side chain fragmentation and decarboxylation as pathways to main chain scission of polymethyl methacrylate as EUV lithography resist material",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/10/104304/3382617/A-combined-experimental-and-theoretical-study-on",
-      "date": "09 Mar 2026"
+      "source": "Hacker News – Quantum",
+      "title": "The race to solve the biggest problem in quantum computing",
+      "link": "https://www.newscientist.com/article/2518974-the-race-to-solve-the-biggest-problem-in-quantum-computing/",
+      "date": "13 Mar 2026"
     },
     {
       "source": "Hacker News – Quantum",
