@@ -1,6 +1,18 @@
 {
-  "last_updated": "14 March 2026 à 07:29 UTC",
+  "last_updated": "15 March 2026 à 07:38 UTC",
   "articles": [
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Experimental secure multiparty computation from quantum oblivious transfer with bit commitment",
+      "link": "https://www.nature.com/articles/s41534-026-01219-w",
+      "date": "14 Mar 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Negativity percolation in continuous-variable quantum networks",
+      "link": "https://www.nature.com/articles/s41534-026-01210-5",
+      "date": "14 Mar 2026"
+    },
     {
       "source": "Nature – Quantum Information",
       "title": "Degenerate quantum erasure decoding",
@@ -18,18 +30,6 @@
       "title": "Superiority of Krylov shadow tomography in estimating quantum Fisher information: from bounds to exactness",
       "link": "https://www.nature.com/articles/s41534-026-01216-z",
       "date": "12 Mar 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "QKAN: quantum Kolmogorov-Arnold networks with applications in machine learning and multivariate state preparation",
-      "link": "https://www.nature.com/articles/s41534-026-01202-5",
-      "date": "11 Mar 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Layered KIK quantum error mitigation for dynamic circuits",
-      "link": "https://www.nature.com/articles/s41534-026-01207-0",
-      "date": "10 Mar 2026"
     },
     {
       "source": "Physics Today",
@@ -84,12 +84,6 @@
       "title": "Scott Aaronson's View of My View About Quantum Computing",
       "link": "https://gilkalai.wordpress.com/2026/03/10/scott-aaronsons-view-of-my-view-about-quantum-computing/",
       "date": "10 Mar 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "IBM unveils first ever \"half-Möbius\" molecule aided by quantum computing",
-      "link": "https://www.scientificamerican.com/article/ibm-scientists-unveil-the-first-ever-half-moebius-molecule-with-the-help-of/",
-      "date": "07 Mar 2026"
     }
   ]
 }

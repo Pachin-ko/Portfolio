@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **14 March 2026 à 07:29 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **15 March 2026 à 07:38 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -9,11 +9,11 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Nature – Quantum Information
 
+- [Experimental secure multiparty computation from quantum oblivious transfer with bit commitment](https://www.nature.com/articles/s41534-026-01219-w) — *14 Mar 2026*
+- [Negativity percolation in continuous-variable quantum networks](https://www.nature.com/articles/s41534-026-01210-5) — *14 Mar 2026*
 - [Degenerate quantum erasure decoding](https://www.nature.com/articles/s41534-026-01212-3) — *13 Mar 2026*
 - [Digitized counterdiabatic quantum critical dynamics](https://www.nature.com/articles/s41534-026-01208-z) — *13 Mar 2026*
 - [Superiority of Krylov shadow tomography in estimating quantum Fisher information: from bounds to exactness](https://www.nature.com/articles/s41534-026-01216-z) — *12 Mar 2026*
-- [QKAN: quantum Kolmogorov-Arnold networks with applications in machine learning and multivariate state preparation](https://www.nature.com/articles/s41534-026-01202-5) — *11 Mar 2026*
-- [Layered KIK quantum error mitigation for dynamic circuits](https://www.nature.com/articles/s41534-026-01207-0) — *10 Mar 2026*
 
 ## 📰 Physics Today
 
@@ -29,7 +29,6 @@ agrégés depuis des sources académiques, tech et communautaires.
 - [HTTPS certificates in the age of quantum computing](https://lwn.net/SubscriberLink/1060941/4878284e2c9f19ba/) — *11 Mar 2026*
 - [HTTPS certificates in the age of quantum computing](https://lwn.net/SubscriberLink/1060941/af07898a15c68291/) — *11 Mar 2026*
 - [Scott Aaronson's View of My View About Quantum Computing](https://gilkalai.wordpress.com/2026/03/10/scott-aaronsons-view-of-my-view-about-quantum-computing/) — *10 Mar 2026*
-- [IBM unveils first ever "half-Möbius" molecule aided by quantum computing](https://www.scientificamerican.com/article/ibm-scientists-unveil-the-first-ever-half-moebius-molecule-with-the-help-of/) — *07 Mar 2026*
 
 ---
 
