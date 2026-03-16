@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **15 March 2026 à 07:38 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **16 March 2026 à 08:02 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -22,13 +22,6 @@ agrégés depuis des sources académiques, tech et communautaires.
 - [Surface chemistry governs ultrafast charge polarization in CdSe quantum dots: A real-time TDDFT study](https://pubs.aip.org/aip/jcp/article/164/10/104706/3383086/Surface-chemistry-governs-ultrafast-charge) — *11 Mar 2026*
 - [Nuclear quantum effects in condensed phase: The case of the “association band” of liquid water](https://pubs.aip.org/aip/jcp/article/164/10/104111/3383081/Nuclear-quantum-effects-in-condensed-phase-The) — *11 Mar 2026*
 - [Vibrational mode specificity in H + NHD 2  → H 2  + ND 2 : A full-dimensional quantum dynamics study](https://pubs.aip.org/aip/jcp/article/164/10/104302/3383084/Vibrational-mode-specificity-in-H-NHD2-H2-ND2-A) — *10 Mar 2026*
-
-## 📰 Hacker News – Quantum
-
-- [The race to solve the biggest problem in quantum computing](https://www.newscientist.com/article/2518974-the-race-to-solve-the-biggest-problem-in-quantum-computing/) — *13 Mar 2026*
-- [HTTPS certificates in the age of quantum computing](https://lwn.net/SubscriberLink/1060941/4878284e2c9f19ba/) — *11 Mar 2026*
-- [HTTPS certificates in the age of quantum computing](https://lwn.net/SubscriberLink/1060941/af07898a15c68291/) — *11 Mar 2026*
-- [Scott Aaronson's View of My View About Quantum Computing](https://gilkalai.wordpress.com/2026/03/10/scott-aaronsons-view-of-my-view-about-quantum-computing/) — *10 Mar 2026*
 
 ---
 
