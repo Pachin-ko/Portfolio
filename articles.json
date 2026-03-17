@@ -1,6 +1,12 @@
 {
-  "last_updated": "16 March 2026 à 08:02 UTC",
+  "last_updated": "17 March 2026 à 07:49 UTC",
   "articles": [
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Discovery of ST2 centers in natural and CVD diamond",
+      "link": "https://www.nature.com/articles/s41534-025-01116-8",
+      "date": "16 Mar 2026"
+    },
     {
       "source": "Nature – Quantum Information",
       "title": "Experimental secure multiparty computation from quantum oblivious transfer with bit commitment",
@@ -26,39 +32,63 @@
       "date": "13 Mar 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "Superiority of Krylov shadow tomography in estimating quantum Fisher information: from bounds to exactness",
-      "link": "https://www.nature.com/articles/s41534-026-01216-z",
-      "date": "12 Mar 2026"
+      "source": "Physics Today",
+      "title": "Initial conditions for surface hopping trajectories from the VSCF-Wigner distribution",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/11/114103/3383750/Initial-conditions-for-surface-hopping",
+      "date": "16 Mar 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Attacking the integral transformation bottleneck: A fast orbital-optimization algorithm with sub-cubic computational cost for arbitrary seniority-zero wavefunctions",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/10/104117/3383342/Attacking-the-integral-transformation-bottleneck-A",
+      "title": "Structural and dynamic studies on vapor-deposited amorphous methane hydrate",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/11/114501/3383628/Structural-and-dynamic-studies-on-vapor-deposited",
+      "date": "16 Mar 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Quantum dynamics of water dissociation on a Cu/Ni(111) bimetallic alloy surface: A nine-dimensional model",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/11/114301/3383627/Quantum-dynamics-of-water-dissociation-on-a-Cu-Ni",
+      "date": "16 Mar 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Introducing a dielectric bath embedding theory for embedded electronic structure calculations in heterogeneous catalysis",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/11/114104/3383626/Introducing-a-dielectric-bath-embedding-theory-for",
+      "date": "16 Mar 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "SAFT-VR Sum: Equation of state and transport properties from  ab initio -derived Sutherland sum potentials",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/11/114101/3383622/SAFT-VR-Sum-Equation-of-state-and-transport",
+      "date": "16 Mar 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "Show HN: Sway, a board game benchmark for quantum computing",
+      "link": "https://shukla.io/blog/2026-03/sway.html",
+      "date": "15 Mar 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "The race to solve the biggest problem in quantum computing",
+      "link": "https://www.newscientist.com/article/2518974-the-race-to-solve-the-biggest-problem-in-quantum-computing/",
       "date": "13 Mar 2026"
     },
     {
-      "source": "Physics Today",
-      "title": "Elucidating many-body effects in molecular core spectra through real-time approaches: Efficient classical approximations and a quantum perspective",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/10/104113/3383265/Elucidating-many-body-effects-in-molecular-core",
-      "date": "12 Mar 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Surface chemistry governs ultrafast charge polarization in CdSe quantum dots: A real-time TDDFT study",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/10/104706/3383086/Surface-chemistry-governs-ultrafast-charge",
+      "source": "Hacker News – Quantum",
+      "title": "HTTPS certificates in the age of quantum computing",
+      "link": "https://lwn.net/SubscriberLink/1060941/4878284e2c9f19ba/",
       "date": "11 Mar 2026"
     },
     {
-      "source": "Physics Today",
-      "title": "Nuclear quantum effects in condensed phase: The case of the “association band” of liquid water",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/10/104111/3383081/Nuclear-quantum-effects-in-condensed-phase-The",
+      "source": "Hacker News – Quantum",
+      "title": "HTTPS certificates in the age of quantum computing",
+      "link": "https://lwn.net/SubscriberLink/1060941/af07898a15c68291/",
       "date": "11 Mar 2026"
     },
     {
-      "source": "Physics Today",
-      "title": "Vibrational mode specificity in H + NHD 2  → H 2  + ND 2 : A full-dimensional quantum dynamics study",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/10/104302/3383084/Vibrational-mode-specificity-in-H-NHD2-H2-ND2-A",
+      "source": "Hacker News – Quantum",
+      "title": "Scott Aaronson's View of My View About Quantum Computing",
+      "link": "https://gilkalai.wordpress.com/2026/03/10/scott-aaronsons-view-of-my-view-about-quantum-computing/",
       "date": "10 Mar 2026"
     }
   ]
