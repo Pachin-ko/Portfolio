@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **17 March 2026 à 07:49 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **18 March 2026 à 07:46 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -17,19 +17,19 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Physics Today
 
+- [Interaction-region decoupling for deep-well quantum dynamics: Overcoming the interpolation bottleneck and revealing the intrinsic high-energy efficiency](https://pubs.aip.org/aip/jcp/article/164/11/111101/3383778/Interaction-region-decoupling-for-deep-well) — *17 Mar 2026*
+- [Spectroscopic and lifetime measurements of C 2  in the      3    3     Π g  and      4    3     Π g  states](https://pubs.aip.org/aip/jcp/article/164/11/114303/3383752/Spectroscopic-and-lifetime-measurements-of-C2-in) — *17 Mar 2026*
+- [Magic wavelengths with QED correction for the 2 3  S  1  → 2 3  P   J   transitions of helium-4](https://pubs.aip.org/aip/jcp/article/164/11/114302/3383751/Magic-wavelengths-with-QED-correction-for-the-23S1) — *17 Mar 2026*
+- [Formation and rearrangement of HCCF⋯HF complexes after CF 2 CH 2  photolysis: A matrix isolation and  ab initio  study](https://pubs.aip.org/aip/jcp/article/164/11/114304/3383749/Formation-and-rearrangement-of-HCCF-HF-complexes) — *17 Mar 2026*
 - [Initial conditions for surface hopping trajectories from the VSCF-Wigner distribution](https://pubs.aip.org/aip/jcp/article/164/11/114103/3383750/Initial-conditions-for-surface-hopping) — *16 Mar 2026*
-- [Structural and dynamic studies on vapor-deposited amorphous methane hydrate](https://pubs.aip.org/aip/jcp/article/164/11/114501/3383628/Structural-and-dynamic-studies-on-vapor-deposited) — *16 Mar 2026*
-- [Quantum dynamics of water dissociation on a Cu/Ni(111) bimetallic alloy surface: A nine-dimensional model](https://pubs.aip.org/aip/jcp/article/164/11/114301/3383627/Quantum-dynamics-of-water-dissociation-on-a-Cu-Ni) — *16 Mar 2026*
-- [Introducing a dielectric bath embedding theory for embedded electronic structure calculations in heterogeneous catalysis](https://pubs.aip.org/aip/jcp/article/164/11/114104/3383626/Introducing-a-dielectric-bath-embedding-theory-for) — *16 Mar 2026*
-- [SAFT-VR Sum: Equation of state and transport properties from  ab initio -derived Sutherland sum potentials](https://pubs.aip.org/aip/jcp/article/164/11/114101/3383622/SAFT-VR-Sum-Equation-of-state-and-transport) — *16 Mar 2026*
 
 ## 📰 Hacker News – Quantum
 
+- [Doubling down on open-access quantum computing](https://www.ibm.com/quantum/blog/open-plan-updates) — *18 Mar 2026*
+- [Why Quantum Computing will take another 50 years (2025)](https://mattdf.xyz/why-quantum-computing-will-take-another-50-years) — *17 Mar 2026*
+- [How Quantum Computing Works and How It Could Supercharge and Disrupt Industries](https://www.wsj.com/tech/how-quantum-computing-works-cab3fef2) — *17 Mar 2026*
 - [Show HN: Sway, a board game benchmark for quantum computing](https://shukla.io/blog/2026-03/sway.html) — *15 Mar 2026*
 - [The race to solve the biggest problem in quantum computing](https://www.newscientist.com/article/2518974-the-race-to-solve-the-biggest-problem-in-quantum-computing/) — *13 Mar 2026*
-- [HTTPS certificates in the age of quantum computing](https://lwn.net/SubscriberLink/1060941/4878284e2c9f19ba/) — *11 Mar 2026*
-- [HTTPS certificates in the age of quantum computing](https://lwn.net/SubscriberLink/1060941/af07898a15c68291/) — *11 Mar 2026*
-- [Scott Aaronson's View of My View About Quantum Computing](https://gilkalai.wordpress.com/2026/03/10/scott-aaronsons-view-of-my-view-about-quantum-computing/) — *10 Mar 2026*
 
 ---
 

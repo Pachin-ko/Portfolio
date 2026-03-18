@@ -1,5 +1,5 @@
 {
-  "last_updated": "17 March 2026 à 07:49 UTC",
+  "last_updated": "18 March 2026 à 07:46 UTC",
   "articles": [
     {
       "source": "Nature – Quantum Information",
@@ -33,33 +33,51 @@
     },
     {
       "source": "Physics Today",
+      "title": "Interaction-region decoupling for deep-well quantum dynamics: Overcoming the interpolation bottleneck and revealing the intrinsic high-energy efficiency",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/11/111101/3383778/Interaction-region-decoupling-for-deep-well",
+      "date": "17 Mar 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Spectroscopic and lifetime measurements of C 2  in the      3    3     Π g  and      4    3     Π g  states",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/11/114303/3383752/Spectroscopic-and-lifetime-measurements-of-C2-in",
+      "date": "17 Mar 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Magic wavelengths with QED correction for the 2 3  S  1  → 2 3  P   J   transitions of helium-4",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/11/114302/3383751/Magic-wavelengths-with-QED-correction-for-the-23S1",
+      "date": "17 Mar 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Formation and rearrangement of HCCF⋯HF complexes after CF 2 CH 2  photolysis: A matrix isolation and  ab initio  study",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/11/114304/3383749/Formation-and-rearrangement-of-HCCF-HF-complexes",
+      "date": "17 Mar 2026"
+    },
+    {
+      "source": "Physics Today",
       "title": "Initial conditions for surface hopping trajectories from the VSCF-Wigner distribution",
       "link": "https://pubs.aip.org/aip/jcp/article/164/11/114103/3383750/Initial-conditions-for-surface-hopping",
       "date": "16 Mar 2026"
     },
     {
-      "source": "Physics Today",
-      "title": "Structural and dynamic studies on vapor-deposited amorphous methane hydrate",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/11/114501/3383628/Structural-and-dynamic-studies-on-vapor-deposited",
-      "date": "16 Mar 2026"
+      "source": "Hacker News – Quantum",
+      "title": "Doubling down on open-access quantum computing",
+      "link": "https://www.ibm.com/quantum/blog/open-plan-updates",
+      "date": "18 Mar 2026"
     },
     {
-      "source": "Physics Today",
-      "title": "Quantum dynamics of water dissociation on a Cu/Ni(111) bimetallic alloy surface: A nine-dimensional model",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/11/114301/3383627/Quantum-dynamics-of-water-dissociation-on-a-Cu-Ni",
-      "date": "16 Mar 2026"
+      "source": "Hacker News – Quantum",
+      "title": "Why Quantum Computing will take another 50 years (2025)",
+      "link": "https://mattdf.xyz/why-quantum-computing-will-take-another-50-years",
+      "date": "17 Mar 2026"
     },
     {
-      "source": "Physics Today",
-      "title": "Introducing a dielectric bath embedding theory for embedded electronic structure calculations in heterogeneous catalysis",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/11/114104/3383626/Introducing-a-dielectric-bath-embedding-theory-for",
-      "date": "16 Mar 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "SAFT-VR Sum: Equation of state and transport properties from  ab initio -derived Sutherland sum potentials",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/11/114101/3383622/SAFT-VR-Sum-Equation-of-state-and-transport",
-      "date": "16 Mar 2026"
+      "source": "Hacker News – Quantum",
+      "title": "How Quantum Computing Works and How It Could Supercharge and Disrupt Industries",
+      "link": "https://www.wsj.com/tech/how-quantum-computing-works-cab3fef2",
+      "date": "17 Mar 2026"
     },
     {
       "source": "Hacker News – Quantum",
@@ -72,24 +90,6 @@
       "title": "The race to solve the biggest problem in quantum computing",
       "link": "https://www.newscientist.com/article/2518974-the-race-to-solve-the-biggest-problem-in-quantum-computing/",
       "date": "13 Mar 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "HTTPS certificates in the age of quantum computing",
-      "link": "https://lwn.net/SubscriberLink/1060941/4878284e2c9f19ba/",
-      "date": "11 Mar 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "HTTPS certificates in the age of quantum computing",
-      "link": "https://lwn.net/SubscriberLink/1060941/af07898a15c68291/",
-      "date": "11 Mar 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Scott Aaronson's View of My View About Quantum Computing",
-      "link": "https://gilkalai.wordpress.com/2026/03/10/scott-aaronsons-view-of-my-view-about-quantum-computing/",
-      "date": "10 Mar 2026"
     }
   ]
 }
