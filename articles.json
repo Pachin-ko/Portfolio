@@ -1,6 +1,12 @@
 {
-  "last_updated": "18 March 2026 à 07:46 UTC",
+  "last_updated": "19 March 2026 à 07:41 UTC",
   "articles": [
+    {
+      "source": "Quanta Magazine",
+      "title": "Quantum Cryptography Pioneers Win Turing Award",
+      "link": "https://www.quantamagazine.org/quantum-cryptography-pioneers-win-turing-award-20260318/",
+      "date": "18 Mar 2026"
+    },
     {
       "source": "Nature – Quantum Information",
       "title": "Discovery of ST2 centers in natural and CVD diamond",
@@ -33,33 +39,33 @@
     },
     {
       "source": "Physics Today",
-      "title": "Interaction-region decoupling for deep-well quantum dynamics: Overcoming the interpolation bottleneck and revealing the intrinsic high-energy efficiency",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/11/111101/3383778/Interaction-region-decoupling-for-deep-well",
-      "date": "17 Mar 2026"
+      "title": "QMCkl: A kernel library for quantum Monte Carlo applications",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/11/112501/3384012/QMCkl-A-kernel-library-for-quantum-Monte-Carlo",
+      "date": "18 Mar 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Spectroscopic and lifetime measurements of C 2  in the      3    3     Π g  and      4    3     Π g  states",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/11/114303/3383752/Spectroscopic-and-lifetime-measurements-of-C2-in",
-      "date": "17 Mar 2026"
+      "title": "Six-dimensional state-to-state quantum differential cross sections for the F + CH 4  → HF + CH 3  reaction",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/11/114307/3383868/Six-dimensional-state-to-state-quantum",
+      "date": "18 Mar 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Magic wavelengths with QED correction for the 2 3  S  1  → 2 3  P   J   transitions of helium-4",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/11/114302/3383751/Magic-wavelengths-with-QED-correction-for-the-23S1",
-      "date": "17 Mar 2026"
+      "title": "Competition between predissociation and autoionization in molecular hydrogen above the ionization threshold: A high-resolution spectroscopy and velocity map imaging study",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/11/114306/3383865/Competition-between-predissociation-and",
+      "date": "18 Mar 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Formation and rearrangement of HCCF⋯HF complexes after CF 2 CH 2  photolysis: A matrix isolation and  ab initio  study",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/11/114304/3383749/Formation-and-rearrangement-of-HCCF-HF-complexes",
-      "date": "17 Mar 2026"
+      "title": "Accurate helium–benzene potential: From CCSD(T) to Gaussian process regression",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/11/114108/3383859/Accurate-helium-benzene-potential-From-CCSD-T-to",
+      "date": "18 Mar 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Initial conditions for surface hopping trajectories from the VSCF-Wigner distribution",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/11/114103/3383750/Initial-conditions-for-surface-hopping",
-      "date": "16 Mar 2026"
+      "title": "Enhancing Gaussian process regression-accelerated QM/MM free energy simulations using atomic environment descriptors",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/11/114111/3383857/Enhancing-Gaussian-process-regression-accelerated",
+      "date": "18 Mar 2026"
     },
     {
       "source": "Hacker News – Quantum",

@@ -1,11 +1,15 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **18 March 2026 à 07:46 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **19 March 2026 à 07:41 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
 
 ---
+
+## 📰 Quanta Magazine
+
+- [Quantum Cryptography Pioneers Win Turing Award](https://www.quantamagazine.org/quantum-cryptography-pioneers-win-turing-award-20260318/) — *18 Mar 2026*
 
 ## 📰 Nature – Quantum Information
 
@@ -17,11 +21,11 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Physics Today
 
-- [Interaction-region decoupling for deep-well quantum dynamics: Overcoming the interpolation bottleneck and revealing the intrinsic high-energy efficiency](https://pubs.aip.org/aip/jcp/article/164/11/111101/3383778/Interaction-region-decoupling-for-deep-well) — *17 Mar 2026*
-- [Spectroscopic and lifetime measurements of C 2  in the      3    3     Π g  and      4    3     Π g  states](https://pubs.aip.org/aip/jcp/article/164/11/114303/3383752/Spectroscopic-and-lifetime-measurements-of-C2-in) — *17 Mar 2026*
-- [Magic wavelengths with QED correction for the 2 3  S  1  → 2 3  P   J   transitions of helium-4](https://pubs.aip.org/aip/jcp/article/164/11/114302/3383751/Magic-wavelengths-with-QED-correction-for-the-23S1) — *17 Mar 2026*
-- [Formation and rearrangement of HCCF⋯HF complexes after CF 2 CH 2  photolysis: A matrix isolation and  ab initio  study](https://pubs.aip.org/aip/jcp/article/164/11/114304/3383749/Formation-and-rearrangement-of-HCCF-HF-complexes) — *17 Mar 2026*
-- [Initial conditions for surface hopping trajectories from the VSCF-Wigner distribution](https://pubs.aip.org/aip/jcp/article/164/11/114103/3383750/Initial-conditions-for-surface-hopping) — *16 Mar 2026*
+- [QMCkl: A kernel library for quantum Monte Carlo applications](https://pubs.aip.org/aip/jcp/article/164/11/112501/3384012/QMCkl-A-kernel-library-for-quantum-Monte-Carlo) — *18 Mar 2026*
+- [Six-dimensional state-to-state quantum differential cross sections for the F + CH 4  → HF + CH 3  reaction](https://pubs.aip.org/aip/jcp/article/164/11/114307/3383868/Six-dimensional-state-to-state-quantum) — *18 Mar 2026*
+- [Competition between predissociation and autoionization in molecular hydrogen above the ionization threshold: A high-resolution spectroscopy and velocity map imaging study](https://pubs.aip.org/aip/jcp/article/164/11/114306/3383865/Competition-between-predissociation-and) — *18 Mar 2026*
+- [Accurate helium–benzene potential: From CCSD(T) to Gaussian process regression](https://pubs.aip.org/aip/jcp/article/164/11/114108/3383859/Accurate-helium-benzene-potential-From-CCSD-T-to) — *18 Mar 2026*
+- [Enhancing Gaussian process regression-accelerated QM/MM free energy simulations using atomic environment descriptors](https://pubs.aip.org/aip/jcp/article/164/11/114111/3383857/Enhancing-Gaussian-process-regression-accelerated) — *18 Mar 2026*
 
 ## 📰 Hacker News – Quantum
 
