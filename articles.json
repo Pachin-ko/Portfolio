@@ -1,5 +1,5 @@
 {
-  "last_updated": "20 March 2026 à 07:40 UTC",
+  "last_updated": "21 March 2026 à 07:27 UTC",
   "articles": [
     {
       "source": "MIT Technology Review – Quantum",
@@ -26,16 +26,16 @@
       "date": "16 Mar 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "Experimental secure multiparty computation from quantum oblivious transfer with bit commitment",
-      "link": "https://www.nature.com/articles/s41534-026-01219-w",
-      "date": "14 Mar 2026"
+      "source": "Physics Today",
+      "title": "Bath-induced stabilization of classical non-linear response in two-dimensional infrared spectroscopy",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/11/114114/3384136/Bath-induced-stabilization-of-classical-non-linear",
+      "date": "20 Mar 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "Negativity percolation in continuous-variable quantum networks",
-      "link": "https://www.nature.com/articles/s41534-026-01210-5",
-      "date": "14 Mar 2026"
+      "source": "Physics Today",
+      "title": "Lindblad theory for incoherently driven electron transport in molecular nanojunctions",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/11/114113/3384128/Lindblad-theory-for-incoherently-driven-electron",
+      "date": "20 Mar 2026"
     },
     {
       "source": "Physics Today",
@@ -56,16 +56,10 @@
       "date": "18 Mar 2026"
     },
     {
-      "source": "Physics Today",
-      "title": "Accurate helium–benzene potential: From CCSD(T) to Gaussian process regression",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/11/114108/3383859/Accurate-helium-benzene-potential-From-CCSD-T-to",
-      "date": "18 Mar 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Enhancing Gaussian process regression-accelerated QM/MM free energy simulations using atomic environment descriptors",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/11/114111/3383857/Enhancing-Gaussian-process-regression-accelerated",
-      "date": "18 Mar 2026"
+      "source": "Hacker News – Quantum",
+      "title": "Quantum Computing and Artificial Intelligence: Status and Perspectives",
+      "link": "https://arxiv.org/abs/2505.23860",
+      "date": "20 Mar 2026"
     },
     {
       "source": "Hacker News – Quantum",
@@ -90,12 +84,6 @@
       "title": "How Quantum Computing Works and How It Could Supercharge and Disrupt Industries",
       "link": "https://www.wsj.com/tech/how-quantum-computing-works-cab3fef2",
       "date": "17 Mar 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Show HN: Sway, a board game benchmark for quantum computing",
-      "link": "https://shukla.io/blog/2026-03/sway.html",
-      "date": "15 Mar 2026"
     }
   ]
 }
