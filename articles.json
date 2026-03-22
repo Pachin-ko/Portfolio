@@ -1,5 +1,5 @@
 {
-  "last_updated": "21 March 2026 à 07:27 UTC",
+  "last_updated": "22 March 2026 à 07:33 UTC",
   "articles": [
     {
       "source": "MIT Technology Review – Quantum",
@@ -57,6 +57,12 @@
     },
     {
       "source": "Hacker News – Quantum",
+      "title": "Synaphe – A type-safe language for hybrid AI and quantum computing",
+      "link": "https://github.com/martus-spinther/synaphe-project",
+      "date": "22 Mar 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
       "title": "Quantum Computing and Artificial Intelligence: Status and Perspectives",
       "link": "https://arxiv.org/abs/2505.23860",
       "date": "20 Mar 2026"
@@ -77,12 +83,6 @@
       "source": "Hacker News – Quantum",
       "title": "Why Quantum Computing will take another 50 years (2025)",
       "link": "https://mattdf.xyz/why-quantum-computing-will-take-another-50-years",
-      "date": "17 Mar 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "How Quantum Computing Works and How It Could Supercharge and Disrupt Industries",
-      "link": "https://www.wsj.com/tech/how-quantum-computing-works-cab3fef2",
       "date": "17 Mar 2026"
     }
   ]

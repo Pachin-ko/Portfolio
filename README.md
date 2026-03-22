@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **21 March 2026 à 07:27 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **22 March 2026 à 07:33 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -30,11 +30,11 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Hacker News – Quantum
 
+- [Synaphe – A type-safe language for hybrid AI and quantum computing](https://github.com/martus-spinther/synaphe-project) — *22 Mar 2026*
 - [Quantum Computing and Artificial Intelligence: Status and Perspectives](https://arxiv.org/abs/2505.23860) — *20 Mar 2026*
 - [The Download: Quantum computing for health, and why the world doesn't recycle m](https://www.technologyreview.com/2026/03/19/1134413/the-download-quantum-computing-health-recycling-nuclear-waste/) — *19 Mar 2026*
 - [Doubling down on open-access quantum computing](https://www.ibm.com/quantum/blog/open-plan-updates) — *18 Mar 2026*
 - [Why Quantum Computing will take another 50 years (2025)](https://mattdf.xyz/why-quantum-computing-will-take-another-50-years) — *17 Mar 2026*
-- [How Quantum Computing Works and How It Could Supercharge and Disrupt Industries](https://www.wsj.com/tech/how-quantum-computing-works-cab3fef2) — *17 Mar 2026*
 
 ---
 
