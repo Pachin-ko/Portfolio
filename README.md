@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **22 March 2026 à 07:33 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **23 March 2026 à 07:56 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -15,10 +15,6 @@ agrégés depuis des sources académiques, tech et communautaires.
 ## 📰 Quanta Magazine
 
 - [Quantum Cryptography Pioneers Win Turing Award](https://www.quantamagazine.org/quantum-cryptography-pioneers-win-turing-award-20260318/) — *18 Mar 2026*
-
-## 📰 Nature – Quantum Information
-
-- [Discovery of ST2 centers in natural and CVD diamond](https://www.nature.com/articles/s41534-025-01116-8) — *16 Mar 2026*
 
 ## 📰 Physics Today
 
