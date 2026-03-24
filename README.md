@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **23 March 2026 à 07:56 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **24 March 2026 à 07:49 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -18,11 +18,9 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Physics Today
 
-- [Bath-induced stabilization of classical non-linear response in two-dimensional infrared spectroscopy](https://pubs.aip.org/aip/jcp/article/164/11/114114/3384136/Bath-induced-stabilization-of-classical-non-linear) — *20 Mar 2026*
-- [Lindblad theory for incoherently driven electron transport in molecular nanojunctions](https://pubs.aip.org/aip/jcp/article/164/11/114113/3384128/Lindblad-theory-for-incoherently-driven-electron) — *20 Mar 2026*
-- [QMCkl: A kernel library for quantum Monte Carlo applications](https://pubs.aip.org/aip/jcp/article/164/11/112501/3384012/QMCkl-A-kernel-library-for-quantum-Monte-Carlo) — *18 Mar 2026*
-- [Six-dimensional state-to-state quantum differential cross sections for the F + CH 4  → HF + CH 3  reaction](https://pubs.aip.org/aip/jcp/article/164/11/114307/3383868/Six-dimensional-state-to-state-quantum) — *18 Mar 2026*
-- [Competition between predissociation and autoionization in molecular hydrogen above the ionization threshold: A high-resolution spectroscopy and velocity map imaging study](https://pubs.aip.org/aip/jcp/article/164/11/114306/3383865/Competition-between-predissociation-and) — *18 Mar 2026*
+- [Linear tuning of exciton binding energy in colloidal quantum dot solid-state film](https://pubs.aip.org/aip/jcp/article/164/12/124701/3384351/Linear-tuning-of-exciton-binding-energy-in) — *23 Mar 2026*
+- [Unveiling state-specific total-exchange dynamics in high-temperature N 2 –N 2 /N 2 –O 2  collisions via QCT and neural-network modeling](https://pubs.aip.org/aip/jcp/article/164/12/124301/3384346/Unveiling-state-specific-total-exchange-dynamics) — *23 Mar 2026*
+- [Hybrid atomistic–parametric decoherence model for molecular spin qubits](https://pubs.aip.org/aip/jcp/article/164/12/124101/3384343/Hybrid-atomistic-parametric-decoherence-model-for) — *23 Mar 2026*
 
 ## 📰 Hacker News – Quantum
 

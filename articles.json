@@ -1,5 +1,5 @@
 {
-  "last_updated": "23 March 2026 à 07:56 UTC",
+  "last_updated": "24 March 2026 à 07:49 UTC",
   "articles": [
     {
       "source": "MIT Technology Review – Quantum",
@@ -21,33 +21,21 @@
     },
     {
       "source": "Physics Today",
-      "title": "Bath-induced stabilization of classical non-linear response in two-dimensional infrared spectroscopy",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/11/114114/3384136/Bath-induced-stabilization-of-classical-non-linear",
-      "date": "20 Mar 2026"
+      "title": "Linear tuning of exciton binding energy in colloidal quantum dot solid-state film",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/12/124701/3384351/Linear-tuning-of-exciton-binding-energy-in",
+      "date": "23 Mar 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Lindblad theory for incoherently driven electron transport in molecular nanojunctions",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/11/114113/3384128/Lindblad-theory-for-incoherently-driven-electron",
-      "date": "20 Mar 2026"
+      "title": "Unveiling state-specific total-exchange dynamics in high-temperature N 2 –N 2 /N 2 –O 2  collisions via QCT and neural-network modeling",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/12/124301/3384346/Unveiling-state-specific-total-exchange-dynamics",
+      "date": "23 Mar 2026"
     },
     {
       "source": "Physics Today",
-      "title": "QMCkl: A kernel library for quantum Monte Carlo applications",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/11/112501/3384012/QMCkl-A-kernel-library-for-quantum-Monte-Carlo",
-      "date": "18 Mar 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Six-dimensional state-to-state quantum differential cross sections for the F + CH 4  → HF + CH 3  reaction",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/11/114307/3383868/Six-dimensional-state-to-state-quantum",
-      "date": "18 Mar 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Competition between predissociation and autoionization in molecular hydrogen above the ionization threshold: A high-resolution spectroscopy and velocity map imaging study",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/11/114306/3383865/Competition-between-predissociation-and",
-      "date": "18 Mar 2026"
+      "title": "Hybrid atomistic–parametric decoherence model for molecular spin qubits",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/12/124101/3384343/Hybrid-atomistic-parametric-decoherence-model-for",
+      "date": "23 Mar 2026"
     },
     {
       "source": "Hacker News – Quantum",
