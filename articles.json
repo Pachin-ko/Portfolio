@@ -1,5 +1,5 @@
 {
-  "last_updated": "24 March 2026 à 07:49 UTC",
+  "last_updated": "25 March 2026 à 07:47 UTC",
   "articles": [
     {
       "source": "MIT Technology Review – Quantum",
@@ -8,16 +8,22 @@
       "date": "19 Mar 2026"
     },
     {
-      "source": "MIT Technology Review – Quantum",
-      "title": "Can quantum computers now solve health care problems? We’ll soon find out.",
-      "link": "https://www.technologyreview.com/2026/03/19/1134409/a-5-million-prize-awaits-proof-that-quantum-computers-can-solve-health-care-problems/",
-      "date": "19 Mar 2026"
-    },
-    {
       "source": "Quanta Magazine",
       "title": "Quantum Cryptography Pioneers Win Turing Award",
       "link": "https://www.quantamagazine.org/quantum-cryptography-pioneers-win-turing-award-20260318/",
       "date": "18 Mar 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Robust photon blockade with hybrid molecular optomechanics",
+      "link": "https://www.nature.com/articles/s41534-026-01220-3",
+      "date": "23 Mar 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "How well do classical and multiscale QM/MM molecular dynamics simulations capture stereoelectronic effects? A comparative study on atropisomerism",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/12/124108/3384639/How-well-do-classical-and-multiscale-QM-MM",
+      "date": "24 Mar 2026"
     },
     {
       "source": "Physics Today",
@@ -39,6 +45,12 @@
     },
     {
       "source": "Hacker News – Quantum",
+      "title": "Introduction to Classical and Quantum Computing [pdf]",
+      "link": "https://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf",
+      "date": "24 Mar 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
       "title": "Synaphe – A type-safe language for hybrid AI and quantum computing",
       "link": "https://github.com/martus-spinther/synaphe-project",
       "date": "22 Mar 2026"
@@ -54,18 +66,6 @@
       "title": "The Download: Quantum computing for health, and why the world doesn't recycle m",
       "link": "https://www.technologyreview.com/2026/03/19/1134413/the-download-quantum-computing-health-recycling-nuclear-waste/",
       "date": "19 Mar 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Doubling down on open-access quantum computing",
-      "link": "https://www.ibm.com/quantum/blog/open-plan-updates",
-      "date": "18 Mar 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Why Quantum Computing will take another 50 years (2025)",
-      "link": "https://mattdf.xyz/why-quantum-computing-will-take-another-50-years",
-      "date": "17 Mar 2026"
     }
   ]
 }
