@@ -1,23 +1,23 @@
 {
-  "last_updated": "25 March 2026 à 07:47 UTC",
+  "last_updated": "26 March 2026 à 07:56 UTC",
   "articles": [
-    {
-      "source": "MIT Technology Review – Quantum",
-      "title": "The Download: Quantum computing for health, and why the world doesn’t recycle more nuclear waste",
-      "link": "https://www.technologyreview.com/2026/03/19/1134413/the-download-quantum-computing-health-recycling-nuclear-waste/",
-      "date": "19 Mar 2026"
-    },
-    {
-      "source": "Quanta Magazine",
-      "title": "Quantum Cryptography Pioneers Win Turing Award",
-      "link": "https://www.quantamagazine.org/quantum-cryptography-pioneers-win-turing-award-20260318/",
-      "date": "18 Mar 2026"
-    },
     {
       "source": "Nature – Quantum Information",
       "title": "Robust photon blockade with hybrid molecular optomechanics",
       "link": "https://www.nature.com/articles/s41534-026-01220-3",
       "date": "23 Mar 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Systematically improved potential energy surfaces via sinNN models and sparse grid sampling",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/12/124306/3384811/Systematically-improved-potential-energy-surfaces",
+      "date": "25 Mar 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Harnessing the charge-transfer-to-solvent state of aqueous triiodide: A strategy to mitigate I 2  trapping and enhance hydrated electron yield",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/12/124307/3384735/Harnessing-the-charge-transfer-to-solvent-state-of",
+      "date": "25 Mar 2026"
     },
     {
       "source": "Physics Today",
@@ -38,10 +38,16 @@
       "date": "23 Mar 2026"
     },
     {
-      "source": "Physics Today",
-      "title": "Hybrid atomistic–parametric decoherence model for molecular spin qubits",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/12/124101/3384343/Hybrid-atomistic-parametric-decoherence-model-for",
-      "date": "23 Mar 2026"
+      "source": "Hacker News – Quantum",
+      "title": "Google is expanding to neutral atom quantum computing",
+      "link": "https://blog.google/innovation-and-ai/technology/research/neutral-atom-quantum-computers/",
+      "date": "25 Mar 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "Quantum Computing Is Today's Manhattan Project",
+      "link": "https://www.wsj.com/opinion/quantum-computing-is-todays-manhattan-project-9746be3b",
+      "date": "25 Mar 2026"
     },
     {
       "source": "Hacker News – Quantum",
@@ -60,12 +66,6 @@
       "title": "Quantum Computing and Artificial Intelligence: Status and Perspectives",
       "link": "https://arxiv.org/abs/2505.23860",
       "date": "20 Mar 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "The Download: Quantum computing for health, and why the world doesn't recycle m",
-      "link": "https://www.technologyreview.com/2026/03/19/1134413/the-download-quantum-computing-health-recycling-nuclear-waste/",
-      "date": "19 Mar 2026"
     }
   ]
 }
