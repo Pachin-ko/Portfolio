@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **26 March 2026 à 07:56 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **27 March 2026 à 07:54 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -13,11 +13,11 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Physics Today
 
+- [Quadrupole susceptibility automatic calculator in sum frequency generation spectroscopy incorporating magnetic contributions and refined local fields](https://pubs.aip.org/aip/jcp/article/164/12/124704/3384818/Quadrupole-susceptibility-automatic-calculator-in) — *26 Mar 2026*
+- [Bootstrap embedding for interacting electrons in phonon coherent-state mean field](https://pubs.aip.org/aip/jcp/article/164/12/124111/3384815/Bootstrap-embedding-for-interacting-electrons-in) — *26 Mar 2026*
 - [Systematically improved potential energy surfaces via sinNN models and sparse grid sampling](https://pubs.aip.org/aip/jcp/article/164/12/124306/3384811/Systematically-improved-potential-energy-surfaces) — *25 Mar 2026*
 - [Harnessing the charge-transfer-to-solvent state of aqueous triiodide: A strategy to mitigate I 2  trapping and enhance hydrated electron yield](https://pubs.aip.org/aip/jcp/article/164/12/124307/3384735/Harnessing-the-charge-transfer-to-solvent-state-of) — *25 Mar 2026*
 - [How well do classical and multiscale QM/MM molecular dynamics simulations capture stereoelectronic effects? A comparative study on atropisomerism](https://pubs.aip.org/aip/jcp/article/164/12/124108/3384639/How-well-do-classical-and-multiscale-QM-MM) — *24 Mar 2026*
-- [Linear tuning of exciton binding energy in colloidal quantum dot solid-state film](https://pubs.aip.org/aip/jcp/article/164/12/124701/3384351/Linear-tuning-of-exciton-binding-energy-in) — *23 Mar 2026*
-- [Unveiling state-specific total-exchange dynamics in high-temperature N 2 –N 2 /N 2 –O 2  collisions via QCT and neural-network modeling](https://pubs.aip.org/aip/jcp/article/164/12/124301/3384346/Unveiling-state-specific-total-exchange-dynamics) — *23 Mar 2026*
 
 ## 📰 Hacker News – Quantum
 

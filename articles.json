@@ -1,11 +1,23 @@
 {
-  "last_updated": "26 March 2026 à 07:56 UTC",
+  "last_updated": "27 March 2026 à 07:54 UTC",
   "articles": [
     {
       "source": "Nature – Quantum Information",
       "title": "Robust photon blockade with hybrid molecular optomechanics",
       "link": "https://www.nature.com/articles/s41534-026-01220-3",
       "date": "23 Mar 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Quadrupole susceptibility automatic calculator in sum frequency generation spectroscopy incorporating magnetic contributions and refined local fields",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/12/124704/3384818/Quadrupole-susceptibility-automatic-calculator-in",
+      "date": "26 Mar 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Bootstrap embedding for interacting electrons in phonon coherent-state mean field",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/12/124111/3384815/Bootstrap-embedding-for-interacting-electrons-in",
+      "date": "26 Mar 2026"
     },
     {
       "source": "Physics Today",
@@ -24,18 +36,6 @@
       "title": "How well do classical and multiscale QM/MM molecular dynamics simulations capture stereoelectronic effects? A comparative study on atropisomerism",
       "link": "https://pubs.aip.org/aip/jcp/article/164/12/124108/3384639/How-well-do-classical-and-multiscale-QM-MM",
       "date": "24 Mar 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Linear tuning of exciton binding energy in colloidal quantum dot solid-state film",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/12/124701/3384351/Linear-tuning-of-exciton-binding-energy-in",
-      "date": "23 Mar 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Unveiling state-specific total-exchange dynamics in high-temperature N 2 –N 2 /N 2 –O 2  collisions via QCT and neural-network modeling",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/12/124301/3384346/Unveiling-state-specific-total-exchange-dynamics",
-      "date": "23 Mar 2026"
     },
     {
       "source": "Hacker News – Quantum",
