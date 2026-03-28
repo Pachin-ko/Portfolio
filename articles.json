@@ -1,11 +1,35 @@
 {
-  "last_updated": "27 March 2026 à 07:54 UTC",
+  "last_updated": "28 March 2026 à 07:38 UTC",
   "articles": [
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Improved strategies for fermionic quantum simulation with global interactions",
+      "link": "https://www.nature.com/articles/s41534-026-01223-0",
+      "date": "27 Mar 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "When quantum and classical models disagree: learning beyond minimum norm least square",
+      "link": "https://www.nature.com/articles/s41534-026-01217-y",
+      "date": "27 Mar 2026"
+    },
     {
       "source": "Nature – Quantum Information",
       "title": "Robust photon blockade with hybrid molecular optomechanics",
       "link": "https://www.nature.com/articles/s41534-026-01220-3",
       "date": "23 Mar 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Ring-polymer instanton theory for tunneling between asymmetric wells",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/12/124115/3384899/Ring-polymer-instanton-theory-for-tunneling",
+      "date": "27 Mar 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Fast evaluation of unbiased atomic forces in  ab initio  variational Monte Carlo via the Lagrangian technique",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/12/124113/3384896/Fast-evaluation-of-unbiased-atomic-forces-in-ab",
+      "date": "27 Mar 2026"
     },
     {
       "source": "Physics Today",
@@ -24,18 +48,6 @@
       "title": "Systematically improved potential energy surfaces via sinNN models and sparse grid sampling",
       "link": "https://pubs.aip.org/aip/jcp/article/164/12/124306/3384811/Systematically-improved-potential-energy-surfaces",
       "date": "25 Mar 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Harnessing the charge-transfer-to-solvent state of aqueous triiodide: A strategy to mitigate I 2  trapping and enhance hydrated electron yield",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/12/124307/3384735/Harnessing-the-charge-transfer-to-solvent-state-of",
-      "date": "25 Mar 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "How well do classical and multiscale QM/MM molecular dynamics simulations capture stereoelectronic effects? A comparative study on atropisomerism",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/12/124108/3384639/How-well-do-classical-and-multiscale-QM-MM",
-      "date": "24 Mar 2026"
     },
     {
       "source": "Hacker News – Quantum",
@@ -60,12 +72,6 @@
       "title": "Synaphe – A type-safe language for hybrid AI and quantum computing",
       "link": "https://github.com/martus-spinther/synaphe-project",
       "date": "22 Mar 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Quantum Computing and Artificial Intelligence: Status and Perspectives",
-      "link": "https://arxiv.org/abs/2505.23860",
-      "date": "20 Mar 2026"
     }
   ]
 }
