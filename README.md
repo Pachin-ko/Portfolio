@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **28 March 2026 à 07:38 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **29 March 2026 à 07:47 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -9,6 +9,7 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Nature – Quantum Information
 
+- [On the constant depth implementation of Pauli exponentials](https://www.nature.com/articles/s41534-026-01226-x) — *28 Mar 2026*
 - [Improved strategies for fermionic quantum simulation with global interactions](https://www.nature.com/articles/s41534-026-01223-0) — *27 Mar 2026*
 - [When quantum and classical models disagree: learning beyond minimum norm least square](https://www.nature.com/articles/s41534-026-01217-y) — *27 Mar 2026*
 - [Robust photon blockade with hybrid molecular optomechanics](https://www.nature.com/articles/s41534-026-01220-3) — *23 Mar 2026*
@@ -26,7 +27,6 @@ agrégés depuis des sources académiques, tech et communautaires.
 - [Google is expanding to neutral atom quantum computing](https://blog.google/innovation-and-ai/technology/research/neutral-atom-quantum-computers/) — *25 Mar 2026*
 - [Quantum Computing Is Today's Manhattan Project](https://www.wsj.com/opinion/quantum-computing-is-todays-manhattan-project-9746be3b) — *25 Mar 2026*
 - [Introduction to Classical and Quantum Computing [pdf]](https://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf) — *24 Mar 2026*
-- [Synaphe – A type-safe language for hybrid AI and quantum computing](https://github.com/martus-spinther/synaphe-project) — *22 Mar 2026*
 
 ---
 

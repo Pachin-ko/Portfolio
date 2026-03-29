@@ -1,6 +1,12 @@
 {
-  "last_updated": "28 March 2026 à 07:38 UTC",
+  "last_updated": "29 March 2026 à 07:47 UTC",
   "articles": [
+    {
+      "source": "Nature – Quantum Information",
+      "title": "On the constant depth implementation of Pauli exponentials",
+      "link": "https://www.nature.com/articles/s41534-026-01226-x",
+      "date": "28 Mar 2026"
+    },
     {
       "source": "Nature – Quantum Information",
       "title": "Improved strategies for fermionic quantum simulation with global interactions",
@@ -66,12 +72,6 @@
       "title": "Introduction to Classical and Quantum Computing [pdf]",
       "link": "https://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf",
       "date": "24 Mar 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Synaphe – A type-safe language for hybrid AI and quantum computing",
-      "link": "https://github.com/martus-spinther/synaphe-project",
-      "date": "22 Mar 2026"
     }
   ]
 }
