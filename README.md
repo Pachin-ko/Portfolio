@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **29 March 2026 à 07:47 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **30 March 2026 à 08:17 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -12,7 +12,6 @@ agrégés depuis des sources académiques, tech et communautaires.
 - [On the constant depth implementation of Pauli exponentials](https://www.nature.com/articles/s41534-026-01226-x) — *28 Mar 2026*
 - [Improved strategies for fermionic quantum simulation with global interactions](https://www.nature.com/articles/s41534-026-01223-0) — *27 Mar 2026*
 - [When quantum and classical models disagree: learning beyond minimum norm least square](https://www.nature.com/articles/s41534-026-01217-y) — *27 Mar 2026*
-- [Robust photon blockade with hybrid molecular optomechanics](https://www.nature.com/articles/s41534-026-01220-3) — *23 Mar 2026*
 
 ## 📰 Physics Today
 
