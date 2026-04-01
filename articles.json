@@ -1,11 +1,23 @@
 {
-  "last_updated": "31 March 2026 à 08:02 UTC",
+  "last_updated": "01 April 2026 à 08:10 UTC",
   "articles": [
     {
       "source": "Quanta Magazine",
       "title": "In Expanding de Sitter Space, Quantum Mechanics Gets Even More Elusive",
       "link": "https://www.quantamagazine.org/in-expanding-de-sitter-space-quantum-mechanics-gets-even-more-elusive-20260330/",
       "date": "30 Mar 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Quantum cryptanalysis of SPN ciphers with known plaintext",
+      "link": "https://www.nature.com/articles/s41534-026-01218-x",
+      "date": "01 Apr 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Fiber-integrated quantum frequency conversion for long-distance quantum networking",
+      "link": "https://www.nature.com/articles/s41534-026-01225-y",
+      "date": "31 Mar 2026"
     },
     {
       "source": "Nature – Quantum Information",
@@ -21,15 +33,21 @@
     },
     {
       "source": "Nature – Quantum Information",
-      "title": "Improved strategies for fermionic quantum simulation with global interactions",
-      "link": "https://www.nature.com/articles/s41534-026-01223-0",
-      "date": "27 Mar 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
       "title": "When quantum and classical models disagree: learning beyond minimum norm least square",
       "link": "https://www.nature.com/articles/s41534-026-01217-y",
       "date": "27 Mar 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Full-dimensional quantum scattering calculations of rovibrationally excited HD+HD collisions",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/12/124308/3385323/Full-dimensional-quantum-scattering-calculations",
+      "date": "31 Mar 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Characterization of diarylethene-based photoswitches with core and valence photoabsorption and photoemission spectroscopies",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/12/124203/3384940/Characterization-of-diarylethene-based",
+      "date": "30 Mar 2026"
     },
     {
       "source": "Physics Today",
@@ -50,16 +68,10 @@
       "date": "26 Mar 2026"
     },
     {
-      "source": "Physics Today",
-      "title": "Bootstrap embedding for interacting electrons in phonon coherent-state mean field",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/12/124111/3384815/Bootstrap-embedding-for-interacting-electrons-in",
-      "date": "26 Mar 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Systematically improved potential energy surfaces via sinNN models and sparse grid sampling",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/12/124306/3384811/Systematically-improved-potential-energy-surfaces",
-      "date": "25 Mar 2026"
+      "source": "Hacker News – Quantum",
+      "title": "Google warns quantum computing may break Bitcoin earlier than thought",
+      "link": "https://www.theblock.co/post/395814/google-quantum-computing-earlier",
+      "date": "01 Apr 2026"
     },
     {
       "source": "Hacker News – Quantum",
@@ -72,12 +84,6 @@
       "title": "Quantum Computing Is Today's Manhattan Project",
       "link": "https://www.wsj.com/opinion/quantum-computing-is-todays-manhattan-project-9746be3b",
       "date": "25 Mar 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Introduction to Classical and Quantum Computing [pdf]",
-      "link": "https://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf",
-      "date": "24 Mar 2026"
     }
   ]
 }
