@@ -1,5 +1,5 @@
 {
-  "last_updated": "01 April 2026 à 08:10 UTC",
+  "last_updated": "02 April 2026 à 07:59 UTC",
   "articles": [
     {
       "source": "Quanta Magazine",
@@ -39,51 +39,57 @@
     },
     {
       "source": "Physics Today",
-      "title": "Full-dimensional quantum scattering calculations of rovibrationally excited HD+HD collisions",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/12/124308/3385323/Full-dimensional-quantum-scattering-calculations",
-      "date": "31 Mar 2026"
+      "title": "Thermal and vibronic effects on the absorption spectra of II–VI quantum dots: Atomistic origins of the Urbach tail",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/13/134101/3385862/Thermal-and-vibronic-effects-on-the-absorption",
+      "date": "01 Apr 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Characterization of diarylethene-based photoswitches with core and valence photoabsorption and photoemission spectroscopies",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/12/124203/3384940/Characterization-of-diarylethene-based",
-      "date": "30 Mar 2026"
+      "title": "Out-of-time-order correlators bridge classical transport and quantum dynamics",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/13/134201/3385861/Out-of-time-order-correlators-bridge-classical",
+      "date": "01 Apr 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Ring-polymer instanton theory for tunneling between asymmetric wells",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/12/124115/3384899/Ring-polymer-instanton-theory-for-tunneling",
-      "date": "27 Mar 2026"
+      "title": "Simple model for realizing coherent ergotropy in open quantum systems",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/13/134309/3385823/Simple-model-for-realizing-coherent-ergotropy-in",
+      "date": "01 Apr 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Fast evaluation of unbiased atomic forces in  ab initio  variational Monte Carlo via the Lagrangian technique",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/12/124113/3384896/Fast-evaluation-of-unbiased-atomic-forces-in-ab",
-      "date": "27 Mar 2026"
+      "title": "Excited-state-dependent chiral pathways in the photoisomerization of  cis -4,4′-azopyridine",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/13/134305/3385818/Excited-state-dependent-chiral-pathways-in-the",
+      "date": "01 Apr 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Quadrupole susceptibility automatic calculator in sum frequency generation spectroscopy incorporating magnetic contributions and refined local fields",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/12/124704/3384818/Quadrupole-susceptibility-automatic-calculator-in",
-      "date": "26 Mar 2026"
+      "title": "The potential energy surface, thermochemistry, and cooperative hydrogen bonding in the water octamer",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/13/134301/3385815/The-potential-energy-surface-thermochemistry-and",
+      "date": "01 Apr 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "Quantum computing bombshells that are not April Fools",
+      "link": "https://scottaaronson.blog/?p=9665",
+      "date": "02 Apr 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "Quantum Computing Built an Impossible Molecule",
+      "link": "https://www.forbes.com/sites/moorinsights/2026/03/30/quantum-computing-built-an-impossible-molecule---with-big-implications/",
+      "date": "01 Apr 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "Google Paper Warns of Quantum Computing Risk for Bitcoin",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-31-2026/card/google-paper-warns-of-quantum-computing-risk-for-bitcoin-x4yBALvF5ezP4R8mk25q",
+      "date": "01 Apr 2026"
     },
     {
       "source": "Hacker News – Quantum",
       "title": "Google warns quantum computing may break Bitcoin earlier than thought",
       "link": "https://www.theblock.co/post/395814/google-quantum-computing-earlier",
       "date": "01 Apr 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Google is expanding to neutral atom quantum computing",
-      "link": "https://blog.google/innovation-and-ai/technology/research/neutral-atom-quantum-computers/",
-      "date": "25 Mar 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Quantum Computing Is Today's Manhattan Project",
-      "link": "https://www.wsj.com/opinion/quantum-computing-is-todays-manhattan-project-9746be3b",
-      "date": "25 Mar 2026"
     }
   ]
 }

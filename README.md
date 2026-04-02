@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **01 April 2026 à 08:10 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **02 April 2026 à 07:59 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -21,17 +21,18 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Physics Today
 
-- [Full-dimensional quantum scattering calculations of rovibrationally excited HD+HD collisions](https://pubs.aip.org/aip/jcp/article/164/12/124308/3385323/Full-dimensional-quantum-scattering-calculations) — *31 Mar 2026*
-- [Characterization of diarylethene-based photoswitches with core and valence photoabsorption and photoemission spectroscopies](https://pubs.aip.org/aip/jcp/article/164/12/124203/3384940/Characterization-of-diarylethene-based) — *30 Mar 2026*
-- [Ring-polymer instanton theory for tunneling between asymmetric wells](https://pubs.aip.org/aip/jcp/article/164/12/124115/3384899/Ring-polymer-instanton-theory-for-tunneling) — *27 Mar 2026*
-- [Fast evaluation of unbiased atomic forces in  ab initio  variational Monte Carlo via the Lagrangian technique](https://pubs.aip.org/aip/jcp/article/164/12/124113/3384896/Fast-evaluation-of-unbiased-atomic-forces-in-ab) — *27 Mar 2026*
-- [Quadrupole susceptibility automatic calculator in sum frequency generation spectroscopy incorporating magnetic contributions and refined local fields](https://pubs.aip.org/aip/jcp/article/164/12/124704/3384818/Quadrupole-susceptibility-automatic-calculator-in) — *26 Mar 2026*
+- [Thermal and vibronic effects on the absorption spectra of II–VI quantum dots: Atomistic origins of the Urbach tail](https://pubs.aip.org/aip/jcp/article/164/13/134101/3385862/Thermal-and-vibronic-effects-on-the-absorption) — *01 Apr 2026*
+- [Out-of-time-order correlators bridge classical transport and quantum dynamics](https://pubs.aip.org/aip/jcp/article/164/13/134201/3385861/Out-of-time-order-correlators-bridge-classical) — *01 Apr 2026*
+- [Simple model for realizing coherent ergotropy in open quantum systems](https://pubs.aip.org/aip/jcp/article/164/13/134309/3385823/Simple-model-for-realizing-coherent-ergotropy-in) — *01 Apr 2026*
+- [Excited-state-dependent chiral pathways in the photoisomerization of  cis -4,4′-azopyridine](https://pubs.aip.org/aip/jcp/article/164/13/134305/3385818/Excited-state-dependent-chiral-pathways-in-the) — *01 Apr 2026*
+- [The potential energy surface, thermochemistry, and cooperative hydrogen bonding in the water octamer](https://pubs.aip.org/aip/jcp/article/164/13/134301/3385815/The-potential-energy-surface-thermochemistry-and) — *01 Apr 2026*
 
 ## 📰 Hacker News – Quantum
 
+- [Quantum computing bombshells that are not April Fools](https://scottaaronson.blog/?p=9665) — *02 Apr 2026*
+- [Quantum Computing Built an Impossible Molecule](https://www.forbes.com/sites/moorinsights/2026/03/30/quantum-computing-built-an-impossible-molecule---with-big-implications/) — *01 Apr 2026*
+- [Google Paper Warns of Quantum Computing Risk for Bitcoin](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-31-2026/card/google-paper-warns-of-quantum-computing-risk-for-bitcoin-x4yBALvF5ezP4R8mk25q) — *01 Apr 2026*
 - [Google warns quantum computing may break Bitcoin earlier than thought](https://www.theblock.co/post/395814/google-quantum-computing-earlier) — *01 Apr 2026*
-- [Google is expanding to neutral atom quantum computing](https://blog.google/innovation-and-ai/technology/research/neutral-atom-quantum-computers/) — *25 Mar 2026*
-- [Quantum Computing Is Today's Manhattan Project](https://www.wsj.com/opinion/quantum-computing-is-todays-manhattan-project-9746be3b) — *25 Mar 2026*
 
 ---
 
