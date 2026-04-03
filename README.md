@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **02 April 2026 à 07:59 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **03 April 2026 à 07:57 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -17,15 +17,14 @@ agrégés depuis des sources académiques, tech et communautaires.
 - [Fiber-integrated quantum frequency conversion for long-distance quantum networking](https://www.nature.com/articles/s41534-026-01225-y) — *31 Mar 2026*
 - [Scalable conflict-free bandit algorithm using a quantum optical setup](https://www.nature.com/articles/s41534-026-01201-6) — *30 Mar 2026*
 - [On the constant depth implementation of Pauli exponentials](https://www.nature.com/articles/s41534-026-01226-x) — *28 Mar 2026*
-- [When quantum and classical models disagree: learning beyond minimum norm least square](https://www.nature.com/articles/s41534-026-01217-y) — *27 Mar 2026*
 
 ## 📰 Physics Today
 
+- [Modeling the emission spectra of polycyclic aromatic hydrocarbons by recurrent fluorescence](https://pubs.aip.org/aip/jcp/article/164/13/134106/3386028/Modeling-the-emission-spectra-of-polycyclic) — *02 Apr 2026*
 - [Thermal and vibronic effects on the absorption spectra of II–VI quantum dots: Atomistic origins of the Urbach tail](https://pubs.aip.org/aip/jcp/article/164/13/134101/3385862/Thermal-and-vibronic-effects-on-the-absorption) — *01 Apr 2026*
 - [Out-of-time-order correlators bridge classical transport and quantum dynamics](https://pubs.aip.org/aip/jcp/article/164/13/134201/3385861/Out-of-time-order-correlators-bridge-classical) — *01 Apr 2026*
 - [Simple model for realizing coherent ergotropy in open quantum systems](https://pubs.aip.org/aip/jcp/article/164/13/134309/3385823/Simple-model-for-realizing-coherent-ergotropy-in) — *01 Apr 2026*
 - [Excited-state-dependent chiral pathways in the photoisomerization of  cis -4,4′-azopyridine](https://pubs.aip.org/aip/jcp/article/164/13/134305/3385818/Excited-state-dependent-chiral-pathways-in-the) — *01 Apr 2026*
-- [The potential energy surface, thermochemistry, and cooperative hydrogen bonding in the water octamer](https://pubs.aip.org/aip/jcp/article/164/13/134301/3385815/The-potential-energy-surface-thermochemistry-and) — *01 Apr 2026*
 
 ## 📰 Hacker News – Quantum
 
