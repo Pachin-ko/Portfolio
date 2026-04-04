@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **03 April 2026 à 07:57 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **04 April 2026 à 07:42 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -9,14 +9,15 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Quanta Magazine
 
+- [New Advances Bring the Era of Quantum Computers Closer Than Ever](https://www.quantamagazine.org/new-advances-bring-the-era-of-quantum-computers-closer-than-ever-20260403/) — *03 Apr 2026*
 - [In Expanding de Sitter Space, Quantum Mechanics Gets Even More Elusive](https://www.quantamagazine.org/in-expanding-de-sitter-space-quantum-mechanics-gets-even-more-elusive-20260330/) — *30 Mar 2026*
 
 ## 📰 Nature – Quantum Information
 
+- [Distributed quantum sensing with measurement-after-interaction strategies](https://www.nature.com/articles/s41534-026-01224-z) — *03 Apr 2026*
 - [Quantum cryptanalysis of SPN ciphers with known plaintext](https://www.nature.com/articles/s41534-026-01218-x) — *01 Apr 2026*
 - [Fiber-integrated quantum frequency conversion for long-distance quantum networking](https://www.nature.com/articles/s41534-026-01225-y) — *31 Mar 2026*
 - [Scalable conflict-free bandit algorithm using a quantum optical setup](https://www.nature.com/articles/s41534-026-01201-6) — *30 Mar 2026*
-- [On the constant depth implementation of Pauli exponentials](https://www.nature.com/articles/s41534-026-01226-x) — *28 Mar 2026*
 
 ## 📰 Physics Today
 

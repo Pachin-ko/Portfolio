@@ -1,11 +1,23 @@
 {
-  "last_updated": "03 April 2026 à 07:57 UTC",
+  "last_updated": "04 April 2026 à 07:42 UTC",
   "articles": [
+    {
+      "source": "Quanta Magazine",
+      "title": "New Advances Bring the Era of Quantum Computers Closer Than Ever",
+      "link": "https://www.quantamagazine.org/new-advances-bring-the-era-of-quantum-computers-closer-than-ever-20260403/",
+      "date": "03 Apr 2026"
+    },
     {
       "source": "Quanta Magazine",
       "title": "In Expanding de Sitter Space, Quantum Mechanics Gets Even More Elusive",
       "link": "https://www.quantamagazine.org/in-expanding-de-sitter-space-quantum-mechanics-gets-even-more-elusive-20260330/",
       "date": "30 Mar 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Distributed quantum sensing with measurement-after-interaction strategies",
+      "link": "https://www.nature.com/articles/s41534-026-01224-z",
+      "date": "03 Apr 2026"
     },
     {
       "source": "Nature – Quantum Information",
@@ -24,12 +36,6 @@
       "title": "Scalable conflict-free bandit algorithm using a quantum optical setup",
       "link": "https://www.nature.com/articles/s41534-026-01201-6",
       "date": "30 Mar 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "On the constant depth implementation of Pauli exponentials",
-      "link": "https://www.nature.com/articles/s41534-026-01226-x",
-      "date": "28 Mar 2026"
     },
     {
       "source": "Physics Today",
