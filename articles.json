@@ -1,5 +1,5 @@
 {
-  "last_updated": "04 April 2026 à 07:42 UTC",
+  "last_updated": "05 April 2026 à 07:50 UTC",
   "articles": [
     {
       "source": "Quanta Magazine",
@@ -12,6 +12,12 @@
       "title": "In Expanding de Sitter Space, Quantum Mechanics Gets Even More Elusive",
       "link": "https://www.quantamagazine.org/in-expanding-de-sitter-space-quantum-mechanics-gets-even-more-elusive-20260330/",
       "date": "30 Mar 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Contractive unitary and classical shadow tomography",
+      "link": "https://www.nature.com/articles/s41534-026-01227-w",
+      "date": "04 Apr 2026"
     },
     {
       "source": "Nature – Quantum Information",
@@ -66,6 +72,12 @@
       "title": "Excited-state-dependent chiral pathways in the photoisomerization of  cis -4,4′-azopyridine",
       "link": "https://pubs.aip.org/aip/jcp/article/164/13/134305/3385818/Excited-state-dependent-chiral-pathways-in-the",
       "date": "01 Apr 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "Cuneicode - Exact rational arithmetic. Quantum computing stdlib.",
+      "link": "https://github.com/enkimecca/cuneicode",
+      "date": "05 Apr 2026"
     },
     {
       "source": "Hacker News – Quantum",

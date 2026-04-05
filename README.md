@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **04 April 2026 à 07:42 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **05 April 2026 à 07:50 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -14,6 +14,7 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Nature – Quantum Information
 
+- [Contractive unitary and classical shadow tomography](https://www.nature.com/articles/s41534-026-01227-w) — *04 Apr 2026*
 - [Distributed quantum sensing with measurement-after-interaction strategies](https://www.nature.com/articles/s41534-026-01224-z) — *03 Apr 2026*
 - [Quantum cryptanalysis of SPN ciphers with known plaintext](https://www.nature.com/articles/s41534-026-01218-x) — *01 Apr 2026*
 - [Fiber-integrated quantum frequency conversion for long-distance quantum networking](https://www.nature.com/articles/s41534-026-01225-y) — *31 Mar 2026*
@@ -29,6 +30,7 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Hacker News – Quantum
 
+- [Cuneicode - Exact rational arithmetic. Quantum computing stdlib.](https://github.com/enkimecca/cuneicode) — *05 Apr 2026*
 - [Quantum computing bombshells that are not April Fools](https://scottaaronson.blog/?p=9665) — *02 Apr 2026*
 - [Quantum Computing Built an Impossible Molecule](https://www.forbes.com/sites/moorinsights/2026/03/30/quantum-computing-built-an-impossible-molecule---with-big-implications/) — *01 Apr 2026*
 - [Google Paper Warns of Quantum Computing Risk for Bitcoin](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-31-2026/card/google-paper-warns-of-quantum-computing-risk-for-bitcoin-x4yBALvF5ezP4R8mk25q) — *01 Apr 2026*
