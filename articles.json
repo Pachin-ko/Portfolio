@@ -1,5 +1,5 @@
 {
-  "last_updated": "07 April 2026 à 08:06 UTC",
+  "last_updated": "08 April 2026 à 08:06 UTC",
   "articles": [
     {
       "source": "Quanta Magazine",
@@ -26,10 +26,16 @@
       "date": "03 Apr 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "Quantum cryptanalysis of SPN ciphers with known plaintext",
-      "link": "https://www.nature.com/articles/s41534-026-01218-x",
-      "date": "01 Apr 2026"
+      "source": "Physics Today",
+      "title": "Computational spectroscopy using MULTIMODE and machine-learned potentials",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/13/134116/3386359/Computational-spectroscopy-using-MULTIMODE-and",
+      "date": "07 Apr 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Which Redfield theory is the most accurate for simulating 2D electronic spectra?",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/13/134117/3386357/Which-Redfield-theory-is-the-most-accurate-for",
+      "date": "07 Apr 2026"
     },
     {
       "source": "Physics Today",
@@ -44,22 +50,34 @@
       "date": "02 Apr 2026"
     },
     {
-      "source": "Physics Today",
-      "title": "Thermal and vibronic effects on the absorption spectra of II–VI quantum dots: Atomistic origins of the Urbach tail",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/13/134101/3385862/Thermal-and-vibronic-effects-on-the-absorption",
-      "date": "01 Apr 2026"
+      "source": "Hacker News – Quantum",
+      "title": "Bitcoin and quantum computing",
+      "link": "https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html",
+      "date": "07 Apr 2026"
     },
     {
-      "source": "Physics Today",
-      "title": "Out-of-time-order correlators bridge classical transport and quantum dynamics",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/13/134201/3385861/Out-of-time-order-correlators-bridge-classical",
-      "date": "01 Apr 2026"
+      "source": "Hacker News – Quantum",
+      "title": "Quantum computing could fix AI's sustainability problem",
+      "link": "https://www.japantimes.co.jp/commentary/2026/04/06/world/quantum-computing-ais-sustainability-problem/",
+      "date": "07 Apr 2026"
     },
     {
-      "source": "Physics Today",
-      "title": "Simple model for realizing coherent ergotropy in open quantum systems",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/13/134309/3385823/Simple-model-for-realizing-coherent-ergotropy-in",
-      "date": "01 Apr 2026"
+      "source": "Hacker News – Quantum",
+      "title": "A cryptography engineer's perspective on quantum computing timelines",
+      "link": "https://words.filippo.io/crqc-timeline/",
+      "date": "06 Apr 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "Cuneicode - Exact rational arithmetic. Quantum computing stdlib.",
+      "link": "https://github.com/enkimecca/cuneicode",
+      "date": "05 Apr 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "Quantum computing bombshells that are not April Fools",
+      "link": "https://scottaaronson.blog/?p=9665",
+      "date": "02 Apr 2026"
     }
   ]
 }
