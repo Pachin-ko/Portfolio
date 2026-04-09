@@ -1,11 +1,17 @@
 {
-  "last_updated": "08 April 2026 à 08:06 UTC",
+  "last_updated": "09 April 2026 à 08:13 UTC",
   "articles": [
     {
       "source": "Quanta Magazine",
       "title": "New Advances Bring the Era of Quantum Computers Closer Than Ever",
       "link": "https://www.quantamagazine.org/new-advances-bring-the-era-of-quantum-computers-closer-than-ever-20260403/",
       "date": "03 Apr 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Virtual purification complements quantum error correction in quantum metrology",
+      "link": "https://www.nature.com/articles/s41534-026-01231-0",
+      "date": "09 Apr 2026"
     },
     {
       "source": "Nature – Quantum Information",
@@ -27,27 +33,33 @@
     },
     {
       "source": "Physics Today",
-      "title": "Computational spectroscopy using MULTIMODE and machine-learned potentials",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/13/134116/3386359/Computational-spectroscopy-using-MULTIMODE-and",
-      "date": "07 Apr 2026"
+      "title": "Quantum coherence in neuromorphic computing",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/14/145102/3386461/Quantum-coherence-in-neuromorphic-computing",
+      "date": "08 Apr 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Which Redfield theory is the most accurate for simulating 2D electronic spectra?",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/13/134117/3386357/Which-Redfield-theory-is-the-most-accurate-for",
-      "date": "07 Apr 2026"
+      "title": "Thermal and chemical control of emission and excited-state dynamics in non-(TMS) 3 P-derived InP quantum dots",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/14/144702/3386452/Thermal-and-chemical-control-of-emission-and",
+      "date": "08 Apr 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Nonadiabatic molecular dynamics simulations of charge transport in a covalent organic framework",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/13/134112/3386193/Nonadiabatic-molecular-dynamics-simulations-of",
-      "date": "06 Apr 2026"
+      "title": "Efficient computational modeling of Raman spectra of liquids and solutions",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/14/144503/3386446/Efficient-computational-modeling-of-Raman-spectra",
+      "date": "08 Apr 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Modeling the emission spectra of polycyclic aromatic hydrocarbons by recurrent fluorescence",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/13/134106/3386028/Modeling-the-emission-spectra-of-polycyclic",
-      "date": "02 Apr 2026"
+      "title": "Excitonic-coupling enhancement in double π-helical dimers for highly efficient and robust circularly polarized luminescence",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/14/144701/3386445/Excitonic-coupling-enhancement-in-double-helical",
+      "date": "08 Apr 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Origin of heteroatom substitution effects on hyperfine coupling in muoniated radicals: A path-integral molecular dynamics study",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/14/144302/3386439/Origin-of-heteroatom-substitution-effects-on",
+      "date": "08 Apr 2026"
     },
     {
       "source": "Hacker News – Quantum",
@@ -72,12 +84,6 @@
       "title": "Cuneicode - Exact rational arithmetic. Quantum computing stdlib.",
       "link": "https://github.com/enkimecca/cuneicode",
       "date": "05 Apr 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Quantum computing bombshells that are not April Fools",
-      "link": "https://scottaaronson.blog/?p=9665",
-      "date": "02 Apr 2026"
     }
   ]
 }
