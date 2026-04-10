@@ -1,5 +1,5 @@
 {
-  "last_updated": "09 April 2026 à 08:13 UTC",
+  "last_updated": "10 April 2026 à 08:16 UTC",
   "articles": [
     {
       "source": "Quanta Magazine",
@@ -26,40 +26,34 @@
       "date": "04 Apr 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "Distributed quantum sensing with measurement-after-interaction strategies",
-      "link": "https://www.nature.com/articles/s41534-026-01224-z",
-      "date": "03 Apr 2026"
+      "source": "Physics Today",
+      "title": "HEOM-based numerical framework for quantum simulation of two-dimensional vibrational spectra in molecular liquids (HEOM-2DVS)",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/14/142501/3386598/HEOM-based-numerical-framework-for-quantum",
+      "date": "09 Apr 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Quantum coherence in neuromorphic computing",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/14/145102/3386461/Quantum-coherence-in-neuromorphic-computing",
-      "date": "08 Apr 2026"
+      "title": "Modeling protonated helium clusters across the size-resolved to the droplet regimes: Structure and low-energy collision dynamics",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/14/144306/3386589/Modeling-protonated-helium-clusters-across-the",
+      "date": "09 Apr 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Thermal and chemical control of emission and excited-state dynamics in non-(TMS) 3 P-derived InP quantum dots",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/14/144702/3386452/Thermal-and-chemical-control-of-emission-and",
-      "date": "08 Apr 2026"
+      "title": "High-quantum yields in [6]helicenes: Achieved by boosting radiative decay and suppressing intersystem crossing via BN/BO substitution",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/14/144308/3386587/High-quantum-yields-in-6-helicenes-Achieved-by",
+      "date": "09 Apr 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Efficient computational modeling of Raman spectra of liquids and solutions",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/14/144503/3386446/Efficient-computational-modeling-of-Raman-spectra",
-      "date": "08 Apr 2026"
+      "title": "LibppRPA : An open-source library for particle–particle random phase approximation",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/14/144118/3386584/LibppRPA-An-open-source-library-for-particle",
+      "date": "09 Apr 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Excitonic-coupling enhancement in double π-helical dimers for highly efficient and robust circularly polarized luminescence",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/14/144701/3386445/Excitonic-coupling-enhancement-in-double-helical",
-      "date": "08 Apr 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Origin of heteroatom substitution effects on hyperfine coupling in muoniated radicals: A path-integral molecular dynamics study",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/14/144302/3386439/Origin-of-heteroatom-substitution-effects-on",
-      "date": "08 Apr 2026"
+      "title": "Chiral discrimination on gate-based quantum computers",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/14/144116/3386583/Chiral-discrimination-on-gate-based-quantum",
+      "date": "09 Apr 2026"
     },
     {
       "source": "Hacker News – Quantum",
