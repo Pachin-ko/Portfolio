@@ -1,12 +1,6 @@
 {
-  "last_updated": "10 April 2026 à 08:16 UTC",
+  "last_updated": "11 April 2026 à 07:43 UTC",
   "articles": [
-    {
-      "source": "Quanta Magazine",
-      "title": "New Advances Bring the Era of Quantum Computers Closer Than Ever",
-      "link": "https://www.quantamagazine.org/new-advances-bring-the-era-of-quantum-computers-closer-than-ever-20260403/",
-      "date": "03 Apr 2026"
-    },
     {
       "source": "Nature – Quantum Information",
       "title": "Virtual purification complements quantum error correction in quantum metrology",
@@ -20,10 +14,10 @@
       "date": "06 Apr 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "Contractive unitary and classical shadow tomography",
-      "link": "https://www.nature.com/articles/s41534-026-01227-w",
-      "date": "04 Apr 2026"
+      "source": "Physics Today",
+      "title": "Quantum scattering of HC 5 N and  para -H 2  on a new potential energy surface",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/14/144309/3386763/Quantum-scattering-of-HC5N-and-para-H2-on-a-new",
+      "date": "10 Apr 2026"
     },
     {
       "source": "Physics Today",
@@ -47,12 +41,6 @@
       "source": "Physics Today",
       "title": "LibppRPA : An open-source library for particle–particle random phase approximation",
       "link": "https://pubs.aip.org/aip/jcp/article/164/14/144118/3386584/LibppRPA-An-open-source-library-for-particle",
-      "date": "09 Apr 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Chiral discrimination on gate-based quantum computers",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/14/144116/3386583/Chiral-discrimination-on-gate-based-quantum",
       "date": "09 Apr 2026"
     },
     {
