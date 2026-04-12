@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **11 April 2026 à 07:43 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **12 April 2026 à 07:58 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -22,10 +22,10 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Hacker News – Quantum
 
+- [Show HN: Bitcoin and Quantum Computing – a three-part research series](https://bitcoinquantum.space) — *11 Apr 2026*
 - [Bitcoin and quantum computing](https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html) — *07 Apr 2026*
 - [Quantum computing could fix AI's sustainability problem](https://www.japantimes.co.jp/commentary/2026/04/06/world/quantum-computing-ais-sustainability-problem/) — *07 Apr 2026*
 - [A cryptography engineer's perspective on quantum computing timelines](https://words.filippo.io/crqc-timeline/) — *06 Apr 2026*
-- [Cuneicode - Exact rational arithmetic. Quantum computing stdlib.](https://github.com/enkimecca/cuneicode) — *05 Apr 2026*
 
 ---
 
