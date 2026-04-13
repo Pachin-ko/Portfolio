@@ -1,17 +1,17 @@
 {
-  "last_updated": "12 April 2026 à 07:58 UTC",
+  "last_updated": "13 April 2026 à 08:57 UTC",
   "articles": [
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Fusion-based implementation of qLDPC codes with quantum emitters",
+      "link": "https://www.nature.com/articles/s41534-026-01233-y",
+      "date": "13 Apr 2026"
+    },
     {
       "source": "Nature – Quantum Information",
       "title": "Virtual purification complements quantum error correction in quantum metrology",
       "link": "https://www.nature.com/articles/s41534-026-01231-0",
       "date": "09 Apr 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Nonlocality, integrability and quantum chaos in the spectrum of bell operators",
-      "link": "https://www.nature.com/articles/s41534-026-01232-z",
-      "date": "06 Apr 2026"
     },
     {
       "source": "Physics Today",

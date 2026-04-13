@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **12 April 2026 à 07:58 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **13 April 2026 à 08:57 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -9,8 +9,8 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Nature – Quantum Information
 
+- [Fusion-based implementation of qLDPC codes with quantum emitters](https://www.nature.com/articles/s41534-026-01233-y) — *13 Apr 2026*
 - [Virtual purification complements quantum error correction in quantum metrology](https://www.nature.com/articles/s41534-026-01231-0) — *09 Apr 2026*
-- [Nonlocality, integrability and quantum chaos in the spectrum of bell operators](https://www.nature.com/articles/s41534-026-01232-z) — *06 Apr 2026*
 
 ## 📰 Physics Today
 
