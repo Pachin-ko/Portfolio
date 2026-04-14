@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **13 April 2026 à 08:57 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **14 April 2026 à 08:21 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -14,18 +14,17 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Physics Today
 
+- [SeQuant  framework for symbolic and numerical tensor algebra. I. Core capabilities](https://pubs.aip.org/aip/jcp/article/164/14/142502/3386953/SeQuant-framework-for-symbolic-and-numerical) — *13 Apr 2026*
+- [fix pimd/langevin: An efficient implementation of path integral molecular dynamics in LAMMPS](https://pubs.aip.org/aip/jcp/article/164/14/144119/3386874/fix-pimd-langevin-An-efficient-implementation-of) — *13 Apr 2026*
+- [Infrared and Raman perspectives on vibrational coupling in liquid water](https://pubs.aip.org/aip/jcp/article/164/14/144120/3386873/Infrared-and-Raman-perspectives-on-vibrational) — *13 Apr 2026*
 - [Quantum scattering of HC 5 N and  para -H 2  on a new potential energy surface](https://pubs.aip.org/aip/jcp/article/164/14/144309/3386763/Quantum-scattering-of-HC5N-and-para-H2-on-a-new) — *10 Apr 2026*
 - [HEOM-based numerical framework for quantum simulation of two-dimensional vibrational spectra in molecular liquids (HEOM-2DVS)](https://pubs.aip.org/aip/jcp/article/164/14/142501/3386598/HEOM-based-numerical-framework-for-quantum) — *09 Apr 2026*
-- [Modeling protonated helium clusters across the size-resolved to the droplet regimes: Structure and low-energy collision dynamics](https://pubs.aip.org/aip/jcp/article/164/14/144306/3386589/Modeling-protonated-helium-clusters-across-the) — *09 Apr 2026*
-- [High-quantum yields in [6]helicenes: Achieved by boosting radiative decay and suppressing intersystem crossing via BN/BO substitution](https://pubs.aip.org/aip/jcp/article/164/14/144308/3386587/High-quantum-yields-in-6-helicenes-Achieved-by) — *09 Apr 2026*
-- [LibppRPA : An open-source library for particle–particle random phase approximation](https://pubs.aip.org/aip/jcp/article/164/14/144118/3386584/LibppRPA-An-open-source-library-for-particle) — *09 Apr 2026*
 
 ## 📰 Hacker News – Quantum
 
+- [Show HN: B01T – What if quantum computing had Rust-style safety guarantees?](https://shukla.io/blog/2026-04/b01t.html) — *13 Apr 2026*
 - [Show HN: Bitcoin and Quantum Computing – a three-part research series](https://bitcoinquantum.space) — *11 Apr 2026*
 - [Bitcoin and quantum computing](https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html) — *07 Apr 2026*
-- [Quantum computing could fix AI's sustainability problem](https://www.japantimes.co.jp/commentary/2026/04/06/world/quantum-computing-ais-sustainability-problem/) — *07 Apr 2026*
-- [A cryptography engineer's perspective on quantum computing timelines](https://words.filippo.io/crqc-timeline/) — *06 Apr 2026*
 
 ---
 
