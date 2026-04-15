@@ -1,5 +1,5 @@
 {
-  "last_updated": "14 April 2026 à 08:21 UTC",
+  "last_updated": "15 April 2026 à 08:22 UTC",
   "articles": [
     {
       "source": "Nature – Quantum Information",
@@ -15,6 +15,24 @@
     },
     {
       "source": "Physics Today",
+      "title": "Weak solutions to the Bloch equations with distant dipolar field",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/14/144121/3386963/Weak-solutions-to-the-Bloch-equations-with-distant",
+      "date": "14 Apr 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Initialization with a Fock state cavity mode in real-time nuclear–electronic orbital polariton dynamics",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/14/144122/3386962/Initialization-with-a-Fock-state-cavity-mode-in",
+      "date": "14 Apr 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Nuclear–electronic orbital quasiclassical trajectory method for vibrational spectroscopy",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/14/144123/3386961/Nuclear-electronic-orbital-quasiclassical",
+      "date": "14 Apr 2026"
+    },
+    {
+      "source": "Physics Today",
       "title": "SeQuant  framework for symbolic and numerical tensor algebra. I. Core capabilities",
       "link": "https://pubs.aip.org/aip/jcp/article/164/14/142502/3386953/SeQuant-framework-for-symbolic-and-numerical",
       "date": "13 Apr 2026"
@@ -26,22 +44,16 @@
       "date": "13 Apr 2026"
     },
     {
-      "source": "Physics Today",
-      "title": "Infrared and Raman perspectives on vibrational coupling in liquid water",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/14/144120/3386873/Infrared-and-Raman-perspectives-on-vibrational",
-      "date": "13 Apr 2026"
+      "source": "Hacker News – Quantum",
+      "title": "Nvidia should be 'shaking in their boots' as quantum computing battles AI GPUs",
+      "link": "https://finance.yahoo.com/news/d-wave-ceo-says-nvidia-should-be-shaking-in-their-boots-as-quantum-computing-battles-ai-gpus-180249321.html",
+      "date": "15 Apr 2026"
     },
     {
-      "source": "Physics Today",
-      "title": "Quantum scattering of HC 5 N and  para -H 2  on a new potential energy surface",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/14/144309/3386763/Quantum-scattering-of-HC5N-and-para-H2-on-a-new",
-      "date": "10 Apr 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "HEOM-based numerical framework for quantum simulation of two-dimensional vibrational spectra in molecular liquids (HEOM-2DVS)",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/14/142501/3386598/HEOM-based-numerical-framework-for-quantum",
-      "date": "09 Apr 2026"
+      "source": "Hacker News – Quantum",
+      "title": "Quantum computing: A tech race Europe could win?",
+      "link": "https://www.bbc.com/news/articles/c20q4nv89yzo",
+      "date": "14 Apr 2026"
     },
     {
       "source": "Hacker News – Quantum",
@@ -54,12 +66,6 @@
       "title": "Show HN: Bitcoin and Quantum Computing – a three-part research series",
       "link": "https://bitcoinquantum.space",
       "date": "11 Apr 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Bitcoin and quantum computing",
-      "link": "https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html",
-      "date": "07 Apr 2026"
     }
   ]
 }
