@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **15 April 2026 à 08:22 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **16 April 2026 à 08:23 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -9,23 +9,24 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Nature – Quantum Information
 
+- [Publisher Correction: Fiber-coupled broadband quantum memory for polarization-encoded photonic qubits](https://www.nature.com/articles/s41534-026-01238-7) — *15 Apr 2026*
+- [Lower-bounding entanglement in a general Bell scenario](https://www.nature.com/articles/s41534-026-01215-0) — *15 Apr 2026*
 - [Fusion-based implementation of qLDPC codes with quantum emitters](https://www.nature.com/articles/s41534-026-01233-y) — *13 Apr 2026*
-- [Virtual purification complements quantum error correction in quantum metrology](https://www.nature.com/articles/s41534-026-01231-0) — *09 Apr 2026*
 
 ## 📰 Physics Today
 
-- [Weak solutions to the Bloch equations with distant dipolar field](https://pubs.aip.org/aip/jcp/article/164/14/144121/3386963/Weak-solutions-to-the-Bloch-equations-with-distant) — *14 Apr 2026*
-- [Initialization with a Fock state cavity mode in real-time nuclear–electronic orbital polariton dynamics](https://pubs.aip.org/aip/jcp/article/164/14/144122/3386962/Initialization-with-a-Fock-state-cavity-mode-in) — *14 Apr 2026*
-- [Nuclear–electronic orbital quasiclassical trajectory method for vibrational spectroscopy](https://pubs.aip.org/aip/jcp/article/164/14/144123/3386961/Nuclear-electronic-orbital-quasiclassical) — *14 Apr 2026*
-- [SeQuant  framework for symbolic and numerical tensor algebra. I. Core capabilities](https://pubs.aip.org/aip/jcp/article/164/14/142502/3386953/SeQuant-framework-for-symbolic-and-numerical) — *13 Apr 2026*
-- [fix pimd/langevin: An efficient implementation of path integral molecular dynamics in LAMMPS](https://pubs.aip.org/aip/jcp/article/164/14/144119/3386874/fix-pimd-langevin-An-efficient-implementation-of) — *13 Apr 2026*
+- [Ab initio  quantum embedding at finite temperature with density matrix embedding theory](https://pubs.aip.org/aip/jcp/article/164/15/154102/3387093/Ab-initio-quantum-embedding-at-finite-temperature) — *15 Apr 2026*
+- [Radiative dynamics of AgIn (1−x) Ga x S 2  quantum dots](https://pubs.aip.org/aip/jcp/article/164/15/154701/3387069/Radiative-dynamics-of-AgIn-1-x-GaxS2-quantum-dots) — *15 Apr 2026*
+- [Open-shell frozen natural orbital approach for quantum eigensolvers](https://pubs.aip.org/aip/jcp/article/164/15/154105/3387067/Open-shell-frozen-natural-orbital-approach-for) — *15 Apr 2026*
+- [Ab initio many-body quantum embedding and local correlation in crystalline materials using interpolative separable density fitting](https://pubs.aip.org/aip/jcp/article/164/15/154104/3387063/Ab-initio-many-body-quantum-embedding-and-local) — *15 Apr 2026*
 
 ## 📰 Hacker News – Quantum
 
+- [Nvidia Ising – Open AI Models for Quantum Computing](https://www.nvidia.com/en-us/solutions/quantum-computing/ising/) — *16 Apr 2026*
+- [For quantum computing, different qubits are better together](https://www.darpa.mil/news/2026/quantum-computing-different-qubits-better-together) — *15 Apr 2026*
 - [Nvidia should be 'shaking in their boots' as quantum computing battles AI GPUs](https://finance.yahoo.com/news/d-wave-ceo-says-nvidia-should-be-shaking-in-their-boots-as-quantum-computing-battles-ai-gpus-180249321.html) — *15 Apr 2026*
 - [Quantum computing: A tech race Europe could win?](https://www.bbc.com/news/articles/c20q4nv89yzo) — *14 Apr 2026*
 - [Show HN: B01T – What if quantum computing had Rust-style safety guarantees?](https://shukla.io/blog/2026-04/b01t.html) — *13 Apr 2026*
-- [Show HN: Bitcoin and Quantum Computing – a three-part research series](https://bitcoinquantum.space) — *11 Apr 2026*
 
 ---
 
