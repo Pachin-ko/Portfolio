@@ -1,6 +1,18 @@
 {
-  "last_updated": "16 April 2026 à 08:23 UTC",
+  "last_updated": "17 April 2026 à 08:22 UTC",
   "articles": [
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Collective purification of interacting quantum networks beyond symmetry constraints",
+      "link": "https://www.nature.com/articles/s41534-026-01228-9",
+      "date": "17 Apr 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Author Correction: Contextual quantum metrology",
+      "link": "https://www.nature.com/articles/s41534-026-01222-1",
+      "date": "16 Apr 2026"
+    },
     {
       "source": "Nature – Quantum Information",
       "title": "Publisher Correction: Fiber-coupled broadband quantum memory for polarization-encoded photonic qubits",
@@ -21,57 +33,33 @@
     },
     {
       "source": "Physics Today",
-      "title": "Ab initio  quantum embedding at finite temperature with density matrix embedding theory",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/15/154102/3387093/Ab-initio-quantum-embedding-at-finite-temperature",
-      "date": "15 Apr 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Radiative dynamics of AgIn (1−x) Ga x S 2  quantum dots",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/15/154701/3387069/Radiative-dynamics-of-AgIn-1-x-GaxS2-quantum-dots",
-      "date": "15 Apr 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Open-shell frozen natural orbital approach for quantum eigensolvers",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/15/154105/3387067/Open-shell-frozen-natural-orbital-approach-for",
-      "date": "15 Apr 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Ab initio many-body quantum embedding and local correlation in crystalline materials using interpolative separable density fitting",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/15/154104/3387063/Ab-initio-many-body-quantum-embedding-and-local",
-      "date": "15 Apr 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Nvidia Ising – Open AI Models for Quantum Computing",
-      "link": "https://www.nvidia.com/en-us/solutions/quantum-computing/ising/",
+      "title": "Probing voltage-induced chemical reactions and anharmonicity with a confined vacuum light field",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/15/154704/3387172/Probing-voltage-induced-chemical-reactions-and",
       "date": "16 Apr 2026"
     },
     {
-      "source": "Hacker News – Quantum",
-      "title": "For quantum computing, different qubits are better together",
-      "link": "https://www.darpa.mil/news/2026/quantum-computing-different-qubits-better-together",
+      "source": "Physics Today",
+      "title": "Thermal conductivities of monolayer graphene oxide from machine learning molecular dynamics simulations",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/15/154703/3387170/Thermal-conductivities-of-monolayer-graphene-oxide",
+      "date": "16 Apr 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Open-system Renner–Teller dynamics with quantum Brownian motion within a Markovian Caldeira–Leggett limit",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/15/154110/3387168/Open-system-Renner-Teller-dynamics-with-quantum",
+      "date": "16 Apr 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Rotational coherence dominates early-time dynamics and produces long-time revivals in the  S  2  state of azulene",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/15/154304/3387167/Rotational-coherence-dominates-early-time-dynamics",
+      "date": "16 Apr 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Ab initio  quantum embedding at finite temperature with density matrix embedding theory",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/15/154102/3387093/Ab-initio-quantum-embedding-at-finite-temperature",
       "date": "15 Apr 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Nvidia should be 'shaking in their boots' as quantum computing battles AI GPUs",
-      "link": "https://finance.yahoo.com/news/d-wave-ceo-says-nvidia-should-be-shaking-in-their-boots-as-quantum-computing-battles-ai-gpus-180249321.html",
-      "date": "15 Apr 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Quantum computing: A tech race Europe could win?",
-      "link": "https://www.bbc.com/news/articles/c20q4nv89yzo",
-      "date": "14 Apr 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Show HN: B01T – What if quantum computing had Rust-style safety guarantees?",
-      "link": "https://shukla.io/blog/2026-04/b01t.html",
-      "date": "13 Apr 2026"
     }
   ]
 }
