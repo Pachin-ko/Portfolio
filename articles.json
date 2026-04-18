@@ -1,10 +1,34 @@
 {
-  "last_updated": "17 April 2026 à 08:22 UTC",
+  "last_updated": "18 April 2026 à 07:54 UTC",
   "articles": [
+    {
+      "source": "Quanta Magazine",
+      "title": "Quantum ‘Jamming’ Explores the Truly Fundamental Principles of Nature",
+      "link": "https://www.quantamagazine.org/quantum-jamming-explores-the-truly-fundamental-principles-of-nature-20260417/",
+      "date": "17 Apr 2026"
+    },
     {
       "source": "Nature – Quantum Information",
       "title": "Collective purification of interacting quantum networks beyond symmetry constraints",
       "link": "https://www.nature.com/articles/s41534-026-01228-9",
+      "date": "17 Apr 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Quantum reservoir computing induced by controllable damping",
+      "link": "https://www.nature.com/articles/s41534-026-01229-8",
+      "date": "17 Apr 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Time-series forecasting with multiphoton quantum states and integrated photonics",
+      "link": "https://www.nature.com/articles/s41534-026-01236-9",
+      "date": "17 Apr 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Beyond boson sampling: higher spin sampling as a practical path to quantum supremacy",
+      "link": "https://www.nature.com/articles/s41534-026-01246-7",
       "date": "17 Apr 2026"
     },
     {
@@ -14,22 +38,10 @@
       "date": "16 Apr 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "Publisher Correction: Fiber-coupled broadband quantum memory for polarization-encoded photonic qubits",
-      "link": "https://www.nature.com/articles/s41534-026-01238-7",
-      "date": "15 Apr 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Lower-bounding entanglement in a general Bell scenario",
-      "link": "https://www.nature.com/articles/s41534-026-01215-0",
-      "date": "15 Apr 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Fusion-based implementation of qLDPC codes with quantum emitters",
-      "link": "https://www.nature.com/articles/s41534-026-01233-y",
-      "date": "13 Apr 2026"
+      "source": "Physics Today",
+      "title": "Reaching precise proton affinities in non-Born–Oppenheimer calculations",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/15/154113/3387282/Reaching-precise-proton-affinities-in-non-Born",
+      "date": "17 Apr 2026"
     },
     {
       "source": "Physics Today",
@@ -56,10 +68,34 @@
       "date": "16 Apr 2026"
     },
     {
-      "source": "Physics Today",
-      "title": "Ab initio  quantum embedding at finite temperature with density matrix embedding theory",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/15/154102/3387093/Ab-initio-quantum-embedding-at-finite-temperature",
+      "source": "Hacker News – Quantum",
+      "title": "Nvidia Ising – Open AI Models for Quantum Computing",
+      "link": "https://www.nvidia.com/en-us/solutions/quantum-computing/ising/",
+      "date": "16 Apr 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "For quantum computing, different qubits are better together",
+      "link": "https://www.darpa.mil/news/2026/quantum-computing-different-qubits-better-together",
       "date": "15 Apr 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "Nvidia should be 'shaking in their boots' as quantum computing battles AI GPUs",
+      "link": "https://finance.yahoo.com/news/d-wave-ceo-says-nvidia-should-be-shaking-in-their-boots-as-quantum-computing-battles-ai-gpus-180249321.html",
+      "date": "15 Apr 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "Quantum computing: A tech race Europe could win?",
+      "link": "https://www.bbc.com/news/articles/c20q4nv89yzo",
+      "date": "14 Apr 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "Show HN: B01T – What if quantum computing had Rust-style safety guarantees?",
+      "link": "https://shukla.io/blog/2026-04/b01t.html",
+      "date": "13 Apr 2026"
     }
   ]
 }
