@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **20 April 2026 à 09:04 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **21 April 2026 à 08:27 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -26,6 +26,14 @@ agrégés depuis des sources académiques, tech et communautaires.
 - [Thermal conductivities of monolayer graphene oxide from machine learning molecular dynamics simulations](https://pubs.aip.org/aip/jcp/article/164/15/154703/3387170/Thermal-conductivities-of-monolayer-graphene-oxide) — *16 Apr 2026*
 - [Open-system Renner–Teller dynamics with quantum Brownian motion within a Markovian Caldeira–Leggett limit](https://pubs.aip.org/aip/jcp/article/164/15/154110/3387168/Open-system-Renner-Teller-dynamics-with-quantum) — *16 Apr 2026*
 - [Rotational coherence dominates early-time dynamics and produces long-time revivals in the  S  2  state of azulene](https://pubs.aip.org/aip/jcp/article/164/15/154304/3387167/Rotational-coherence-dominates-early-time-dynamics) — *16 Apr 2026*
+
+## 📰 Hacker News – Quantum
+
+- [Bitcoin and Quantum Computing: A Roadmap](https://nehanarula.org/2026/04/20/bitcoin-and-quantum-a-roadmap.html) — *20 Apr 2026*
+- [Nvidia Ising – Open AI Models for Quantum Computing](https://www.nvidia.com/en-us/solutions/quantum-computing/ising/) — *16 Apr 2026*
+- [For quantum computing, different qubits are better together](https://www.darpa.mil/news/2026/quantum-computing-different-qubits-better-together) — *15 Apr 2026*
+- [Nvidia should be 'shaking in their boots' as quantum computing battles AI GPUs](https://finance.yahoo.com/news/d-wave-ceo-says-nvidia-should-be-shaking-in-their-boots-as-quantum-computing-battles-ai-gpus-180249321.html) — *15 Apr 2026*
+- [Quantum computing: A tech race Europe could win?](https://www.bbc.com/news/articles/c20q4nv89yzo) — *14 Apr 2026*
 
 ---
 
