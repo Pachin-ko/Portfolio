@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **21 April 2026 à 08:27 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **22 April 2026 à 08:25 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -13,11 +13,11 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Nature – Quantum Information
 
+- [Distributed quantum inner product estimation with structured random circuits](https://www.nature.com/articles/s41534-026-01247-6) — *21 Apr 2026*
+- [Two-qubit gates using on-demand single-photons from ordered shape and size controlled large-volume superradiant quantum dots](https://www.nature.com/articles/s41534-026-01221-2) — *21 Apr 2026*
 - [Collective purification of interacting quantum networks beyond symmetry constraints](https://www.nature.com/articles/s41534-026-01228-9) — *17 Apr 2026*
 - [Quantum reservoir computing induced by controllable damping](https://www.nature.com/articles/s41534-026-01229-8) — *17 Apr 2026*
 - [Time-series forecasting with multiphoton quantum states and integrated photonics](https://www.nature.com/articles/s41534-026-01236-9) — *17 Apr 2026*
-- [Beyond boson sampling: higher spin sampling as a practical path to quantum supremacy](https://www.nature.com/articles/s41534-026-01246-7) — *17 Apr 2026*
-- [Author Correction: Contextual quantum metrology](https://www.nature.com/articles/s41534-026-01222-1) — *16 Apr 2026*
 
 ## 📰 Physics Today
 
@@ -29,11 +29,11 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Hacker News – Quantum
 
+- [The FeMo-cofactor and classical and quantum computing](https://quantumfrontiers.com/2026/03/12/the-femo-cofactor-and-classical-and-quantum-computing/) — *22 Apr 2026*
+- [The road to useful quantum computing applications](https://blog.google/innovation-and-ai/technology/research/useful-quantum-computing-applications/) — *21 Apr 2026*
+- [Landscape of Quantum Computing in 2026](https://sam-jaques.appspot.com/quantum_landscape) — *21 Apr 2026*
 - [Bitcoin and Quantum Computing: A Roadmap](https://nehanarula.org/2026/04/20/bitcoin-and-quantum-a-roadmap.html) — *20 Apr 2026*
 - [Nvidia Ising – Open AI Models for Quantum Computing](https://www.nvidia.com/en-us/solutions/quantum-computing/ising/) — *16 Apr 2026*
-- [For quantum computing, different qubits are better together](https://www.darpa.mil/news/2026/quantum-computing-different-qubits-better-together) — *15 Apr 2026*
-- [Nvidia should be 'shaking in their boots' as quantum computing battles AI GPUs](https://finance.yahoo.com/news/d-wave-ceo-says-nvidia-should-be-shaking-in-their-boots-as-quantum-computing-battles-ai-gpus-180249321.html) — *15 Apr 2026*
-- [Quantum computing: A tech race Europe could win?](https://www.bbc.com/news/articles/c20q4nv89yzo) — *14 Apr 2026*
 
 ---
 

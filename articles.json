@@ -1,11 +1,23 @@
 {
-  "last_updated": "21 April 2026 à 08:27 UTC",
+  "last_updated": "22 April 2026 à 08:25 UTC",
   "articles": [
     {
       "source": "Quanta Magazine",
       "title": "Quantum ‘Jamming’ Explores the Truly Fundamental Principles of Nature",
       "link": "https://www.quantamagazine.org/quantum-jamming-explores-the-truly-fundamental-principles-of-nature-20260417/",
       "date": "17 Apr 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Distributed quantum inner product estimation with structured random circuits",
+      "link": "https://www.nature.com/articles/s41534-026-01247-6",
+      "date": "21 Apr 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Two-qubit gates using on-demand single-photons from ordered shape and size controlled large-volume superradiant quantum dots",
+      "link": "https://www.nature.com/articles/s41534-026-01221-2",
+      "date": "21 Apr 2026"
     },
     {
       "source": "Nature – Quantum Information",
@@ -24,18 +36,6 @@
       "title": "Time-series forecasting with multiphoton quantum states and integrated photonics",
       "link": "https://www.nature.com/articles/s41534-026-01236-9",
       "date": "17 Apr 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Beyond boson sampling: higher spin sampling as a practical path to quantum supremacy",
-      "link": "https://www.nature.com/articles/s41534-026-01246-7",
-      "date": "17 Apr 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Author Correction: Contextual quantum metrology",
-      "link": "https://www.nature.com/articles/s41534-026-01222-1",
-      "date": "16 Apr 2026"
     },
     {
       "source": "Physics Today",
@@ -69,6 +69,24 @@
     },
     {
       "source": "Hacker News – Quantum",
+      "title": "The FeMo-cofactor and classical and quantum computing",
+      "link": "https://quantumfrontiers.com/2026/03/12/the-femo-cofactor-and-classical-and-quantum-computing/",
+      "date": "22 Apr 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "The road to useful quantum computing applications",
+      "link": "https://blog.google/innovation-and-ai/technology/research/useful-quantum-computing-applications/",
+      "date": "21 Apr 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "Landscape of Quantum Computing in 2026",
+      "link": "https://sam-jaques.appspot.com/quantum_landscape",
+      "date": "21 Apr 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
       "title": "Bitcoin and Quantum Computing: A Roadmap",
       "link": "https://nehanarula.org/2026/04/20/bitcoin-and-quantum-a-roadmap.html",
       "date": "20 Apr 2026"
@@ -78,24 +96,6 @@
       "title": "Nvidia Ising – Open AI Models for Quantum Computing",
       "link": "https://www.nvidia.com/en-us/solutions/quantum-computing/ising/",
       "date": "16 Apr 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "For quantum computing, different qubits are better together",
-      "link": "https://www.darpa.mil/news/2026/quantum-computing-different-qubits-better-together",
-      "date": "15 Apr 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Nvidia should be 'shaking in their boots' as quantum computing battles AI GPUs",
-      "link": "https://finance.yahoo.com/news/d-wave-ceo-says-nvidia-should-be-shaking-in-their-boots-as-quantum-computing-battles-ai-gpus-180249321.html",
-      "date": "15 Apr 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Quantum computing: A tech race Europe could win?",
-      "link": "https://www.bbc.com/news/articles/c20q4nv89yzo",
-      "date": "14 Apr 2026"
     }
   ]
 }
