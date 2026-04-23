@@ -1,11 +1,17 @@
 {
-  "last_updated": "22 April 2026 à 08:25 UTC",
+  "last_updated": "23 April 2026 à 08:29 UTC",
   "articles": [
     {
       "source": "Quanta Magazine",
       "title": "Quantum ‘Jamming’ Explores the Truly Fundamental Principles of Nature",
       "link": "https://www.quantamagazine.org/quantum-jamming-explores-the-truly-fundamental-principles-of-nature-20260417/",
       "date": "17 Apr 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Surface-code hardware Hamiltonian",
+      "link": "https://www.nature.com/articles/s41534-026-01241-y",
+      "date": "22 Apr 2026"
     },
     {
       "source": "Nature – Quantum Information",
@@ -32,40 +38,40 @@
       "date": "17 Apr 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "Time-series forecasting with multiphoton quantum states and integrated photonics",
-      "link": "https://www.nature.com/articles/s41534-026-01236-9",
-      "date": "17 Apr 2026"
+      "source": "Physics Today",
+      "title": "The partition-of-unity quantum (PUQ) method for wavepacket dynamics",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/16/164102/3387623/The-partition-of-unity-quantum-PUQ-method-for",
+      "date": "22 Apr 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Reaching precise proton affinities in non-Born–Oppenheimer calculations",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/15/154113/3387282/Reaching-precise-proton-affinities-in-non-Born",
-      "date": "17 Apr 2026"
+      "title": "Pressure induced structural transition and optoelectronic modification in inorganic metavanadate phosphor",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/16/164701/3387594/Pressure-induced-structural-transition-and",
+      "date": "22 Apr 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Probing voltage-induced chemical reactions and anharmonicity with a confined vacuum light field",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/15/154704/3387172/Probing-voltage-induced-chemical-reactions-and",
-      "date": "16 Apr 2026"
+      "title": "Why dibenzo[b,f][1,4,5]oxadiazepine fails for molecular solar thermal energy storage: Mechanistic insights and a synergistic optimization strategy",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/16/164302/3387589/Why-dibenzo-b-f-1-4-5-oxadiazepine-fails-for",
+      "date": "22 Apr 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Thermal conductivities of monolayer graphene oxide from machine learning molecular dynamics simulations",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/15/154703/3387170/Thermal-conductivities-of-monolayer-graphene-oxide",
-      "date": "16 Apr 2026"
+      "title": "On the impact of nuclear quantum effects on quantum chemical topology",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/16/164105/3387581/On-the-impact-of-nuclear-quantum-effects-on",
+      "date": "22 Apr 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Open-system Renner–Teller dynamics with quantum Brownian motion within a Markovian Caldeira–Leggett limit",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/15/154110/3387168/Open-system-Renner-Teller-dynamics-with-quantum",
-      "date": "16 Apr 2026"
+      "title": "Quantum trajectories and reduced dynamics in time-correlated environments",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/16/164103/3387579/Quantum-trajectories-and-reduced-dynamics-in-time",
+      "date": "22 Apr 2026"
     },
     {
-      "source": "Physics Today",
-      "title": "Rotational coherence dominates early-time dynamics and produces long-time revivals in the  S  2  state of azulene",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/15/154304/3387167/Rotational-coherence-dominates-early-time-dynamics",
-      "date": "16 Apr 2026"
+      "source": "Hacker News – Quantum",
+      "title": "When will quantum computing break cryptography?",
+      "link": "https://blog.alcazarsec.com/tech/posts/when-will-quantum-computing-break-cryptography",
+      "date": "22 Apr 2026"
     },
     {
       "source": "Hacker News – Quantum",
@@ -90,12 +96,6 @@
       "title": "Bitcoin and Quantum Computing: A Roadmap",
       "link": "https://nehanarula.org/2026/04/20/bitcoin-and-quantum-a-roadmap.html",
       "date": "20 Apr 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Nvidia Ising – Open AI Models for Quantum Computing",
-      "link": "https://www.nvidia.com/en-us/solutions/quantum-computing/ising/",
-      "date": "16 Apr 2026"
     }
   ]
 }
