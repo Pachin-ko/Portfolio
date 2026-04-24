@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **23 April 2026 à 08:29 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **24 April 2026 à 08:55 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -13,19 +13,18 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Nature – Quantum Information
 
+- [Near-term fermionic simulation with subspace noise tailored quantum error mitigation](https://www.nature.com/articles/s41534-026-01248-5) — *24 Apr 2026*
 - [Surface-code hardware Hamiltonian](https://www.nature.com/articles/s41534-026-01241-y) — *22 Apr 2026*
 - [Distributed quantum inner product estimation with structured random circuits](https://www.nature.com/articles/s41534-026-01247-6) — *21 Apr 2026*
 - [Two-qubit gates using on-demand single-photons from ordered shape and size controlled large-volume superradiant quantum dots](https://www.nature.com/articles/s41534-026-01221-2) — *21 Apr 2026*
-- [Collective purification of interacting quantum networks beyond symmetry constraints](https://www.nature.com/articles/s41534-026-01228-9) — *17 Apr 2026*
-- [Quantum reservoir computing induced by controllable damping](https://www.nature.com/articles/s41534-026-01229-8) — *17 Apr 2026*
 
 ## 📰 Physics Today
 
+- [1 H spin–lattice relaxation enhancement caused by magnetic core–shell nanoparticles—Testing theoretical models](https://pubs.aip.org/aip/jcp/article/164/16/164905/3387721/1H-spin-lattice-relaxation-enhancement-caused-by) — *23 Apr 2026*
+- [Expansion of time-convolutionless non-Markovian quantum master equations: A case study using the Fano–Anderson model](https://pubs.aip.org/aip/jcp/article/164/16/164110/3387716/Expansion-of-time-convolutionless-non-Markovian) — *23 Apr 2026*
 - [The partition-of-unity quantum (PUQ) method for wavepacket dynamics](https://pubs.aip.org/aip/jcp/article/164/16/164102/3387623/The-partition-of-unity-quantum-PUQ-method-for) — *22 Apr 2026*
 - [Pressure induced structural transition and optoelectronic modification in inorganic metavanadate phosphor](https://pubs.aip.org/aip/jcp/article/164/16/164701/3387594/Pressure-induced-structural-transition-and) — *22 Apr 2026*
 - [Why dibenzo[b,f][1,4,5]oxadiazepine fails for molecular solar thermal energy storage: Mechanistic insights and a synergistic optimization strategy](https://pubs.aip.org/aip/jcp/article/164/16/164302/3387589/Why-dibenzo-b-f-1-4-5-oxadiazepine-fails-for) — *22 Apr 2026*
-- [On the impact of nuclear quantum effects on quantum chemical topology](https://pubs.aip.org/aip/jcp/article/164/16/164105/3387581/On-the-impact-of-nuclear-quantum-effects-on) — *22 Apr 2026*
-- [Quantum trajectories and reduced dynamics in time-correlated environments](https://pubs.aip.org/aip/jcp/article/164/16/164103/3387579/Quantum-trajectories-and-reduced-dynamics-in-time) — *22 Apr 2026*
 
 ## 📰 Hacker News – Quantum
 

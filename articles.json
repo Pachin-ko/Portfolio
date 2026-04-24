@@ -1,11 +1,17 @@
 {
-  "last_updated": "23 April 2026 à 08:29 UTC",
+  "last_updated": "24 April 2026 à 08:55 UTC",
   "articles": [
     {
       "source": "Quanta Magazine",
       "title": "Quantum ‘Jamming’ Explores the Truly Fundamental Principles of Nature",
       "link": "https://www.quantamagazine.org/quantum-jamming-explores-the-truly-fundamental-principles-of-nature-20260417/",
       "date": "17 Apr 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Near-term fermionic simulation with subspace noise tailored quantum error mitigation",
+      "link": "https://www.nature.com/articles/s41534-026-01248-5",
+      "date": "24 Apr 2026"
     },
     {
       "source": "Nature – Quantum Information",
@@ -26,16 +32,16 @@
       "date": "21 Apr 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "Collective purification of interacting quantum networks beyond symmetry constraints",
-      "link": "https://www.nature.com/articles/s41534-026-01228-9",
-      "date": "17 Apr 2026"
+      "source": "Physics Today",
+      "title": "1 H spin–lattice relaxation enhancement caused by magnetic core–shell nanoparticles—Testing theoretical models",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/16/164905/3387721/1H-spin-lattice-relaxation-enhancement-caused-by",
+      "date": "23 Apr 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "Quantum reservoir computing induced by controllable damping",
-      "link": "https://www.nature.com/articles/s41534-026-01229-8",
-      "date": "17 Apr 2026"
+      "source": "Physics Today",
+      "title": "Expansion of time-convolutionless non-Markovian quantum master equations: A case study using the Fano–Anderson model",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/16/164110/3387716/Expansion-of-time-convolutionless-non-Markovian",
+      "date": "23 Apr 2026"
     },
     {
       "source": "Physics Today",
@@ -53,18 +59,6 @@
       "source": "Physics Today",
       "title": "Why dibenzo[b,f][1,4,5]oxadiazepine fails for molecular solar thermal energy storage: Mechanistic insights and a synergistic optimization strategy",
       "link": "https://pubs.aip.org/aip/jcp/article/164/16/164302/3387589/Why-dibenzo-b-f-1-4-5-oxadiazepine-fails-for",
-      "date": "22 Apr 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "On the impact of nuclear quantum effects on quantum chemical topology",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/16/164105/3387581/On-the-impact-of-nuclear-quantum-effects-on",
-      "date": "22 Apr 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Quantum trajectories and reduced dynamics in time-correlated environments",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/16/164103/3387579/Quantum-trajectories-and-reduced-dynamics-in-time",
       "date": "22 Apr 2026"
     },
     {
