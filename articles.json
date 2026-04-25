@@ -1,11 +1,17 @@
 {
-  "last_updated": "24 April 2026 à 08:55 UTC",
+  "last_updated": "25 April 2026 à 08:00 UTC",
   "articles": [
     {
-      "source": "Quanta Magazine",
-      "title": "Quantum ‘Jamming’ Explores the Truly Fundamental Principles of Nature",
-      "link": "https://www.quantamagazine.org/quantum-jamming-explores-the-truly-fundamental-principles-of-nature-20260417/",
-      "date": "17 Apr 2026"
+      "source": "Nature – Quantum Information",
+      "title": "Efficient post-selection for general quantum LDPC Codes",
+      "link": "https://www.nature.com/articles/s41534-026-01242-x",
+      "date": "24 Apr 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Placing and routing quantum LDPC codes in multilayer superconducting hardware",
+      "link": "https://www.nature.com/articles/s41534-026-01243-w",
+      "date": "24 Apr 2026"
     },
     {
       "source": "Nature – Quantum Information",
@@ -23,12 +29,6 @@
       "source": "Nature – Quantum Information",
       "title": "Distributed quantum inner product estimation with structured random circuits",
       "link": "https://www.nature.com/articles/s41534-026-01247-6",
-      "date": "21 Apr 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Two-qubit gates using on-demand single-photons from ordered shape and size controlled large-volume superradiant quantum dots",
-      "link": "https://www.nature.com/articles/s41534-026-01221-2",
       "date": "21 Apr 2026"
     },
     {
@@ -63,6 +63,12 @@
     },
     {
       "source": "Hacker News – Quantum",
+      "title": "Seemingly Magical Science Behind Quantum Computing",
+      "link": "https://www.wsj.com/tech/how-quantum-computing-works-cab3fef2",
+      "date": "24 Apr 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
       "title": "When will quantum computing break cryptography?",
       "link": "https://blog.alcazarsec.com/tech/posts/when-will-quantum-computing-break-cryptography",
       "date": "22 Apr 2026"
@@ -84,12 +90,6 @@
       "title": "Landscape of Quantum Computing in 2026",
       "link": "https://sam-jaques.appspot.com/quantum_landscape",
       "date": "21 Apr 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Bitcoin and Quantum Computing: A Roadmap",
-      "link": "https://nehanarula.org/2026/04/20/bitcoin-and-quantum-a-roadmap.html",
-      "date": "20 Apr 2026"
     }
   ]
 }
