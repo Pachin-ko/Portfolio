@@ -1,5 +1,5 @@
 {
-  "last_updated": "26 April 2026 à 08:12 UTC",
+  "last_updated": "27 April 2026 à 09:13 UTC",
   "articles": [
     {
       "source": "Nature – Quantum Information",
@@ -63,6 +63,18 @@
     },
     {
       "source": "Hacker News – Quantum",
+      "title": "Goldman, JPMorgan Show Wall Street's Split in Quantum Computing Race",
+      "link": "https://www.bloomberg.com/news/features/2026-04-26/wall-street-s-quantum-computing-divide-goldman-retreats-jpmorgan-invests",
+      "date": "27 Apr 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "The missing piece in quantum computing – Cisco's universal quantum switch",
+      "link": "https://finshots.in/archive/the-missing-piece-in-quantum-computing/",
+      "date": "27 Apr 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
       "title": "Seemingly Magical Science Behind Quantum Computing",
       "link": "https://www.wsj.com/tech/how-quantum-computing-works-cab3fef2",
       "date": "24 Apr 2026"
@@ -78,18 +90,6 @@
       "title": "The FeMo-cofactor and classical and quantum computing",
       "link": "https://quantumfrontiers.com/2026/03/12/the-femo-cofactor-and-classical-and-quantum-computing/",
       "date": "22 Apr 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "The road to useful quantum computing applications",
-      "link": "https://blog.google/innovation-and-ai/technology/research/useful-quantum-computing-applications/",
-      "date": "21 Apr 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Landscape of Quantum Computing in 2026",
-      "link": "https://sam-jaques.appspot.com/quantum_landscape",
-      "date": "21 Apr 2026"
     }
   ]
 }

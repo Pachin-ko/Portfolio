@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **26 April 2026 à 08:12 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **27 April 2026 à 09:13 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -25,11 +25,11 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Hacker News – Quantum
 
+- [Goldman, JPMorgan Show Wall Street's Split in Quantum Computing Race](https://www.bloomberg.com/news/features/2026-04-26/wall-street-s-quantum-computing-divide-goldman-retreats-jpmorgan-invests) — *27 Apr 2026*
+- [The missing piece in quantum computing – Cisco's universal quantum switch](https://finshots.in/archive/the-missing-piece-in-quantum-computing/) — *27 Apr 2026*
 - [Seemingly Magical Science Behind Quantum Computing](https://www.wsj.com/tech/how-quantum-computing-works-cab3fef2) — *24 Apr 2026*
 - [When will quantum computing break cryptography?](https://blog.alcazarsec.com/tech/posts/when-will-quantum-computing-break-cryptography) — *22 Apr 2026*
 - [The FeMo-cofactor and classical and quantum computing](https://quantumfrontiers.com/2026/03/12/the-femo-cofactor-and-classical-and-quantum-computing/) — *22 Apr 2026*
-- [The road to useful quantum computing applications](https://blog.google/innovation-and-ai/technology/research/useful-quantum-computing-applications/) — *21 Apr 2026*
-- [Landscape of Quantum Computing in 2026](https://sam-jaques.appspot.com/quantum_landscape) — *21 Apr 2026*
 
 ---
 
