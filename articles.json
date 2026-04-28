@@ -1,5 +1,5 @@
 {
-  "last_updated": "27 April 2026 à 09:13 UTC",
+  "last_updated": "28 April 2026 à 09:13 UTC",
   "articles": [
     {
       "source": "Nature – Quantum Information",
@@ -24,12 +24,6 @@
       "title": "Surface-code hardware Hamiltonian",
       "link": "https://www.nature.com/articles/s41534-026-01241-y",
       "date": "22 Apr 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Distributed quantum inner product estimation with structured random circuits",
-      "link": "https://www.nature.com/articles/s41534-026-01247-6",
-      "date": "21 Apr 2026"
     },
     {
       "source": "Physics Today",
@@ -63,6 +57,12 @@
     },
     {
       "source": "Hacker News – Quantum",
+      "title": "A Complete History of Quantum Computing (and what comes next)",
+      "link": "https://quantumzeitgeist.com/a-complete-history-of-quantum-computing/",
+      "date": "28 Apr 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
       "title": "Goldman, JPMorgan Show Wall Street's Split in Quantum Computing Race",
       "link": "https://www.bloomberg.com/news/features/2026-04-26/wall-street-s-quantum-computing-divide-goldman-retreats-jpmorgan-invests",
       "date": "27 Apr 2026"
@@ -83,12 +83,6 @@
       "source": "Hacker News – Quantum",
       "title": "When will quantum computing break cryptography?",
       "link": "https://blog.alcazarsec.com/tech/posts/when-will-quantum-computing-break-cryptography",
-      "date": "22 Apr 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "The FeMo-cofactor and classical and quantum computing",
-      "link": "https://quantumfrontiers.com/2026/03/12/the-femo-cofactor-and-classical-and-quantum-computing/",
       "date": "22 Apr 2026"
     }
   ]
