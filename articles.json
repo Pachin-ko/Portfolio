@@ -1,6 +1,12 @@
 {
-  "last_updated": "28 April 2026 à 09:13 UTC",
+  "last_updated": "29 April 2026 à 09:05 UTC",
   "articles": [
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Scaffold-assisted window junctions for superconducting qubit fabrication",
+      "link": "https://www.nature.com/articles/s41534-026-01249-4",
+      "date": "28 Apr 2026"
+    },
     {
       "source": "Nature – Quantum Information",
       "title": "Efficient post-selection for general quantum LDPC Codes",
@@ -20,10 +26,16 @@
       "date": "24 Apr 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "Surface-code hardware Hamiltonian",
-      "link": "https://www.nature.com/articles/s41534-026-01241-y",
-      "date": "22 Apr 2026"
+      "source": "Physics Today",
+      "title": "Steady-state quantum coherence in driven open quantum system: An optimal transformation analysis",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/16/164307/3388074/Steady-state-quantum-coherence-in-driven-open",
+      "date": "28 Apr 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Transport Hamiltonians for helical spintronics: Derivation from symmetries",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/16/164115/3388068/Transport-Hamiltonians-for-helical-spintronics",
+      "date": "28 Apr 2026"
     },
     {
       "source": "Physics Today",
@@ -38,22 +50,10 @@
       "date": "23 Apr 2026"
     },
     {
-      "source": "Physics Today",
-      "title": "The partition-of-unity quantum (PUQ) method for wavepacket dynamics",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/16/164102/3387623/The-partition-of-unity-quantum-PUQ-method-for",
-      "date": "22 Apr 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Pressure induced structural transition and optoelectronic modification in inorganic metavanadate phosphor",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/16/164701/3387594/Pressure-induced-structural-transition-and",
-      "date": "22 Apr 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Why dibenzo[b,f][1,4,5]oxadiazepine fails for molecular solar thermal energy storage: Mechanistic insights and a synergistic optimization strategy",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/16/164302/3387589/Why-dibenzo-b-f-1-4-5-oxadiazepine-fails-for",
-      "date": "22 Apr 2026"
+      "source": "Hacker News – Quantum",
+      "title": "Quantum Computing and Blockchain [pdf]",
+      "link": "https://assets.ctfassets.net/sygt3q11s4a9/6EjYavuGdtJDYCqaJrASj9/9f464a8bf26f44bd6c85710fe7e4a29f/Quantum_Computing_and_Blockchain_v10.3_15April2026.pdf",
+      "date": "29 Apr 2026"
     },
     {
       "source": "Hacker News – Quantum",
@@ -78,12 +78,6 @@
       "title": "Seemingly Magical Science Behind Quantum Computing",
       "link": "https://www.wsj.com/tech/how-quantum-computing-works-cab3fef2",
       "date": "24 Apr 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "When will quantum computing break cryptography?",
-      "link": "https://blog.alcazarsec.com/tech/posts/when-will-quantum-computing-break-cryptography",
-      "date": "22 Apr 2026"
     }
   ]
 }
