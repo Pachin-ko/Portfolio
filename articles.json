@@ -1,6 +1,12 @@
 {
-  "last_updated": "29 April 2026 à 09:05 UTC",
+  "last_updated": "30 April 2026 à 09:07 UTC",
   "articles": [
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Multi-dimensional frequency-bin entanglement-based quantum key distribution network",
+      "link": "https://www.nature.com/articles/s41534-026-01198-y",
+      "date": "29 Apr 2026"
+    },
     {
       "source": "Nature – Quantum Information",
       "title": "Scaffold-assisted window junctions for superconducting qubit fabrication",
@@ -27,6 +33,12 @@
     },
     {
       "source": "Physics Today",
+      "title": "Collision-induced fragmentation of the EMI-BF 4  propellant in electrospray thrusters:  Ab initio  molecular dynamics simulations",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/16/164308/3388378/Collision-induced-fragmentation-of-the-EMI-BF4",
+      "date": "29 Apr 2026"
+    },
+    {
+      "source": "Physics Today",
       "title": "Steady-state quantum coherence in driven open quantum system: An optimal transformation analysis",
       "link": "https://pubs.aip.org/aip/jcp/article/164/16/164307/3388074/Steady-state-quantum-coherence-in-driven-open",
       "date": "28 Apr 2026"
@@ -36,18 +48,6 @@
       "title": "Transport Hamiltonians for helical spintronics: Derivation from symmetries",
       "link": "https://pubs.aip.org/aip/jcp/article/164/16/164115/3388068/Transport-Hamiltonians-for-helical-spintronics",
       "date": "28 Apr 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "1 H spin–lattice relaxation enhancement caused by magnetic core–shell nanoparticles—Testing theoretical models",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/16/164905/3387721/1H-spin-lattice-relaxation-enhancement-caused-by",
-      "date": "23 Apr 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Expansion of time-convolutionless non-Markovian quantum master equations: A case study using the Fano–Anderson model",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/16/164110/3387716/Expansion-of-time-convolutionless-non-Markovian",
-      "date": "23 Apr 2026"
     },
     {
       "source": "Hacker News – Quantum",

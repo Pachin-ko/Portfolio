@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **29 April 2026 à 09:05 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **30 April 2026 à 09:07 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -9,6 +9,7 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Nature – Quantum Information
 
+- [Multi-dimensional frequency-bin entanglement-based quantum key distribution network](https://www.nature.com/articles/s41534-026-01198-y) — *29 Apr 2026*
 - [Scaffold-assisted window junctions for superconducting qubit fabrication](https://www.nature.com/articles/s41534-026-01249-4) — *28 Apr 2026*
 - [Efficient post-selection for general quantum LDPC Codes](https://www.nature.com/articles/s41534-026-01242-x) — *24 Apr 2026*
 - [Placing and routing quantum LDPC codes in multilayer superconducting hardware](https://www.nature.com/articles/s41534-026-01243-w) — *24 Apr 2026*
@@ -16,10 +17,9 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Physics Today
 
+- [Collision-induced fragmentation of the EMI-BF 4  propellant in electrospray thrusters:  Ab initio  molecular dynamics simulations](https://pubs.aip.org/aip/jcp/article/164/16/164308/3388378/Collision-induced-fragmentation-of-the-EMI-BF4) — *29 Apr 2026*
 - [Steady-state quantum coherence in driven open quantum system: An optimal transformation analysis](https://pubs.aip.org/aip/jcp/article/164/16/164307/3388074/Steady-state-quantum-coherence-in-driven-open) — *28 Apr 2026*
 - [Transport Hamiltonians for helical spintronics: Derivation from symmetries](https://pubs.aip.org/aip/jcp/article/164/16/164115/3388068/Transport-Hamiltonians-for-helical-spintronics) — *28 Apr 2026*
-- [1 H spin–lattice relaxation enhancement caused by magnetic core–shell nanoparticles—Testing theoretical models](https://pubs.aip.org/aip/jcp/article/164/16/164905/3387721/1H-spin-lattice-relaxation-enhancement-caused-by) — *23 Apr 2026*
-- [Expansion of time-convolutionless non-Markovian quantum master equations: A case study using the Fano–Anderson model](https://pubs.aip.org/aip/jcp/article/164/16/164110/3387716/Expansion-of-time-convolutionless-non-Markovian) — *23 Apr 2026*
 
 ## 📰 Hacker News – Quantum
 
