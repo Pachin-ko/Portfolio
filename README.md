@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **30 April 2026 à 09:07 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **01 May 2026 à 08:53 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -11,9 +11,6 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 - [Multi-dimensional frequency-bin entanglement-based quantum key distribution network](https://www.nature.com/articles/s41534-026-01198-y) — *29 Apr 2026*
 - [Scaffold-assisted window junctions for superconducting qubit fabrication](https://www.nature.com/articles/s41534-026-01249-4) — *28 Apr 2026*
-- [Efficient post-selection for general quantum LDPC Codes](https://www.nature.com/articles/s41534-026-01242-x) — *24 Apr 2026*
-- [Placing and routing quantum LDPC codes in multilayer superconducting hardware](https://www.nature.com/articles/s41534-026-01243-w) — *24 Apr 2026*
-- [Near-term fermionic simulation with subspace noise tailored quantum error mitigation](https://www.nature.com/articles/s41534-026-01248-5) — *24 Apr 2026*
 
 ## 📰 Physics Today
 
