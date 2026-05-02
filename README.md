@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **01 May 2026 à 08:53 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **02 May 2026 à 08:17 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -24,7 +24,6 @@ agrégés depuis des sources académiques, tech et communautaires.
 - [A Complete History of Quantum Computing (and what comes next)](https://quantumzeitgeist.com/a-complete-history-of-quantum-computing/) — *28 Apr 2026*
 - [Goldman, JPMorgan Show Wall Street's Split in Quantum Computing Race](https://www.bloomberg.com/news/features/2026-04-26/wall-street-s-quantum-computing-divide-goldman-retreats-jpmorgan-invests) — *27 Apr 2026*
 - [The missing piece in quantum computing – Cisco's universal quantum switch](https://finshots.in/archive/the-missing-piece-in-quantum-computing/) — *27 Apr 2026*
-- [Seemingly Magical Science Behind Quantum Computing](https://www.wsj.com/tech/how-quantum-computing-works-cab3fef2) — *24 Apr 2026*
 
 ---
 
