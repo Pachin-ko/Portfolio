@@ -1,5 +1,5 @@
 {
-  "last_updated": "03 May 2026 à 08:29 UTC",
+  "last_updated": "04 May 2026 à 09:11 UTC",
   "articles": [
     {
       "source": "Nature – Quantum Information",
@@ -42,18 +42,6 @@
       "title": "A Complete History of Quantum Computing (and what comes next)",
       "link": "https://quantumzeitgeist.com/a-complete-history-of-quantum-computing/",
       "date": "28 Apr 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Goldman, JPMorgan Show Wall Street's Split in Quantum Computing Race",
-      "link": "https://www.bloomberg.com/news/features/2026-04-26/wall-street-s-quantum-computing-divide-goldman-retreats-jpmorgan-invests",
-      "date": "27 Apr 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "The missing piece in quantum computing – Cisco's universal quantum switch",
-      "link": "https://finshots.in/archive/the-missing-piece-in-quantum-computing/",
-      "date": "27 Apr 2026"
     }
   ]
 }
