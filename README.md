@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **04 May 2026 à 09:11 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **05 May 2026 à 09:03 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -9,19 +9,16 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Nature – Quantum Information
 
+- [Quantum-classical embedding via ghost Gutzwiller approximation for enhanced simulations of correlated electron systems](https://www.nature.com/articles/s41534-026-01244-9) — *04 May 2026*
 - [Multi-dimensional frequency-bin entanglement-based quantum key distribution network](https://www.nature.com/articles/s41534-026-01198-y) — *29 Apr 2026*
-- [Scaffold-assisted window junctions for superconducting qubit fabrication](https://www.nature.com/articles/s41534-026-01249-4) — *28 Apr 2026*
 
 ## 📰 Physics Today
 
-- [Collision-induced fragmentation of the EMI-BF 4  propellant in electrospray thrusters:  Ab initio  molecular dynamics simulations](https://pubs.aip.org/aip/jcp/article/164/16/164308/3388378/Collision-induced-fragmentation-of-the-EMI-BF4) — *29 Apr 2026*
-- [Steady-state quantum coherence in driven open quantum system: An optimal transformation analysis](https://pubs.aip.org/aip/jcp/article/164/16/164307/3388074/Steady-state-quantum-coherence-in-driven-open) — *28 Apr 2026*
-- [Transport Hamiltonians for helical spintronics: Derivation from symmetries](https://pubs.aip.org/aip/jcp/article/164/16/164115/3388068/Transport-Hamiltonians-for-helical-spintronics) — *28 Apr 2026*
-
-## 📰 Hacker News – Quantum
-
-- [Quantum Computing and Blockchain [pdf]](https://assets.ctfassets.net/sygt3q11s4a9/6EjYavuGdtJDYCqaJrASj9/9f464a8bf26f44bd6c85710fe7e4a29f/Quantum_Computing_and_Blockchain_v10.3_15April2026.pdf) — *29 Apr 2026*
-- [A Complete History of Quantum Computing (and what comes next)](https://quantumzeitgeist.com/a-complete-history-of-quantum-computing/) — *28 Apr 2026*
+- [Quantum metrology of pump–probe spectroscopy](https://pubs.aip.org/aip/jcp/article/164/17/174104/3388744/Quantum-metrology-of-pump-probe-spectroscopy) — *04 May 2026*
+- [Cooperative chemical reactions in optical cavities: A complex interplay of mode hybridization, timescale balance, and pathway interference](https://pubs.aip.org/aip/jcp/article/164/17/174103/3388714/Cooperative-chemical-reactions-in-optical-cavities) — *04 May 2026*
+- [Integrating quantum neural networks with the variational quantum eigensolver to calculate nonadiabatic coupling vectors](https://pubs.aip.org/aip/jcp/article/164/17/174111/3388712/Integrating-quantum-neural-networks-with-the) — *04 May 2026*
+- [Full-dimensional potential energy surface for the H 2  + N 2  system and quantum scattering calculations of collision-induced rotational energy transfer](https://pubs.aip.org/aip/jcp/article/164/17/174304/3388709/Full-dimensional-potential-energy-surface-for-the) — *04 May 2026*
+- [Elliptically polarized high-order harmonic generation by controlling quantum paths with two-dimensional laser fields](https://pubs.aip.org/aip/jcp/article/164/17/174302/3388708/Elliptically-polarized-high-order-harmonic) — *04 May 2026*
 
 ---
 

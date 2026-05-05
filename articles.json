@@ -1,6 +1,12 @@
 {
-  "last_updated": "04 May 2026 à 09:11 UTC",
+  "last_updated": "05 May 2026 à 09:03 UTC",
   "articles": [
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Quantum-classical embedding via ghost Gutzwiller approximation for enhanced simulations of correlated electron systems",
+      "link": "https://www.nature.com/articles/s41534-026-01244-9",
+      "date": "04 May 2026"
+    },
     {
       "source": "Nature – Quantum Information",
       "title": "Multi-dimensional frequency-bin entanglement-based quantum key distribution network",
@@ -8,40 +14,34 @@
       "date": "29 Apr 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "Scaffold-assisted window junctions for superconducting qubit fabrication",
-      "link": "https://www.nature.com/articles/s41534-026-01249-4",
-      "date": "28 Apr 2026"
+      "source": "Physics Today",
+      "title": "Quantum metrology of pump–probe spectroscopy",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/17/174104/3388744/Quantum-metrology-of-pump-probe-spectroscopy",
+      "date": "04 May 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Collision-induced fragmentation of the EMI-BF 4  propellant in electrospray thrusters:  Ab initio  molecular dynamics simulations",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/16/164308/3388378/Collision-induced-fragmentation-of-the-EMI-BF4",
-      "date": "29 Apr 2026"
+      "title": "Cooperative chemical reactions in optical cavities: A complex interplay of mode hybridization, timescale balance, and pathway interference",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/17/174103/3388714/Cooperative-chemical-reactions-in-optical-cavities",
+      "date": "04 May 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Steady-state quantum coherence in driven open quantum system: An optimal transformation analysis",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/16/164307/3388074/Steady-state-quantum-coherence-in-driven-open",
-      "date": "28 Apr 2026"
+      "title": "Integrating quantum neural networks with the variational quantum eigensolver to calculate nonadiabatic coupling vectors",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/17/174111/3388712/Integrating-quantum-neural-networks-with-the",
+      "date": "04 May 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Transport Hamiltonians for helical spintronics: Derivation from symmetries",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/16/164115/3388068/Transport-Hamiltonians-for-helical-spintronics",
-      "date": "28 Apr 2026"
+      "title": "Full-dimensional potential energy surface for the H 2  + N 2  system and quantum scattering calculations of collision-induced rotational energy transfer",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/17/174304/3388709/Full-dimensional-potential-energy-surface-for-the",
+      "date": "04 May 2026"
     },
     {
-      "source": "Hacker News – Quantum",
-      "title": "Quantum Computing and Blockchain [pdf]",
-      "link": "https://assets.ctfassets.net/sygt3q11s4a9/6EjYavuGdtJDYCqaJrASj9/9f464a8bf26f44bd6c85710fe7e4a29f/Quantum_Computing_and_Blockchain_v10.3_15April2026.pdf",
-      "date": "29 Apr 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "A Complete History of Quantum Computing (and what comes next)",
-      "link": "https://quantumzeitgeist.com/a-complete-history-of-quantum-computing/",
-      "date": "28 Apr 2026"
+      "source": "Physics Today",
+      "title": "Elliptically polarized high-order harmonic generation by controlling quantum paths with two-dimensional laser fields",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/17/174302/3388708/Elliptically-polarized-high-order-harmonic",
+      "date": "04 May 2026"
     }
   ]
 }
