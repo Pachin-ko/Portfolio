@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **07 May 2026 à 09:26 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **08 May 2026 à 08:18 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -17,11 +17,11 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Physics Today
 
+- [Ab initio  triplet–triplet annihilation rates for phosphorescent OLED emitters](https://pubs.aip.org/aip/jcp/article/164/17/174314/3388981/Ab-initio-triplet-triplet-annihilation-rates-for) — *07 May 2026*
 - [Stable memory kernel coupling theory for quantum dynamics: Projection-based and continued fraction methods](https://pubs.aip.org/aip/jcp/article/164/17/174118/3388921/Stable-memory-kernel-coupling-theory-for-quantum) — *06 May 2026*
 - [Consistent inclusion of triple substitutions within a coupled cluster based static quantum embedding theory](https://pubs.aip.org/aip/jcp/article/164/17/174116/3388898/Consistent-inclusion-of-triple-substitutions) — *06 May 2026*
 - [Operational impact of quantum resources in chemical dynamics](https://pubs.aip.org/aip/jcp/article/164/17/174115/3388857/Operational-impact-of-quantum-resources-in) — *05 May 2026*
 - [p -H 2  vs  o -D 2  clusters: From liquid-like to glass-like behavior](https://pubs.aip.org/aip/jcp/article/164/17/174310/3388768/p-H2-vs-o-D2-clusters-From-liquid-like-to-glass) — *05 May 2026*
-- [Ultracold heavy molecular anions as enhanced probes of  CP  violation](https://pubs.aip.org/aip/jcp/article/164/17/174307/3388764/Ultracold-heavy-molecular-anions-as-enhanced) — *05 May 2026*
 
 ## 📰 Hacker News – Quantum
 
