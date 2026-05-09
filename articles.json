@@ -1,6 +1,24 @@
 {
-  "last_updated": "08 May 2026 à 08:18 UTC",
+  "last_updated": "09 May 2026 à 08:23 UTC",
   "articles": [
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Polynomially efficient quantum enabled variational Monte Carlo for training neural-network quantum states for physico-chemical applications",
+      "link": "https://www.nature.com/articles/s41534-026-01230-1",
+      "date": "08 May 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Non-Markovianity and memory enhancement in quantum reservoir computing",
+      "link": "https://www.nature.com/articles/s41534-026-01257-4",
+      "date": "08 May 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Efficient simulation of low-entanglement bosonic Gaussian states in polynomial time",
+      "link": "https://www.nature.com/articles/s41534-026-01254-7",
+      "date": "07 May 2026"
+    },
     {
       "source": "Nature – Quantum Information",
       "title": "Quantum bipolar thermoelectricity",
@@ -14,52 +32,10 @@
       "date": "06 May 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "Bridging chemistry and Gaussian boson sampling: a photonic hierarchy of approximations for molecular vibronic spectra",
-      "link": "https://www.nature.com/articles/s41534-026-01250-x",
-      "date": "06 May 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Multiuser entanglement distribution network across cryogenic nodes enabled by integrated photonic chips",
-      "link": "https://www.nature.com/articles/s41534-026-01262-7",
-      "date": "06 May 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Large-scale quantum reservoir computing using a Gaussian Boson Sampler",
-      "link": "https://www.nature.com/articles/s41534-026-01251-w",
-      "date": "06 May 2026"
-    },
-    {
       "source": "Physics Today",
-      "title": "Ab initio  triplet–triplet annihilation rates for phosphorescent OLED emitters",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/17/174314/3388981/Ab-initio-triplet-triplet-annihilation-rates-for",
-      "date": "07 May 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Stable memory kernel coupling theory for quantum dynamics: Projection-based and continued fraction methods",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/17/174118/3388921/Stable-memory-kernel-coupling-theory-for-quantum",
-      "date": "06 May 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Consistent inclusion of triple substitutions within a coupled cluster based static quantum embedding theory",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/17/174116/3388898/Consistent-inclusion-of-triple-substitutions",
-      "date": "06 May 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Operational impact of quantum resources in chemical dynamics",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/17/174115/3388857/Operational-impact-of-quantum-resources-in",
-      "date": "05 May 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "p -H 2  vs  o -D 2  clusters: From liquid-like to glass-like behavior",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/17/174310/3388768/p-H2-vs-o-D2-clusters-From-liquid-like-to-glass",
-      "date": "05 May 2026"
+      "title": "A missing oxidation node in chlorine–sulfur chemical networks: Accurate spectroscopic signatures of Cl 2 S 2 O isomers",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/18/184302/3389290/A-missing-oxidation-node-in-chlorine-sulfur",
+      "date": "08 May 2026"
     },
     {
       "source": "Hacker News – Quantum",
