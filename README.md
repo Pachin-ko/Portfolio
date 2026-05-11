@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **10 May 2026 à 08:48 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **11 May 2026 à 10:29 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -9,11 +9,11 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Nature – Quantum Information
 
+- [Stabilizer entanglement enhances magic injection](https://www.nature.com/articles/s41534-026-01265-4) — *11 May 2026*
 - [Polynomially efficient quantum enabled variational Monte Carlo for training neural-network quantum states for physico-chemical applications](https://www.nature.com/articles/s41534-026-01230-1) — *08 May 2026*
 - [Non-Markovianity and memory enhancement in quantum reservoir computing](https://www.nature.com/articles/s41534-026-01257-4) — *08 May 2026*
 - [Efficient simulation of low-entanglement bosonic Gaussian states in polynomial time](https://www.nature.com/articles/s41534-026-01254-7) — *07 May 2026*
 - [Quantum bipolar thermoelectricity](https://www.nature.com/articles/s41534-026-01237-8) — *06 May 2026*
-- [Security analysis of orthogonal state attack on a high-speed quantum key distribution system](https://www.nature.com/articles/s41534-026-01252-9) — *06 May 2026*
 
 ## 📰 Physics Today
 

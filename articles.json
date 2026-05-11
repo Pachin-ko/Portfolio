@@ -1,6 +1,12 @@
 {
-  "last_updated": "10 May 2026 à 08:48 UTC",
+  "last_updated": "11 May 2026 à 10:29 UTC",
   "articles": [
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Stabilizer entanglement enhances magic injection",
+      "link": "https://www.nature.com/articles/s41534-026-01265-4",
+      "date": "11 May 2026"
+    },
     {
       "source": "Nature – Quantum Information",
       "title": "Polynomially efficient quantum enabled variational Monte Carlo for training neural-network quantum states for physico-chemical applications",
@@ -23,12 +29,6 @@
       "source": "Nature – Quantum Information",
       "title": "Quantum bipolar thermoelectricity",
       "link": "https://www.nature.com/articles/s41534-026-01237-8",
-      "date": "06 May 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Security analysis of orthogonal state attack on a high-speed quantum key distribution system",
-      "link": "https://www.nature.com/articles/s41534-026-01252-9",
       "date": "06 May 2026"
     },
     {
