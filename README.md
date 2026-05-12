@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **11 May 2026 à 10:29 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **12 May 2026 à 09:29 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -17,12 +17,14 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Physics Today
 
+- [Fluorescence concentration quenching in phthalocyanine solutions: Experimental observation and theoretical insights](https://pubs.aip.org/aip/jcp/article/164/18/184304/3389416/Fluorescence-concentration-quenching-in) — *11 May 2026*
+- [Uniform process tensor approach for the calculation of multi-time correlation functions of non-Markovian open systems](https://pubs.aip.org/aip/jcp/article/164/18/184104/3389366/Uniform-process-tensor-approach-for-the) — *11 May 2026*
+- [Nuclear quantum effects on structure and thermal conductivity of superionic ice](https://pubs.aip.org/aip/jcp/article/164/18/184504/3389304/Nuclear-quantum-effects-on-structure-and-thermal) — *11 May 2026*
 - [A missing oxidation node in chlorine–sulfur chemical networks: Accurate spectroscopic signatures of Cl 2 S 2 O isomers](https://pubs.aip.org/aip/jcp/article/164/18/184302/3389290/A-missing-oxidation-node-in-chlorine-sulfur) — *08 May 2026*
 
 ## 📰 Hacker News – Quantum
 
 - [Ask HN: Is quantum computing worth the struggle?](https://news.ycombinator.com/item?id=48033532) — *06 May 2026*
-- [Coinbase Advisers Warn Quantum Computing Will Crack Blockchain Encryption](https://thequantuminsider.com/2026/04/25/coinbase-advisers-warn-quantum-computing-will-crack-blockchain-encryption-and-the-window-to-prepare-is-narrowing/) — *05 May 2026*
 
 ---
 

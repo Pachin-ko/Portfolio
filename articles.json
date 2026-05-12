@@ -1,5 +1,5 @@
 {
-  "last_updated": "11 May 2026 à 10:29 UTC",
+  "last_updated": "12 May 2026 à 09:29 UTC",
   "articles": [
     {
       "source": "Nature – Quantum Information",
@@ -33,6 +33,24 @@
     },
     {
       "source": "Physics Today",
+      "title": "Fluorescence concentration quenching in phthalocyanine solutions: Experimental observation and theoretical insights",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/18/184304/3389416/Fluorescence-concentration-quenching-in",
+      "date": "11 May 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Uniform process tensor approach for the calculation of multi-time correlation functions of non-Markovian open systems",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/18/184104/3389366/Uniform-process-tensor-approach-for-the",
+      "date": "11 May 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Nuclear quantum effects on structure and thermal conductivity of superionic ice",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/18/184504/3389304/Nuclear-quantum-effects-on-structure-and-thermal",
+      "date": "11 May 2026"
+    },
+    {
+      "source": "Physics Today",
       "title": "A missing oxidation node in chlorine–sulfur chemical networks: Accurate spectroscopic signatures of Cl 2 S 2 O isomers",
       "link": "https://pubs.aip.org/aip/jcp/article/164/18/184302/3389290/A-missing-oxidation-node-in-chlorine-sulfur",
       "date": "08 May 2026"
@@ -42,12 +60,6 @@
       "title": "Ask HN: Is quantum computing worth the struggle?",
       "link": "https://news.ycombinator.com/item?id=48033532",
       "date": "06 May 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Coinbase Advisers Warn Quantum Computing Will Crack Blockchain Encryption",
-      "link": "https://thequantuminsider.com/2026/04/25/coinbase-advisers-warn-quantum-computing-will-crack-blockchain-encryption-and-the-window-to-prepare-is-narrowing/",
-      "date": "05 May 2026"
     }
   ]
 }
