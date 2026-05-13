@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **12 May 2026 à 09:29 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **13 May 2026 à 09:36 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -13,18 +13,14 @@ agrégés depuis des sources académiques, tech et communautaires.
 - [Polynomially efficient quantum enabled variational Monte Carlo for training neural-network quantum states for physico-chemical applications](https://www.nature.com/articles/s41534-026-01230-1) — *08 May 2026*
 - [Non-Markovianity and memory enhancement in quantum reservoir computing](https://www.nature.com/articles/s41534-026-01257-4) — *08 May 2026*
 - [Efficient simulation of low-entanglement bosonic Gaussian states in polynomial time](https://www.nature.com/articles/s41534-026-01254-7) — *07 May 2026*
-- [Quantum bipolar thermoelectricity](https://www.nature.com/articles/s41534-026-01237-8) — *06 May 2026*
 
 ## 📰 Physics Today
 
-- [Fluorescence concentration quenching in phthalocyanine solutions: Experimental observation and theoretical insights](https://pubs.aip.org/aip/jcp/article/164/18/184304/3389416/Fluorescence-concentration-quenching-in) — *11 May 2026*
-- [Uniform process tensor approach for the calculation of multi-time correlation functions of non-Markovian open systems](https://pubs.aip.org/aip/jcp/article/164/18/184104/3389366/Uniform-process-tensor-approach-for-the) — *11 May 2026*
-- [Nuclear quantum effects on structure and thermal conductivity of superionic ice](https://pubs.aip.org/aip/jcp/article/164/18/184504/3389304/Nuclear-quantum-effects-on-structure-and-thermal) — *11 May 2026*
-- [A missing oxidation node in chlorine–sulfur chemical networks: Accurate spectroscopic signatures of Cl 2 S 2 O isomers](https://pubs.aip.org/aip/jcp/article/164/18/184302/3389290/A-missing-oxidation-node-in-chlorine-sulfur) — *08 May 2026*
-
-## 📰 Hacker News – Quantum
-
-- [Ask HN: Is quantum computing worth the struggle?](https://news.ycombinator.com/item?id=48033532) — *06 May 2026*
+- [Response to “Comment on ‘Effective spin Hamiltonians for the quantum-rotor tunneling problem in pulse EPR'” [J. Chem. Phys. 164, 187101 (2025)]](https://pubs.aip.org/aip/jcp/article/164/18/187102/3391083/Response-to-Comment-on-Effective-spin-Hamiltonians) — *12 May 2026*
+- [Solvent effects on triplet yields in BODIPY-based photosensitizers](https://pubs.aip.org/aip/jcp/article/164/18/184507/3389436/Solvent-effects-on-triplet-yields-in-BODIPY-based) — *12 May 2026*
+- [Theoretical insights on photoprotective mechanisms and relaxation dynamics of the sinapate family: Sinapic acid](https://pubs.aip.org/aip/jcp/article/164/18/184305/3389435/Theoretical-insights-on-photoprotective-mechanisms) — *12 May 2026*
+- [Cavity quantum electrodynamics ring coupled cluster and the random phase approximation](https://pubs.aip.org/aip/jcp/article/164/18/184113/3389433/Cavity-quantum-electrodynamics-ring-coupled) — *12 May 2026*
+- [Strong noise suppression in non-Markovian transport through a vibrating molecular junction](https://pubs.aip.org/aip/jcp/article/164/18/184109/3389429/Strong-noise-suppression-in-non-Markovian) — *12 May 2026*
 
 ---
 
