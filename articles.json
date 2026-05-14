@@ -1,6 +1,24 @@
 {
-  "last_updated": "13 May 2026 à 09:36 UTC",
+  "last_updated": "14 May 2026 à 09:27 UTC",
   "articles": [
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Quantum computational sensing using quantum signal processing, quantum neural networks, and Hamiltonian engineering",
+      "link": "https://www.nature.com/articles/s41534-026-01235-w",
+      "date": "14 May 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Squeezed light in a semiconductor microcavity",
+      "link": "https://www.nature.com/articles/s41534-026-01267-2",
+      "date": "13 May 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Relativity and decoherence of spacetime superpositions",
+      "link": "https://www.nature.com/articles/s41534-026-01234-x",
+      "date": "13 May 2026"
+    },
     {
       "source": "Nature – Quantum Information",
       "title": "Stabilizer entanglement enhances magic injection",
@@ -14,16 +32,10 @@
       "date": "08 May 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "Non-Markovianity and memory enhancement in quantum reservoir computing",
-      "link": "https://www.nature.com/articles/s41534-026-01257-4",
-      "date": "08 May 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Efficient simulation of low-entanglement bosonic Gaussian states in polynomial time",
-      "link": "https://www.nature.com/articles/s41534-026-01254-7",
-      "date": "07 May 2026"
+      "source": "Physics Today",
+      "title": "Low-energy DNA bubble dynamics via the quantum Coulomb potential",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/18/185103/3391131/Low-energy-DNA-bubble-dynamics-via-the-quantum",
+      "date": "13 May 2026"
     },
     {
       "source": "Physics Today",
@@ -47,12 +59,6 @@
       "source": "Physics Today",
       "title": "Cavity quantum electrodynamics ring coupled cluster and the random phase approximation",
       "link": "https://pubs.aip.org/aip/jcp/article/164/18/184113/3389433/Cavity-quantum-electrodynamics-ring-coupled",
-      "date": "12 May 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Strong noise suppression in non-Markovian transport through a vibrating molecular junction",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/18/184109/3389429/Strong-noise-suppression-in-non-Markovian",
       "date": "12 May 2026"
     }
   ]
