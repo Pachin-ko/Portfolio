@@ -1,6 +1,18 @@
 {
-  "last_updated": "14 May 2026 à 09:27 UTC",
+  "last_updated": "15 May 2026 à 09:39 UTC",
   "articles": [
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Quantum magic dynamics in random circuits",
+      "link": "https://www.nature.com/articles/s41534-026-01253-8",
+      "date": "14 May 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "High-performance continuous-variable quantum secret sharing using a state-discrimination detector",
+      "link": "https://www.nature.com/articles/s41534-026-01260-9",
+      "date": "14 May 2026"
+    },
     {
       "source": "Nature – Quantum Information",
       "title": "Quantum computational sensing using quantum signal processing, quantum neural networks, and Hamiltonian engineering",
@@ -20,16 +32,22 @@
       "date": "13 May 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "Stabilizer entanglement enhances magic injection",
-      "link": "https://www.nature.com/articles/s41534-026-01265-4",
-      "date": "11 May 2026"
+      "source": "Physics Today",
+      "title": "Markovian embeddings of non-Markovian open system dynamics",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/18/184116/3391231/Markovian-embeddings-of-non-Markovian-open-system",
+      "date": "14 May 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "Polynomially efficient quantum enabled variational Monte Carlo for training neural-network quantum states for physico-chemical applications",
-      "link": "https://www.nature.com/articles/s41534-026-01230-1",
-      "date": "08 May 2026"
+      "source": "Physics Today",
+      "title": "Impossibility of refrigeration and engine operation in minimal qubit repeated-interaction models",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/18/184118/3391229/Impossibility-of-refrigeration-and-engine",
+      "date": "14 May 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Constrained nuclear–electronic orbital second-order Møller–Plesset perturbation theory",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/18/184117/3391213/Constrained-nuclear-electronic-orbital-second",
+      "date": "14 May 2026"
     },
     {
       "source": "Physics Today",
@@ -41,24 +59,6 @@
       "source": "Physics Today",
       "title": "Response to “Comment on ‘Effective spin Hamiltonians for the quantum-rotor tunneling problem in pulse EPR'” [J. Chem. Phys. 164, 187101 (2025)]",
       "link": "https://pubs.aip.org/aip/jcp/article/164/18/187102/3391083/Response-to-Comment-on-Effective-spin-Hamiltonians",
-      "date": "12 May 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Solvent effects on triplet yields in BODIPY-based photosensitizers",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/18/184507/3389436/Solvent-effects-on-triplet-yields-in-BODIPY-based",
-      "date": "12 May 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Theoretical insights on photoprotective mechanisms and relaxation dynamics of the sinapate family: Sinapic acid",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/18/184305/3389435/Theoretical-insights-on-photoprotective-mechanisms",
-      "date": "12 May 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Cavity quantum electrodynamics ring coupled cluster and the random phase approximation",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/18/184113/3389433/Cavity-quantum-electrodynamics-ring-coupled",
       "date": "12 May 2026"
     }
   ]
