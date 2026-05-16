@@ -1,6 +1,24 @@
 {
-  "last_updated": "15 May 2026 à 09:39 UTC",
+  "last_updated": "16 May 2026 à 08:44 UTC",
   "articles": [
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Near-optimal discrimination of displaced squeezed binary signals using displacement, inverse-squeezing, and photon-number-resolving detection",
+      "link": "https://www.nature.com/articles/s41534-026-01256-5",
+      "date": "16 May 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Generalized Toffoli gates with customizable single-step multiple-qubit control",
+      "link": "https://www.nature.com/articles/s41534-026-01240-z",
+      "date": "15 May 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Bounding the computational power of bosonic systems",
+      "link": "https://www.nature.com/articles/s41534-026-01255-6",
+      "date": "15 May 2026"
+    },
     {
       "source": "Nature – Quantum Information",
       "title": "Quantum magic dynamics in random circuits",
@@ -14,52 +32,40 @@
       "date": "14 May 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "Quantum computational sensing using quantum signal processing, quantum neural networks, and Hamiltonian engineering",
-      "link": "https://www.nature.com/articles/s41534-026-01235-w",
-      "date": "14 May 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Squeezed light in a semiconductor microcavity",
-      "link": "https://www.nature.com/articles/s41534-026-01267-2",
-      "date": "13 May 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Relativity and decoherence of spacetime superpositions",
-      "link": "https://www.nature.com/articles/s41534-026-01234-x",
-      "date": "13 May 2026"
+      "source": "Physics Today",
+      "title": "Excitation of low-frequency modes and the effects of protein dynamics on spectral densities of bacteriochlorophyll molecules",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/19/195101/3391307/Excitation-of-low-frequency-modes-and-the-effects",
+      "date": "15 May 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Markovian embeddings of non-Markovian open system dynamics",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/18/184116/3391231/Markovian-embeddings-of-non-Markovian-open-system",
-      "date": "14 May 2026"
+      "title": "Simulating non-Markovian open quantum dynamics by exploiting physics-informed neural network",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/19/194101/3391297/Simulating-non-Markovian-open-quantum-dynamics-by",
+      "date": "15 May 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Impossibility of refrigeration and engine operation in minimal qubit repeated-interaction models",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/18/184118/3391229/Impossibility-of-refrigeration-and-engine",
-      "date": "14 May 2026"
+      "title": "A computational approach for the calculation of two-dimensional infrared spectra: Application to the amide I band",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/19/194104/3391296/A-computational-approach-for-the-calculation-of",
+      "date": "15 May 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Constrained nuclear–electronic orbital second-order Møller–Plesset perturbation theory",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/18/184117/3391213/Constrained-nuclear-electronic-orbital-second",
-      "date": "14 May 2026"
+      "title": "A staging Monte Carlo algorithm for sampling off-diagonal density matrix elements via open-chain path integrals",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/19/194105/3391292/A-staging-Monte-Carlo-algorithm-for-sampling-off",
+      "date": "15 May 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Low-energy DNA bubble dynamics via the quantum Coulomb potential",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/18/185103/3391131/Low-energy-DNA-bubble-dynamics-via-the-quantum",
-      "date": "13 May 2026"
+      "title": "Designing quantum chemistry algorithms with just-in-time compilation",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/19/194102/3391286/Designing-quantum-chemistry-algorithms-with-just",
+      "date": "15 May 2026"
     },
     {
-      "source": "Physics Today",
-      "title": "Response to “Comment on ‘Effective spin Hamiltonians for the quantum-rotor tunneling problem in pulse EPR'” [J. Chem. Phys. 164, 187101 (2025)]",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/18/187102/3391083/Response-to-Comment-on-Effective-spin-Hamiltonians",
-      "date": "12 May 2026"
+      "source": "Hacker News – Quantum",
+      "title": "Quantum Computing Expert Explains One Concept in 5 Levels of Difficulty [video]",
+      "link": "https://www.youtube.com/watch?v=OWJCfOvochA",
+      "date": "16 May 2026"
     }
   ]
 }
