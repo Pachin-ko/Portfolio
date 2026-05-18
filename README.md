@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **17 May 2026 à 08:58 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **18 May 2026 à 10:58 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -25,6 +25,7 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Hacker News – Quantum
 
+- [The Case Against Quantum Computing](https://spectrum.ieee.org/the-case-against-quantum-computing) — *17 May 2026*
 - [Quantum Computing Expert Explains One Concept in 5 Levels of Difficulty [video]](https://www.youtube.com/watch?v=OWJCfOvochA) — *16 May 2026*
 
 ---

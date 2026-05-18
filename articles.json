@@ -1,5 +1,5 @@
 {
-  "last_updated": "17 May 2026 à 08:58 UTC",
+  "last_updated": "18 May 2026 à 10:58 UTC",
   "articles": [
     {
       "source": "Nature – Quantum Information",
@@ -60,6 +60,12 @@
       "title": "Designing quantum chemistry algorithms with just-in-time compilation",
       "link": "https://pubs.aip.org/aip/jcp/article/164/19/194102/3391286/Designing-quantum-chemistry-algorithms-with-just",
       "date": "15 May 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "The Case Against Quantum Computing",
+      "link": "https://spectrum.ieee.org/the-case-against-quantum-computing",
+      "date": "17 May 2026"
     },
     {
       "source": "Hacker News – Quantum",
