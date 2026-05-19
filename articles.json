@@ -1,6 +1,18 @@
 {
-  "last_updated": "18 May 2026 à 10:58 UTC",
+  "last_updated": "19 May 2026 à 10:33 UTC",
   "articles": [
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Pulse shaping for ultra-fast adiabatic quantum gates",
+      "link": "https://www.nature.com/articles/s41534-026-01245-8",
+      "date": "18 May 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Security of quantum key distribution with source and detector imperfections through phase-error estimation",
+      "link": "https://www.nature.com/articles/s41534-026-01264-5",
+      "date": "18 May 2026"
+    },
     {
       "source": "Nature – Quantum Information",
       "title": "Near-optimal discrimination of displaced squeezed binary signals using displacement, inverse-squeezing, and photon-number-resolving detection",
@@ -20,16 +32,16 @@
       "date": "15 May 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "Quantum magic dynamics in random circuits",
-      "link": "https://www.nature.com/articles/s41534-026-01253-8",
-      "date": "14 May 2026"
+      "source": "Physics Today",
+      "title": "Molecular design of electrolyte additives for aqueous zinc-ion batteries via reinforcement learning and quantum chemistry calculations",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/19/194302/3391432/Molecular-design-of-electrolyte-additives-for",
+      "date": "18 May 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "High-performance continuous-variable quantum secret sharing using a state-discrimination detector",
-      "link": "https://www.nature.com/articles/s41534-026-01260-9",
-      "date": "14 May 2026"
+      "source": "Physics Today",
+      "title": "Exact factorization of unitary transformations with spin-adapted generators",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/19/194107/3391413/Exact-factorization-of-unitary-transformations",
+      "date": "18 May 2026"
     },
     {
       "source": "Physics Today",
@@ -48,30 +60,6 @@
       "title": "A computational approach for the calculation of two-dimensional infrared spectra: Application to the amide I band",
       "link": "https://pubs.aip.org/aip/jcp/article/164/19/194104/3391296/A-computational-approach-for-the-calculation-of",
       "date": "15 May 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "A staging Monte Carlo algorithm for sampling off-diagonal density matrix elements via open-chain path integrals",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/19/194105/3391292/A-staging-Monte-Carlo-algorithm-for-sampling-off",
-      "date": "15 May 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Designing quantum chemistry algorithms with just-in-time compilation",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/19/194102/3391286/Designing-quantum-chemistry-algorithms-with-just",
-      "date": "15 May 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "The Case Against Quantum Computing",
-      "link": "https://spectrum.ieee.org/the-case-against-quantum-computing",
-      "date": "17 May 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Quantum Computing Expert Explains One Concept in 5 Levels of Difficulty [video]",
-      "link": "https://www.youtube.com/watch?v=OWJCfOvochA",
-      "date": "16 May 2026"
     }
   ]
 }
