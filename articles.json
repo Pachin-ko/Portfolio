@@ -1,6 +1,18 @@
 {
-  "last_updated": "19 May 2026 à 10:33 UTC",
+  "last_updated": "20 May 2026 à 10:19 UTC",
   "articles": [
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Mapping the positions of Two-Level-Systems on the surface of a superconducting transmon qubit",
+      "link": "https://www.nature.com/articles/s41534-026-01272-5",
+      "date": "20 May 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Quantum learning with tunable loss functions",
+      "link": "https://www.nature.com/articles/s41534-026-01259-2",
+      "date": "19 May 2026"
+    },
     {
       "source": "Nature – Quantum Information",
       "title": "Pulse shaping for ultra-fast adiabatic quantum gates",
@@ -18,18 +30,6 @@
       "title": "Near-optimal discrimination of displaced squeezed binary signals using displacement, inverse-squeezing, and photon-number-resolving detection",
       "link": "https://www.nature.com/articles/s41534-026-01256-5",
       "date": "16 May 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Generalized Toffoli gates with customizable single-step multiple-qubit control",
-      "link": "https://www.nature.com/articles/s41534-026-01240-z",
-      "date": "15 May 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Bounding the computational power of bosonic systems",
-      "link": "https://www.nature.com/articles/s41534-026-01255-6",
-      "date": "15 May 2026"
     },
     {
       "source": "Physics Today",
@@ -60,6 +60,36 @@
       "title": "A computational approach for the calculation of two-dimensional infrared spectra: Application to the amide I band",
       "link": "https://pubs.aip.org/aip/jcp/article/164/19/194104/3391296/A-computational-approach-for-the-calculation-of",
       "date": "15 May 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "Weaving baskets and braiding hair for quantum computing [video]",
+      "link": "https://www.youtube.com/watch?v=Y0mn7UBonSs",
+      "date": "20 May 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "Quantum computing is reaching its make-or-break moment",
+      "link": "https://www.scientificamerican.com/article/quantum-computing-is-reaching-its-make-or-break-moment/",
+      "date": "19 May 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "New record set by quantum computing as it models its largest protein yet",
+      "link": "https://www.chemistryworld.com/news/new-record-set-by-quantum-computing-as-it-models-its-largest-protein-yet/4023468.article",
+      "date": "19 May 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "The Case Against Quantum Computing",
+      "link": "https://spectrum.ieee.org/the-case-against-quantum-computing",
+      "date": "17 May 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "Quantum Computing Expert Explains One Concept in 5 Levels of Difficulty [video]",
+      "link": "https://www.youtube.com/watch?v=OWJCfOvochA",
+      "date": "16 May 2026"
     }
   ]
 }
