@@ -1,6 +1,18 @@
 {
-  "last_updated": "21 May 2026 à 10:32 UTC",
+  "last_updated": "22 May 2026 à 10:16 UTC",
   "articles": [
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Super-Heisenberg scaling using nonlinear quantum scrambling",
+      "link": "https://www.nature.com/articles/s41534-026-01277-0",
+      "date": "22 May 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Privacy in distributed quantum sensing with Gaussian quantum networks",
+      "link": "https://www.nature.com/articles/s41534-026-01266-3",
+      "date": "21 May 2026"
+    },
     {
       "source": "Nature – Quantum Information",
       "title": "No-go theorems on probabilistically enhancing measurement incompatibility’s advantages",
@@ -20,16 +32,10 @@
       "date": "19 May 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "Pulse shaping for ultra-fast adiabatic quantum gates",
-      "link": "https://www.nature.com/articles/s41534-026-01245-8",
-      "date": "18 May 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Security of quantum key distribution with source and detector imperfections through phase-error estimation",
-      "link": "https://www.nature.com/articles/s41534-026-01264-5",
-      "date": "18 May 2026"
+      "source": "Physics Today",
+      "title": "Phase-space sampling of propagated wavefunctions",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/19/194118/3391865/Phase-space-sampling-of-propagated-wavefunctions",
+      "date": "21 May 2026"
     },
     {
       "source": "Physics Today",
@@ -54,42 +60,6 @@
       "title": "Exact factorization of unitary transformations with spin-adapted generators",
       "link": "https://pubs.aip.org/aip/jcp/article/164/19/194107/3391413/Exact-factorization-of-unitary-transformations",
       "date": "18 May 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Excitation of low-frequency modes and the effects of protein dynamics on spectral densities of bacteriochlorophyll molecules",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/19/195101/3391307/Excitation-of-low-frequency-modes-and-the-effects",
-      "date": "15 May 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Quantum computing is reaching its make-or-break moment",
-      "link": "https://www.scientificamerican.com/article/quantum-computing-is-reaching-its-make-or-break-moment/",
-      "date": "20 May 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Weaving baskets and braiding hair for quantum computing [video]",
-      "link": "https://www.youtube.com/watch?v=Y0mn7UBonSs",
-      "date": "20 May 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Quantum computing is reaching its make-or-break moment",
-      "link": "https://www.scientificamerican.com/article/quantum-computing-is-reaching-its-make-or-break-moment/",
-      "date": "19 May 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "New record set by quantum computing as it models its largest protein yet",
-      "link": "https://www.chemistryworld.com/news/new-record-set-by-quantum-computing-as-it-models-its-largest-protein-yet/4023468.article",
-      "date": "19 May 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "The Case Against Quantum Computing",
-      "link": "https://spectrum.ieee.org/the-case-against-quantum-computing",
-      "date": "17 May 2026"
     }
   ]
 }
