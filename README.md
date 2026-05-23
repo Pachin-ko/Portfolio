@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **22 May 2026 à 10:16 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **23 May 2026 à 08:57 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -9,19 +9,27 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Nature – Quantum Information
 
+- [Threshold of surface code under nearest-neighbor correlated errors via an exact statistical mechanical mapping](https://www.nature.com/articles/s41534-026-01276-1) — *23 May 2026*
 - [Super-Heisenberg scaling using nonlinear quantum scrambling](https://www.nature.com/articles/s41534-026-01277-0) — *22 May 2026*
 - [Privacy in distributed quantum sensing with Gaussian quantum networks](https://www.nature.com/articles/s41534-026-01266-3) — *21 May 2026*
 - [No-go theorems on probabilistically enhancing measurement incompatibility’s advantages](https://www.nature.com/articles/s41534-026-01270-7) — *20 May 2026*
 - [Mapping the positions of Two-Level-Systems on the surface of a superconducting transmon qubit](https://www.nature.com/articles/s41534-026-01272-5) — *20 May 2026*
-- [Quantum learning with tunable loss functions](https://www.nature.com/articles/s41534-026-01259-2) — *19 May 2026*
 
 ## 📰 Physics Today
 
-- [Phase-space sampling of propagated wavefunctions](https://pubs.aip.org/aip/jcp/article/164/19/194118/3391865/Phase-space-sampling-of-propagated-wavefunctions) — *21 May 2026*
-- [Geometric thermodynamics in open quantum systems: Coherence, curvature, and work](https://pubs.aip.org/aip/jcp/article/164/19/194116/3391669/Geometric-thermodynamics-in-open-quantum-systems) — *20 May 2026*
-- [Modeling stochastic chemical kinetics on quantum computers](https://pubs.aip.org/aip/jcp/article/164/19/194117/3391668/Modeling-stochastic-chemical-kinetics-on-quantum) — *20 May 2026*
-- [Molecular design of electrolyte additives for aqueous zinc-ion batteries via reinforcement learning and quantum chemistry calculations](https://pubs.aip.org/aip/jcp/article/164/19/194302/3391432/Molecular-design-of-electrolyte-additives-for) — *18 May 2026*
-- [Exact factorization of unitary transformations with spin-adapted generators](https://pubs.aip.org/aip/jcp/article/164/19/194107/3391413/Exact-factorization-of-unitary-transformations) — *18 May 2026*
+- [On the behavior of different contributions to the excitonic coupling at short intermolecular separations](https://pubs.aip.org/aip/jcp/article/164/20/204107/3392540/On-the-behavior-of-different-contributions-to-the) — *22 May 2026*
+- [Crystallite shape and packing of paramagnetic microcrystalline powders from the measurement and calculation of bulk magnetic susceptibility shifts in solid-state NMR](https://pubs.aip.org/aip/jcp/article/164/20/204201/3392409/Crystallite-shape-and-packing-of-paramagnetic) — *22 May 2026*
+- [Environment-specific spectroscopic maps for water: Decoding the vibrational signature of non-hydrogen-bonded OH groups](https://pubs.aip.org/aip/jcp/article/164/20/204105/3392404/Environment-specific-spectroscopic-maps-for-water) — *22 May 2026*
+- [Quantum interference in ring-structured molecular junctions: Effects of electron–phonon coupling and lattice dynamics](https://pubs.aip.org/aip/jcp/article/164/20/204103/3392403/Quantum-interference-in-ring-structured-molecular) — *22 May 2026*
+- [The coherent-state transformation in quantum electrodynamics coupled cluster theory](https://pubs.aip.org/aip/jcp/article/164/20/204104/3392402/The-coherent-state-transformation-in-quantum) — *22 May 2026*
+
+## 📰 Hacker News – Quantum
+
+- [Crypto industry braces for quantum computing threat](https://www.ft.com/content/99c1c1e7-1a1c-479c-9fc8-e21aea5c3f0e) — *23 May 2026*
+- [Scott Aaronson – The Truth About Quantum Computing [video]](https://www.youtube.com/watch?v=cq4atriB-Rc) — *22 May 2026*
+- [Crypto industry braces for quantum computing threat](https://www.ft.com/content/99c1c1e7-1a1c-479c-9fc8-e21aea5c3f0e) — *22 May 2026*
+- [US Government takes $2B equity stake in nine quantum computing firms](https://arstechnica.com/gadgets/2026/05/us-government-takes-2-billion-equity-stake-in-nine-quantum-computing-firms/) — *21 May 2026*
+- [U.S. to Award Nine Quantum-Computing Firms $2B and Take Equity Stakes](https://www.wsj.com/tech/u-s-to-award-quantum-computing-firms-2-billion-and-take-equity-stakes-7382e6be) — *21 May 2026*
 
 ---
 
