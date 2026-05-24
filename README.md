@@ -1,19 +1,11 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **23 May 2026 à 08:57 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **24 May 2026 à 09:14 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
 
 ---
-
-## 📰 Nature – Quantum Information
-
-- [Threshold of surface code under nearest-neighbor correlated errors via an exact statistical mechanical mapping](https://www.nature.com/articles/s41534-026-01276-1) — *23 May 2026*
-- [Super-Heisenberg scaling using nonlinear quantum scrambling](https://www.nature.com/articles/s41534-026-01277-0) — *22 May 2026*
-- [Privacy in distributed quantum sensing with Gaussian quantum networks](https://www.nature.com/articles/s41534-026-01266-3) — *21 May 2026*
-- [No-go theorems on probabilistically enhancing measurement incompatibility’s advantages](https://www.nature.com/articles/s41534-026-01270-7) — *20 May 2026*
-- [Mapping the positions of Two-Level-Systems on the surface of a superconducting transmon qubit](https://www.nature.com/articles/s41534-026-01272-5) — *20 May 2026*
 
 ## 📰 Physics Today
 
