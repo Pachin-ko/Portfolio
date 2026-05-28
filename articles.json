@@ -1,6 +1,30 @@
 {
-  "last_updated": "27 May 2026 à 10:49 UTC",
+  "last_updated": "28 May 2026 à 10:45 UTC",
   "articles": [
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Learning to erase quantum states: thermodynamic implications of quantum learning theory",
+      "link": "https://www.nature.com/articles/s41534-026-01273-4",
+      "date": "27 May 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "High-performance local decoders for defect matching in 1D",
+      "link": "https://www.nature.com/articles/s41534-026-01213-2",
+      "date": "26 May 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Threshold of surface code under nearest-neighbor correlated errors via an exact statistical mechanical mapping",
+      "link": "https://www.nature.com/articles/s41534-026-01276-1",
+      "date": "23 May 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Super-Heisenberg scaling using nonlinear quantum scrambling",
+      "link": "https://www.nature.com/articles/s41534-026-01277-0",
+      "date": "22 May 2026"
+    },
     {
       "source": "Physics Today",
       "title": "A numerically exact, non-Markovian, non-Gaussian noise model for open quantum system dynamics",
@@ -30,6 +54,36 @@
       "title": "Quantum interference in ring-structured molecular junctions: Effects of electron–phonon coupling and lattice dynamics",
       "link": "https://pubs.aip.org/aip/jcp/article/164/20/204103/3392403/Quantum-interference-in-ring-structured-molecular",
       "date": "22 May 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "The Quantum Computing Breakthrough Hidden Inside Decoherence",
+      "link": "https://www.lanl.gov/media/publications/1663/the-race-to-build-a-quantum-computer",
+      "date": "27 May 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "IBM Quantum Computing Summer School Registration Open",
+      "link": "https://www.ibm.com/quantum/blog/qiskit-summer-school-2026",
+      "date": "27 May 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "US's big bet on quantum computing may not be legal",
+      "link": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
+      "date": "25 May 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "US's big bet on quantum computing may not be legal",
+      "link": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
+      "date": "25 May 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "Crypto industry braces for quantum computing threat",
+      "link": "https://www.ft.com/content/99c1c1e7-1a1c-479c-9fc8-e21aea5c3f0e",
+      "date": "23 May 2026"
     }
   ]
 }
