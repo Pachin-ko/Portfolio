@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **28 May 2026 à 10:45 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **29 May 2026 à 10:38 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -9,18 +9,14 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Nature – Quantum Information
 
+- [Controlling unknown quantum states via data-driven state representations](https://www.nature.com/articles/s41534-026-01269-0) — *29 May 2026*
 - [Learning to erase quantum states: thermodynamic implications of quantum learning theory](https://www.nature.com/articles/s41534-026-01273-4) — *27 May 2026*
 - [High-performance local decoders for defect matching in 1D](https://www.nature.com/articles/s41534-026-01213-2) — *26 May 2026*
 - [Threshold of surface code under nearest-neighbor correlated errors via an exact statistical mechanical mapping](https://www.nature.com/articles/s41534-026-01276-1) — *23 May 2026*
-- [Super-Heisenberg scaling using nonlinear quantum scrambling](https://www.nature.com/articles/s41534-026-01277-0) — *22 May 2026*
 
 ## 📰 Physics Today
 
 - [A numerically exact, non-Markovian, non-Gaussian noise model for open quantum system dynamics](https://pubs.aip.org/aip/jcp/article/164/20/204109/3392616/A-numerically-exact-non-Markovian-non-Gaussian) — *26 May 2026*
-- [On the behavior of different contributions to the excitonic coupling at short intermolecular separations](https://pubs.aip.org/aip/jcp/article/164/20/204107/3392540/On-the-behavior-of-different-contributions-to-the) — *22 May 2026*
-- [Crystallite shape and packing of paramagnetic microcrystalline powders from the measurement and calculation of bulk magnetic susceptibility shifts in solid-state NMR](https://pubs.aip.org/aip/jcp/article/164/20/204201/3392409/Crystallite-shape-and-packing-of-paramagnetic) — *22 May 2026*
-- [Environment-specific spectroscopic maps for water: Decoding the vibrational signature of non-hydrogen-bonded OH groups](https://pubs.aip.org/aip/jcp/article/164/20/204105/3392404/Environment-specific-spectroscopic-maps-for-water) — *22 May 2026*
-- [Quantum interference in ring-structured molecular junctions: Effects of electron–phonon coupling and lattice dynamics](https://pubs.aip.org/aip/jcp/article/164/20/204103/3392403/Quantum-interference-in-ring-structured-molecular) — *22 May 2026*
 
 ## 📰 Hacker News – Quantum
 
