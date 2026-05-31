@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **30 May 2026 à 09:09 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **31 May 2026 à 09:42 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -17,10 +17,10 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Hacker News – Quantum
 
+- [Ask HN: What do you think about quantum computing](https://news.ycombinator.com/item?id=48338690) — *30 May 2026*
 - [Oxford researchers contribute to world-first in quantum computing and genomics](https://www.ox.ac.uk/news/2026-05-22-oxford-researchers-contribute-to-world-first-in-quantum-computing-and-genomics) — *29 May 2026*
 - [The Quantum Computing Breakthrough Hidden Inside Decoherence](https://www.lanl.gov/media/publications/1663/the-race-to-build-a-quantum-computer) — *27 May 2026*
 - [IBM Quantum Computing Summer School Registration Open](https://www.ibm.com/quantum/blog/qiskit-summer-school-2026) — *27 May 2026*
-- [US's big bet on quantum computing may not be legal](https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/) — *25 May 2026*
 - [US's big bet on quantum computing may not be legal](https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/) — *25 May 2026*
 
 ---
