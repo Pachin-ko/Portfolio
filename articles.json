@@ -1,5 +1,5 @@
 {
-  "last_updated": "01 June 2026 à 12:28 UTC",
+  "last_updated": "02 June 2026 à 11:11 UTC",
   "articles": [
     {
       "source": "Quanta Magazine",
@@ -8,10 +8,46 @@
       "date": "29 May 2026"
     },
     {
+      "source": "Nature – Quantum Information",
+      "title": "Fully passive received quantum access network based on reference-frame-independent quantum key distribution",
+      "link": "https://www.nature.com/articles/s41534-026-01289-w",
+      "date": "01 Jun 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Scalable all-solid-state cavity QED on a hybrid quantum dot–lithium niobate platform",
+      "link": "https://www.nature.com/articles/s41534-026-01282-3",
+      "date": "01 Jun 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Identifying quantum resources in encoded computations",
+      "link": "https://www.nature.com/articles/s41534-026-01263-6",
+      "date": "29 May 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Controlling unknown quantum states via data-driven state representations",
+      "link": "https://www.nature.com/articles/s41534-026-01269-0",
+      "date": "29 May 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Learning to erase quantum states: thermodynamic implications of quantum learning theory",
+      "link": "https://www.nature.com/articles/s41534-026-01273-4",
+      "date": "27 May 2026"
+    },
+    {
       "source": "Physics Today",
-      "title": "A numerically exact, non-Markovian, non-Gaussian noise model for open quantum system dynamics",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/20/204109/3392616/A-numerically-exact-non-Markovian-non-Gaussian",
-      "date": "26 May 2026"
+      "title": "Physics-informed machine learning model for accurate prediction of electron affinities",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/21/214108/3393116/Physics-informed-machine-learning-model-for",
+      "date": "01 Jun 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "The correlation discrete variable representation revisited",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/21/214103/3393108/The-correlation-discrete-variable-representation",
+      "date": "01 Jun 2026"
     },
     {
       "source": "Hacker News – Quantum",
@@ -36,12 +72,6 @@
       "title": "IBM Quantum Computing Summer School Registration Open",
       "link": "https://www.ibm.com/quantum/blog/qiskit-summer-school-2026",
       "date": "27 May 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "US's big bet on quantum computing may not be legal",
-      "link": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
-      "date": "25 May 2026"
     }
   ]
 }
