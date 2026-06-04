@@ -1,6 +1,12 @@
 {
-  "last_updated": "03 June 2026 à 11:50 UTC",
+  "last_updated": "04 June 2026 à 10:33 UTC",
   "articles": [
+    {
+      "source": "Quanta Magazine",
+      "title": "Entanglement Builds Space-Time. Now “Magic” Gives It Gravity.",
+      "link": "https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/",
+      "date": "03 Jun 2026"
+    },
     {
       "source": "Quanta Magazine",
       "title": "Key Chemistry Question Answered, No Quantum Computer Required",
@@ -18,36 +24,6 @@
       "title": "The correlation discrete variable representation revisited",
       "link": "https://pubs.aip.org/aip/jcp/article/164/21/214103/3393108/The-correlation-discrete-variable-representation",
       "date": "01 Jun 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Microsoft Doubles Down on Controversial Quantum Computing Claims",
-      "link": "https://www.science.org/content/article/doubling-down-controversial-claims-microsoft-accelerates-quantum-computing-plans",
-      "date": "03 Jun 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Ask HN: What do you think about quantum computing",
-      "link": "https://news.ycombinator.com/item?id=48338690",
-      "date": "30 May 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Oxford researchers contribute to world-first in quantum computing and genomics",
-      "link": "https://www.ox.ac.uk/news/2026-05-22-oxford-researchers-contribute-to-world-first-in-quantum-computing-and-genomics",
-      "date": "29 May 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "The Quantum Computing Breakthrough Hidden Inside Decoherence",
-      "link": "https://www.lanl.gov/media/publications/1663/the-race-to-build-a-quantum-computer",
-      "date": "27 May 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "IBM Quantum Computing Summer School Registration Open",
-      "link": "https://www.ibm.com/quantum/blog/qiskit-summer-school-2026",
-      "date": "27 May 2026"
     }
   ]
 }
