@@ -1,47 +1,11 @@
 {
-  "last_updated": "05 June 2026 à 10:40 UTC",
+  "last_updated": "06 June 2026 à 09:18 UTC",
   "articles": [
     {
       "source": "Quanta Magazine",
       "title": "Entanglement Builds Space-Time. Now “Magic” Gives It Gravity.",
       "link": "https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/",
       "date": "03 Jun 2026"
-    },
-    {
-      "source": "Quanta Magazine",
-      "title": "Key Chemistry Question Answered, No Quantum Computer Required",
-      "link": "https://www.quantamagazine.org/key-chemistry-question-answered-no-quantum-computer-required-20260529/",
-      "date": "29 May 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Lieb–Liniger interaction via self-interacting stationary light polaritons",
-      "link": "https://www.nature.com/articles/s41534-026-01287-y",
-      "date": "04 Jun 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Quantum metrology based on superconducting qubits",
-      "link": "https://www.nature.com/articles/s41534-026-01285-0",
-      "date": "04 Jun 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Experimental realization of qubit-state-controlled directional edge states in waveguide QED",
-      "link": "https://www.nature.com/articles/s41534-026-01274-3",
-      "date": "03 Jun 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Fully passive received quantum access network based on reference-frame-independent quantum key distribution",
-      "link": "https://www.nature.com/articles/s41534-026-01289-w",
-      "date": "01 Jun 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Scalable all-solid-state cavity QED on a hybrid quantum dot–lithium niobate platform",
-      "link": "https://www.nature.com/articles/s41534-026-01282-3",
-      "date": "01 Jun 2026"
     },
     {
       "source": "Physics Today",
@@ -54,6 +18,30 @@
       "title": "The correlation discrete variable representation revisited",
       "link": "https://pubs.aip.org/aip/jcp/article/164/21/214103/3393108/The-correlation-discrete-variable-representation",
       "date": "01 Jun 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "New light-powered chip could accelerate AI and quantum computing",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260601025343.htm",
+      "date": "04 Jun 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "Microsoft, Atom Computing, EeroQ update their quantum computing progress",
+      "link": "https://arstechnica.com/science/2026/06/microsoft-atom-computing-eeroq-update-their-quantum-computing-progress/",
+      "date": "04 Jun 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "Microsoft doubles down on controversial quantum computing claims",
+      "link": "https://www.science.org/content/article/doubling-down-controversial-claims-microsoft-accelerates-quantum-computing-plans",
+      "date": "03 Jun 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "Ask HN: What do you think about quantum computing",
+      "link": "https://news.ycombinator.com/item?id=48338690",
+      "date": "30 May 2026"
     }
   ]
 }
