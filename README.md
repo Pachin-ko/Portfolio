@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **06 June 2026 à 09:18 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **07 June 2026 à 09:55 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -10,6 +10,14 @@ agrégés depuis des sources académiques, tech et communautaires.
 ## 📰 Quanta Magazine
 
 - [Entanglement Builds Space-Time. Now “Magic” Gives It Gravity.](https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/) — *03 Jun 2026*
+
+## 📰 Nature – Quantum Information
+
+- [Experimental demonstration of a two-voter quantum anonymous voting prototype with continuous variables](https://www.nature.com/articles/s41534-026-01291-2) — *06 Jun 2026*
+- [Integrated high-quality multi-wavelength quantum light source compatible with ITU Channel Grid](https://www.nature.com/articles/s41534-026-01290-3) — *06 Jun 2026*
+- [Constant runtime error mitigation via restricted evolution](https://www.nature.com/articles/s41534-026-01284-1) — *05 Jun 2026*
+- [Distributed quantum approximate optimization algorithm on a quantum-centric supercomputing architecture](https://www.nature.com/articles/s41534-026-01283-2) — *05 Jun 2026*
+- [Lieb–Liniger interaction via self-interacting stationary light polaritons](https://www.nature.com/articles/s41534-026-01287-y) — *04 Jun 2026*
 
 ## 📰 Physics Today
 
@@ -21,7 +29,6 @@ agrégés depuis des sources académiques, tech et communautaires.
 - [New light-powered chip could accelerate AI and quantum computing](https://www.sciencedaily.com/releases/2026/06/260601025343.htm) — *04 Jun 2026*
 - [Microsoft, Atom Computing, EeroQ update their quantum computing progress](https://arstechnica.com/science/2026/06/microsoft-atom-computing-eeroq-update-their-quantum-computing-progress/) — *04 Jun 2026*
 - [Microsoft doubles down on controversial quantum computing claims](https://www.science.org/content/article/doubling-down-controversial-claims-microsoft-accelerates-quantum-computing-plans) — *03 Jun 2026*
-- [Ask HN: What do you think about quantum computing](https://news.ycombinator.com/item?id=48338690) — *30 May 2026*
 
 ---
 

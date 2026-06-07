@@ -1,11 +1,41 @@
 {
-  "last_updated": "06 June 2026 à 09:18 UTC",
+  "last_updated": "07 June 2026 à 09:55 UTC",
   "articles": [
     {
       "source": "Quanta Magazine",
       "title": "Entanglement Builds Space-Time. Now “Magic” Gives It Gravity.",
       "link": "https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/",
       "date": "03 Jun 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Experimental demonstration of a two-voter quantum anonymous voting prototype with continuous variables",
+      "link": "https://www.nature.com/articles/s41534-026-01291-2",
+      "date": "06 Jun 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Integrated high-quality multi-wavelength quantum light source compatible with ITU Channel Grid",
+      "link": "https://www.nature.com/articles/s41534-026-01290-3",
+      "date": "06 Jun 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Constant runtime error mitigation via restricted evolution",
+      "link": "https://www.nature.com/articles/s41534-026-01284-1",
+      "date": "05 Jun 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Distributed quantum approximate optimization algorithm on a quantum-centric supercomputing architecture",
+      "link": "https://www.nature.com/articles/s41534-026-01283-2",
+      "date": "05 Jun 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Lieb–Liniger interaction via self-interacting stationary light polaritons",
+      "link": "https://www.nature.com/articles/s41534-026-01287-y",
+      "date": "04 Jun 2026"
     },
     {
       "source": "Physics Today",
@@ -36,12 +66,6 @@
       "title": "Microsoft doubles down on controversial quantum computing claims",
       "link": "https://www.science.org/content/article/doubling-down-controversial-claims-microsoft-accelerates-quantum-computing-plans",
       "date": "03 Jun 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Ask HN: What do you think about quantum computing",
-      "link": "https://news.ycombinator.com/item?id=48338690",
-      "date": "30 May 2026"
     }
   ]
 }
