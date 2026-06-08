@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **07 June 2026 à 09:55 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **08 June 2026 à 11:49 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -18,11 +18,6 @@ agrégés depuis des sources académiques, tech et communautaires.
 - [Constant runtime error mitigation via restricted evolution](https://www.nature.com/articles/s41534-026-01284-1) — *05 Jun 2026*
 - [Distributed quantum approximate optimization algorithm on a quantum-centric supercomputing architecture](https://www.nature.com/articles/s41534-026-01283-2) — *05 Jun 2026*
 - [Lieb–Liniger interaction via self-interacting stationary light polaritons](https://www.nature.com/articles/s41534-026-01287-y) — *04 Jun 2026*
-
-## 📰 Physics Today
-
-- [Physics-informed machine learning model for accurate prediction of electron affinities](https://pubs.aip.org/aip/jcp/article/164/21/214108/3393116/Physics-informed-machine-learning-model-for) — *01 Jun 2026*
-- [The correlation discrete variable representation revisited](https://pubs.aip.org/aip/jcp/article/164/21/214103/3393108/The-correlation-discrete-variable-representation) — *01 Jun 2026*
 
 ## 📰 Hacker News – Quantum
 
