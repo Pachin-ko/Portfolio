@@ -1,23 +1,19 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **10 June 2026 à 10:48 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **11 June 2026 à 11:17 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
 
 ---
 
-## 📰 Quanta Magazine
-
-- [Entanglement Builds Space-Time. Now “Magic” Gives It Gravity.](https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/) — *03 Jun 2026*
-
 ## 📰 Nature – Quantum Information
 
+- [High-quality and field resilient microwave resonators on Ge quantum well heterostructures](https://www.nature.com/articles/s41534-026-01297-w) — *11 Jun 2026*
+- [Towards practical quantum neural network diagnostics with neural tangent kernels](https://www.nature.com/articles/s41534-026-01280-5) — *10 Jun 2026*
 - [An almost-linear time decoding algorithm for quantum LDPC codes under circuit-level noise](https://www.nature.com/articles/s41534-026-01292-1) — *09 Jun 2026*
 - [Demonstrating optical control of complex phases in a trapped-ion qubit](https://www.nature.com/articles/s41534-026-01286-z) — *08 Jun 2026*
 - [Experimental demonstration of a two-voter quantum anonymous voting prototype with continuous variables](https://www.nature.com/articles/s41534-026-01291-2) — *06 Jun 2026*
-- [Integrated high-quality multi-wavelength quantum light source compatible with ITU Channel Grid](https://www.nature.com/articles/s41534-026-01290-3) — *06 Jun 2026*
-- [Constant runtime error mitigation via restricted evolution](https://www.nature.com/articles/s41534-026-01284-1) — *05 Jun 2026*
 
 ## 📰 Physics Today
 
@@ -26,12 +22,6 @@ agrégés depuis des sources académiques, tech et communautaires.
 - [WMS-Rot: From quantum-chemical predictions to rotational spectral assignment and refinement](https://pubs.aip.org/aip/jcp/article/164/22/224118/3394127/WMS-Rot-From-quantum-chemical-predictions-to) — *09 Jun 2026*
 - [How to improve the accuracy of semiclassical and quasiclassical dynamics with and without generalized quantum master equations](https://pubs.aip.org/aip/jcp/article/164/22/224115/3394124/How-to-improve-the-accuracy-of-semiclassical-and) — *09 Jun 2026*
 - [Operational bounds and diagnostics for coherence in energy transfer](https://pubs.aip.org/aip/jcp/article/164/22/224113/3394119/Operational-bounds-and-diagnostics-for-coherence) — *09 Jun 2026*
-
-## 📰 Hacker News – Quantum
-
-- [Why I Left Quantum Computing Research](https://www.youtube.com/watch?v=pDj1QhPOVBo) — *08 Jun 2026*
-- [New light-powered chip could accelerate AI and quantum computing](https://www.sciencedaily.com/releases/2026/06/260601025343.htm) — *04 Jun 2026*
-- [Microsoft, Atom Computing, EeroQ update their quantum computing progress](https://arstechnica.com/science/2026/06/microsoft-atom-computing-eeroq-update-their-quantum-computing-progress/) — *04 Jun 2026*
 
 ---
 

@@ -1,11 +1,17 @@
 {
-  "last_updated": "10 June 2026 à 10:48 UTC",
+  "last_updated": "11 June 2026 à 11:17 UTC",
   "articles": [
     {
-      "source": "Quanta Magazine",
-      "title": "Entanglement Builds Space-Time. Now “Magic” Gives It Gravity.",
-      "link": "https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/",
-      "date": "03 Jun 2026"
+      "source": "Nature – Quantum Information",
+      "title": "High-quality and field resilient microwave resonators on Ge quantum well heterostructures",
+      "link": "https://www.nature.com/articles/s41534-026-01297-w",
+      "date": "11 Jun 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Towards practical quantum neural network diagnostics with neural tangent kernels",
+      "link": "https://www.nature.com/articles/s41534-026-01280-5",
+      "date": "10 Jun 2026"
     },
     {
       "source": "Nature – Quantum Information",
@@ -24,18 +30,6 @@
       "title": "Experimental demonstration of a two-voter quantum anonymous voting prototype with continuous variables",
       "link": "https://www.nature.com/articles/s41534-026-01291-2",
       "date": "06 Jun 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Integrated high-quality multi-wavelength quantum light source compatible with ITU Channel Grid",
-      "link": "https://www.nature.com/articles/s41534-026-01290-3",
-      "date": "06 Jun 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Constant runtime error mitigation via restricted evolution",
-      "link": "https://www.nature.com/articles/s41534-026-01284-1",
-      "date": "05 Jun 2026"
     },
     {
       "source": "Physics Today",
@@ -66,24 +60,6 @@
       "title": "Operational bounds and diagnostics for coherence in energy transfer",
       "link": "https://pubs.aip.org/aip/jcp/article/164/22/224113/3394119/Operational-bounds-and-diagnostics-for-coherence",
       "date": "09 Jun 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Why I Left Quantum Computing Research",
-      "link": "https://www.youtube.com/watch?v=pDj1QhPOVBo",
-      "date": "08 Jun 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "New light-powered chip could accelerate AI and quantum computing",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260601025343.htm",
-      "date": "04 Jun 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Microsoft, Atom Computing, EeroQ update their quantum computing progress",
-      "link": "https://arstechnica.com/science/2026/06/microsoft-atom-computing-eeroq-update-their-quantum-computing-progress/",
-      "date": "04 Jun 2026"
     }
   ]
 }
