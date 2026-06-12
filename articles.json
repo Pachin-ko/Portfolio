@@ -1,5 +1,5 @@
 {
-  "last_updated": "11 June 2026 à 11:17 UTC",
+  "last_updated": "12 June 2026 à 10:56 UTC",
   "articles": [
     {
       "source": "Nature – Quantum Information",
@@ -33,33 +33,39 @@
     },
     {
       "source": "Physics Today",
+      "title": "Relativistic strengthening of hydrogen bonds in bihalide anions: A four-component CCSD(T) study",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/22/224123/3394469/Relativistic-strengthening-of-hydrogen-bonds-in",
+      "date": "11 Jun 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Understanding the sign problem from an exact path integral Monte Carlo model of interacting harmonic fermions",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/22/224122/3394468/Understanding-the-sign-problem-from-an-exact-path",
+      "date": "11 Jun 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Higher order Magnus expansion for driven two-level quantum dynamics",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/22/224121/3394453/Higher-order-Magnus-expansion-for-driven-two-level",
+      "date": "10 Jun 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Physics-informed transfer learning via frontier orbital pretraining for prediction of polymer electronic properties",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/22/224904/3394325/Physics-informed-transfer-learning-via-frontier",
+      "date": "10 Jun 2026"
+    },
+    {
+      "source": "Physics Today",
       "title": "Determination of zero-field splitting in magnetically diluted cobalt(II)-based single molecule magnets using circular dichroism Fourier-transform IR spectroscopy",
       "link": "https://pubs.aip.org/aip/jcp/article/164/22/224203/3394132/Determination-of-zero-field-splitting-in",
       "date": "09 Jun 2026"
     },
     {
-      "source": "Physics Today",
-      "title": "Estimating memory time within the frameworks of generalized quantum master equation and transfer tensor methods",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/22/224117/3394128/Estimating-memory-time-within-the-frameworks-of",
-      "date": "09 Jun 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "WMS-Rot: From quantum-chemical predictions to rotational spectral assignment and refinement",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/22/224118/3394127/WMS-Rot-From-quantum-chemical-predictions-to",
-      "date": "09 Jun 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "How to improve the accuracy of semiclassical and quasiclassical dynamics with and without generalized quantum master equations",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/22/224115/3394124/How-to-improve-the-accuracy-of-semiclassical-and",
-      "date": "09 Jun 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Operational bounds and diagnostics for coherence in energy transfer",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/22/224113/3394119/Operational-bounds-and-diagnostics-for-coherence",
-      "date": "09 Jun 2026"
+      "source": "Hacker News – Quantum",
+      "title": "Why I Left Quantum Computing Research",
+      "link": "https://www.youtube.com/watch?v=pDj1QhPOVBo",
+      "date": "08 Jun 2026"
     }
   ]
 }

@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **11 June 2026 à 11:17 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **12 June 2026 à 10:56 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -17,11 +17,15 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Physics Today
 
+- [Relativistic strengthening of hydrogen bonds in bihalide anions: A four-component CCSD(T) study](https://pubs.aip.org/aip/jcp/article/164/22/224123/3394469/Relativistic-strengthening-of-hydrogen-bonds-in) — *11 Jun 2026*
+- [Understanding the sign problem from an exact path integral Monte Carlo model of interacting harmonic fermions](https://pubs.aip.org/aip/jcp/article/164/22/224122/3394468/Understanding-the-sign-problem-from-an-exact-path) — *11 Jun 2026*
+- [Higher order Magnus expansion for driven two-level quantum dynamics](https://pubs.aip.org/aip/jcp/article/164/22/224121/3394453/Higher-order-Magnus-expansion-for-driven-two-level) — *10 Jun 2026*
+- [Physics-informed transfer learning via frontier orbital pretraining for prediction of polymer electronic properties](https://pubs.aip.org/aip/jcp/article/164/22/224904/3394325/Physics-informed-transfer-learning-via-frontier) — *10 Jun 2026*
 - [Determination of zero-field splitting in magnetically diluted cobalt(II)-based single molecule magnets using circular dichroism Fourier-transform IR spectroscopy](https://pubs.aip.org/aip/jcp/article/164/22/224203/3394132/Determination-of-zero-field-splitting-in) — *09 Jun 2026*
-- [Estimating memory time within the frameworks of generalized quantum master equation and transfer tensor methods](https://pubs.aip.org/aip/jcp/article/164/22/224117/3394128/Estimating-memory-time-within-the-frameworks-of) — *09 Jun 2026*
-- [WMS-Rot: From quantum-chemical predictions to rotational spectral assignment and refinement](https://pubs.aip.org/aip/jcp/article/164/22/224118/3394127/WMS-Rot-From-quantum-chemical-predictions-to) — *09 Jun 2026*
-- [How to improve the accuracy of semiclassical and quasiclassical dynamics with and without generalized quantum master equations](https://pubs.aip.org/aip/jcp/article/164/22/224115/3394124/How-to-improve-the-accuracy-of-semiclassical-and) — *09 Jun 2026*
-- [Operational bounds and diagnostics for coherence in energy transfer](https://pubs.aip.org/aip/jcp/article/164/22/224113/3394119/Operational-bounds-and-diagnostics-for-coherence) — *09 Jun 2026*
+
+## 📰 Hacker News – Quantum
+
+- [Why I Left Quantum Computing Research](https://www.youtube.com/watch?v=pDj1QhPOVBo) — *08 Jun 2026*
 
 ---
 
