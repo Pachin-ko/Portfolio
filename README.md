@@ -1,19 +1,11 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **13 June 2026 à 09:51 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **14 June 2026 à 10:19 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
 
 ---
-
-## 📰 Nature – Quantum Information
-
-- [Three-outcome multipartite Bell inequalities: applications to dimension witnessing and spin-nematic squeezing in many-body systems](https://www.nature.com/articles/s41534-026-01261-8) — *13 Jun 2026*
-- [High-quality and field resilient microwave resonators on Ge quantum well heterostructures](https://www.nature.com/articles/s41534-026-01297-w) — *11 Jun 2026*
-- [Towards practical quantum neural network diagnostics with neural tangent kernels](https://www.nature.com/articles/s41534-026-01280-5) — *10 Jun 2026*
-- [An almost-linear time decoding algorithm for quantum LDPC codes under circuit-level noise](https://www.nature.com/articles/s41534-026-01292-1) — *09 Jun 2026*
-- [Demonstrating optical control of complex phases in a trapped-ion qubit](https://www.nature.com/articles/s41534-026-01286-z) — *08 Jun 2026*
 
 ## 📰 Physics Today
 
@@ -22,12 +14,6 @@ agrégés depuis des sources académiques, tech et communautaires.
 - [Mechanisms for light emission enhancement from low lying doublet states in copper porphyrin  H -aggregates](https://pubs.aip.org/aip/jcp/article/164/22/224312/3394523/Mechanisms-for-light-emission-enhancement-from-low) — *12 Jun 2026*
 - [Decoherence-induced adaptive multiconfigurational Ehrenfest dynamics for nonadiabatic scattering simulations](https://pubs.aip.org/aip/jcp/article/164/22/224128/3394522/Decoherence-induced-adaptive-multiconfigurational) — *12 Jun 2026*
 - [Relativistic strengthening of hydrogen bonds in bihalide anions: A four-component CCSD(T) study](https://pubs.aip.org/aip/jcp/article/164/22/224123/3394469/Relativistic-strengthening-of-hydrogen-bonds-in) — *11 Jun 2026*
-
-## 📰 Hacker News – Quantum
-
-- [The quantum computing revolution is closer than you think](https://www.ft.com/content/7e461be0-5c13-4a93-a0f8-0659ae5505a2) — *13 Jun 2026*
-- [Emerging Security Risks in Quantum Computing](https://myassineferjani.substack.com/p/beyond-post-quantum-cryptography) — *13 Jun 2026*
-- [Why I Left Quantum Computing Research](https://www.youtube.com/watch?v=pDj1QhPOVBo) — *08 Jun 2026*
 
 ---
 
