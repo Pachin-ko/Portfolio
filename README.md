@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **15 June 2026 à 12:58 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **16 June 2026 à 12:04 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -9,19 +9,11 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Physics Today
 
-- [Quantum tunneling on water. I. General framework for microdroplet redox chemistry](https://pubs.aip.org/aip/jcp/article/164/22/224709/3394728/Quantum-tunneling-on-water-I-General-framework-for) — *12 Jun 2026*
-- [Quantum tunneling on water. II. Quantitative rate formalism of barrierless electron transfer and application to oxidation reactions](https://pubs.aip.org/aip/jcp/article/164/22/224710/3394645/Quantum-tunneling-on-water-II-Quantitative-rate) — *12 Jun 2026*
-- [Mechanisms for light emission enhancement from low lying doublet states in copper porphyrin  H -aggregates](https://pubs.aip.org/aip/jcp/article/164/22/224312/3394523/Mechanisms-for-light-emission-enhancement-from-low) — *12 Jun 2026*
-- [Decoherence-induced adaptive multiconfigurational Ehrenfest dynamics for nonadiabatic scattering simulations](https://pubs.aip.org/aip/jcp/article/164/22/224128/3394522/Decoherence-induced-adaptive-multiconfigurational) — *12 Jun 2026*
-- [Relativistic strengthening of hydrogen bonds in bihalide anions: A four-component CCSD(T) study](https://pubs.aip.org/aip/jcp/article/164/22/224123/3394469/Relativistic-strengthening-of-hydrogen-bonds-in) — *11 Jun 2026*
-
-## 📰 Hacker News – Quantum
-
-- [Quantum Horizon: Quantum Computing as a Threat to Bitcoin and Ethereum](https://arxiv.org/abs/2606.14484) — *15 Jun 2026*
-- [Brain-inspired chip runs near absolute zero, could transform quantum computing](https://www.sciencedaily.com/releases/2026/06/260612032024.htm) — *13 Jun 2026*
-- [The quantum computing revolution is closer than you think](https://www.ft.com/content/7e461be0-5c13-4a93-a0f8-0659ae5505a2) — *13 Jun 2026*
-- [Emerging Security Risks in Quantum Computing](https://myassineferjani.substack.com/p/beyond-post-quantum-cryptography) — *13 Jun 2026*
-- [Why I Left Quantum Computing Research](https://www.youtube.com/watch?v=pDj1QhPOVBo) — *08 Jun 2026*
+- [Erratum: “Thermal and chemical control of emission and excited-state dynamics in non-(TMS) 3 P-derived InP quantum dots” [J. Chem. Phys. 164, 144702 (2026)]](https://pubs.aip.org/aip/jcp/article/164/23/239902/3395153/Erratum-Thermal-and-chemical-control-of-emission) — *15 Jun 2026*
+- [Quantum sensing with triplet pair states: A theoretical study](https://pubs.aip.org/aip/jcp/article/164/23/234110/3394758/Quantum-sensing-with-triplet-pair-states-A) — *15 Jun 2026*
+- [Fermionic mean-field dynamics for spin systems beyond free fermions](https://pubs.aip.org/aip/jcp/article/164/23/234109/3394754/Fermionic-mean-field-dynamics-for-spin-systems) — *15 Jun 2026*
+- [Extended Lagrangian molecular dynamics on vibronic surfaces in the nuclear–electronic orbital framework](https://pubs.aip.org/aip/jcp/article/164/23/234108/3394753/Extended-Lagrangian-molecular-dynamics-on-vibronic) — *15 Jun 2026*
+- [Efficient simulation of non-Markovian path integrals via imaginary time evolution of an effective Hamiltonian](https://pubs.aip.org/aip/jcp/article/164/23/234106/3394751/Efficient-simulation-of-non-Markovian-path) — *15 Jun 2026*
 
 ---
 
