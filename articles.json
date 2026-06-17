@@ -1,6 +1,18 @@
 {
-  "last_updated": "16 June 2026 à 12:04 UTC",
+  "last_updated": "17 June 2026 à 11:28 UTC",
   "articles": [
+    {
+      "source": "Physics Today",
+      "title": "Intrinsic structural factors and solvent effects on excited-state dynamics and photophysical properties of BIDP derivatives with dual-ESIPT units",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/23/234304/3395182/Intrinsic-structural-factors-and-solvent-effects",
+      "date": "16 Jun 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Generalized Einstein relations between absorption and emission spectra in the electric-dipole approximation",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/23/234112/3395164/Generalized-Einstein-relations-between-absorption",
+      "date": "16 Jun 2026"
+    },
     {
       "source": "Physics Today",
       "title": "Erratum: “Thermal and chemical control of emission and excited-state dynamics in non-(TMS) 3 P-derived InP quantum dots” [J. Chem. Phys. 164, 144702 (2026)]",
@@ -20,16 +32,28 @@
       "date": "15 Jun 2026"
     },
     {
-      "source": "Physics Today",
-      "title": "Extended Lagrangian molecular dynamics on vibronic surfaces in the nuclear–electronic orbital framework",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/23/234108/3394753/Extended-Lagrangian-molecular-dynamics-on-vibronic",
+      "source": "Hacker News – Quantum",
+      "title": "Quantum Horizon: Quantum Computing as a Threat to Bitcoin and Ethereum",
+      "link": "https://arxiv.org/abs/2606.14484",
       "date": "15 Jun 2026"
     },
     {
-      "source": "Physics Today",
-      "title": "Efficient simulation of non-Markovian path integrals via imaginary time evolution of an effective Hamiltonian",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/23/234106/3394751/Efficient-simulation-of-non-Markovian-path",
-      "date": "15 Jun 2026"
+      "source": "Hacker News – Quantum",
+      "title": "Brain-inspired chip runs near absolute zero, could transform quantum computing",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
+      "date": "13 Jun 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "The quantum computing revolution is closer than you think",
+      "link": "https://www.ft.com/content/7e461be0-5c13-4a93-a0f8-0659ae5505a2",
+      "date": "13 Jun 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "Emerging Security Risks in Quantum Computing",
+      "link": "https://myassineferjani.substack.com/p/beyond-post-quantum-cryptography",
+      "date": "13 Jun 2026"
     }
   ]
 }
