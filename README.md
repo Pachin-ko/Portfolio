@@ -1,19 +1,26 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **18 June 2026 à 11:04 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **19 June 2026 à 11:14 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
 
 ---
 
+## 📰 Nature – Quantum Information
+
+- [Louvre: Relaxing Hardware Requirements of Quantum LDPC Codes by Routing with Expanded Quantum Instruction Set](https://www.nature.com/articles/s41534-026-01306-y) — *17 Jun 2026*
+- [Entanglement as a fairness mechanism in randomized quantum games](https://www.nature.com/articles/s41534-026-01296-x) — *16 Jun 2026*
+- [Restoring Heisenberg scaling in time via autonomous quantum error correction](https://www.nature.com/articles/s41534-026-01268-1) — *15 Jun 2026*
+- [Three-outcome multipartite Bell inequalities: applications to dimension witnessing and spin-nematic squeezing in many-body systems](https://www.nature.com/articles/s41534-026-01261-8) — *13 Jun 2026*
+
 ## 📰 Physics Today
 
+- [Application of the aperiodic defect model to a negatively charged monovacancy in phosphorene](https://pubs.aip.org/aip/jcp/article/164/23/234118/3395792/Application-of-the-aperiodic-defect-model-to-a) — *18 Jun 2026*
+- [TiDES: A time-dependent electronic structure code for real-time electron and spin dynamics](https://pubs.aip.org/aip/jcp/article/164/23/234117/3395791/TiDES-A-time-dependent-electronic-structure-code) — *18 Jun 2026*
 - [Intrinsic structural factors and solvent effects on excited-state dynamics and photophysical properties of BIDP derivatives with dual-ESIPT units](https://pubs.aip.org/aip/jcp/article/164/23/234304/3395182/Intrinsic-structural-factors-and-solvent-effects) — *16 Jun 2026*
 - [Generalized Einstein relations between absorption and emission spectra in the electric-dipole approximation](https://pubs.aip.org/aip/jcp/article/164/23/234112/3395164/Generalized-Einstein-relations-between-absorption) — *16 Jun 2026*
 - [Erratum: “Thermal and chemical control of emission and excited-state dynamics in non-(TMS) 3 P-derived InP quantum dots” [J. Chem. Phys. 164, 144702 (2026)]](https://pubs.aip.org/aip/jcp/article/164/23/239902/3395153/Erratum-Thermal-and-chemical-control-of-emission) — *15 Jun 2026*
-- [Quantum sensing with triplet pair states: A theoretical study](https://pubs.aip.org/aip/jcp/article/164/23/234110/3394758/Quantum-sensing-with-triplet-pair-states-A) — *15 Jun 2026*
-- [Fermionic mean-field dynamics for spin systems beyond free fermions](https://pubs.aip.org/aip/jcp/article/164/23/234109/3394754/Fermionic-mean-field-dynamics-for-spin-systems) — *15 Jun 2026*
 
 ## 📰 Hacker News – Quantum
 

@@ -1,6 +1,42 @@
 {
-  "last_updated": "18 June 2026 à 11:04 UTC",
+  "last_updated": "19 June 2026 à 11:14 UTC",
   "articles": [
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Louvre: Relaxing Hardware Requirements of Quantum LDPC Codes by Routing with Expanded Quantum Instruction Set",
+      "link": "https://www.nature.com/articles/s41534-026-01306-y",
+      "date": "17 Jun 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Entanglement as a fairness mechanism in randomized quantum games",
+      "link": "https://www.nature.com/articles/s41534-026-01296-x",
+      "date": "16 Jun 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Restoring Heisenberg scaling in time via autonomous quantum error correction",
+      "link": "https://www.nature.com/articles/s41534-026-01268-1",
+      "date": "15 Jun 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Three-outcome multipartite Bell inequalities: applications to dimension witnessing and spin-nematic squeezing in many-body systems",
+      "link": "https://www.nature.com/articles/s41534-026-01261-8",
+      "date": "13 Jun 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Application of the aperiodic defect model to a negatively charged monovacancy in phosphorene",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/23/234118/3395792/Application-of-the-aperiodic-defect-model-to-a",
+      "date": "18 Jun 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "TiDES: A time-dependent electronic structure code for real-time electron and spin dynamics",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/23/234117/3395791/TiDES-A-time-dependent-electronic-structure-code",
+      "date": "18 Jun 2026"
+    },
     {
       "source": "Physics Today",
       "title": "Intrinsic structural factors and solvent effects on excited-state dynamics and photophysical properties of BIDP derivatives with dual-ESIPT units",
@@ -17,18 +53,6 @@
       "source": "Physics Today",
       "title": "Erratum: “Thermal and chemical control of emission and excited-state dynamics in non-(TMS) 3 P-derived InP quantum dots” [J. Chem. Phys. 164, 144702 (2026)]",
       "link": "https://pubs.aip.org/aip/jcp/article/164/23/239902/3395153/Erratum-Thermal-and-chemical-control-of-emission",
-      "date": "15 Jun 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Quantum sensing with triplet pair states: A theoretical study",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/23/234110/3394758/Quantum-sensing-with-triplet-pair-states-A",
-      "date": "15 Jun 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Fermionic mean-field dynamics for spin systems beyond free fermions",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/23/234109/3394754/Fermionic-mean-field-dynamics-for-spin-systems",
       "date": "15 Jun 2026"
     },
     {
