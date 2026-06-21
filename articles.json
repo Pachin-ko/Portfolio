@@ -1,6 +1,36 @@
 {
-  "last_updated": "20 June 2026 à 09:57 UTC",
+  "last_updated": "21 June 2026 à 10:25 UTC",
   "articles": [
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Analytical computation of entanglement distribution time in first-generation quantum repeater chains",
+      "link": "https://www.nature.com/articles/s41534-026-01299-8",
+      "date": "20 Jun 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Long-lived photon blockade with weak optical nonlinearity",
+      "link": "https://www.nature.com/articles/s41534-026-01293-0",
+      "date": "20 Jun 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Multiple photons enhance quantum machine learning",
+      "link": "https://www.nature.com/articles/s41534-026-01302-2",
+      "date": "19 Jun 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Louvre: Relaxing Hardware Requirements of Quantum LDPC Codes by Routing with Expanded Quantum Instruction Set",
+      "link": "https://www.nature.com/articles/s41534-026-01306-y",
+      "date": "17 Jun 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Entanglement as a fairness mechanism in randomized quantum games",
+      "link": "https://www.nature.com/articles/s41534-026-01296-x",
+      "date": "16 Jun 2026"
+    },
     {
       "source": "Physics Today",
       "title": "Application of the aperiodic defect model to a negatively charged monovacancy in phosphorene",
@@ -36,12 +66,6 @@
       "title": "Quantum Horizon: Quantum Computing as a Threat to Bitcoin and Ethereum",
       "link": "https://arxiv.org/abs/2606.14484",
       "date": "15 Jun 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Brain-inspired chip runs near absolute zero, could transform quantum computing",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
-      "date": "13 Jun 2026"
     }
   ]
 }

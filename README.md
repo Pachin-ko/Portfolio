@@ -1,11 +1,19 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **20 June 2026 à 09:57 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **21 June 2026 à 10:25 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
 
 ---
+
+## 📰 Nature – Quantum Information
+
+- [Analytical computation of entanglement distribution time in first-generation quantum repeater chains](https://www.nature.com/articles/s41534-026-01299-8) — *20 Jun 2026*
+- [Long-lived photon blockade with weak optical nonlinearity](https://www.nature.com/articles/s41534-026-01293-0) — *20 Jun 2026*
+- [Multiple photons enhance quantum machine learning](https://www.nature.com/articles/s41534-026-01302-2) — *19 Jun 2026*
+- [Louvre: Relaxing Hardware Requirements of Quantum LDPC Codes by Routing with Expanded Quantum Instruction Set](https://www.nature.com/articles/s41534-026-01306-y) — *17 Jun 2026*
+- [Entanglement as a fairness mechanism in randomized quantum games](https://www.nature.com/articles/s41534-026-01296-x) — *16 Jun 2026*
 
 ## 📰 Physics Today
 
@@ -18,7 +26,6 @@ agrégés depuis des sources académiques, tech et communautaires.
 ## 📰 Hacker News – Quantum
 
 - [Quantum Horizon: Quantum Computing as a Threat to Bitcoin and Ethereum](https://arxiv.org/abs/2606.14484) — *15 Jun 2026*
-- [Brain-inspired chip runs near absolute zero, could transform quantum computing](https://www.sciencedaily.com/releases/2026/06/260612032024.htm) — *13 Jun 2026*
 
 ---
 
