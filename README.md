@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **21 June 2026 à 10:25 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **22 June 2026 à 12:43 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -21,11 +21,6 @@ agrégés depuis des sources académiques, tech et communautaires.
 - [TiDES: A time-dependent electronic structure code for real-time electron and spin dynamics](https://pubs.aip.org/aip/jcp/article/164/23/234117/3395791/TiDES-A-time-dependent-electronic-structure-code) — *18 Jun 2026*
 - [Intrinsic structural factors and solvent effects on excited-state dynamics and photophysical properties of BIDP derivatives with dual-ESIPT units](https://pubs.aip.org/aip/jcp/article/164/23/234304/3395182/Intrinsic-structural-factors-and-solvent-effects) — *16 Jun 2026*
 - [Generalized Einstein relations between absorption and emission spectra in the electric-dipole approximation](https://pubs.aip.org/aip/jcp/article/164/23/234112/3395164/Generalized-Einstein-relations-between-absorption) — *16 Jun 2026*
-- [Erratum: “Thermal and chemical control of emission and excited-state dynamics in non-(TMS) 3 P-derived InP quantum dots” [J. Chem. Phys. 164, 144702 (2026)]](https://pubs.aip.org/aip/jcp/article/164/23/239902/3395153/Erratum-Thermal-and-chemical-control-of-emission) — *15 Jun 2026*
-
-## 📰 Hacker News – Quantum
-
-- [Quantum Horizon: Quantum Computing as a Threat to Bitcoin and Ethereum](https://arxiv.org/abs/2606.14484) — *15 Jun 2026*
 
 ---
 
