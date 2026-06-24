@@ -1,53 +1,35 @@
 {
-  "last_updated": "23 June 2026 à 10:28 UTC",
+  "last_updated": "24 June 2026 à 10:13 UTC",
   "articles": [
     {
-      "source": "Nature – Quantum Information",
-      "title": "Analytical computation of entanglement distribution time in first-generation quantum repeater chains",
-      "link": "https://www.nature.com/articles/s41534-026-01299-8",
-      "date": "20 Jun 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Long-lived photon blockade with weak optical nonlinearity",
-      "link": "https://www.nature.com/articles/s41534-026-01293-0",
-      "date": "20 Jun 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Multiple photons enhance quantum machine learning",
-      "link": "https://www.nature.com/articles/s41534-026-01302-2",
-      "date": "19 Jun 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Louvre: Relaxing Hardware Requirements of Quantum LDPC Codes by Routing with Expanded Quantum Instruction Set",
-      "link": "https://www.nature.com/articles/s41534-026-01306-y",
-      "date": "17 Jun 2026"
+      "source": "Physics Today",
+      "title": "Intrinsic Raman scattering activity of OH and OD oscillators in liquid H 2 O, D 2 O, and HOD: Roles of zero-point energy and vibrational coupling",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/24/244502/3396159/Intrinsic-Raman-scattering-activity-of-OH-and-OD",
+      "date": "23 Jun 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Geometric diagnostics of scrambling-related sensitivity in a Bohmian preparation space",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/24/244108/3395946/Geometric-diagnostics-of-scrambling-related",
-      "date": "22 Jun 2026"
+      "title": "Coherent nonlinear optical probes for cavity-dressed vibrational mode mixing: Multidimensional double-quantum coherence and photon-echo spectroscopy",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/24/244307/3396158/Coherent-nonlinear-optical-probes-for-cavity",
+      "date": "23 Jun 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Finite-bath open quantum systems: Exact dynamics",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/24/244107/3395942/Finite-bath-open-quantum-systems-Exact-dynamics",
-      "date": "22 Jun 2026"
+      "title": "Spectroscopic identification and structural characterization of Ag 2 H 2  −  by mass-selected photoelectron velocity-map imaging",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/24/244306/3396154/Spectroscopic-identification-and-structural",
+      "date": "23 Jun 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Spectral convergence of sum-of-Gaussians tensor neural networks for many-electron Schrödinger equation",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/24/244103/3395937/Spectral-convergence-of-sum-of-Gaussians-tensor",
-      "date": "22 Jun 2026"
+      "title": "The entropic barrier around the conical intersection seam",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/24/244112/3396152/The-entropic-barrier-around-the-conical",
+      "date": "23 Jun 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Elucidating the synergetic interplay between average intermolecular coupling and coupling disorder in short-time exciton transfer",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/24/244101/3395932/Elucidating-the-synergetic-interplay-between",
-      "date": "22 Jun 2026"
+      "title": "Molecular electron transfer in optical cavities: From excitonic to vibronic polaritons",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/24/244305/3396151/Molecular-electron-transfer-in-optical-cavities",
+      "date": "23 Jun 2026"
     },
     {
       "source": "Hacker News – Quantum",

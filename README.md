@@ -1,25 +1,19 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **23 June 2026 à 10:28 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **24 June 2026 à 10:13 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
 
 ---
 
-## 📰 Nature – Quantum Information
-
-- [Analytical computation of entanglement distribution time in first-generation quantum repeater chains](https://www.nature.com/articles/s41534-026-01299-8) — *20 Jun 2026*
-- [Long-lived photon blockade with weak optical nonlinearity](https://www.nature.com/articles/s41534-026-01293-0) — *20 Jun 2026*
-- [Multiple photons enhance quantum machine learning](https://www.nature.com/articles/s41534-026-01302-2) — *19 Jun 2026*
-- [Louvre: Relaxing Hardware Requirements of Quantum LDPC Codes by Routing with Expanded Quantum Instruction Set](https://www.nature.com/articles/s41534-026-01306-y) — *17 Jun 2026*
-
 ## 📰 Physics Today
 
-- [Geometric diagnostics of scrambling-related sensitivity in a Bohmian preparation space](https://pubs.aip.org/aip/jcp/article/164/24/244108/3395946/Geometric-diagnostics-of-scrambling-related) — *22 Jun 2026*
-- [Finite-bath open quantum systems: Exact dynamics](https://pubs.aip.org/aip/jcp/article/164/24/244107/3395942/Finite-bath-open-quantum-systems-Exact-dynamics) — *22 Jun 2026*
-- [Spectral convergence of sum-of-Gaussians tensor neural networks for many-electron Schrödinger equation](https://pubs.aip.org/aip/jcp/article/164/24/244103/3395937/Spectral-convergence-of-sum-of-Gaussians-tensor) — *22 Jun 2026*
-- [Elucidating the synergetic interplay between average intermolecular coupling and coupling disorder in short-time exciton transfer](https://pubs.aip.org/aip/jcp/article/164/24/244101/3395932/Elucidating-the-synergetic-interplay-between) — *22 Jun 2026*
+- [Intrinsic Raman scattering activity of OH and OD oscillators in liquid H 2 O, D 2 O, and HOD: Roles of zero-point energy and vibrational coupling](https://pubs.aip.org/aip/jcp/article/164/24/244502/3396159/Intrinsic-Raman-scattering-activity-of-OH-and-OD) — *23 Jun 2026*
+- [Coherent nonlinear optical probes for cavity-dressed vibrational mode mixing: Multidimensional double-quantum coherence and photon-echo spectroscopy](https://pubs.aip.org/aip/jcp/article/164/24/244307/3396158/Coherent-nonlinear-optical-probes-for-cavity) — *23 Jun 2026*
+- [Spectroscopic identification and structural characterization of Ag 2 H 2  −  by mass-selected photoelectron velocity-map imaging](https://pubs.aip.org/aip/jcp/article/164/24/244306/3396154/Spectroscopic-identification-and-structural) — *23 Jun 2026*
+- [The entropic barrier around the conical intersection seam](https://pubs.aip.org/aip/jcp/article/164/24/244112/3396152/The-entropic-barrier-around-the-conical) — *23 Jun 2026*
+- [Molecular electron transfer in optical cavities: From excitonic to vibronic polaritons](https://pubs.aip.org/aip/jcp/article/164/24/244305/3396151/Molecular-electron-transfer-in-optical-cavities) — *23 Jun 2026*
 
 ## 📰 Hacker News – Quantum
 
