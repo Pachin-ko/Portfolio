@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **24 June 2026 à 10:13 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **25 June 2026 à 10:11 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -17,6 +17,7 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Hacker News – Quantum
 
+- [Microsoft's quantum computing technology called into question, again](https://www.reuters.com/legal/government/microsofts-quantum-computing-technology-called-into-question-again-2026-06-24/) — *24 Jun 2026*
 - [New Presidential Executive Orders to Fast-Track Quantum Computing](https://www.barrons.com/articles/trump-quantum-computing-executive-orders-3c1aabe2) — *22 Jun 2026*
 
 ---
