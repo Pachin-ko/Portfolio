@@ -1,6 +1,18 @@
 {
-  "last_updated": "26 June 2026 à 10:14 UTC",
+  "last_updated": "27 June 2026 à 09:22 UTC",
   "articles": [
+    {
+      "source": "Nature – Quantum Information",
+      "title": "A context-aware gate set tomography: Improving the self-consistent characterization of trapped-ion universal gate sets by leveraging non-Markovianity",
+      "link": "https://www.nature.com/articles/s41534-026-01313-z",
+      "date": "26 Jun 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Learning pure quantum states almost without regret",
+      "link": "https://www.nature.com/articles/s41534-026-01305-z",
+      "date": "26 Jun 2026"
+    },
     {
       "source": "Nature – Quantum Information",
       "title": "Optimal control for Rydberg multi-qubit operations",
@@ -20,16 +32,10 @@
       "date": "24 Jun 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "Fullqubit alchemist: quantum algorithm for alchemical free energy calculations",
-      "link": "https://www.nature.com/articles/s41534-026-01275-2",
-      "date": "23 Jun 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Analytical computation of entanglement distribution time in first-generation quantum repeater chains",
-      "link": "https://www.nature.com/articles/s41534-026-01299-8",
-      "date": "20 Jun 2026"
+      "source": "Physics Today",
+      "title": "Transient hydroperoxyalkyl intermediates (•QOOH) in isopentane oxidation. II. Isomer-resolved unimolecular dynamics",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/24/244312/3396689/Transient-hydroperoxyalkyl-intermediates-QOOH-in",
+      "date": "26 Jun 2026"
     },
     {
       "source": "Physics Today",
@@ -56,10 +62,10 @@
       "date": "23 Jun 2026"
     },
     {
-      "source": "Physics Today",
-      "title": "Spectroscopic identification and structural characterization of Ag 2 H 2  −  by mass-selected photoelectron velocity-map imaging",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/24/244306/3396154/Spectroscopic-identification-and-structural",
-      "date": "23 Jun 2026"
+      "source": "Hacker News – Quantum",
+      "title": "Microsoft's quantum computing technology called into question, again",
+      "link": "https://vechron.com/2026/06/microsofts-quantum-computing-technology-called-into-question-again/",
+      "date": "26 Jun 2026"
     },
     {
       "source": "Hacker News – Quantum",
