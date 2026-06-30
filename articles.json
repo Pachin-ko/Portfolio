@@ -1,6 +1,12 @@
 {
-  "last_updated": "29 June 2026 à 11:52 UTC",
+  "last_updated": "30 June 2026 à 10:26 UTC",
   "articles": [
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Planar fault-tolerant logical measurements with low qubit overhead",
+      "link": "https://www.nature.com/articles/s41534-026-01310-2",
+      "date": "30 Jun 2026"
+    },
     {
       "source": "Nature – Quantum Information",
       "title": "A context-aware gate set tomography: Improving the self-consistent characterization of trapped-ion universal gate sets by leveraging non-Markovianity",
@@ -26,10 +32,10 @@
       "date": "25 Jun 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "Design and optimization of adaptive diversity schemes in quantum MIMO channels",
-      "link": "https://www.nature.com/articles/s41534-026-01308-w",
-      "date": "24 Jun 2026"
+      "source": "Physics Today",
+      "title": "Polaron transformed canonically consistent quantum master equation",
+      "link": "https://pubs.aip.org/aip/jcp/article/164/24/244120/3396709/Polaron-transformed-canonically-consistent-quantum",
+      "date": "29 Jun 2026"
     },
     {
       "source": "Physics Today",
@@ -50,16 +56,16 @@
       "date": "25 Jun 2026"
     },
     {
-      "source": "Physics Today",
-      "title": "Intrinsic Raman scattering activity of OH and OD oscillators in liquid H 2 O, D 2 O, and HOD: Roles of zero-point energy and vibrational coupling",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/24/244502/3396159/Intrinsic-Raman-scattering-activity-of-OH-and-OD",
-      "date": "23 Jun 2026"
+      "source": "Hacker News – Quantum",
+      "title": "Quantum computing startup says it will leapfrog everybody",
+      "link": "https://arstechnica.com/science/2026/06/quera-promises-thousands-of-error-corrected-qubits-by-2029/",
+      "date": "29 Jun 2026"
     },
     {
-      "source": "Physics Today",
-      "title": "Coherent nonlinear optical probes for cavity-dressed vibrational mode mixing: Multidimensional double-quantum coherence and photon-echo spectroscopy",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/24/244307/3396158/Coherent-nonlinear-optical-probes-for-cavity",
-      "date": "23 Jun 2026"
+      "source": "Hacker News – Quantum",
+      "title": "Why BlackRock, Nvidia, and Temasek are betting billions on quantum computing",
+      "link": "https://fortune.com/2026/06/29/blackrock-nvidia-temasek-betting-billions-quantum-computing/",
+      "date": "29 Jun 2026"
     },
     {
       "source": "Hacker News – Quantum",
@@ -72,12 +78,6 @@
       "title": "Microsoft's quantum computing technology called into question, again",
       "link": "https://www.reuters.com/legal/government/microsofts-quantum-computing-technology-called-into-question-again-2026-06-24/",
       "date": "24 Jun 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "New Presidential Executive Orders to Fast-Track Quantum Computing",
-      "link": "https://www.barrons.com/articles/trump-quantum-computing-executive-orders-3c1aabe2",
-      "date": "22 Jun 2026"
     }
   ]
 }
