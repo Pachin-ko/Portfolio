@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **30 June 2026 à 10:26 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **01 July 2026 à 10:37 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -9,11 +9,11 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Nature – Quantum Information
 
+- [A framework of partial error correction for intermediate-scale quantum computers](https://www.nature.com/articles/s41534-026-01301-3) — *01 Jul 2026*
 - [Planar fault-tolerant logical measurements with low qubit overhead](https://www.nature.com/articles/s41534-026-01310-2) — *30 Jun 2026*
 - [A context-aware gate set tomography: Improving the self-consistent characterization of trapped-ion universal gate sets by leveraging non-Markovianity](https://www.nature.com/articles/s41534-026-01313-z) — *26 Jun 2026*
 - [Learning pure quantum states almost without regret](https://www.nature.com/articles/s41534-026-01305-z) — *26 Jun 2026*
 - [Optimal control for Rydberg multi-qubit operations](https://www.nature.com/articles/s41534-026-01288-x) — *25 Jun 2026*
-- [Continuous-variable quantum key distribution with a leakage from digital-to-analog conversion](https://www.nature.com/articles/s41534-026-01309-9) — *25 Jun 2026*
 
 ## 📰 Physics Today
 

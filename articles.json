@@ -1,6 +1,12 @@
 {
-  "last_updated": "30 June 2026 à 10:26 UTC",
+  "last_updated": "01 July 2026 à 10:37 UTC",
   "articles": [
+    {
+      "source": "Nature – Quantum Information",
+      "title": "A framework of partial error correction for intermediate-scale quantum computers",
+      "link": "https://www.nature.com/articles/s41534-026-01301-3",
+      "date": "01 Jul 2026"
+    },
     {
       "source": "Nature – Quantum Information",
       "title": "Planar fault-tolerant logical measurements with low qubit overhead",
@@ -23,12 +29,6 @@
       "source": "Nature – Quantum Information",
       "title": "Optimal control for Rydberg multi-qubit operations",
       "link": "https://www.nature.com/articles/s41534-026-01288-x",
-      "date": "25 Jun 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Continuous-variable quantum key distribution with a leakage from digital-to-analog conversion",
-      "link": "https://www.nature.com/articles/s41534-026-01309-9",
       "date": "25 Jun 2026"
     },
     {
