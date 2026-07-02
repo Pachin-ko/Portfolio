@@ -1,33 +1,17 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **01 July 2026 à 10:37 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **02 July 2026 à 09:52 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
 
 ---
 
-## 📰 Nature – Quantum Information
-
-- [A framework of partial error correction for intermediate-scale quantum computers](https://www.nature.com/articles/s41534-026-01301-3) — *01 Jul 2026*
-- [Planar fault-tolerant logical measurements with low qubit overhead](https://www.nature.com/articles/s41534-026-01310-2) — *30 Jun 2026*
-- [A context-aware gate set tomography: Improving the self-consistent characterization of trapped-ion universal gate sets by leveraging non-Markovianity](https://www.nature.com/articles/s41534-026-01313-z) — *26 Jun 2026*
-- [Learning pure quantum states almost without regret](https://www.nature.com/articles/s41534-026-01305-z) — *26 Jun 2026*
-- [Optimal control for Rydberg multi-qubit operations](https://www.nature.com/articles/s41534-026-01288-x) — *25 Jun 2026*
-
 ## 📰 Physics Today
 
-- [Polaron transformed canonically consistent quantum master equation](https://pubs.aip.org/aip/jcp/article/164/24/244120/3396709/Polaron-transformed-canonically-consistent-quantum) — *29 Jun 2026*
-- [Transient hydroperoxyalkyl intermediates (•QOOH) in isopentane oxidation. II. Isomer-resolved unimolecular dynamics](https://pubs.aip.org/aip/jcp/article/164/24/244312/3396689/Transient-hydroperoxyalkyl-intermediates-QOOH-in) — *26 Jun 2026*
-- [Quantum state-to-state dynamics studies of the C( 3 P) + OH(X 2 Π) → CO(a 3 Π) + H( 2 S) reaction based on a new HCO(1 2 A″) potential energy surface](https://pubs.aip.org/aip/jcp/article/164/24/244310/3396403/Quantum-state-to-state-dynamics-studies-of-the-C) — *25 Jun 2026*
-- [Coherent biexciton transport in the presence of exciton–exciton annihilation in molecular aggregates](https://pubs.aip.org/aip/jcp/article/164/24/244118/3396395/Coherent-biexciton-transport-in-the-presence-of) — *25 Jun 2026*
-
-## 📰 Hacker News – Quantum
-
-- [Quantum computing startup says it will leapfrog everybody](https://arstechnica.com/science/2026/06/quera-promises-thousands-of-error-corrected-qubits-by-2029/) — *29 Jun 2026*
-- [Why BlackRock, Nvidia, and Temasek are betting billions on quantum computing](https://fortune.com/2026/06/29/blackrock-nvidia-temasek-betting-billions-quantum-computing/) — *29 Jun 2026*
-- [Microsoft's quantum computing technology called into question, again](https://vechron.com/2026/06/microsofts-quantum-computing-technology-called-into-question-again/) — *26 Jun 2026*
-- [Microsoft's quantum computing technology called into question, again](https://www.reuters.com/legal/government/microsofts-quantum-computing-technology-called-into-question-again-2026-06-24/) — *24 Jun 2026*
+- [Revisiting crossed-correlated baths in open quantum systems simulated by HEOM or T-TEDOPA](https://pubs.aip.org/aip/jcp/article/165/1/014101/3397149/Revisiting-crossed-correlated-baths-in-open) — *01 Jul 2026*
+- [Isomerization dynamics of dicationic CS 2  and OCS driven by electron-impact](https://pubs.aip.org/aip/jcp/article/165/1/014301/3397048/Isomerization-dynamics-of-dicationic-CS2-and-OCS) — *01 Jul 2026*
+- [Classically driven hybrid quantum algorithms with sequential Givens rotations for reduced measurement cost](https://pubs.aip.org/aip/jcp/article/165/1/014102/3397035/Classically-driven-hybrid-quantum-algorithms-with) — *01 Jul 2026*
 
 ---
 

@@ -1,83 +1,23 @@
 {
-  "last_updated": "01 July 2026 à 10:37 UTC",
+  "last_updated": "02 July 2026 à 09:52 UTC",
   "articles": [
     {
-      "source": "Nature – Quantum Information",
-      "title": "A framework of partial error correction for intermediate-scale quantum computers",
-      "link": "https://www.nature.com/articles/s41534-026-01301-3",
+      "source": "Physics Today",
+      "title": "Revisiting crossed-correlated baths in open quantum systems simulated by HEOM or T-TEDOPA",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/1/014101/3397149/Revisiting-crossed-correlated-baths-in-open",
       "date": "01 Jul 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "Planar fault-tolerant logical measurements with low qubit overhead",
-      "link": "https://www.nature.com/articles/s41534-026-01310-2",
-      "date": "30 Jun 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "A context-aware gate set tomography: Improving the self-consistent characterization of trapped-ion universal gate sets by leveraging non-Markovianity",
-      "link": "https://www.nature.com/articles/s41534-026-01313-z",
-      "date": "26 Jun 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Learning pure quantum states almost without regret",
-      "link": "https://www.nature.com/articles/s41534-026-01305-z",
-      "date": "26 Jun 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Optimal control for Rydberg multi-qubit operations",
-      "link": "https://www.nature.com/articles/s41534-026-01288-x",
-      "date": "25 Jun 2026"
+      "source": "Physics Today",
+      "title": "Isomerization dynamics of dicationic CS 2  and OCS driven by electron-impact",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/1/014301/3397048/Isomerization-dynamics-of-dicationic-CS2-and-OCS",
+      "date": "01 Jul 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Polaron transformed canonically consistent quantum master equation",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/24/244120/3396709/Polaron-transformed-canonically-consistent-quantum",
-      "date": "29 Jun 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Transient hydroperoxyalkyl intermediates (•QOOH) in isopentane oxidation. II. Isomer-resolved unimolecular dynamics",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/24/244312/3396689/Transient-hydroperoxyalkyl-intermediates-QOOH-in",
-      "date": "26 Jun 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Quantum state-to-state dynamics studies of the C( 3 P) + OH(X 2 Π) → CO(a 3 Π) + H( 2 S) reaction based on a new HCO(1 2 A″) potential energy surface",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/24/244310/3396403/Quantum-state-to-state-dynamics-studies-of-the-C",
-      "date": "25 Jun 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Coherent biexciton transport in the presence of exciton–exciton annihilation in molecular aggregates",
-      "link": "https://pubs.aip.org/aip/jcp/article/164/24/244118/3396395/Coherent-biexciton-transport-in-the-presence-of",
-      "date": "25 Jun 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Quantum computing startup says it will leapfrog everybody",
-      "link": "https://arstechnica.com/science/2026/06/quera-promises-thousands-of-error-corrected-qubits-by-2029/",
-      "date": "29 Jun 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Why BlackRock, Nvidia, and Temasek are betting billions on quantum computing",
-      "link": "https://fortune.com/2026/06/29/blackrock-nvidia-temasek-betting-billions-quantum-computing/",
-      "date": "29 Jun 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Microsoft's quantum computing technology called into question, again",
-      "link": "https://vechron.com/2026/06/microsofts-quantum-computing-technology-called-into-question-again/",
-      "date": "26 Jun 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Microsoft's quantum computing technology called into question, again",
-      "link": "https://www.reuters.com/legal/government/microsofts-quantum-computing-technology-called-into-question-again-2026-06-24/",
-      "date": "24 Jun 2026"
+      "title": "Classically driven hybrid quantum algorithms with sequential Givens rotations for reduced measurement cost",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/1/014102/3397035/Classically-driven-hybrid-quantum-algorithms-with",
+      "date": "01 Jul 2026"
     }
   ]
 }
