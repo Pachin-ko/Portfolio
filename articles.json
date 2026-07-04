@@ -1,5 +1,5 @@
 {
-  "last_updated": "03 July 2026 à 09:49 UTC",
+  "last_updated": "04 July 2026 à 09:13 UTC",
   "articles": [
     {
       "source": "Nature – Quantum Information",
@@ -60,6 +60,24 @@
       "title": "Revisiting crossed-correlated baths in open quantum systems simulated by HEOM or T-TEDOPA",
       "link": "https://pubs.aip.org/aip/jcp/article/165/1/014101/3397149/Revisiting-crossed-correlated-baths-in-open",
       "date": "01 Jul 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "Quantum Computing Roadmaps",
+      "link": "https://qcroadmaptracker.netlify.app/",
+      "date": "01 Jul 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "Quantum computing startup says it will leapfrog everybody",
+      "link": "https://arstechnica.com/science/2026/06/quera-promises-thousands-of-error-corrected-qubits-by-2029/",
+      "date": "29 Jun 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "Why BlackRock, Nvidia, and Temasek are betting billions on quantum computing",
+      "link": "https://fortune.com/2026/06/29/blackrock-nvidia-temasek-betting-billions-quantum-computing/",
+      "date": "29 Jun 2026"
     }
   ]
 }

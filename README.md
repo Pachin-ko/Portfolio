@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **03 July 2026 à 09:49 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **04 July 2026 à 09:13 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -22,6 +22,12 @@ agrégés depuis des sources académiques, tech et communautaires.
 - [Optical frequency comb double-resonance spectroscopy of the 9030–9175 cm −1  states of ethylene](https://pubs.aip.org/aip/jcp/article/165/1/014304/3397217/Optical-frequency-comb-double-resonance) — *02 Jul 2026*
 - [Single-reference coupled-cluster theory based on the multi-purpose cluster operator](https://pubs.aip.org/aip/jcp/article/165/1/014110/3397214/Single-reference-coupled-cluster-theory-based-on) — *02 Jul 2026*
 - [Revisiting crossed-correlated baths in open quantum systems simulated by HEOM or T-TEDOPA](https://pubs.aip.org/aip/jcp/article/165/1/014101/3397149/Revisiting-crossed-correlated-baths-in-open) — *01 Jul 2026*
+
+## 📰 Hacker News – Quantum
+
+- [Quantum Computing Roadmaps](https://qcroadmaptracker.netlify.app/) — *01 Jul 2026*
+- [Quantum computing startup says it will leapfrog everybody](https://arstechnica.com/science/2026/06/quera-promises-thousands-of-error-corrected-qubits-by-2029/) — *29 Jun 2026*
+- [Why BlackRock, Nvidia, and Temasek are betting billions on quantum computing](https://fortune.com/2026/06/29/blackrock-nvidia-temasek-betting-billions-quantum-computing/) — *29 Jun 2026*
 
 ---
 
