@@ -1,11 +1,47 @@
 {
-  "last_updated": "07 July 2026 à 10:18 UTC",
+  "last_updated": "08 July 2026 à 09:21 UTC",
   "articles": [
     {
       "source": "Quanta Magazine",
       "title": "Researchers Reveal the Power of ‘Quantum Proofs’",
       "link": "https://www.quantamagazine.org/researchers-reveal-the-power-of-quantum-proofs-20260706/",
       "date": "06 Jul 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "A resource- and computationally-efficient protocol for multipartite entanglement distribution in Bell-pair networks",
+      "link": "https://www.nature.com/articles/s41534-026-01294-z",
+      "date": "08 Jul 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Universal nested quantum switch",
+      "link": "https://www.nature.com/articles/s41534-026-01317-9",
+      "date": "07 Jul 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Resource-efficient simulations of particle scattering on a digital quantum computer",
+      "link": "https://www.nature.com/articles/s41534-026-01311-1",
+      "date": "06 Jul 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Quantum state design and emergent confinement mechanism in measured tensor network states",
+      "link": "https://www.nature.com/articles/s41534-026-01298-9",
+      "date": "04 Jul 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Enhancing classical simulation with noisy quantum devices",
+      "link": "https://www.nature.com/articles/s41534-026-01314-y",
+      "date": "02 Jul 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Metastable excited states of iodide–alkyl halide cluster anions: Insights from photodetachment spectroscopy and non-Hermitian quantum chemistry",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/1/014306/3397828/Metastable-excited-states-of-iodide-alkyl-halide",
+      "date": "07 Jul 2026"
     },
     {
       "source": "Physics Today",
@@ -32,10 +68,10 @@
       "date": "02 Jul 2026"
     },
     {
-      "source": "Physics Today",
-      "title": "Single-reference coupled-cluster theory based on the multi-purpose cluster operator",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/1/014110/3397214/Single-reference-coupled-cluster-theory-based-on",
-      "date": "02 Jul 2026"
+      "source": "Hacker News – Quantum",
+      "title": "Classical computing, quantum computing, and Shor's factoring algorithm (1999)",
+      "link": "https://www.alphaxiv.org/abs/quant-ph/9903008",
+      "date": "07 Jul 2026"
     },
     {
       "source": "Hacker News – Quantum",
