@@ -1,5 +1,5 @@
 {
-  "last_updated": "08 July 2026 à 09:21 UTC",
+  "last_updated": "09 July 2026 à 10:18 UTC",
   "articles": [
     {
       "source": "Quanta Magazine",
@@ -32,40 +32,22 @@
       "date": "04 Jul 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "Enhancing classical simulation with noisy quantum devices",
-      "link": "https://www.nature.com/articles/s41534-026-01314-y",
-      "date": "02 Jul 2026"
+      "source": "Physics Today",
+      "title": "Simulations of solvent effects on excited state dynamics of  p -DAPA, a red single benzene-based fluorophore",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/2/024303/3397895/Simulations-of-solvent-effects-on-excited-state",
+      "date": "08 Jul 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Metastable excited states of iodide–alkyl halide cluster anions: Insights from photodetachment spectroscopy and non-Hermitian quantum chemistry",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/1/014306/3397828/Metastable-excited-states-of-iodide-alkyl-halide",
-      "date": "07 Jul 2026"
+      "title": "Rotational excitation of thioformaldehyde (H 2 CS) in collisions with molecular hydrogen",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/2/024301/3397893/Rotational-excitation-of-thioformaldehyde-H2CS-in",
+      "date": "08 Jul 2026"
     },
     {
       "source": "Physics Today",
-      "title": "A data-driven modeling study on the accurate identification of Doppler-free saturated absorption spectra in diatomic tellurium ( 130 Te 2 )",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/1/014305/3397529/A-data-driven-modeling-study-on-the-accurate",
-      "date": "06 Jul 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Anharmonic phonons via quantum thermal bath simulations",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/1/014109/3397530/Anharmonic-phonons-via-quantum-thermal-bath",
-      "date": "02 Jul 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Quantum simulation of alignment dependent differential cross sections in co-propagating molecular beams at cold collision energies",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/1/014303/3397222/Quantum-simulation-of-alignment-dependent",
-      "date": "02 Jul 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Optical frequency comb double-resonance spectroscopy of the 9030–9175 cm −1  states of ethylene",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/1/014304/3397217/Optical-frequency-comb-double-resonance",
-      "date": "02 Jul 2026"
+      "title": "Topological control of singlet fission",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/2/024102/3397880/Topological-control-of-singlet-fission",
+      "date": "08 Jul 2026"
     },
     {
       "source": "Hacker News – Quantum",
@@ -84,12 +66,6 @@
       "title": "But what is quantum computing? (3blue1brown 2025)",
       "link": "https://www.youtube.com/watch?v=RQWpF2Gb-gU",
       "date": "05 Jul 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Quantum Computing Roadmaps",
-      "link": "https://qcroadmaptracker.netlify.app/",
-      "date": "01 Jul 2026"
     }
   ]
 }
