@@ -1,5 +1,5 @@
 {
-  "last_updated": "10 July 2026 à 10:14 UTC",
+  "last_updated": "11 July 2026 à 08:41 UTC",
   "articles": [
     {
       "source": "Quanta Magazine",
@@ -8,28 +8,10 @@
       "date": "06 Jul 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "A resource- and computationally-efficient protocol for multipartite entanglement distribution in Bell-pair networks",
-      "link": "https://www.nature.com/articles/s41534-026-01294-z",
-      "date": "08 Jul 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Universal nested quantum switch",
-      "link": "https://www.nature.com/articles/s41534-026-01317-9",
-      "date": "07 Jul 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Resource-efficient simulations of particle scattering on a digital quantum computer",
-      "link": "https://www.nature.com/articles/s41534-026-01311-1",
-      "date": "06 Jul 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Quantum state design and emergent confinement mechanism in measured tensor network states",
-      "link": "https://www.nature.com/articles/s41534-026-01298-9",
-      "date": "04 Jul 2026"
+      "source": "Physics Today",
+      "title": "Efficient method for calculation of low-temperature phase boundaries",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/2/024113/3398104/Efficient-method-for-calculation-of-low",
+      "date": "10 Jul 2026"
     },
     {
       "source": "Physics Today",
@@ -54,36 +36,6 @@
       "title": "Polarizable embedding cluster perturbation theory for a coupled cluster singles and doubles target state",
       "link": "https://pubs.aip.org/aip/jcp/article/165/2/024108/3398001/Polarizable-embedding-cluster-perturbation-theory",
       "date": "09 Jul 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Generation of robust entanglement in plasmonically coupled quantum dots driven by quantum squeezed light",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/2/024106/3397998/Generation-of-robust-entanglement-in-plasmonically",
-      "date": "09 Jul 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Quantum computing: one universe is more than enough",
-      "link": "https://muircheartblog.wpcomstaging.com/2026/05/26/quantum-computing-one-universe-is-more-than-enough/",
-      "date": "10 Jul 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Classical computing, quantum computing, and Shor's factoring algorithm (1999)",
-      "link": "https://www.alphaxiv.org/abs/quant-ph/9903008",
-      "date": "07 Jul 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Microsoft says it is ramping up its quantum computing security work",
-      "link": "https://www.techradar.com/pro/security/advances-in-quantum-research-and-development-have-shifted-the-risk-horizon-microsoft-reveals-it-is-ramping-up-its-quantum-computing-security-work",
-      "date": "06 Jul 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "But what is quantum computing? (3blue1brown 2025)",
-      "link": "https://www.youtube.com/watch?v=RQWpF2Gb-gU",
-      "date": "05 Jul 2026"
     }
   ]
 }
