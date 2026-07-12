@@ -1,5 +1,5 @@
 {
-  "last_updated": "11 July 2026 à 08:41 UTC",
+  "last_updated": "12 July 2026 à 08:57 UTC",
   "articles": [
     {
       "source": "Quanta Magazine",
@@ -36,6 +36,30 @@
       "title": "Polarizable embedding cluster perturbation theory for a coupled cluster singles and doubles target state",
       "link": "https://pubs.aip.org/aip/jcp/article/165/2/024108/3398001/Polarizable-embedding-cluster-perturbation-theory",
       "date": "09 Jul 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "Quantum computing: one universe is more than enough",
+      "link": "https://muircheartblog.wpcomstaging.com/2026/05/26/quantum-computing-one-universe-is-more-than-enough/",
+      "date": "10 Jul 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "Classical computing, quantum computing, and Shor's factoring algorithm (1999)",
+      "link": "https://www.alphaxiv.org/abs/quant-ph/9903008",
+      "date": "07 Jul 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "Microsoft says it is ramping up its quantum computing security work",
+      "link": "https://www.techradar.com/pro/security/advances-in-quantum-research-and-development-have-shifted-the-risk-horizon-microsoft-reveals-it-is-ramping-up-its-quantum-computing-security-work",
+      "date": "06 Jul 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "But what is quantum computing? (3blue1brown 2025)",
+      "link": "https://www.youtube.com/watch?v=RQWpF2Gb-gU",
+      "date": "05 Jul 2026"
     }
   ]
 }
