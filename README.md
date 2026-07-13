@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **12 July 2026 à 08:57 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **13 July 2026 à 10:15 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -10,6 +10,14 @@ agrégés depuis des sources académiques, tech et communautaires.
 ## 📰 Quanta Magazine
 
 - [Researchers Reveal the Power of ‘Quantum Proofs’](https://www.quantamagazine.org/researchers-reveal-the-power-of-quantum-proofs-20260706/) — *06 Jul 2026*
+
+## 📰 Nature – Quantum Information
+
+- [Variational Gibbs state preparation on trapped-ion devices](https://www.nature.com/articles/s41534-026-01318-8) — *11 Jul 2026*
+- [Erbium-doped fiber quantum memory for chip-integrated quantum-dot single photons at 980 nm](https://www.nature.com/articles/s41534-026-01316-w) — *11 Jul 2026*
+- [Adiabatic preparation of thermal states and entropy-noise relation on noisy quantum computers](https://www.nature.com/articles/s41534-026-01320-0) — *11 Jul 2026*
+- [A resource- and computationally-efficient protocol for multipartite entanglement distribution in Bell-pair networks](https://www.nature.com/articles/s41534-026-01294-z) — *08 Jul 2026*
+- [Universal nested quantum switch](https://www.nature.com/articles/s41534-026-01317-9) — *07 Jul 2026*
 
 ## 📰 Physics Today
 
@@ -21,10 +29,10 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Hacker News – Quantum
 
+- [Scientists' Side Hustle? Using AI and Quantum Computing to Generate New Peptides](https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/) — *12 Jul 2026*
 - [Quantum computing: one universe is more than enough](https://muircheartblog.wpcomstaging.com/2026/05/26/quantum-computing-one-universe-is-more-than-enough/) — *10 Jul 2026*
 - [Classical computing, quantum computing, and Shor's factoring algorithm (1999)](https://www.alphaxiv.org/abs/quant-ph/9903008) — *07 Jul 2026*
 - [Microsoft says it is ramping up its quantum computing security work](https://www.techradar.com/pro/security/advances-in-quantum-research-and-development-have-shifted-the-risk-horizon-microsoft-reveals-it-is-ramping-up-its-quantum-computing-security-work) — *06 Jul 2026*
-- [But what is quantum computing? (3blue1brown 2025)](https://www.youtube.com/watch?v=RQWpF2Gb-gU) — *05 Jul 2026*
 
 ---
 
