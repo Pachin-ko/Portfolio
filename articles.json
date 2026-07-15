@@ -1,5 +1,5 @@
 {
-  "last_updated": "14 July 2026 à 08:59 UTC",
+  "last_updated": "15 July 2026 à 09:04 UTC",
   "articles": [
     {
       "source": "MIT Technology Review – Quantum",
@@ -26,40 +26,34 @@
       "date": "11 Jul 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "A resource- and computationally-efficient protocol for multipartite entanglement distribution in Bell-pair networks",
-      "link": "https://www.nature.com/articles/s41534-026-01294-z",
-      "date": "08 Jul 2026"
+      "source": "Physics Today",
+      "title": "XMCQDPT2-fidelity transfer-learning potentials and a wavepacket oscillation model for ultrafast photodynamics",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/2/024120/3398427/XMCQDPT2-fidelity-transfer-learning-potentials-and",
+      "date": "14 Jul 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Central-barrier dynamics in HCl dissociative chemisorption on Pt(111): Transition state bond elongation as a geometric indicator of vibrational efficacy",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/2/024312/3398304/Central-barrier-dynamics-in-HCl-dissociative",
+      "date": "14 Jul 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Quantum scattering pathway of the cofactorless spin-forbidden O 2  addition to DPA-CoA",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/2/024311/3398303/Quantum-scattering-pathway-of-the-cofactorless",
+      "date": "14 Jul 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "A refined general AMBER force field for liquid acetonitrile: Development and validation",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/2/024121/3398300/A-refined-general-AMBER-force-field-for-liquid",
+      "date": "14 Jul 2026"
     },
     {
       "source": "Physics Today",
       "title": "Rovibrational energy levels of H 2 O by quantum computing",
       "link": "https://pubs.aip.org/aip/jcp/article/165/2/024118/3398250/Rovibrational-energy-levels-of-H2O-by-quantum",
       "date": "13 Jul 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Beyond Wigner sampling: Effect of initial conditions and substitution on simulated ESIPT in salicylidene aniline",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/2/024309/3398194/Beyond-Wigner-sampling-Effect-of-initial",
-      "date": "13 Jul 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "How vibrational excitation shakes up the UV/VIS spectrum: A 2D-VE study",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/2/024308/3398193/How-vibrational-excitation-shakes-up-the-UV-VIS",
-      "date": "13 Jul 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Efficient method for calculation of low-temperature phase boundaries",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/2/024113/3398104/Efficient-method-for-calculation-of-low",
-      "date": "10 Jul 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Electron proton-coupled transfers in [NH 4 ][H 3 N]  n   ( n  = 1, 2) Rydberg clusters: A machine learning-path integral study",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/2/024304/3398012/Electron-proton-coupled-transfers-in-NH4-H3N-n-n-1",
-      "date": "09 Jul 2026"
     },
     {
       "source": "Hacker News – Quantum",
@@ -72,12 +66,6 @@
       "title": "Quantum computing: one universe is more than enough",
       "link": "https://muircheartblog.wpcomstaging.com/2026/05/26/quantum-computing-one-universe-is-more-than-enough/",
       "date": "10 Jul 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Classical computing, quantum computing, and Shor's factoring algorithm (1999)",
-      "link": "https://www.alphaxiv.org/abs/quant-ph/9903008",
-      "date": "07 Jul 2026"
     }
   ]
 }
