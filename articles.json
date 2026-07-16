@@ -1,11 +1,23 @@
 {
-  "last_updated": "15 July 2026 à 09:04 UTC",
+  "last_updated": "16 July 2026 à 09:08 UTC",
   "articles": [
+    {
+      "source": "MIT Technology Review – Quantum",
+      "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
+      "link": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
+      "date": "15 Jul 2026"
+    },
     {
       "source": "MIT Technology Review – Quantum",
       "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
       "link": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
       "date": "14 Jul 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Self-dual bivariate bicycle codes with transversal Clifford gates",
+      "link": "https://www.nature.com/articles/s41534-026-01303-1",
+      "date": "15 Jul 2026"
     },
     {
       "source": "Nature – Quantum Information",
@@ -27,45 +39,9 @@
     },
     {
       "source": "Physics Today",
-      "title": "XMCQDPT2-fidelity transfer-learning potentials and a wavepacket oscillation model for ultrafast photodynamics",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/2/024120/3398427/XMCQDPT2-fidelity-transfer-learning-potentials-and",
-      "date": "14 Jul 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Central-barrier dynamics in HCl dissociative chemisorption on Pt(111): Transition state bond elongation as a geometric indicator of vibrational efficacy",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/2/024312/3398304/Central-barrier-dynamics-in-HCl-dissociative",
-      "date": "14 Jul 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Quantum scattering pathway of the cofactorless spin-forbidden O 2  addition to DPA-CoA",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/2/024311/3398303/Quantum-scattering-pathway-of-the-cofactorless",
-      "date": "14 Jul 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "A refined general AMBER force field for liquid acetonitrile: Development and validation",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/2/024121/3398300/A-refined-general-AMBER-force-field-for-liquid",
-      "date": "14 Jul 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Rovibrational energy levels of H 2 O by quantum computing",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/2/024118/3398250/Rovibrational-energy-levels-of-H2O-by-quantum",
-      "date": "13 Jul 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Scientists' Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
-      "link": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
-      "date": "12 Jul 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Quantum computing: one universe is more than enough",
-      "link": "https://muircheartblog.wpcomstaging.com/2026/05/26/quantum-computing-one-universe-is-more-than-enough/",
-      "date": "10 Jul 2026"
+      "title": "Identifiability limits and deep-learning-assisted reconstruction of rotational density matrices for symmetric-top molecules",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/3/034102/3398436/Identifiability-limits-and-deep-learning-assisted",
+      "date": "15 Jul 2026"
     }
   ]
 }
