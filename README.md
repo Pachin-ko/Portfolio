@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **16 July 2026 à 09:08 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **17 July 2026 à 09:03 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -21,7 +21,13 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Physics Today
 
+- [Quantum scattering of NO A 2 Σ +  + Ne: Benchmarking the potential energy surface of the collision complex](https://pubs.aip.org/aip/jcp/article/165/3/034108/3398558/Quantum-scattering-of-NO-A2-Ne-Benchmarking-the) — *16 Jul 2026*
+- [Quantum kernel-based delta (Δ)-learning for correcting a semiempirical method in the prediction of reaction barrier heights](https://pubs.aip.org/aip/jcp/article/165/3/034110/3398556/Quantum-kernel-based-delta-learning-for-correcting) — *16 Jul 2026*
 - [Identifiability limits and deep-learning-assisted reconstruction of rotational density matrices for symmetric-top molecules](https://pubs.aip.org/aip/jcp/article/165/3/034102/3398436/Identifiability-limits-and-deep-learning-assisted) — *15 Jul 2026*
+
+## 📰 Hacker News – Quantum
+
+- [Scientists' Side Hustle? Using AI and Quantum Computing to Generate New Peptides](https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/) — *12 Jul 2026*
 
 ---
 
