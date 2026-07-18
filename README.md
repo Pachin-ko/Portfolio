@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **17 July 2026 à 09:03 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **18 July 2026 à 08:42 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -14,16 +14,17 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Nature – Quantum Information
 
+- [Photonic qubit gates via 1D scattering from an array of two-level emitters](https://www.nature.com/articles/s41534-026-01324-w) — *17 Jul 2026*
+- [Generating logical magic states with the aid of non-Abelian topological order](https://www.nature.com/articles/s41534-026-01315-x) — *16 Jul 2026*
 - [Self-dual bivariate bicycle codes with transversal Clifford gates](https://www.nature.com/articles/s41534-026-01303-1) — *15 Jul 2026*
-- [Variational Gibbs state preparation on trapped-ion devices](https://www.nature.com/articles/s41534-026-01318-8) — *11 Jul 2026*
-- [Erbium-doped fiber quantum memory for chip-integrated quantum-dot single photons at 980 nm](https://www.nature.com/articles/s41534-026-01316-w) — *11 Jul 2026*
-- [Adiabatic preparation of thermal states and entropy-noise relation on noisy quantum computers](https://www.nature.com/articles/s41534-026-01320-0) — *11 Jul 2026*
 
 ## 📰 Physics Today
 
-- [Quantum scattering of NO A 2 Σ +  + Ne: Benchmarking the potential energy surface of the collision complex](https://pubs.aip.org/aip/jcp/article/165/3/034108/3398558/Quantum-scattering-of-NO-A2-Ne-Benchmarking-the) — *16 Jul 2026*
-- [Quantum kernel-based delta (Δ)-learning for correcting a semiempirical method in the prediction of reaction barrier heights](https://pubs.aip.org/aip/jcp/article/165/3/034110/3398556/Quantum-kernel-based-delta-learning-for-correcting) — *16 Jul 2026*
-- [Identifiability limits and deep-learning-assisted reconstruction of rotational density matrices for symmetric-top molecules](https://pubs.aip.org/aip/jcp/article/165/3/034102/3398436/Identifiability-limits-and-deep-learning-assisted) — *15 Jul 2026*
+- [Local thermal probe in a model molecular chain: A dissipaton-based approach](https://pubs.aip.org/aip/jcp/article/165/3/034118/3398684/Local-thermal-probe-in-a-model-molecular-chain-A) — *17 Jul 2026*
+- [Quantum machine learning for predicting properties of van der Waals bilayers](https://pubs.aip.org/aip/jcp/article/165/3/034703/3398671/Quantum-machine-learning-for-predicting-properties) — *17 Jul 2026*
+- [Decoding vibrational energy transfer in CO–O 2  collisions: Vibrational state-to-state rate coefficient datasets on a new potential energy surface](https://pubs.aip.org/aip/jcp/article/165/3/034306/3398667/Decoding-vibrational-energy-transfer-in-CO-O2) — *17 Jul 2026*
+- [Coupled-cluster theory for positron binding in anions and polyatomic molecules](https://pubs.aip.org/aip/jcp/article/165/3/034121/3398660/Coupled-cluster-theory-for-positron-binding-in) — *17 Jul 2026*
+- [Mixed quantum–classical simulations of intramolecular singlet fission](https://pubs.aip.org/aip/jcp/article/165/3/034302/3398670/Mixed-quantum-classical-simulations-of) — *16 Jul 2026*
 
 ## 📰 Hacker News – Quantum
 

@@ -1,5 +1,5 @@
 {
-  "last_updated": "17 July 2026 à 09:03 UTC",
+  "last_updated": "18 July 2026 à 08:42 UTC",
   "articles": [
     {
       "source": "MIT Technology Review – Quantum",
@@ -15,45 +15,51 @@
     },
     {
       "source": "Nature – Quantum Information",
+      "title": "Photonic qubit gates via 1D scattering from an array of two-level emitters",
+      "link": "https://www.nature.com/articles/s41534-026-01324-w",
+      "date": "17 Jul 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Generating logical magic states with the aid of non-Abelian topological order",
+      "link": "https://www.nature.com/articles/s41534-026-01315-x",
+      "date": "16 Jul 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
       "title": "Self-dual bivariate bicycle codes with transversal Clifford gates",
       "link": "https://www.nature.com/articles/s41534-026-01303-1",
       "date": "15 Jul 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "Variational Gibbs state preparation on trapped-ion devices",
-      "link": "https://www.nature.com/articles/s41534-026-01318-8",
-      "date": "11 Jul 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Erbium-doped fiber quantum memory for chip-integrated quantum-dot single photons at 980 nm",
-      "link": "https://www.nature.com/articles/s41534-026-01316-w",
-      "date": "11 Jul 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Adiabatic preparation of thermal states and entropy-noise relation on noisy quantum computers",
-      "link": "https://www.nature.com/articles/s41534-026-01320-0",
-      "date": "11 Jul 2026"
+      "source": "Physics Today",
+      "title": "Local thermal probe in a model molecular chain: A dissipaton-based approach",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/3/034118/3398684/Local-thermal-probe-in-a-model-molecular-chain-A",
+      "date": "17 Jul 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Quantum scattering of NO A 2 Σ +  + Ne: Benchmarking the potential energy surface of the collision complex",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/3/034108/3398558/Quantum-scattering-of-NO-A2-Ne-Benchmarking-the",
+      "title": "Quantum machine learning for predicting properties of van der Waals bilayers",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/3/034703/3398671/Quantum-machine-learning-for-predicting-properties",
+      "date": "17 Jul 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Decoding vibrational energy transfer in CO–O 2  collisions: Vibrational state-to-state rate coefficient datasets on a new potential energy surface",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/3/034306/3398667/Decoding-vibrational-energy-transfer-in-CO-O2",
+      "date": "17 Jul 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Coupled-cluster theory for positron binding in anions and polyatomic molecules",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/3/034121/3398660/Coupled-cluster-theory-for-positron-binding-in",
+      "date": "17 Jul 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Mixed quantum–classical simulations of intramolecular singlet fission",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/3/034302/3398670/Mixed-quantum-classical-simulations-of",
       "date": "16 Jul 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Quantum kernel-based delta (Δ)-learning for correcting a semiempirical method in the prediction of reaction barrier heights",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/3/034110/3398556/Quantum-kernel-based-delta-learning-for-correcting",
-      "date": "16 Jul 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Identifiability limits and deep-learning-assisted reconstruction of rotational density matrices for symmetric-top molecules",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/3/034102/3398436/Identifiability-limits-and-deep-learning-assisted",
-      "date": "15 Jul 2026"
     },
     {
       "source": "Hacker News – Quantum",
