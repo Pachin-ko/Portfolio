@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **18 July 2026 à 08:42 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **19 July 2026 à 09:01 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -12,12 +12,6 @@ agrégés depuis des sources académiques, tech et communautaires.
 - [The Download: a useful quantum machine and a record-breaking subsea tunnel](https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/) — *15 Jul 2026*
 - [PsiQuantum has a plan to make a massive quantum computer out of light](https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/) — *14 Jul 2026*
 
-## 📰 Nature – Quantum Information
-
-- [Photonic qubit gates via 1D scattering from an array of two-level emitters](https://www.nature.com/articles/s41534-026-01324-w) — *17 Jul 2026*
-- [Generating logical magic states with the aid of non-Abelian topological order](https://www.nature.com/articles/s41534-026-01315-x) — *16 Jul 2026*
-- [Self-dual bivariate bicycle codes with transversal Clifford gates](https://www.nature.com/articles/s41534-026-01303-1) — *15 Jul 2026*
-
 ## 📰 Physics Today
 
 - [Local thermal probe in a model molecular chain: A dissipaton-based approach](https://pubs.aip.org/aip/jcp/article/165/3/034118/3398684/Local-thermal-probe-in-a-model-molecular-chain-A) — *17 Jul 2026*
@@ -25,10 +19,6 @@ agrégés depuis des sources académiques, tech et communautaires.
 - [Decoding vibrational energy transfer in CO–O 2  collisions: Vibrational state-to-state rate coefficient datasets on a new potential energy surface](https://pubs.aip.org/aip/jcp/article/165/3/034306/3398667/Decoding-vibrational-energy-transfer-in-CO-O2) — *17 Jul 2026*
 - [Coupled-cluster theory for positron binding in anions and polyatomic molecules](https://pubs.aip.org/aip/jcp/article/165/3/034121/3398660/Coupled-cluster-theory-for-positron-binding-in) — *17 Jul 2026*
 - [Mixed quantum–classical simulations of intramolecular singlet fission](https://pubs.aip.org/aip/jcp/article/165/3/034302/3398670/Mixed-quantum-classical-simulations-of) — *16 Jul 2026*
-
-## 📰 Hacker News – Quantum
-
-- [Scientists' Side Hustle? Using AI and Quantum Computing to Generate New Peptides](https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/) — *12 Jul 2026*
 
 ---
 

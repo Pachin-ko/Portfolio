@@ -1,5 +1,5 @@
 {
-  "last_updated": "18 July 2026 à 08:42 UTC",
+  "last_updated": "19 July 2026 à 09:01 UTC",
   "articles": [
     {
       "source": "MIT Technology Review – Quantum",
@@ -12,24 +12,6 @@
       "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
       "link": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
       "date": "14 Jul 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Photonic qubit gates via 1D scattering from an array of two-level emitters",
-      "link": "https://www.nature.com/articles/s41534-026-01324-w",
-      "date": "17 Jul 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Generating logical magic states with the aid of non-Abelian topological order",
-      "link": "https://www.nature.com/articles/s41534-026-01315-x",
-      "date": "16 Jul 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Self-dual bivariate bicycle codes with transversal Clifford gates",
-      "link": "https://www.nature.com/articles/s41534-026-01303-1",
-      "date": "15 Jul 2026"
     },
     {
       "source": "Physics Today",
@@ -60,12 +42,6 @@
       "title": "Mixed quantum–classical simulations of intramolecular singlet fission",
       "link": "https://pubs.aip.org/aip/jcp/article/165/3/034302/3398670/Mixed-quantum-classical-simulations-of",
       "date": "16 Jul 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Scientists' Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
-      "link": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
-      "date": "12 Jul 2026"
     }
   ]
 }
