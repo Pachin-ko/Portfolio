@@ -1,5 +1,5 @@
 {
-  "last_updated": "20 July 2026 à 09:49 UTC",
+  "last_updated": "21 July 2026 à 09:22 UTC",
   "articles": [
     {
       "source": "MIT Technology Review – Quantum",
@@ -8,10 +8,40 @@
       "date": "15 Jul 2026"
     },
     {
-      "source": "MIT Technology Review – Quantum",
-      "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
-      "link": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
-      "date": "14 Jul 2026"
+      "source": "Nature – Quantum Information",
+      "title": "Photonic qubit gates via 1D scattering from an array of two-level emitters",
+      "link": "https://www.nature.com/articles/s41534-026-01324-w",
+      "date": "17 Jul 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Generating logical magic states with the aid of non-Abelian topological order",
+      "link": "https://www.nature.com/articles/s41534-026-01315-x",
+      "date": "16 Jul 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Self-dual bivariate bicycle codes with transversal Clifford gates",
+      "link": "https://www.nature.com/articles/s41534-026-01303-1",
+      "date": "15 Jul 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Capturing electron correlation at mean-field cost: Assessment of i-DMFT and the underlying correlation conjecture",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/3/034123/3398833/Capturing-electron-correlation-at-mean-field-cost",
+      "date": "20 Jul 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Ensemble density functional theory of excited states: Exact  N -centered formalism and practical opportunities",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/3/030902/3398830/Ensemble-density-functional-theory-of-excited",
+      "date": "20 Jul 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Voltage-tunable nonequilibrium dispersion interactions",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/3/034122/3398829/Voltage-tunable-nonequilibrium-dispersion",
+      "date": "20 Jul 2026"
     },
     {
       "source": "Physics Today",
@@ -26,22 +56,10 @@
       "date": "17 Jul 2026"
     },
     {
-      "source": "Physics Today",
-      "title": "Decoding vibrational energy transfer in CO–O 2  collisions: Vibrational state-to-state rate coefficient datasets on a new potential energy surface",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/3/034306/3398667/Decoding-vibrational-energy-transfer-in-CO-O2",
-      "date": "17 Jul 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Coupled-cluster theory for positron binding in anions and polyatomic molecules",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/3/034121/3398660/Coupled-cluster-theory-for-positron-binding-in",
-      "date": "17 Jul 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Mixed quantum–classical simulations of intramolecular singlet fission",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/3/034302/3398670/Mixed-quantum-classical-simulations-of",
-      "date": "16 Jul 2026"
+      "source": "Hacker News – Quantum",
+      "title": "Secure Quantum Computing / CE 395 / Spring 2026 / Northwestern University",
+      "link": "https://www.youtube.com/playlist?list=PLWOUVwVosA-7aCa6SBXoM_m66WV-K_N0o",
+      "date": "20 Jul 2026"
     }
   ]
 }
