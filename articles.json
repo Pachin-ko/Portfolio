@@ -1,29 +1,11 @@
 {
-  "last_updated": "21 July 2026 à 09:22 UTC",
+  "last_updated": "22 July 2026 à 09:21 UTC",
   "articles": [
     {
-      "source": "MIT Technology Review – Quantum",
-      "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
-      "link": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
-      "date": "15 Jul 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Photonic qubit gates via 1D scattering from an array of two-level emitters",
-      "link": "https://www.nature.com/articles/s41534-026-01324-w",
-      "date": "17 Jul 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Generating logical magic states with the aid of non-Abelian topological order",
-      "link": "https://www.nature.com/articles/s41534-026-01315-x",
-      "date": "16 Jul 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Self-dual bivariate bicycle codes with transversal Clifford gates",
-      "link": "https://www.nature.com/articles/s41534-026-01303-1",
-      "date": "15 Jul 2026"
+      "source": "Physics Today",
+      "title": "Benchmarking semiempirical quantum chemical methods on liquid water",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/3/034124/3398960/Benchmarking-semiempirical-quantum-chemical",
+      "date": "21 Jul 2026"
     },
     {
       "source": "Physics Today",
@@ -50,10 +32,10 @@
       "date": "17 Jul 2026"
     },
     {
-      "source": "Physics Today",
-      "title": "Quantum machine learning for predicting properties of van der Waals bilayers",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/3/034703/3398671/Quantum-machine-learning-for-predicting-properties",
-      "date": "17 Jul 2026"
+      "source": "Hacker News – Quantum",
+      "title": "Oratomic's $300M Bet on Low-Qubit Quantum Computing",
+      "link": "https://www.hpcwire.com/2026/07/21/oratomics-300m-bet-on-low-qubit-quantum-computing/",
+      "date": "21 Jul 2026"
     },
     {
       "source": "Hacker News – Quantum",
