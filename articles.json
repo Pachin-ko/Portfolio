@@ -1,35 +1,47 @@
 {
-  "last_updated": "22 July 2026 à 09:21 UTC",
+  "last_updated": "23 July 2026 à 09:18 UTC",
   "articles": [
     {
-      "source": "Physics Today",
-      "title": "Benchmarking semiempirical quantum chemical methods on liquid water",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/3/034124/3398960/Benchmarking-semiempirical-quantum-chemical",
+      "source": "Nature – Quantum Information",
+      "title": "Thermodynamic sampling of materials using neutral-atom quantum computers",
+      "link": "https://www.nature.com/articles/s41534-026-01323-x",
       "date": "21 Jul 2026"
     },
     {
-      "source": "Physics Today",
-      "title": "Capturing electron correlation at mean-field cost: Assessment of i-DMFT and the underlying correlation conjecture",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/3/034123/3398833/Capturing-electron-correlation-at-mean-field-cost",
-      "date": "20 Jul 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Ensemble density functional theory of excited states: Exact  N -centered formalism and practical opportunities",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/3/030902/3398830/Ensemble-density-functional-theory-of-excited",
-      "date": "20 Jul 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Voltage-tunable nonequilibrium dispersion interactions",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/3/034122/3398829/Voltage-tunable-nonequilibrium-dispersion",
-      "date": "20 Jul 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Local thermal probe in a model molecular chain: A dissipaton-based approach",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/3/034118/3398684/Local-thermal-probe-in-a-model-molecular-chain-A",
+      "source": "Nature – Quantum Information",
+      "title": "Photonic qubit gates via 1D scattering from an array of two-level emitters",
+      "link": "https://www.nature.com/articles/s41534-026-01324-w",
       "date": "17 Jul 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Sensitivity analysis of cycle flux response in nonequilibrium dynamics",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/4/044105/3399044/Sensitivity-analysis-of-cycle-flux-response-in",
+      "date": "22 Jul 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Direct-potential fit of the K 2  ground state in the entire bound, quasi-bound, and continuum energy range",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/4/044303/3399043/Direct-potential-fit-of-the-K2-ground-state-in-the",
+      "date": "22 Jul 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Coulomb interaction unlocks Majorana-mediated electron teleportation between quantum dots",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/4/044302/3399036/Coulomb-interaction-unlocks-Majorana-mediated",
+      "date": "22 Jul 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Direct ambient synthesis of cerium-sensitized Cs 3 TbCl 6  microcrystals with near-unity photoluminescence quantum yield and robust stability for white lighting",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/4/044701/3399032/Direct-ambient-synthesis-of-cerium-sensitized",
+      "date": "22 Jul 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "A universal model for predicting the stability of complexes with rare earths and trivalent actinides",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/4/041101/3399015/A-universal-model-for-predicting-the-stability-of",
+      "date": "22 Jul 2026"
     },
     {
       "source": "Hacker News – Quantum",

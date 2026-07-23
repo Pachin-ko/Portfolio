@@ -1,19 +1,24 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **22 July 2026 à 09:21 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **23 July 2026 à 09:18 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
 
 ---
 
+## 📰 Nature – Quantum Information
+
+- [Thermodynamic sampling of materials using neutral-atom quantum computers](https://www.nature.com/articles/s41534-026-01323-x) — *21 Jul 2026*
+- [Photonic qubit gates via 1D scattering from an array of two-level emitters](https://www.nature.com/articles/s41534-026-01324-w) — *17 Jul 2026*
+
 ## 📰 Physics Today
 
-- [Benchmarking semiempirical quantum chemical methods on liquid water](https://pubs.aip.org/aip/jcp/article/165/3/034124/3398960/Benchmarking-semiempirical-quantum-chemical) — *21 Jul 2026*
-- [Capturing electron correlation at mean-field cost: Assessment of i-DMFT and the underlying correlation conjecture](https://pubs.aip.org/aip/jcp/article/165/3/034123/3398833/Capturing-electron-correlation-at-mean-field-cost) — *20 Jul 2026*
-- [Ensemble density functional theory of excited states: Exact  N -centered formalism and practical opportunities](https://pubs.aip.org/aip/jcp/article/165/3/030902/3398830/Ensemble-density-functional-theory-of-excited) — *20 Jul 2026*
-- [Voltage-tunable nonequilibrium dispersion interactions](https://pubs.aip.org/aip/jcp/article/165/3/034122/3398829/Voltage-tunable-nonequilibrium-dispersion) — *20 Jul 2026*
-- [Local thermal probe in a model molecular chain: A dissipaton-based approach](https://pubs.aip.org/aip/jcp/article/165/3/034118/3398684/Local-thermal-probe-in-a-model-molecular-chain-A) — *17 Jul 2026*
+- [Sensitivity analysis of cycle flux response in nonequilibrium dynamics](https://pubs.aip.org/aip/jcp/article/165/4/044105/3399044/Sensitivity-analysis-of-cycle-flux-response-in) — *22 Jul 2026*
+- [Direct-potential fit of the K 2  ground state in the entire bound, quasi-bound, and continuum energy range](https://pubs.aip.org/aip/jcp/article/165/4/044303/3399043/Direct-potential-fit-of-the-K2-ground-state-in-the) — *22 Jul 2026*
+- [Coulomb interaction unlocks Majorana-mediated electron teleportation between quantum dots](https://pubs.aip.org/aip/jcp/article/165/4/044302/3399036/Coulomb-interaction-unlocks-Majorana-mediated) — *22 Jul 2026*
+- [Direct ambient synthesis of cerium-sensitized Cs 3 TbCl 6  microcrystals with near-unity photoluminescence quantum yield and robust stability for white lighting](https://pubs.aip.org/aip/jcp/article/165/4/044701/3399032/Direct-ambient-synthesis-of-cerium-sensitized) — *22 Jul 2026*
+- [A universal model for predicting the stability of complexes with rare earths and trivalent actinides](https://pubs.aip.org/aip/jcp/article/165/4/041101/3399015/A-universal-model-for-predicting-the-stability-of) — *22 Jul 2026*
 
 ## 📰 Hacker News – Quantum
 
