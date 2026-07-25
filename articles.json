@@ -1,11 +1,29 @@
 {
-  "last_updated": "24 July 2026 à 09:14 UTC",
+  "last_updated": "25 July 2026 à 08:54 UTC",
   "articles": [
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Experimental implementation of a discrete-time quantum walk on biological networks",
+      "link": "https://www.nature.com/articles/s41534-026-01332-w",
+      "date": "24 Jul 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "A hybrid Anyon-otto thermal machine",
+      "link": "https://www.nature.com/articles/s41534-026-01328-6",
+      "date": "24 Jul 2026"
+    },
     {
       "source": "Nature – Quantum Information",
       "title": "Thermodynamic sampling of materials using neutral-atom quantum computers",
       "link": "https://www.nature.com/articles/s41534-026-01323-x",
       "date": "21 Jul 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Reweighting estimators for density response in path integral Monte Carlo: Applications to linear, nonlinear, and cross-species density response",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/4/044113/3399241/Reweighting-estimators-for-density-response-in",
+      "date": "24 Jul 2026"
     },
     {
       "source": "Physics Today",
@@ -29,12 +47,6 @@
       "source": "Physics Today",
       "title": "Direct-potential fit of the K 2  ground state in the entire bound, quasi-bound, and continuum energy range",
       "link": "https://pubs.aip.org/aip/jcp/article/165/4/044303/3399043/Direct-potential-fit-of-the-K2-ground-state-in-the",
-      "date": "22 Jul 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Coulomb interaction unlocks Majorana-mediated electron teleportation between quantum dots",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/4/044302/3399036/Coulomb-interaction-unlocks-Majorana-mediated",
       "date": "22 Jul 2026"
     },
     {
