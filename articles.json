@@ -1,5 +1,5 @@
 {
-  "last_updated": "27 July 2026 à 10:32 UTC",
+  "last_updated": "28 July 2026 à 09:30 UTC",
   "articles": [
     {
       "source": "Nature – Quantum Information",
@@ -14,10 +14,22 @@
       "date": "24 Jul 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "Thermodynamic sampling of materials using neutral-atom quantum computers",
-      "link": "https://www.nature.com/articles/s41534-026-01323-x",
-      "date": "21 Jul 2026"
+      "source": "Physics Today",
+      "title": "paces : Parallelized application of co-evolving subspaces. A method for computing quantum dynamics on GPUs",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/4/044115/3399350/paces-Parallelized-application-of-co-evolving",
+      "date": "27 Jul 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Coherent dynamics of the spin-boson model in the ultra-strong coupling regime",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/4/044114/3399317/Coherent-dynamics-of-the-spin-boson-model-in-the",
+      "date": "27 Jul 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Thermodynamics of quantum oscillators",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/4/044116/3399303/Thermodynamics-of-quantum-oscillators",
+      "date": "27 Jul 2026"
     },
     {
       "source": "Physics Today",
@@ -32,34 +44,10 @@
       "date": "23 Jul 2026"
     },
     {
-      "source": "Physics Today",
-      "title": "Benchmarking mixed quantum–classical molecular dynamics for electronic strong coupling",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/4/044112/3399127/Benchmarking-mixed-quantum-classical-molecular",
-      "date": "23 Jul 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Sensitivity analysis of cycle flux response in nonequilibrium dynamics",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/4/044105/3399044/Sensitivity-analysis-of-cycle-flux-response-in",
-      "date": "22 Jul 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Direct-potential fit of the K 2  ground state in the entire bound, quasi-bound, and continuum energy range",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/4/044303/3399043/Direct-potential-fit-of-the-K2-ground-state-in-the",
-      "date": "22 Jul 2026"
-    },
-    {
       "source": "Hacker News – Quantum",
       "title": "Oratomic's $300M Bet on Low-Qubit Quantum Computing",
       "link": "https://www.hpcwire.com/2026/07/21/oratomics-300m-bet-on-low-qubit-quantum-computing/",
       "date": "21 Jul 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Secure Quantum Computing / CE 395 / Spring 2026 / Northwestern University",
-      "link": "https://www.youtube.com/playlist?list=PLWOUVwVosA-7aCa6SBXoM_m66WV-K_N0o",
-      "date": "20 Jul 2026"
     }
   ]
 }
