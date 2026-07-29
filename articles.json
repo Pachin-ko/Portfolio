@@ -1,18 +1,6 @@
 {
-  "last_updated": "28 July 2026 à 09:30 UTC",
+  "last_updated": "29 July 2026 à 09:32 UTC",
   "articles": [
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Experimental implementation of a discrete-time quantum walk on biological networks",
-      "link": "https://www.nature.com/articles/s41534-026-01332-w",
-      "date": "24 Jul 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "A hybrid Anyon-otto thermal machine",
-      "link": "https://www.nature.com/articles/s41534-026-01328-6",
-      "date": "24 Jul 2026"
-    },
     {
       "source": "Physics Today",
       "title": "paces : Parallelized application of co-evolving subspaces. A method for computing quantum dynamics on GPUs",
@@ -42,12 +30,6 @@
       "title": "Unraveling intramolecular charge transfer coordinate by optical polarization dependent coherent vibrational spectroscopy",
       "link": "https://pubs.aip.org/aip/jcp/article/165/4/044307/3399135/Unraveling-intramolecular-charge-transfer",
       "date": "23 Jul 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Oratomic's $300M Bet on Low-Qubit Quantum Computing",
-      "link": "https://www.hpcwire.com/2026/07/21/oratomics-300m-bet-on-low-qubit-quantum-computing/",
-      "date": "21 Jul 2026"
     }
   ]
 }
