@@ -1,6 +1,12 @@
 {
-  "last_updated": "29 July 2026 à 09:32 UTC",
+  "last_updated": "30 July 2026 à 09:24 UTC",
   "articles": [
+    {
+      "source": "Quanta Magazine",
+      "title": "Physicists Solve a Big Quantum Mystery. Now, Old Results Don’t Add Up.",
+      "link": "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/",
+      "date": "29 Jul 2026"
+    },
     {
       "source": "Physics Today",
       "title": "paces : Parallelized application of co-evolving subspaces. A method for computing quantum dynamics on GPUs",
@@ -24,12 +30,6 @@
       "title": "Reweighting estimators for density response in path integral Monte Carlo: Applications to linear, nonlinear, and cross-species density response",
       "link": "https://pubs.aip.org/aip/jcp/article/165/4/044113/3399241/Reweighting-estimators-for-density-response-in",
       "date": "24 Jul 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Unraveling intramolecular charge transfer coordinate by optical polarization dependent coherent vibrational spectroscopy",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/4/044307/3399135/Unraveling-intramolecular-charge-transfer",
-      "date": "23 Jul 2026"
     }
   ]
 }

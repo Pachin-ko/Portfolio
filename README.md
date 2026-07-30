@@ -1,11 +1,15 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **29 July 2026 à 09:32 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **30 July 2026 à 09:24 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
 
 ---
+
+## 📰 Quanta Magazine
+
+- [Physicists Solve a Big Quantum Mystery. Now, Old Results Don’t Add Up.](https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/) — *29 Jul 2026*
 
 ## 📰 Physics Today
 
@@ -13,7 +17,6 @@ agrégés depuis des sources académiques, tech et communautaires.
 - [Coherent dynamics of the spin-boson model in the ultra-strong coupling regime](https://pubs.aip.org/aip/jcp/article/165/4/044114/3399317/Coherent-dynamics-of-the-spin-boson-model-in-the) — *27 Jul 2026*
 - [Thermodynamics of quantum oscillators](https://pubs.aip.org/aip/jcp/article/165/4/044116/3399303/Thermodynamics-of-quantum-oscillators) — *27 Jul 2026*
 - [Reweighting estimators for density response in path integral Monte Carlo: Applications to linear, nonlinear, and cross-species density response](https://pubs.aip.org/aip/jcp/article/165/4/044113/3399241/Reweighting-estimators-for-density-response-in) — *24 Jul 2026*
-- [Unraveling intramolecular charge transfer coordinate by optical polarization dependent coherent vibrational spectroscopy](https://pubs.aip.org/aip/jcp/article/165/4/044307/3399135/Unraveling-intramolecular-charge-transfer) — *23 Jul 2026*
 
 ---
 
