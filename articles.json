@@ -1,11 +1,35 @@
 {
-  "last_updated": "30 July 2026 à 09:24 UTC",
+  "last_updated": "31 July 2026 à 09:36 UTC",
   "articles": [
     {
       "source": "Quanta Magazine",
       "title": "Physicists Solve a Big Quantum Mystery. Now, Old Results Don’t Add Up.",
       "link": "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/",
       "date": "29 Jul 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Asynchronous multi-photon interference for quantum networks",
+      "link": "https://www.nature.com/articles/s41534-026-01333-9",
+      "date": "30 Jul 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Advantage of quantum machine learning from general computational advantages",
+      "link": "https://www.nature.com/articles/s41534-026-01279-y",
+      "date": "28 Jul 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "A unified optical platform for non-Gaussian and fault-tolerant Gottesman-Kitaev-Preskill states",
+      "link": "https://www.nature.com/articles/s41534-026-01336-6",
+      "date": "28 Jul 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "The role of data-induced randomness in quantum machine learning classification tasks",
+      "link": "https://www.nature.com/articles/s41534-026-01330-y",
+      "date": "28 Jul 2026"
     },
     {
       "source": "Physics Today",
@@ -26,10 +50,16 @@
       "date": "27 Jul 2026"
     },
     {
-      "source": "Physics Today",
-      "title": "Reweighting estimators for density response in path integral Monte Carlo: Applications to linear, nonlinear, and cross-species density response",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/4/044113/3399241/Reweighting-estimators-for-density-response-in",
-      "date": "24 Jul 2026"
+      "source": "Hacker News – Quantum",
+      "title": "Quantum computing roundup: Still more technologies making waves",
+      "link": "https://arstechnica.com/science/2026/07/quantum-computing-roundup-still-more-technologies-making-waves/",
+      "date": "30 Jul 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "With the Carina System, QuiX Pushes Photonic Quantum Computing Forward",
+      "link": "https://www.nextplatform.com/compute/2026/07/29/with-the-carina-system-quix-pushes-photonic-quantum-computing-forward/5280744",
+      "date": "30 Jul 2026"
     }
   ]
 }
