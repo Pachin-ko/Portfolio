@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **31 July 2026 à 09:36 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **01 August 2026 à 08:59 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
