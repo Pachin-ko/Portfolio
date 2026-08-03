@@ -1,5 +1,5 @@
 {
-  "last_updated": "02 August 2026 à 09:04 UTC",
+  "last_updated": "03 August 2026 à 10:32 UTC",
   "articles": [
     {
       "source": "Quanta Magazine",
@@ -8,22 +8,28 @@
       "date": "29 Jul 2026"
     },
     {
-      "source": "Physics Today",
-      "title": "paces : Parallelized application of co-evolving subspaces. A method for computing quantum dynamics on GPUs",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/4/044115/3399350/paces-Parallelized-application-of-co-evolving",
-      "date": "27 Jul 2026"
+      "source": "Nature – Quantum Information",
+      "title": "Asynchronous multi-photon interference for quantum networks",
+      "link": "https://www.nature.com/articles/s41534-026-01333-9",
+      "date": "30 Jul 2026"
     },
     {
-      "source": "Physics Today",
-      "title": "Coherent dynamics of the spin-boson model in the ultra-strong coupling regime",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/4/044114/3399317/Coherent-dynamics-of-the-spin-boson-model-in-the",
-      "date": "27 Jul 2026"
+      "source": "Nature – Quantum Information",
+      "title": "Advantage of quantum machine learning from general computational advantages",
+      "link": "https://www.nature.com/articles/s41534-026-01279-y",
+      "date": "28 Jul 2026"
     },
     {
-      "source": "Physics Today",
-      "title": "Thermodynamics of quantum oscillators",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/4/044116/3399303/Thermodynamics-of-quantum-oscillators",
-      "date": "27 Jul 2026"
+      "source": "Nature – Quantum Information",
+      "title": "A unified optical platform for non-Gaussian and fault-tolerant Gottesman-Kitaev-Preskill states",
+      "link": "https://www.nature.com/articles/s41534-026-01336-6",
+      "date": "28 Jul 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "The role of data-induced randomness in quantum machine learning classification tasks",
+      "link": "https://www.nature.com/articles/s41534-026-01330-y",
+      "date": "28 Jul 2026"
     },
     {
       "source": "Hacker News – Quantum",
