@@ -1,5 +1,5 @@
 {
-  "last_updated": "03 August 2026 à 10:32 UTC",
+  "last_updated": "04 August 2026 à 09:33 UTC",
   "articles": [
     {
       "source": "Quanta Magazine",
@@ -9,45 +9,21 @@
     },
     {
       "source": "Nature – Quantum Information",
+      "title": "Noise-assisted feedback control of open quantum systems for ground state properties",
+      "link": "https://www.nature.com/articles/s41534-026-01319-7",
+      "date": "03 Aug 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
       "title": "Asynchronous multi-photon interference for quantum networks",
       "link": "https://www.nature.com/articles/s41534-026-01333-9",
       "date": "30 Jul 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "Advantage of quantum machine learning from general computational advantages",
-      "link": "https://www.nature.com/articles/s41534-026-01279-y",
-      "date": "28 Jul 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "A unified optical platform for non-Gaussian and fault-tolerant Gottesman-Kitaev-Preskill states",
-      "link": "https://www.nature.com/articles/s41534-026-01336-6",
-      "date": "28 Jul 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "The role of data-induced randomness in quantum machine learning classification tasks",
-      "link": "https://www.nature.com/articles/s41534-026-01330-y",
-      "date": "28 Jul 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "IBM CEO says quantum computing will have impact on earnings by 2028 or 2029",
-      "link": "https://www.cnbc.com/2026/07/30/ibm-ceo-quantum-computing-measurable-impact-earnings-2028-2029.html",
-      "date": "01 Aug 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Quantum computing roundup: Still more technologies making waves",
-      "link": "https://arstechnica.com/science/2026/07/quantum-computing-roundup-still-more-technologies-making-waves/",
-      "date": "30 Jul 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "With the Carina System, QuiX Pushes Photonic Quantum Computing Forward",
-      "link": "https://www.nextplatform.com/compute/2026/07/29/with-the-carina-system-quix-pushes-photonic-quantum-computing-forward/5280744",
-      "date": "30 Jul 2026"
+      "source": "Physics Today",
+      "title": "Projected-interacting full configuration interaction plus regularized perturbation theory: DFT-inspired wavefunction theory for huge active spaces",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/5/054102/3400047/Projected-interacting-full-configuration",
+      "date": "03 Aug 2026"
     }
   ]
 }
