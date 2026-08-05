@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **04 August 2026 à 09:33 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **05 August 2026 à 09:29 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -13,11 +13,15 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Nature – Quantum Information
 
+- [A unitary encoder for surface codes](https://www.nature.com/articles/s41534-026-01322-y) — *04 Aug 2026*
 - [Noise-assisted feedback control of open quantum systems for ground state properties](https://www.nature.com/articles/s41534-026-01319-7) — *03 Aug 2026*
 - [Asynchronous multi-photon interference for quantum networks](https://www.nature.com/articles/s41534-026-01333-9) — *30 Jul 2026*
 
 ## 📰 Physics Today
 
+- [Inelastic scattering of H 2 CCO ketene induced by He atoms and non-LTE analysis](https://pubs.aip.org/aip/jcp/article/165/5/054303/3400225/Inelastic-scattering-of-H2CCO-ketene-induced-by-He) — *04 Aug 2026*
+- [Canonically consistent quantum master equation for proton-transfer reactions](https://pubs.aip.org/aip/jcp/article/165/5/054103/3400222/Canonically-consistent-quantum-master-equation-for) — *04 Aug 2026*
+- [The electron affinity and ionization potential of the solvated uranyl from the quantum embedding approach](https://pubs.aip.org/aip/jcp/article/165/5/054104/3400221/The-electron-affinity-and-ionization-potential-of) — *04 Aug 2026*
 - [Projected-interacting full configuration interaction plus regularized perturbation theory: DFT-inspired wavefunction theory for huge active spaces](https://pubs.aip.org/aip/jcp/article/165/5/054102/3400047/Projected-interacting-full-configuration) — *03 Aug 2026*
 
 ---
