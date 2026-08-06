@@ -1,28 +1,27 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **05 August 2026 à 09:29 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **06 August 2026 à 09:34 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
 
 ---
 
-## 📰 Quanta Magazine
-
-- [Physicists Solve a Big Quantum Mystery. Now, Old Results Don’t Add Up.](https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/) — *29 Jul 2026*
-
 ## 📰 Nature – Quantum Information
 
-- [A unitary encoder for surface codes](https://www.nature.com/articles/s41534-026-01322-y) — *04 Aug 2026*
-- [Noise-assisted feedback control of open quantum systems for ground state properties](https://www.nature.com/articles/s41534-026-01319-7) — *03 Aug 2026*
-- [Asynchronous multi-photon interference for quantum networks](https://www.nature.com/articles/s41534-026-01333-9) — *30 Jul 2026*
+- [Quantum secret sharing in a triangular superconducting quantum network](https://www.nature.com/articles/s41534-026-01341-9) — *06 Aug 2026*
+- [Singularity-free dynamical invariants-based quantum control](https://www.nature.com/articles/s41534-026-01343-7) — *05 Aug 2026*
+- [A folded surface code architecture for 2D quantum hardware](https://www.nature.com/articles/s41534-026-01344-6) — *05 Aug 2026*
+- [Merging-based quantum repeater](https://www.nature.com/articles/s41534-026-01340-w) — *05 Aug 2026*
+- [The random coupled-plaquette gauge model and the surface code under circuit-level noise](https://www.nature.com/articles/s41534-026-01271-6) — *05 Aug 2026*
 
 ## 📰 Physics Today
 
-- [Inelastic scattering of H 2 CCO ketene induced by He atoms and non-LTE analysis](https://pubs.aip.org/aip/jcp/article/165/5/054303/3400225/Inelastic-scattering-of-H2CCO-ketene-induced-by-He) — *04 Aug 2026*
-- [Canonically consistent quantum master equation for proton-transfer reactions](https://pubs.aip.org/aip/jcp/article/165/5/054103/3400222/Canonically-consistent-quantum-master-equation-for) — *04 Aug 2026*
-- [The electron affinity and ionization potential of the solvated uranyl from the quantum embedding approach](https://pubs.aip.org/aip/jcp/article/165/5/054104/3400221/The-electron-affinity-and-ionization-potential-of) — *04 Aug 2026*
-- [Projected-interacting full configuration interaction plus regularized perturbation theory: DFT-inspired wavefunction theory for huge active spaces](https://pubs.aip.org/aip/jcp/article/165/5/054102/3400047/Projected-interacting-full-configuration) — *03 Aug 2026*
+- [Exploring flat multi-minima potential energy surface by matrix isolation IR spectroscopy: Revisiting methanol–H 2 S complex](https://pubs.aip.org/aip/jcp/article/165/5/054308/3400380/Exploring-flat-multi-minima-potential-energy) — *05 Aug 2026*
+- [Toward viable H 2  storage in Ca decorated low-dimensional materials with insights from reference quantum Monte Carlo](https://pubs.aip.org/aip/jcp/article/165/5/054703/3400327/Toward-viable-H2-storage-in-Ca-decorated-low) — *05 Aug 2026*
+- [q-vSZPs: A polarized, adaptive minimal Gaussian basis set for the elements  Z  = 1–86 designed for efficient mean-field electronic structure calculations](https://pubs.aip.org/aip/jcp/article/165/5/054109/3400326/q-vSZPs-A-polarized-adaptive-minimal-Gaussian) — *05 Aug 2026*
+- [On intermolecular interactions in the Hamiltonian used in polaritonic chemistry](https://pubs.aip.org/aip/jcp/article/165/5/054106/3400325/On-intermolecular-interactions-in-the-Hamiltonian) — *05 Aug 2026*
+- [The transfer tensor method: An analytical study case](https://pubs.aip.org/aip/jcp/article/165/5/054108/3400324/The-transfer-tensor-method-An-analytical-study) — *05 Aug 2026*
 
 ---
 

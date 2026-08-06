@@ -1,53 +1,65 @@
 {
-  "last_updated": "05 August 2026 à 09:29 UTC",
+  "last_updated": "06 August 2026 à 09:34 UTC",
   "articles": [
     {
-      "source": "Quanta Magazine",
-      "title": "Physicists Solve a Big Quantum Mystery. Now, Old Results Don’t Add Up.",
-      "link": "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/",
-      "date": "29 Jul 2026"
+      "source": "Nature – Quantum Information",
+      "title": "Quantum secret sharing in a triangular superconducting quantum network",
+      "link": "https://www.nature.com/articles/s41534-026-01341-9",
+      "date": "06 Aug 2026"
     },
     {
       "source": "Nature – Quantum Information",
-      "title": "A unitary encoder for surface codes",
-      "link": "https://www.nature.com/articles/s41534-026-01322-y",
-      "date": "04 Aug 2026"
+      "title": "Singularity-free dynamical invariants-based quantum control",
+      "link": "https://www.nature.com/articles/s41534-026-01343-7",
+      "date": "05 Aug 2026"
     },
     {
       "source": "Nature – Quantum Information",
-      "title": "Noise-assisted feedback control of open quantum systems for ground state properties",
-      "link": "https://www.nature.com/articles/s41534-026-01319-7",
-      "date": "03 Aug 2026"
+      "title": "A folded surface code architecture for 2D quantum hardware",
+      "link": "https://www.nature.com/articles/s41534-026-01344-6",
+      "date": "05 Aug 2026"
     },
     {
       "source": "Nature – Quantum Information",
-      "title": "Asynchronous multi-photon interference for quantum networks",
-      "link": "https://www.nature.com/articles/s41534-026-01333-9",
-      "date": "30 Jul 2026"
+      "title": "Merging-based quantum repeater",
+      "link": "https://www.nature.com/articles/s41534-026-01340-w",
+      "date": "05 Aug 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "The random coupled-plaquette gauge model and the surface code under circuit-level noise",
+      "link": "https://www.nature.com/articles/s41534-026-01271-6",
+      "date": "05 Aug 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Inelastic scattering of H 2 CCO ketene induced by He atoms and non-LTE analysis",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/5/054303/3400225/Inelastic-scattering-of-H2CCO-ketene-induced-by-He",
-      "date": "04 Aug 2026"
+      "title": "Exploring flat multi-minima potential energy surface by matrix isolation IR spectroscopy: Revisiting methanol–H 2 S complex",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/5/054308/3400380/Exploring-flat-multi-minima-potential-energy",
+      "date": "05 Aug 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Canonically consistent quantum master equation for proton-transfer reactions",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/5/054103/3400222/Canonically-consistent-quantum-master-equation-for",
-      "date": "04 Aug 2026"
+      "title": "Toward viable H 2  storage in Ca decorated low-dimensional materials with insights from reference quantum Monte Carlo",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/5/054703/3400327/Toward-viable-H2-storage-in-Ca-decorated-low",
+      "date": "05 Aug 2026"
     },
     {
       "source": "Physics Today",
-      "title": "The electron affinity and ionization potential of the solvated uranyl from the quantum embedding approach",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/5/054104/3400221/The-electron-affinity-and-ionization-potential-of",
-      "date": "04 Aug 2026"
+      "title": "q-vSZPs: A polarized, adaptive minimal Gaussian basis set for the elements  Z  = 1–86 designed for efficient mean-field electronic structure calculations",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/5/054109/3400326/q-vSZPs-A-polarized-adaptive-minimal-Gaussian",
+      "date": "05 Aug 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Projected-interacting full configuration interaction plus regularized perturbation theory: DFT-inspired wavefunction theory for huge active spaces",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/5/054102/3400047/Projected-interacting-full-configuration",
-      "date": "03 Aug 2026"
+      "title": "On intermolecular interactions in the Hamiltonian used in polaritonic chemistry",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/5/054106/3400325/On-intermolecular-interactions-in-the-Hamiltonian",
+      "date": "05 Aug 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "The transfer tensor method: An analytical study case",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/5/054108/3400324/The-transfer-tensor-method-An-analytical-study",
+      "date": "05 Aug 2026"
     }
   ]
 }
