@@ -1,6 +1,12 @@
 {
-  "last_updated": "06 August 2026 à 09:34 UTC",
+  "last_updated": "07 August 2026 à 08:06 UTC",
   "articles": [
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Digital quantum simulation of many-body localization crossover in a disordered kicked Ising model",
+      "link": "https://www.nature.com/articles/s41534-026-01342-8",
+      "date": "07 Aug 2026"
+    },
     {
       "source": "Nature – Quantum Information",
       "title": "Quantum secret sharing in a triangular superconducting quantum network",
@@ -26,40 +32,52 @@
       "date": "05 Aug 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "The random coupled-plaquette gauge model and the surface code under circuit-level noise",
-      "link": "https://www.nature.com/articles/s41534-026-01271-6",
-      "date": "05 Aug 2026"
+      "source": "Physics Today",
+      "title": "The rocky path of DFT into chemistry—Discussions at a symposium and reflections on a circular journey in honor of Axel Becke 1953–2025",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/5/050401/3400488/The-rocky-path-of-DFT-into-chemistry-Discussions",
+      "date": "06 Aug 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Exploring flat multi-minima potential energy surface by matrix isolation IR spectroscopy: Revisiting methanol–H 2 S complex",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/5/054308/3400380/Exploring-flat-multi-minima-potential-energy",
-      "date": "05 Aug 2026"
+      "title": "Harmonic-oscillator-referenced ring-polymer molecular dynamics. I. Practical computation of correlation functions",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/5/054111/3400487/Harmonic-oscillator-referenced-ring-polymer",
+      "date": "06 Aug 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Toward viable H 2  storage in Ca decorated low-dimensional materials with insights from reference quantum Monte Carlo",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/5/054703/3400327/Toward-viable-H2-storage-in-Ca-decorated-low",
-      "date": "05 Aug 2026"
+      "title": "Harmonic-oscillator-referenced ring-polymer molecular dynamics. II. Theoretical foundations of reference-modified dynamics and Gaussian reconstruction",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/5/054115/3400471/Harmonic-oscillator-referenced-ring-polymer",
+      "date": "06 Aug 2026"
     },
     {
       "source": "Physics Today",
-      "title": "q-vSZPs: A polarized, adaptive minimal Gaussian basis set for the elements  Z  = 1–86 designed for efficient mean-field electronic structure calculations",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/5/054109/3400326/q-vSZPs-A-polarized-adaptive-minimal-Gaussian",
-      "date": "05 Aug 2026"
+      "title": "Variational adaptive Gaussian decomposition: Scalable quadrature-free time-sliced thawed Gaussian dynamics",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/5/054112/3400438/Variational-adaptive-Gaussian-decomposition",
+      "date": "06 Aug 2026"
     },
     {
       "source": "Physics Today",
-      "title": "On intermolecular interactions in the Hamiltonian used in polaritonic chemistry",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/5/054106/3400325/On-intermolecular-interactions-in-the-Hamiltonian",
-      "date": "05 Aug 2026"
+      "title": "NOPT: Quantum chemistry package for multireference perturbation theory calculations and its non-orthogonal extensions",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/5/052501/3400430/NOPT-Quantum-chemistry-package-for-multireference",
+      "date": "06 Aug 2026"
     },
     {
-      "source": "Physics Today",
-      "title": "The transfer tensor method: An analytical study case",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/5/054108/3400324/The-transfer-tensor-method-An-analytical-study",
-      "date": "05 Aug 2026"
+      "source": "Hacker News – Quantum",
+      "title": "D-Wave shows off its new entry in quantum computing race",
+      "link": "https://arstechnica.com/science/2026/08/d-wave-on-rails-company-tests-entanglement-on-its-dual-rail-qubits/",
+      "date": "06 Aug 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "Quantum Fidelity-per-Cost: A Metric for Evaluation of Quantum Computing Systems",
+      "link": "https://arxiv.org/abs/2607.28572",
+      "date": "03 Aug 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "IBM CEO says quantum computing will have impact on earnings by 2028 or 2029",
+      "link": "https://www.cnbc.com/2026/07/30/ibm-ceo-quantum-computing-measurable-impact-earnings-2028-2029.html",
+      "date": "01 Aug 2026"
     }
   ]
 }
