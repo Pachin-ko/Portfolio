@@ -1,6 +1,12 @@
 {
-  "last_updated": "07 August 2026 à 08:06 UTC",
+  "last_updated": "08 August 2026 à 07:40 UTC",
   "articles": [
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Characterization of state complexity in adaptive quantum circuits",
+      "link": "https://www.nature.com/articles/s41534-026-01326-8",
+      "date": "07 Aug 2026"
+    },
     {
       "source": "Nature – Quantum Information",
       "title": "Digital quantum simulation of many-body localization crossover in a disordered kicked Ising model",
@@ -26,10 +32,10 @@
       "date": "05 Aug 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "Merging-based quantum repeater",
-      "link": "https://www.nature.com/articles/s41534-026-01340-w",
-      "date": "05 Aug 2026"
+      "source": "Physics Today",
+      "title": "Role of electron correlation on the adenine dimer interaction for non-equilibrium geometries: A benchmark quantum Monte Carlo study",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/5/054118/3400495/Role-of-electron-correlation-on-the-adenine-dimer",
+      "date": "07 Aug 2026"
     },
     {
       "source": "Physics Today",
@@ -54,30 +60,6 @@
       "title": "Variational adaptive Gaussian decomposition: Scalable quadrature-free time-sliced thawed Gaussian dynamics",
       "link": "https://pubs.aip.org/aip/jcp/article/165/5/054112/3400438/Variational-adaptive-Gaussian-decomposition",
       "date": "06 Aug 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "NOPT: Quantum chemistry package for multireference perturbation theory calculations and its non-orthogonal extensions",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/5/052501/3400430/NOPT-Quantum-chemistry-package-for-multireference",
-      "date": "06 Aug 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "D-Wave shows off its new entry in quantum computing race",
-      "link": "https://arstechnica.com/science/2026/08/d-wave-on-rails-company-tests-entanglement-on-its-dual-rail-qubits/",
-      "date": "06 Aug 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Quantum Fidelity-per-Cost: A Metric for Evaluation of Quantum Computing Systems",
-      "link": "https://arxiv.org/abs/2607.28572",
-      "date": "03 Aug 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "IBM CEO says quantum computing will have impact on earnings by 2028 or 2029",
-      "link": "https://www.cnbc.com/2026/07/30/ibm-ceo-quantum-computing-measurable-impact-earnings-2028-2029.html",
-      "date": "01 Aug 2026"
     }
   ]
 }
