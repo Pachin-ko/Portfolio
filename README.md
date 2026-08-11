@@ -1,27 +1,21 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **10 August 2026 à 08:20 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **11 August 2026 à 08:03 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
 
 ---
 
-## 📰 Nature – Quantum Information
-
-- [Characterization of state complexity in adaptive quantum circuits](https://www.nature.com/articles/s41534-026-01326-8) — *07 Aug 2026*
-- [Digital quantum simulation of many-body localization crossover in a disordered kicked Ising model](https://www.nature.com/articles/s41534-026-01342-8) — *07 Aug 2026*
-- [Quantum secret sharing in a triangular superconducting quantum network](https://www.nature.com/articles/s41534-026-01341-9) — *06 Aug 2026*
-- [Singularity-free dynamical invariants-based quantum control](https://www.nature.com/articles/s41534-026-01343-7) — *05 Aug 2026*
-- [A folded surface code architecture for 2D quantum hardware](https://www.nature.com/articles/s41534-026-01344-6) — *05 Aug 2026*
-
 ## 📰 Physics Today
 
-- [Role of electron correlation on the adenine dimer interaction for non-equilibrium geometries: A benchmark quantum Monte Carlo study](https://pubs.aip.org/aip/jcp/article/165/5/054118/3400495/Role-of-electron-correlation-on-the-adenine-dimer) — *07 Aug 2026*
-- [The rocky path of DFT into chemistry—Discussions at a symposium and reflections on a circular journey in honor of Axel Becke 1953–2025](https://pubs.aip.org/aip/jcp/article/165/5/050401/3400488/The-rocky-path-of-DFT-into-chemistry-Discussions) — *06 Aug 2026*
-- [Harmonic-oscillator-referenced ring-polymer molecular dynamics. I. Practical computation of correlation functions](https://pubs.aip.org/aip/jcp/article/165/5/054111/3400487/Harmonic-oscillator-referenced-ring-polymer) — *06 Aug 2026*
-- [Harmonic-oscillator-referenced ring-polymer molecular dynamics. II. Theoretical foundations of reference-modified dynamics and Gaussian reconstruction](https://pubs.aip.org/aip/jcp/article/165/5/054115/3400471/Harmonic-oscillator-referenced-ring-polymer) — *06 Aug 2026*
-- [Variational adaptive Gaussian decomposition: Scalable quadrature-free time-sliced thawed Gaussian dynamics](https://pubs.aip.org/aip/jcp/article/165/5/054112/3400438/Variational-adaptive-Gaussian-decomposition) — *06 Aug 2026*
+- [Stochastic evaluation of exciton–exciton annihilation rate in 2D molecular aggregates](https://pubs.aip.org/aip/jcp/article/165/6/064102/3400591/Stochastic-evaluation-of-exciton-exciton) — *10 Aug 2026*
+
+## 📰 Hacker News – Quantum
+
+- [The New Spy Race: For Agentic AI and Quantum Computing Threats](https://www.quantumhorizon.it/inside-the-new-spy-race-how-the-us-china-russia-israel-and-italy-are-gearing-up-for-agentic-ai-and-quantum-computing-threats/) — *08 Aug 2026*
+- [D-Wave shows off its new entry in quantum computing race](https://arstechnica.com/science/2026/08/d-wave-on-rails-company-tests-entanglement-on-its-dual-rail-qubits/) — *07 Aug 2026*
+- [D-Wave shows off its new entry in quantum computing race](https://arstechnica.com/science/2026/08/d-wave-on-rails-company-tests-entanglement-on-its-dual-rail-qubits/) — *06 Aug 2026*
 
 ---
 
