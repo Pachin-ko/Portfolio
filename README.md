@@ -1,11 +1,15 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **12 August 2026 à 08:08 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **13 August 2026 à 08:11 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
 
 ---
+
+## 📰 Quanta Magazine
+
+- [Graduate Student Proves a Quantum Uncertainty Principle for Fractals](https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/) — *12 Aug 2026*
 
 ## 📰 Nature – Quantum Information
 
@@ -21,6 +25,12 @@ agrégés depuis des sources académiques, tech et communautaires.
 - [Quantum dynamical and isotopic effects for hydrogen isotope scattering at W(110) surface](https://pubs.aip.org/aip/jcp/article/165/6/064702/3400695/Quantum-dynamical-and-isotopic-effects-for) — *11 Aug 2026*
 - [Supercritical water at near-experimental accuracy with MB-pol(2023)](https://pubs.aip.org/aip/jcp/article/165/6/064505/3400687/Supercritical-water-at-near-experimental-accuracy) — *11 Aug 2026*
 - [Stochastic evaluation of exciton–exciton annihilation rate in 2D molecular aggregates](https://pubs.aip.org/aip/jcp/article/165/6/064102/3400591/Stochastic-evaluation-of-exciton-exciton) — *10 Aug 2026*
+
+## 📰 Hacker News – Quantum
+
+- [The New Spy Race: For Agentic AI and Quantum Computing Threats](https://www.quantumhorizon.it/inside-the-new-spy-race-how-the-us-china-russia-israel-and-italy-are-gearing-up-for-agentic-ai-and-quantum-computing-threats/) — *08 Aug 2026*
+- [D-Wave shows off its new entry in quantum computing race](https://arstechnica.com/science/2026/08/d-wave-on-rails-company-tests-entanglement-on-its-dual-rail-qubits/) — *07 Aug 2026*
+- [D-Wave shows off its new entry in quantum computing race](https://arstechnica.com/science/2026/08/d-wave-on-rails-company-tests-entanglement-on-its-dual-rail-qubits/) — *06 Aug 2026*
 
 ---
 

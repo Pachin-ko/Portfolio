@@ -1,6 +1,12 @@
 {
-  "last_updated": "12 August 2026 à 08:08 UTC",
+  "last_updated": "13 August 2026 à 08:11 UTC",
   "articles": [
+    {
+      "source": "Quanta Magazine",
+      "title": "Graduate Student Proves a Quantum Uncertainty Principle for Fractals",
+      "link": "https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/",
+      "date": "12 Aug 2026"
+    },
     {
       "source": "Nature – Quantum Information",
       "title": "Photon subtraction using a three-level emitter coupled to a chiral waveguide",
@@ -54,6 +60,24 @@
       "title": "Stochastic evaluation of exciton–exciton annihilation rate in 2D molecular aggregates",
       "link": "https://pubs.aip.org/aip/jcp/article/165/6/064102/3400591/Stochastic-evaluation-of-exciton-exciton",
       "date": "10 Aug 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "The New Spy Race: For Agentic AI and Quantum Computing Threats",
+      "link": "https://www.quantumhorizon.it/inside-the-new-spy-race-how-the-us-china-russia-israel-and-italy-are-gearing-up-for-agentic-ai-and-quantum-computing-threats/",
+      "date": "08 Aug 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "D-Wave shows off its new entry in quantum computing race",
+      "link": "https://arstechnica.com/science/2026/08/d-wave-on-rails-company-tests-entanglement-on-its-dual-rail-qubits/",
+      "date": "07 Aug 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "D-Wave shows off its new entry in quantum computing race",
+      "link": "https://arstechnica.com/science/2026/08/d-wave-on-rails-company-tests-entanglement-on-its-dual-rail-qubits/",
+      "date": "06 Aug 2026"
     }
   ]
 }
