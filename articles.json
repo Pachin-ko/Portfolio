@@ -1,5 +1,5 @@
 {
-  "last_updated": "14 August 2026 à 08:06 UTC",
+  "last_updated": "15 August 2026 à 07:21 UTC",
   "articles": [
     {
       "source": "MIT Technology Review – Quantum",
@@ -14,34 +14,10 @@
       "date": "12 Aug 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "Generation of coherent quantum light from a single impurity-bound exciton",
-      "link": "https://www.nature.com/articles/s41534-026-01357-1",
-      "date": "13 Aug 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Photon subtraction using a three-level emitter coupled to a chiral waveguide",
-      "link": "https://www.nature.com/articles/s41534-026-01338-4",
-      "date": "12 Aug 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "High probability multiplexed multi-port single-photon source based on combinatorial heralding",
-      "link": "https://www.nature.com/articles/s41534-026-01352-6",
-      "date": "11 Aug 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Breaking the entanglement-fidelity tradeoff in <InlineEquation ID=\"IEq1\"><EquationSource Format=\"TEX\">$${\\mathscr{ \\mathcal P \\mathcal T }}$$</EquationSource><EquationSource Format=\"MATHML\"><math><mi class=\"MJX-tex-caligraphic\" mathvariant=\"script\">PT</mi></math></EquationSource></InlineEquation>-symmetric quantum systems",
-      "link": "https://www.nature.com/articles/s41534-026-01348-2",
-      "date": "11 Aug 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Proof-of-principle experimental demonstration of side-channel-secure quantum key distribution over 200 km",
-      "link": "https://www.nature.com/articles/s41534-026-01346-4",
-      "date": "11 Aug 2026"
+      "source": "Physics Today",
+      "title": "Hydrogen-bonded molecular trimers: Vibration-tunneling states and low-frequency spectra from rigorous high-dimensional quantum calculations",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/6/060901/3401117/Hydrogen-bonded-molecular-trimers-Vibration",
+      "date": "14 Aug 2026"
     },
     {
       "source": "Physics Today",
@@ -66,24 +42,6 @@
       "title": "Quantum dynamical and isotopic effects for hydrogen isotope scattering at W(110) surface",
       "link": "https://pubs.aip.org/aip/jcp/article/165/6/064702/3400695/Quantum-dynamical-and-isotopic-effects-for",
       "date": "11 Aug 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Supercritical water at near-experimental accuracy with MB-pol(2023)",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/6/064505/3400687/Supercritical-water-at-near-experimental-accuracy",
-      "date": "11 Aug 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "The New Spy Race: For Agentic AI and Quantum Computing Threats",
-      "link": "https://www.quantumhorizon.it/inside-the-new-spy-race-how-the-us-china-russia-israel-and-italy-are-gearing-up-for-agentic-ai-and-quantum-computing-threats/",
-      "date": "08 Aug 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "D-Wave shows off its new entry in quantum computing race",
-      "link": "https://arstechnica.com/science/2026/08/d-wave-on-rails-company-tests-entanglement-on-its-dual-rail-qubits/",
-      "date": "07 Aug 2026"
     }
   ]
 }
