@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **15 August 2026 à 07:21 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **16 August 2026 à 07:22 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -14,6 +14,14 @@ agrégés depuis des sources académiques, tech et communautaires.
 ## 📰 Quanta Magazine
 
 - [Graduate Student Proves a Quantum Uncertainty Principle for Fractals](https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/) — *12 Aug 2026*
+
+## 📰 Nature – Quantum Information
+
+- [Noise protected logical qubit in an open chain of superconducting qubits with ultrastrong interactions](https://www.nature.com/articles/s41534-026-01339-3) — *15 Aug 2026*
+- [Fast, unconditional reset and leakage reduction in fixed-frequency transmon qubits](https://www.nature.com/articles/s41534-026-01356-2) — *15 Aug 2026*
+- [Assessing quantum advantage for Gaussian process regression](https://www.nature.com/articles/s41534-026-01350-8) — *14 Aug 2026*
+- [Generation of coherent quantum light from a single impurity-bound exciton](https://www.nature.com/articles/s41534-026-01357-1) — *13 Aug 2026*
+- [Photon subtraction using a three-level emitter coupled to a chiral waveguide](https://www.nature.com/articles/s41534-026-01338-4) — *12 Aug 2026*
 
 ## 📰 Physics Today
 
