@@ -1,5 +1,5 @@
 {
-  "last_updated": "17 August 2026 à 07:43 UTC",
+  "last_updated": "18 August 2026 à 07:29 UTC",
   "articles": [
     {
       "source": "MIT Technology Review – Quantum",
@@ -15,33 +15,21 @@
     },
     {
       "source": "Physics Today",
-      "title": "Hydrogen-bonded molecular trimers: Vibration-tunneling states and low-frequency spectra from rigorous high-dimensional quantum calculations",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/6/060901/3401117/Hydrogen-bonded-molecular-trimers-Vibration",
-      "date": "14 Aug 2026"
+      "title": "Thermalization regimes in a chaotic Tavis-Cummings model",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/7/074103/3401252/Thermalization-regimes-in-a-chaotic-Tavis-Cummings",
+      "date": "17 Aug 2026"
     },
     {
       "source": "Physics Today",
-      "title": "On the effective rank of canonical polyadic decomposition of electron repulsion integrals",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/6/064115/3400966/On-the-effective-rank-of-canonical-polyadic",
-      "date": "13 Aug 2026"
+      "title": "Machine learning prediction of organic compound melting points informed by condensed-phase and electronic descriptors",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/7/074101/3401250/Machine-learning-prediction-of-organic-compound",
+      "date": "17 Aug 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Analytic energy gradients of constrained nuclear–electronic orbital second-order Møller–Plesset perturbation theory with electron–electron correlation",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/6/064117/3400965/Analytic-energy-gradients-of-constrained-nuclear",
-      "date": "13 Aug 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Effects of spin–orbit coupling on the quantum dynamics and vibronic structure of the       B   ̃         2      E    ′      state of NO 3",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/6/064110/3400698/Effects-of-spin-orbit-coupling-on-the-quantum",
-      "date": "11 Aug 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Quantum dynamical and isotopic effects for hydrogen isotope scattering at W(110) surface",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/6/064702/3400695/Quantum-dynamical-and-isotopic-effects-for",
-      "date": "11 Aug 2026"
+      "title": "Testing electron–photon exchange–correlation functional performance for many-electron systems under weak and strong light–matter coupling",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/7/074102/3401248/Testing-electron-photon-exchange-correlation",
+      "date": "17 Aug 2026"
     }
   ]
 }

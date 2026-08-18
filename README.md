@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **17 August 2026 à 07:43 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **18 August 2026 à 07:29 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -17,11 +17,9 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Physics Today
 
-- [Hydrogen-bonded molecular trimers: Vibration-tunneling states and low-frequency spectra from rigorous high-dimensional quantum calculations](https://pubs.aip.org/aip/jcp/article/165/6/060901/3401117/Hydrogen-bonded-molecular-trimers-Vibration) — *14 Aug 2026*
-- [On the effective rank of canonical polyadic decomposition of electron repulsion integrals](https://pubs.aip.org/aip/jcp/article/165/6/064115/3400966/On-the-effective-rank-of-canonical-polyadic) — *13 Aug 2026*
-- [Analytic energy gradients of constrained nuclear–electronic orbital second-order Møller–Plesset perturbation theory with electron–electron correlation](https://pubs.aip.org/aip/jcp/article/165/6/064117/3400965/Analytic-energy-gradients-of-constrained-nuclear) — *13 Aug 2026*
-- [Effects of spin–orbit coupling on the quantum dynamics and vibronic structure of the       B   ̃         2      E    ′      state of NO 3](https://pubs.aip.org/aip/jcp/article/165/6/064110/3400698/Effects-of-spin-orbit-coupling-on-the-quantum) — *11 Aug 2026*
-- [Quantum dynamical and isotopic effects for hydrogen isotope scattering at W(110) surface](https://pubs.aip.org/aip/jcp/article/165/6/064702/3400695/Quantum-dynamical-and-isotopic-effects-for) — *11 Aug 2026*
+- [Thermalization regimes in a chaotic Tavis-Cummings model](https://pubs.aip.org/aip/jcp/article/165/7/074103/3401252/Thermalization-regimes-in-a-chaotic-Tavis-Cummings) — *17 Aug 2026*
+- [Machine learning prediction of organic compound melting points informed by condensed-phase and electronic descriptors](https://pubs.aip.org/aip/jcp/article/165/7/074101/3401250/Machine-learning-prediction-of-organic-compound) — *17 Aug 2026*
+- [Testing electron–photon exchange–correlation functional performance for many-electron systems under weak and strong light–matter coupling](https://pubs.aip.org/aip/jcp/article/165/7/074102/3401248/Testing-electron-photon-exchange-correlation) — *17 Aug 2026*
 
 ---
 
