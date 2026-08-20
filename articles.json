@@ -1,11 +1,23 @@
 {
-  "last_updated": "19 August 2026 à 07:30 UTC",
+  "last_updated": "20 August 2026 à 07:32 UTC",
   "articles": [
     {
       "source": "Quanta Magazine",
-      "title": "Graduate Student Proves a Quantum Uncertainty Principle for Fractals",
-      "link": "https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/",
-      "date": "12 Aug 2026"
+      "title": "Building a Quantum Computer, One Fragile Qubit at a Time",
+      "link": "https://www.quantamagazine.org/building-a-quantum-computer-one-fragile-qubit-at-a-time-20260819/",
+      "date": "19 Aug 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Restoring polarization entanglement from solid-state photon sources by time-dependent photonic control",
+      "link": "https://www.nature.com/articles/s41534-026-01351-7",
+      "date": "20 Aug 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Mechanical squeezing via feedback control",
+      "link": "https://www.nature.com/articles/s41534-026-01354-4",
+      "date": "19 Aug 2026"
     },
     {
       "source": "Nature – Quantum Information",
@@ -26,16 +38,28 @@
       "date": "15 Aug 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "Assessing quantum advantage for Gaussian process regression",
-      "link": "https://www.nature.com/articles/s41534-026-01350-8",
-      "date": "14 Aug 2026"
+      "source": "Physics Today",
+      "title": "Neural wavefunction calculations of hyperfine coupling constants relevant to μSR spectroscopy with quantum muons and protons",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/7/074114/3401476/Neural-wavefunction-calculations-of-hyperfine",
+      "date": "19 Aug 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "Generation of coherent quantum light from a single impurity-bound exciton",
-      "link": "https://www.nature.com/articles/s41534-026-01357-1",
-      "date": "13 Aug 2026"
+      "source": "Physics Today",
+      "title": "Optical lineshape models and the generalized Einstein relation between absorption and stimulated emission",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/7/074116/3401475/Optical-lineshape-models-and-the-generalized",
+      "date": "19 Aug 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Electron attachment, thermal detachment, and the electron affinity of the SF 6  substitute C 4 F 7 N (heptafluoroisobutyronitrile) and related compounds",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/7/074305/3401473/Electron-attachment-thermal-detachment-and-the",
+      "date": "19 Aug 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Path integral molecular dynamics framework for spin-phonon systems",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/7/074115/3401471/Path-integral-molecular-dynamics-framework-for",
+      "date": "19 Aug 2026"
     },
     {
       "source": "Physics Today",
@@ -44,22 +68,10 @@
       "date": "18 Aug 2026"
     },
     {
-      "source": "Physics Today",
-      "title": "Thermalization regimes in a chaotic Tavis-Cummings model",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/7/074103/3401252/Thermalization-regimes-in-a-chaotic-Tavis-Cummings",
-      "date": "17 Aug 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Machine learning prediction of organic compound melting points informed by condensed-phase and electronic descriptors",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/7/074101/3401250/Machine-learning-prediction-of-organic-compound",
-      "date": "17 Aug 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Testing electron–photon exchange–correlation functional performance for many-electron systems under weak and strong light–matter coupling",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/7/074102/3401248/Testing-electron-photon-exchange-correlation",
-      "date": "17 Aug 2026"
+      "source": "Hacker News – Quantum",
+      "title": "Scientific applications of quantum computing: challenges and opportunities",
+      "link": "https://arxiv.org/abs/2608.16568",
+      "date": "18 Aug 2026"
     }
   ]
 }
