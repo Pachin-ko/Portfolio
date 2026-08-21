@@ -1,5 +1,5 @@
 {
-  "last_updated": "20 August 2026 à 07:32 UTC",
+  "last_updated": "21 August 2026 à 07:34 UTC",
   "articles": [
     {
       "source": "Quanta Magazine",
@@ -9,8 +9,20 @@
     },
     {
       "source": "Nature – Quantum Information",
+      "title": "Excited state preparation on a quantum computer through adiabatic light-matter coupling",
+      "link": "https://www.nature.com/articles/s41534-026-01327-7",
+      "date": "20 Aug 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
       "title": "Restoring polarization entanglement from solid-state photon sources by time-dependent photonic control",
       "link": "https://www.nature.com/articles/s41534-026-01351-7",
+      "date": "20 Aug 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Non-Markovianity induced by Pauli twirling",
+      "link": "https://www.nature.com/articles/s41534-026-01345-5",
       "date": "20 Aug 2026"
     },
     {
@@ -26,16 +38,16 @@
       "date": "17 Aug 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "Noise protected logical qubit in an open chain of superconducting qubits with ultrastrong interactions",
-      "link": "https://www.nature.com/articles/s41534-026-01339-3",
-      "date": "15 Aug 2026"
+      "source": "Physics Today",
+      "title": "Memory kernel non-additivity in the generalized quantum master equation for a system coupled to multiple heat baths",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/7/074117/3402639/Memory-kernel-non-additivity-in-the-generalized",
+      "date": "20 Aug 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "Fast, unconditional reset and leakage reduction in fixed-frequency transmon qubits",
-      "link": "https://www.nature.com/articles/s41534-026-01356-2",
-      "date": "15 Aug 2026"
+      "source": "Physics Today",
+      "title": "Automated optimization of force field parameters against ensemble-averaged measurements with Bayesian inference of conformational populations",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/7/074118/3402637/Automated-optimization-of-force-field-parameters",
+      "date": "20 Aug 2026"
     },
     {
       "source": "Physics Today",
@@ -54,18 +66,6 @@
       "title": "Electron attachment, thermal detachment, and the electron affinity of the SF 6  substitute C 4 F 7 N (heptafluoroisobutyronitrile) and related compounds",
       "link": "https://pubs.aip.org/aip/jcp/article/165/7/074305/3401473/Electron-attachment-thermal-detachment-and-the",
       "date": "19 Aug 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Path integral molecular dynamics framework for spin-phonon systems",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/7/074115/3401471/Path-integral-molecular-dynamics-framework-for",
-      "date": "19 Aug 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Beyond the quantum regression theorem in variational polaron master equations: From Ohmic to super-Ohmic environments",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/7/074111/3401363/Beyond-the-quantum-regression-theorem-in",
-      "date": "18 Aug 2026"
     },
     {
       "source": "Hacker News – Quantum",

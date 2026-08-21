@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **20 August 2026 à 07:32 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **21 August 2026 à 07:34 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -13,19 +13,19 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Nature – Quantum Information
 
+- [Excited state preparation on a quantum computer through adiabatic light-matter coupling](https://www.nature.com/articles/s41534-026-01327-7) — *20 Aug 2026*
 - [Restoring polarization entanglement from solid-state photon sources by time-dependent photonic control](https://www.nature.com/articles/s41534-026-01351-7) — *20 Aug 2026*
+- [Non-Markovianity induced by Pauli twirling](https://www.nature.com/articles/s41534-026-01345-5) — *20 Aug 2026*
 - [Mechanical squeezing via feedback control](https://www.nature.com/articles/s41534-026-01354-4) — *19 Aug 2026*
 - [Hybrid boson sampling-neural network architecture for enhanced classification](https://www.nature.com/articles/s41534-026-01321-z) — *17 Aug 2026*
-- [Noise protected logical qubit in an open chain of superconducting qubits with ultrastrong interactions](https://www.nature.com/articles/s41534-026-01339-3) — *15 Aug 2026*
-- [Fast, unconditional reset and leakage reduction in fixed-frequency transmon qubits](https://www.nature.com/articles/s41534-026-01356-2) — *15 Aug 2026*
 
 ## 📰 Physics Today
 
+- [Memory kernel non-additivity in the generalized quantum master equation for a system coupled to multiple heat baths](https://pubs.aip.org/aip/jcp/article/165/7/074117/3402639/Memory-kernel-non-additivity-in-the-generalized) — *20 Aug 2026*
+- [Automated optimization of force field parameters against ensemble-averaged measurements with Bayesian inference of conformational populations](https://pubs.aip.org/aip/jcp/article/165/7/074118/3402637/Automated-optimization-of-force-field-parameters) — *20 Aug 2026*
 - [Neural wavefunction calculations of hyperfine coupling constants relevant to μSR spectroscopy with quantum muons and protons](https://pubs.aip.org/aip/jcp/article/165/7/074114/3401476/Neural-wavefunction-calculations-of-hyperfine) — *19 Aug 2026*
 - [Optical lineshape models and the generalized Einstein relation between absorption and stimulated emission](https://pubs.aip.org/aip/jcp/article/165/7/074116/3401475/Optical-lineshape-models-and-the-generalized) — *19 Aug 2026*
 - [Electron attachment, thermal detachment, and the electron affinity of the SF 6  substitute C 4 F 7 N (heptafluoroisobutyronitrile) and related compounds](https://pubs.aip.org/aip/jcp/article/165/7/074305/3401473/Electron-attachment-thermal-detachment-and-the) — *19 Aug 2026*
-- [Path integral molecular dynamics framework for spin-phonon systems](https://pubs.aip.org/aip/jcp/article/165/7/074115/3401471/Path-integral-molecular-dynamics-framework-for) — *19 Aug 2026*
-- [Beyond the quantum regression theorem in variational polaron master equations: From Ohmic to super-Ohmic environments](https://pubs.aip.org/aip/jcp/article/165/7/074111/3401363/Beyond-the-quantum-regression-theorem-in) — *18 Aug 2026*
 
 ## 📰 Hacker News – Quantum
 
