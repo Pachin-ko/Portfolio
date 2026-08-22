@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **21 August 2026 à 07:34 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **22 August 2026 à 07:23 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -10,14 +10,6 @@ agrégés depuis des sources académiques, tech et communautaires.
 ## 📰 Quanta Magazine
 
 - [Building a Quantum Computer, One Fragile Qubit at a Time](https://www.quantamagazine.org/building-a-quantum-computer-one-fragile-qubit-at-a-time-20260819/) — *19 Aug 2026*
-
-## 📰 Nature – Quantum Information
-
-- [Excited state preparation on a quantum computer through adiabatic light-matter coupling](https://www.nature.com/articles/s41534-026-01327-7) — *20 Aug 2026*
-- [Restoring polarization entanglement from solid-state photon sources by time-dependent photonic control](https://www.nature.com/articles/s41534-026-01351-7) — *20 Aug 2026*
-- [Non-Markovianity induced by Pauli twirling](https://www.nature.com/articles/s41534-026-01345-5) — *20 Aug 2026*
-- [Mechanical squeezing via feedback control](https://www.nature.com/articles/s41534-026-01354-4) — *19 Aug 2026*
-- [Hybrid boson sampling-neural network architecture for enhanced classification](https://www.nature.com/articles/s41534-026-01321-z) — *17 Aug 2026*
 
 ## 📰 Physics Today
 

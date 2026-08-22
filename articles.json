@@ -1,41 +1,11 @@
 {
-  "last_updated": "21 August 2026 à 07:34 UTC",
+  "last_updated": "22 August 2026 à 07:23 UTC",
   "articles": [
     {
       "source": "Quanta Magazine",
       "title": "Building a Quantum Computer, One Fragile Qubit at a Time",
       "link": "https://www.quantamagazine.org/building-a-quantum-computer-one-fragile-qubit-at-a-time-20260819/",
       "date": "19 Aug 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Excited state preparation on a quantum computer through adiabatic light-matter coupling",
-      "link": "https://www.nature.com/articles/s41534-026-01327-7",
-      "date": "20 Aug 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Restoring polarization entanglement from solid-state photon sources by time-dependent photonic control",
-      "link": "https://www.nature.com/articles/s41534-026-01351-7",
-      "date": "20 Aug 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Non-Markovianity induced by Pauli twirling",
-      "link": "https://www.nature.com/articles/s41534-026-01345-5",
-      "date": "20 Aug 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Mechanical squeezing via feedback control",
-      "link": "https://www.nature.com/articles/s41534-026-01354-4",
-      "date": "19 Aug 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Hybrid boson sampling-neural network architecture for enhanced classification",
-      "link": "https://www.nature.com/articles/s41534-026-01321-z",
-      "date": "17 Aug 2026"
     },
     {
       "source": "Physics Today",
