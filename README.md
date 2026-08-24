@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **23 August 2026 à 07:25 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **24 August 2026 à 07:50 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -21,6 +21,7 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Hacker News – Quantum
 
+- [IBM Research Unveils Quantum Computing Mainframe [video]](https://www.youtube.com/watch?v=wwMI6IhvwE0) — *23 Aug 2026*
 - [Scientific applications of quantum computing: challenges and opportunities](https://arxiv.org/abs/2608.16568) — *18 Aug 2026*
 
 ---
