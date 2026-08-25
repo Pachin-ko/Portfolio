@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **24 August 2026 à 07:50 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **25 August 2026 à 07:35 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -11,13 +11,13 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 - [Building a Quantum Computer, One Fragile Qubit at a Time](https://www.quantamagazine.org/building-a-quantum-computer-one-fragile-qubit-at-a-time-20260819/) — *19 Aug 2026*
 
-## 📰 Physics Today
+## 📰 Nature – Quantum Information
 
-- [Memory kernel non-additivity in the generalized quantum master equation for a system coupled to multiple heat baths](https://pubs.aip.org/aip/jcp/article/165/7/074117/3402639/Memory-kernel-non-additivity-in-the-generalized) — *20 Aug 2026*
-- [Automated optimization of force field parameters against ensemble-averaged measurements with Bayesian inference of conformational populations](https://pubs.aip.org/aip/jcp/article/165/7/074118/3402637/Automated-optimization-of-force-field-parameters) — *20 Aug 2026*
-- [Neural wavefunction calculations of hyperfine coupling constants relevant to μSR spectroscopy with quantum muons and protons](https://pubs.aip.org/aip/jcp/article/165/7/074114/3401476/Neural-wavefunction-calculations-of-hyperfine) — *19 Aug 2026*
-- [Optical lineshape models and the generalized Einstein relation between absorption and stimulated emission](https://pubs.aip.org/aip/jcp/article/165/7/074116/3401475/Optical-lineshape-models-and-the-generalized) — *19 Aug 2026*
-- [Electron attachment, thermal detachment, and the electron affinity of the SF 6  substitute C 4 F 7 N (heptafluoroisobutyronitrile) and related compounds](https://pubs.aip.org/aip/jcp/article/165/7/074305/3401473/Electron-attachment-thermal-detachment-and-the) — *19 Aug 2026*
+- [Towards a micromechanical qubit based on quantized oscillations in superfluid helium](https://www.nature.com/articles/s41534-026-01355-3) — *24 Aug 2026*
+- [Steerability of rank-2 two-qubit entangled states](https://www.nature.com/articles/s41534-026-01359-z) — *24 Aug 2026*
+- [Quantum quenches from the critical point: theory and experimental validation in a trapped-ion quantum simulator](https://www.nature.com/articles/s41534-026-01281-4) — *22 Aug 2026*
+- [Preparing squeezed, cat and GKP states with parity measurements](https://www.nature.com/articles/s41534-026-01361-5) — *22 Aug 2026*
+- [Sequential state preparation and measurement of multiple qubits via a single channel](https://www.nature.com/articles/s41534-026-01353-5) — *21 Aug 2026*
 
 ## 📰 Hacker News – Quantum
 
