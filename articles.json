@@ -1,5 +1,5 @@
 {
-  "last_updated": "25 August 2026 à 07:35 UTC",
+  "last_updated": "26 August 2026 à 07:37 UTC",
   "articles": [
     {
       "source": "Quanta Magazine",
@@ -8,46 +8,34 @@
       "date": "19 Aug 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "Towards a micromechanical qubit based on quantized oscillations in superfluid helium",
-      "link": "https://www.nature.com/articles/s41534-026-01355-3",
-      "date": "24 Aug 2026"
+      "source": "Physics Today",
+      "title": "Bond dissociation energies of OV + –O, V + –N, and VN + –NH 3  measured by photodissociation",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/8/084304/3402999/Bond-dissociation-energies-of-OV-O-V-N-and-VN-NH3",
+      "date": "25 Aug 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "Steerability of rank-2 two-qubit entangled states",
-      "link": "https://www.nature.com/articles/s41534-026-01359-z",
-      "date": "24 Aug 2026"
+      "source": "Physics Today",
+      "title": "State-averaged quantum algorithms for multiconfigurational surface chemistry: A benchmark on Rh@TiO 2 (110)",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/8/084103/3402988/State-averaged-quantum-algorithms-for",
+      "date": "25 Aug 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "Quantum quenches from the critical point: theory and experimental validation in a trapped-ion quantum simulator",
-      "link": "https://www.nature.com/articles/s41534-026-01281-4",
-      "date": "22 Aug 2026"
+      "source": "Physics Today",
+      "title": "Yan Festschrift editorial",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/8/080402/3402987/Yan-Festschrift-editorial",
+      "date": "25 Aug 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "Preparing squeezed, cat and GKP states with parity measurements",
-      "link": "https://www.nature.com/articles/s41534-026-01361-5",
-      "date": "22 Aug 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Sequential state preparation and measurement of multiple qubits via a single channel",
-      "link": "https://www.nature.com/articles/s41534-026-01353-5",
-      "date": "21 Aug 2026"
+      "source": "Hacker News – Quantum",
+      "title": "Quantum Computing Failure Now Obvious",
+      "link": "https://www.youtube.com/watch?v=DX_oIQ-tA6M",
+      "date": "25 Aug 2026"
     },
     {
       "source": "Hacker News – Quantum",
       "title": "IBM Research Unveils Quantum Computing Mainframe [video]",
       "link": "https://www.youtube.com/watch?v=wwMI6IhvwE0",
       "date": "23 Aug 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Scientific applications of quantum computing: challenges and opportunities",
-      "link": "https://arxiv.org/abs/2608.16568",
-      "date": "18 Aug 2026"
     }
   ]
 }
