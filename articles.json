@@ -1,41 +1,11 @@
 {
-  "last_updated": "27 August 2026 à 17:58 UTC",
+  "last_updated": "28 August 2026 à 19:09 UTC",
   "articles": [
     {
       "source": "Quanta Magazine",
       "title": "In Hilbert Space, All Things Are Quantumly Possible",
       "link": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
       "date": "26 Aug 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Intermodal quantum key distribution over an 18-km free-space channel with adaptive optics and room-temperature detectors",
-      "link": "https://www.nature.com/articles/s41534-026-01358-0",
-      "date": "26 Aug 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Towards a micromechanical qubit based on quantized oscillations in superfluid helium",
-      "link": "https://www.nature.com/articles/s41534-026-01355-3",
-      "date": "24 Aug 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Steerability of rank-2 two-qubit entangled states",
-      "link": "https://www.nature.com/articles/s41534-026-01359-z",
-      "date": "24 Aug 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Quantum quenches from the critical point: theory and experimental validation in a trapped-ion quantum simulator",
-      "link": "https://www.nature.com/articles/s41534-026-01281-4",
-      "date": "22 Aug 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Preparing squeezed, cat and GKP states with parity measurements",
-      "link": "https://www.nature.com/articles/s41534-026-01361-5",
-      "date": "22 Aug 2026"
     },
     {
       "source": "Physics Today",
@@ -66,6 +36,24 @@
       "title": "Yan Festschrift editorial",
       "link": "https://pubs.aip.org/aip/jcp/article/165/8/080402/3402987/Yan-Festschrift-editorial",
       "date": "25 Aug 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "Quantum Computing Failure Now Obvious [video]",
+      "link": "https://www.youtube.com/watch?v=DX_oIQ-tA6M",
+      "date": "27 Aug 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "Quantum Computing Failure Now Obvious",
+      "link": "https://www.youtube.com/watch?v=DX_oIQ-tA6M",
+      "date": "25 Aug 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "IBM Research Unveils Quantum Computing Mainframe [video]",
+      "link": "https://www.youtube.com/watch?v=wwMI6IhvwE0",
+      "date": "23 Aug 2026"
     }
   ]
 }
