@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **28 August 2026 à 19:09 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **29 August 2026 à 12:53 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -11,13 +11,19 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 - [In Hilbert Space, All Things Are Quantumly Possible](https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/) — *26 Aug 2026*
 
+## 📰 Nature – Quantum Information
+
+- [Intermodal quantum key distribution over an 18-km free-space channel with adaptive optics and room-temperature detectors](https://www.nature.com/articles/s41534-026-01358-0) — *26 Aug 2026*
+- [Towards a micromechanical qubit based on quantized oscillations in superfluid helium](https://www.nature.com/articles/s41534-026-01355-3) — *24 Aug 2026*
+- [Steerability of rank-2 two-qubit entangled states](https://www.nature.com/articles/s41534-026-01359-z) — *24 Aug 2026*
+
 ## 📰 Physics Today
 
+- [Permutationally symmetric molecular aggregates](https://pubs.aip.org/aip/jcp/article/165/8/084306/3403259/Permutationally-symmetric-molecular-aggregates) — *28 Aug 2026*
 - [Solving the assignment problem in model-based diabatization with Target Overlap Assignment Diabatization (TOAD)](https://pubs.aip.org/aip/jcp/article/165/8/084106/3403105/Solving-the-assignment-problem-in-model-based) — *26 Aug 2026*
 - [Excitation-wavelength- and protonation-dependent multiple photoreaction pathways in TAT rhodopsin from femtoseconds to seconds](https://pubs.aip.org/aip/jcp/article/165/8/085102/3403102/Excitation-wavelength-and-protonation-dependent) — *26 Aug 2026*
 - [Bond dissociation energies of OV + –O, V + –N, and VN + –NH 3  measured by photodissociation](https://pubs.aip.org/aip/jcp/article/165/8/084304/3402999/Bond-dissociation-energies-of-OV-O-V-N-and-VN-NH3) — *25 Aug 2026*
 - [State-averaged quantum algorithms for multiconfigurational surface chemistry: A benchmark on Rh@TiO 2 (110)](https://pubs.aip.org/aip/jcp/article/165/8/084103/3402988/State-averaged-quantum-algorithms-for) — *25 Aug 2026*
-- [Yan Festschrift editorial](https://pubs.aip.org/aip/jcp/article/165/8/080402/3402987/Yan-Festschrift-editorial) — *25 Aug 2026*
 
 ## 📰 Hacker News – Quantum
 

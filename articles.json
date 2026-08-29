@@ -1,11 +1,35 @@
 {
-  "last_updated": "28 August 2026 à 19:09 UTC",
+  "last_updated": "29 August 2026 à 12:53 UTC",
   "articles": [
     {
       "source": "Quanta Magazine",
       "title": "In Hilbert Space, All Things Are Quantumly Possible",
       "link": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
       "date": "26 Aug 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Intermodal quantum key distribution over an 18-km free-space channel with adaptive optics and room-temperature detectors",
+      "link": "https://www.nature.com/articles/s41534-026-01358-0",
+      "date": "26 Aug 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Towards a micromechanical qubit based on quantized oscillations in superfluid helium",
+      "link": "https://www.nature.com/articles/s41534-026-01355-3",
+      "date": "24 Aug 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Steerability of rank-2 two-qubit entangled states",
+      "link": "https://www.nature.com/articles/s41534-026-01359-z",
+      "date": "24 Aug 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Permutationally symmetric molecular aggregates",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/8/084306/3403259/Permutationally-symmetric-molecular-aggregates",
+      "date": "28 Aug 2026"
     },
     {
       "source": "Physics Today",
@@ -29,12 +53,6 @@
       "source": "Physics Today",
       "title": "State-averaged quantum algorithms for multiconfigurational surface chemistry: A benchmark on Rh@TiO 2 (110)",
       "link": "https://pubs.aip.org/aip/jcp/article/165/8/084103/3402988/State-averaged-quantum-algorithms-for",
-      "date": "25 Aug 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Yan Festschrift editorial",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/8/080402/3402987/Yan-Festschrift-editorial",
       "date": "25 Aug 2026"
     },
     {
