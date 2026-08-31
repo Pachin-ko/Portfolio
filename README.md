@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **30 August 2026 à 12:26 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **31 August 2026 à 14:37 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -13,9 +13,8 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Nature – Quantum Information
 
+- [Publisher Correction: Superiority of Krylov shadow tomography in estimating quantum Fisher information: from bounds to exactness](https://www.nature.com/articles/s41534-026-01349-1) — *31 Aug 2026*
 - [Intermodal quantum key distribution over an 18-km free-space channel with adaptive optics and room-temperature detectors](https://www.nature.com/articles/s41534-026-01358-0) — *26 Aug 2026*
-- [Towards a micromechanical qubit based on quantized oscillations in superfluid helium](https://www.nature.com/articles/s41534-026-01355-3) — *24 Aug 2026*
-- [Steerability of rank-2 two-qubit entangled states](https://www.nature.com/articles/s41534-026-01359-z) — *24 Aug 2026*
 
 ## 📰 Physics Today
 
