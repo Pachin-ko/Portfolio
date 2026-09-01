@@ -1,5 +1,5 @@
 {
-  "last_updated": "31 August 2026 à 14:37 UTC",
+  "last_updated": "01 September 2026 à 12:14 UTC",
   "articles": [
     {
       "source": "Quanta Magazine",
@@ -8,16 +8,10 @@
       "date": "26 Aug 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "Publisher Correction: Superiority of Krylov shadow tomography in estimating quantum Fisher information: from bounds to exactness",
-      "link": "https://www.nature.com/articles/s41534-026-01349-1",
+      "source": "Physics Today",
+      "title": "Ultrafast laser-driven quantum dynamics in positronium chloride",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/8/084307/3403315/Ultrafast-laser-driven-quantum-dynamics-in",
       "date": "31 Aug 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Intermodal quantum key distribution over an 18-km free-space channel with adaptive optics and room-temperature detectors",
-      "link": "https://www.nature.com/articles/s41534-026-01358-0",
-      "date": "26 Aug 2026"
     },
     {
       "source": "Physics Today",
@@ -36,30 +30,6 @@
       "title": "Excitation-wavelength- and protonation-dependent multiple photoreaction pathways in TAT rhodopsin from femtoseconds to seconds",
       "link": "https://pubs.aip.org/aip/jcp/article/165/8/085102/3403102/Excitation-wavelength-and-protonation-dependent",
       "date": "26 Aug 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Bond dissociation energies of OV + –O, V + –N, and VN + –NH 3  measured by photodissociation",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/8/084304/3402999/Bond-dissociation-energies-of-OV-O-V-N-and-VN-NH3",
-      "date": "25 Aug 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "State-averaged quantum algorithms for multiconfigurational surface chemistry: A benchmark on Rh@TiO 2 (110)",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/8/084103/3402988/State-averaged-quantum-algorithms-for",
-      "date": "25 Aug 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Quantum Computing Failure Now Obvious [video]",
-      "link": "https://www.youtube.com/watch?v=DX_oIQ-tA6M",
-      "date": "27 Aug 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Quantum Computing Failure Now Obvious",
-      "link": "https://www.youtube.com/watch?v=DX_oIQ-tA6M",
-      "date": "25 Aug 2026"
     }
   ]
 }
