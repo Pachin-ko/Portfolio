@@ -1,5 +1,5 @@
 {
-  "last_updated": "01 September 2026 à 12:14 UTC",
+  "last_updated": "02 September 2026 à 11:52 UTC",
   "articles": [
     {
       "source": "Quanta Magazine",
@@ -9,27 +9,33 @@
     },
     {
       "source": "Physics Today",
-      "title": "Ultrafast laser-driven quantum dynamics in positronium chloride",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/8/084307/3403315/Ultrafast-laser-driven-quantum-dynamics-in",
-      "date": "31 Aug 2026"
+      "title": "Size-extensive auxiliary-field quantum Monte Carlo with perturbative coupled cluster trial wavefunctions",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/9/094107/3403407/Size-extensive-auxiliary-field-quantum-Monte-Carlo",
+      "date": "01 Sep 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Permutationally symmetric molecular aggregates",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/8/084306/3403259/Permutationally-symmetric-molecular-aggregates",
-      "date": "28 Aug 2026"
+      "title": "High-order harmonic generation from an atom in a disordered environment",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/9/094110/3403392/High-order-harmonic-generation-from-an-atom-in-a",
+      "date": "01 Sep 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Solving the assignment problem in model-based diabatization with Target Overlap Assignment Diabatization (TOAD)",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/8/084106/3403105/Solving-the-assignment-problem-in-model-based",
-      "date": "26 Aug 2026"
+      "title": "Light-induced nonadiabatic dissipative quantum dynamics of the Na 2  molecule",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/9/094303/3403384/Light-induced-nonadiabatic-dissipative-quantum",
+      "date": "01 Sep 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Excitation-wavelength- and protonation-dependent multiple photoreaction pathways in TAT rhodopsin from femtoseconds to seconds",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/8/085102/3403102/Excitation-wavelength-and-protonation-dependent",
-      "date": "26 Aug 2026"
+      "title": "Structural transition of solid hydrogen between phases I and II at low temperatures",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/9/094701/3403380/Structural-transition-of-solid-hydrogen-between",
+      "date": "01 Sep 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "Quantum Computing Failure Now Obvious [video]",
+      "link": "https://www.youtube.com/watch?v=DX_oIQ-tA6M",
+      "date": "27 Aug 2026"
     }
   ]
 }

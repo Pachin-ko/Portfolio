@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **01 September 2026 à 12:14 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **02 September 2026 à 11:52 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -13,10 +13,14 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Physics Today
 
-- [Ultrafast laser-driven quantum dynamics in positronium chloride](https://pubs.aip.org/aip/jcp/article/165/8/084307/3403315/Ultrafast-laser-driven-quantum-dynamics-in) — *31 Aug 2026*
-- [Permutationally symmetric molecular aggregates](https://pubs.aip.org/aip/jcp/article/165/8/084306/3403259/Permutationally-symmetric-molecular-aggregates) — *28 Aug 2026*
-- [Solving the assignment problem in model-based diabatization with Target Overlap Assignment Diabatization (TOAD)](https://pubs.aip.org/aip/jcp/article/165/8/084106/3403105/Solving-the-assignment-problem-in-model-based) — *26 Aug 2026*
-- [Excitation-wavelength- and protonation-dependent multiple photoreaction pathways in TAT rhodopsin from femtoseconds to seconds](https://pubs.aip.org/aip/jcp/article/165/8/085102/3403102/Excitation-wavelength-and-protonation-dependent) — *26 Aug 2026*
+- [Size-extensive auxiliary-field quantum Monte Carlo with perturbative coupled cluster trial wavefunctions](https://pubs.aip.org/aip/jcp/article/165/9/094107/3403407/Size-extensive-auxiliary-field-quantum-Monte-Carlo) — *01 Sep 2026*
+- [High-order harmonic generation from an atom in a disordered environment](https://pubs.aip.org/aip/jcp/article/165/9/094110/3403392/High-order-harmonic-generation-from-an-atom-in-a) — *01 Sep 2026*
+- [Light-induced nonadiabatic dissipative quantum dynamics of the Na 2  molecule](https://pubs.aip.org/aip/jcp/article/165/9/094303/3403384/Light-induced-nonadiabatic-dissipative-quantum) — *01 Sep 2026*
+- [Structural transition of solid hydrogen between phases I and II at low temperatures](https://pubs.aip.org/aip/jcp/article/165/9/094701/3403380/Structural-transition-of-solid-hydrogen-between) — *01 Sep 2026*
+
+## 📰 Hacker News – Quantum
+
+- [Quantum Computing Failure Now Obvious [video]](https://www.youtube.com/watch?v=DX_oIQ-tA6M) — *27 Aug 2026*
 
 ---
 
