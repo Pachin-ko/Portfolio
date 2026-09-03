@@ -1,41 +1,65 @@
 {
-  "last_updated": "02 September 2026 à 11:52 UTC",
+  "last_updated": "03 September 2026 à 11:50 UTC",
   "articles": [
     {
-      "source": "Quanta Magazine",
-      "title": "In Hilbert Space, All Things Are Quantumly Possible",
-      "link": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
-      "date": "26 Aug 2026"
+      "source": "Nature – Quantum Information",
+      "title": "Single-operation Rydberg phase gates via dynamic population suppression",
+      "link": "https://www.nature.com/articles/s41534-026-01329-5",
+      "date": "01 Sep 2026"
     },
     {
-      "source": "Physics Today",
-      "title": "Size-extensive auxiliary-field quantum Monte Carlo with perturbative coupled cluster trial wavefunctions",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/9/094107/3403407/Size-extensive-auxiliary-field-quantum-Monte-Carlo",
+      "source": "Nature – Quantum Information",
+      "title": "Causal asymmetry of classical and quantum autonomous agents",
+      "link": "https://www.nature.com/articles/s41534-026-01335-7",
+      "date": "01 Sep 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Theoretical guarantees of variational quantum algorithm with guiding states",
+      "link": "https://www.nature.com/articles/s41534-026-01364-2",
+      "date": "01 Sep 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Attaining quantum sensing enhancement from monitored dissipative time crystals",
+      "link": "https://www.nature.com/articles/s41534-026-01331-x",
+      "date": "01 Sep 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Symmetry-protected topological order in a 100-site spin chain on a digital quantum computer",
+      "link": "https://www.nature.com/articles/s41534-026-01334-8",
       "date": "01 Sep 2026"
     },
     {
       "source": "Physics Today",
-      "title": "High-order harmonic generation from an atom in a disordered environment",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/9/094110/3403392/High-order-harmonic-generation-from-an-atom-in-a",
-      "date": "01 Sep 2026"
+      "title": "Real-time nuclear–electronic orbital time-dependent density functional theory with a constrained traveling proton basis",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/9/094114/3403608/Real-time-nuclear-electronic-orbital-time",
+      "date": "02 Sep 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Light-induced nonadiabatic dissipative quantum dynamics of the Na 2  molecule",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/9/094303/3403384/Light-induced-nonadiabatic-dissipative-quantum",
-      "date": "01 Sep 2026"
+      "title": "Quantum states of three  3 He atoms confined in a C 60  fullerene",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/9/094307/3403602/Quantum-states-of-three-3He-atoms-confined-in-a",
+      "date": "02 Sep 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Structural transition of solid hydrogen between phases I and II at low temperatures",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/9/094701/3403380/Structural-transition-of-solid-hydrogen-between",
-      "date": "01 Sep 2026"
+      "title": "Free-particle Green’s function matrix elements over spherical Gaussian and plane-wave-modulated Gaussian basis functions",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/9/094115/3403601/Free-particle-Green-s-function-matrix-elements",
+      "date": "02 Sep 2026"
     },
     {
-      "source": "Hacker News – Quantum",
-      "title": "Quantum Computing Failure Now Obvious [video]",
-      "link": "https://www.youtube.com/watch?v=DX_oIQ-tA6M",
-      "date": "27 Aug 2026"
+      "source": "Physics Today",
+      "title": "Low depth unitary coupled cluster algorithm for large chemical systems",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/9/094117/3403585/Low-depth-unitary-coupled-cluster-algorithm-for",
+      "date": "02 Sep 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Exchange-vibronic coupling, spin frustration, and choice of ground spin state in triangular organic triradicals",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/9/094306/3403584/Exchange-vibronic-coupling-spin-frustration-and",
+      "date": "02 Sep 2026"
     }
   ]
 }
