@@ -1,19 +1,11 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **03 September 2026 à 11:50 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **04 September 2026 à 11:53 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
 
 ---
-
-## 📰 Nature – Quantum Information
-
-- [Single-operation Rydberg phase gates via dynamic population suppression](https://www.nature.com/articles/s41534-026-01329-5) — *01 Sep 2026*
-- [Causal asymmetry of classical and quantum autonomous agents](https://www.nature.com/articles/s41534-026-01335-7) — *01 Sep 2026*
-- [Theoretical guarantees of variational quantum algorithm with guiding states](https://www.nature.com/articles/s41534-026-01364-2) — *01 Sep 2026*
-- [Attaining quantum sensing enhancement from monitored dissipative time crystals](https://www.nature.com/articles/s41534-026-01331-x) — *01 Sep 2026*
-- [Symmetry-protected topological order in a 100-site spin chain on a digital quantum computer](https://www.nature.com/articles/s41534-026-01334-8) — *01 Sep 2026*
 
 ## 📰 Physics Today
 
@@ -22,6 +14,10 @@ agrégés depuis des sources académiques, tech et communautaires.
 - [Free-particle Green’s function matrix elements over spherical Gaussian and plane-wave-modulated Gaussian basis functions](https://pubs.aip.org/aip/jcp/article/165/9/094115/3403601/Free-particle-Green-s-function-matrix-elements) — *02 Sep 2026*
 - [Low depth unitary coupled cluster algorithm for large chemical systems](https://pubs.aip.org/aip/jcp/article/165/9/094117/3403585/Low-depth-unitary-coupled-cluster-algorithm-for) — *02 Sep 2026*
 - [Exchange-vibronic coupling, spin frustration, and choice of ground spin state in triangular organic triradicals](https://pubs.aip.org/aip/jcp/article/165/9/094306/3403584/Exchange-vibronic-coupling-spin-frustration-and) — *02 Sep 2026*
+
+## 📰 Hacker News – Quantum
+
+- [How to be safe from quantum computing](https://lwn.net/Articles/1088305/) — *04 Sep 2026*
 
 ---
 
