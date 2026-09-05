@@ -1,11 +1,19 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **04 September 2026 à 11:53 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **05 September 2026 à 11:03 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
 
 ---
+
+## 📰 Nature – Quantum Information
+
+- [Single-operation Rydberg phase gates via dynamic population suppression](https://www.nature.com/articles/s41534-026-01329-5) — *01 Sep 2026*
+- [Causal asymmetry of classical and quantum autonomous agents](https://www.nature.com/articles/s41534-026-01335-7) — *01 Sep 2026*
+- [Theoretical guarantees of variational quantum algorithm with guiding states](https://www.nature.com/articles/s41534-026-01364-2) — *01 Sep 2026*
+- [Attaining quantum sensing enhancement from monitored dissipative time crystals](https://www.nature.com/articles/s41534-026-01331-x) — *01 Sep 2026*
+- [Symmetry-protected topological order in a 100-site spin chain on a digital quantum computer](https://www.nature.com/articles/s41534-026-01334-8) — *01 Sep 2026*
 
 ## 📰 Physics Today
 
