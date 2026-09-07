@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **06 September 2026 à 11:26 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **07 September 2026 à 13:09 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -25,6 +25,7 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Hacker News – Quantum
 
+- [Genesis Mission: AI and Quantum Computing for Scientific Discovery](https://github.com/donutloop/donutloop-genesis/blob/main/README.md) — *06 Sep 2026*
 - [How to be safe from quantum computing](https://lwn.net/Articles/1088305/) — *04 Sep 2026*
 
 ---
