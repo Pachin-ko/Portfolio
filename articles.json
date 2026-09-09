@@ -1,35 +1,65 @@
 {
-  "last_updated": "08 September 2026 à 11:53 UTC",
+  "last_updated": "09 September 2026 à 12:03 UTC",
   "articles": [
     {
-      "source": "Physics Today",
-      "title": "Real-time nuclear–electronic orbital time-dependent density functional theory with a constrained traveling proton basis",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/9/094114/3403608/Real-time-nuclear-electronic-orbital-time",
-      "date": "02 Sep 2026"
+      "source": "Nature – Quantum Information",
+      "title": "Satellite-to-ground quantum key distribution model under time-evolving turbulence",
+      "link": "https://www.nature.com/articles/s41534-026-01363-3",
+      "date": "09 Sep 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Quantum states of three  3 He atoms confined in a C 60  fullerene",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/9/094307/3403602/Quantum-states-of-three-3He-atoms-confined-in-a",
-      "date": "02 Sep 2026"
+      "title": "HCl dissociation on Pt/Au(111) and Au/Pt(111): Contrasting barrier characters and rotational dynamics",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/10/104302/3403931/HCl-dissociation-on-Pt-Au-111-and-Au-Pt-111",
+      "date": "08 Sep 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Free-particle Green’s function matrix elements over spherical Gaussian and plane-wave-modulated Gaussian basis functions",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/9/094115/3403601/Free-particle-Green-s-function-matrix-elements",
-      "date": "02 Sep 2026"
+      "title": "Lattice matching dictates the growth mode and quality of deuterium crystallization in confined spherical shells",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/10/104503/3403920/Lattice-matching-dictates-the-growth-mode-and",
+      "date": "08 Sep 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Low depth unitary coupled cluster algorithm for large chemical systems",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/9/094117/3403585/Low-depth-unitary-coupled-cluster-algorithm-for",
-      "date": "02 Sep 2026"
+      "title": "Mixedness and entanglement witnessing analysis in two-spin-1/2 NMR systems",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/10/104105/3403919/Mixedness-and-entanglement-witnessing-analysis-in",
+      "date": "08 Sep 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Exchange-vibronic coupling, spin frustration, and choice of ground spin state in triangular organic triradicals",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/9/094306/3403584/Exchange-vibronic-coupling-spin-frustration-and",
-      "date": "02 Sep 2026"
+      "title": "Visualizing electron flow at transition states by natural reaction orbitals",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/10/104104/3403916/Visualizing-electron-flow-at-transition-states-by",
+      "date": "08 Sep 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "Quantum Computing on a Commodore 64 in 200 Lines of Basic",
+      "link": "https://medium.com/@dakk/quantum-computing-on-a-commodore-64-in-200-lines-of-basic-eda7658b32a4",
+      "date": "09 Sep 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "Teleporting \":3\" – an introduction to quantum computing",
+      "link": "https://blog.teddy55.com/Posts/24.06/quantum-computing-with-qsharp",
+      "date": "09 Sep 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
+      "link": "https://openai.com/index/codex-quantum-computing-experiments/",
+      "date": "09 Sep 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "Genesis Mission: AI and Quantum Computing for Scientific Discovery",
+      "link": "https://github.com/donutloop/donutloop-genesis/blob/main/README.md",
+      "date": "06 Sep 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "How to be safe from quantum computing",
+      "link": "https://lwn.net/Articles/1088305/",
+      "date": "04 Sep 2026"
     }
   ]
 }
