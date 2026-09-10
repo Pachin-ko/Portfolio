@@ -1,10 +1,28 @@
 {
-  "last_updated": "09 September 2026 à 12:03 UTC",
+  "last_updated": "10 September 2026 à 11:57 UTC",
   "articles": [
     {
       "source": "Nature – Quantum Information",
       "title": "Satellite-to-ground quantum key distribution model under time-evolving turbulence",
       "link": "https://www.nature.com/articles/s41534-026-01363-3",
+      "date": "09 Sep 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Security risks of VOA-induced luminescence in chip-based quantum key distribution",
+      "link": "https://www.nature.com/articles/s41534-026-01365-1",
+      "date": "09 Sep 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "A contactless heat engine driven by nonreciprocal fluctuation-induced torques",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/10/104111/3404059/A-contactless-heat-engine-driven-by-nonreciprocal",
+      "date": "09 Sep 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Correlated-electron theory of triplet–triplet multiexciton states in polypentacene",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/10/104305/3404057/Correlated-electron-theory-of-triplet-triplet",
       "date": "09 Sep 2026"
     },
     {
@@ -24,42 +42,6 @@
       "title": "Mixedness and entanglement witnessing analysis in two-spin-1/2 NMR systems",
       "link": "https://pubs.aip.org/aip/jcp/article/165/10/104105/3403919/Mixedness-and-entanglement-witnessing-analysis-in",
       "date": "08 Sep 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Visualizing electron flow at transition states by natural reaction orbitals",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/10/104104/3403916/Visualizing-electron-flow-at-transition-states-by",
-      "date": "08 Sep 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Quantum Computing on a Commodore 64 in 200 Lines of Basic",
-      "link": "https://medium.com/@dakk/quantum-computing-on-a-commodore-64-in-200-lines-of-basic-eda7658b32a4",
-      "date": "09 Sep 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Teleporting \":3\" – an introduction to quantum computing",
-      "link": "https://blog.teddy55.com/Posts/24.06/quantum-computing-with-qsharp",
-      "date": "09 Sep 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
-      "link": "https://openai.com/index/codex-quantum-computing-experiments/",
-      "date": "09 Sep 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Genesis Mission: AI and Quantum Computing for Scientific Discovery",
-      "link": "https://github.com/donutloop/donutloop-genesis/blob/main/README.md",
-      "date": "06 Sep 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "How to be safe from quantum computing",
-      "link": "https://lwn.net/Articles/1088305/",
-      "date": "04 Sep 2026"
     }
   ]
 }

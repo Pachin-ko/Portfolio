@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **09 September 2026 à 12:03 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **10 September 2026 à 11:57 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -10,21 +10,15 @@ agrégés depuis des sources académiques, tech et communautaires.
 ## 📰 Nature – Quantum Information
 
 - [Satellite-to-ground quantum key distribution model under time-evolving turbulence](https://www.nature.com/articles/s41534-026-01363-3) — *09 Sep 2026*
+- [Security risks of VOA-induced luminescence in chip-based quantum key distribution](https://www.nature.com/articles/s41534-026-01365-1) — *09 Sep 2026*
 
 ## 📰 Physics Today
 
+- [A contactless heat engine driven by nonreciprocal fluctuation-induced torques](https://pubs.aip.org/aip/jcp/article/165/10/104111/3404059/A-contactless-heat-engine-driven-by-nonreciprocal) — *09 Sep 2026*
+- [Correlated-electron theory of triplet–triplet multiexciton states in polypentacene](https://pubs.aip.org/aip/jcp/article/165/10/104305/3404057/Correlated-electron-theory-of-triplet-triplet) — *09 Sep 2026*
 - [HCl dissociation on Pt/Au(111) and Au/Pt(111): Contrasting barrier characters and rotational dynamics](https://pubs.aip.org/aip/jcp/article/165/10/104302/3403931/HCl-dissociation-on-Pt-Au-111-and-Au-Pt-111) — *08 Sep 2026*
 - [Lattice matching dictates the growth mode and quality of deuterium crystallization in confined spherical shells](https://pubs.aip.org/aip/jcp/article/165/10/104503/3403920/Lattice-matching-dictates-the-growth-mode-and) — *08 Sep 2026*
 - [Mixedness and entanglement witnessing analysis in two-spin-1/2 NMR systems](https://pubs.aip.org/aip/jcp/article/165/10/104105/3403919/Mixedness-and-entanglement-witnessing-analysis-in) — *08 Sep 2026*
-- [Visualizing electron flow at transition states by natural reaction orbitals](https://pubs.aip.org/aip/jcp/article/165/10/104104/3403916/Visualizing-electron-flow-at-transition-states-by) — *08 Sep 2026*
-
-## 📰 Hacker News – Quantum
-
-- [Quantum Computing on a Commodore 64 in 200 Lines of Basic](https://medium.com/@dakk/quantum-computing-on-a-commodore-64-in-200-lines-of-basic-eda7658b32a4) — *09 Sep 2026*
-- [Teleporting ":3" – an introduction to quantum computing](https://blog.teddy55.com/Posts/24.06/quantum-computing-with-qsharp) — *09 Sep 2026*
-- [How GPT‑5.6 Sol helps run quantum computing experiments](https://openai.com/index/codex-quantum-computing-experiments/) — *09 Sep 2026*
-- [Genesis Mission: AI and Quantum Computing for Scientific Discovery](https://github.com/donutloop/donutloop-genesis/blob/main/README.md) — *06 Sep 2026*
-- [How to be safe from quantum computing](https://lwn.net/Articles/1088305/) — *04 Sep 2026*
 
 ---
 
