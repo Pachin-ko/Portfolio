@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **10 September 2026 à 11:57 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **11 September 2026 à 11:56 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -14,11 +14,11 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Physics Today
 
+- [Time-resolved investigation of photocatalytic allene deracemization with kinetic modeling and force-field-based molecular dynamics](https://pubs.aip.org/aip/jcp/article/165/10/104307/3404217/Time-resolved-investigation-of-photocatalytic) — *10 Sep 2026*
+- [The Python simulations of chemistry framework: 10 years of an open-source quantum chemistry project](https://pubs.aip.org/aip/jcp/article/165/10/102502/3404137/The-Python-simulations-of-chemistry-framework-10) — *10 Sep 2026*
+- [Effective theory of quantum phases in the dipolar planar rotor chain](https://pubs.aip.org/aip/jcp/article/165/10/104116/3404136/Effective-theory-of-quantum-phases-in-the-dipolar) — *10 Sep 2026*
 - [A contactless heat engine driven by nonreciprocal fluctuation-induced torques](https://pubs.aip.org/aip/jcp/article/165/10/104111/3404059/A-contactless-heat-engine-driven-by-nonreciprocal) — *09 Sep 2026*
 - [Correlated-electron theory of triplet–triplet multiexciton states in polypentacene](https://pubs.aip.org/aip/jcp/article/165/10/104305/3404057/Correlated-electron-theory-of-triplet-triplet) — *09 Sep 2026*
-- [HCl dissociation on Pt/Au(111) and Au/Pt(111): Contrasting barrier characters and rotational dynamics](https://pubs.aip.org/aip/jcp/article/165/10/104302/3403931/HCl-dissociation-on-Pt-Au-111-and-Au-Pt-111) — *08 Sep 2026*
-- [Lattice matching dictates the growth mode and quality of deuterium crystallization in confined spherical shells](https://pubs.aip.org/aip/jcp/article/165/10/104503/3403920/Lattice-matching-dictates-the-growth-mode-and) — *08 Sep 2026*
-- [Mixedness and entanglement witnessing analysis in two-spin-1/2 NMR systems](https://pubs.aip.org/aip/jcp/article/165/10/104105/3403919/Mixedness-and-entanglement-witnessing-analysis-in) — *08 Sep 2026*
 
 ---
 

@@ -1,5 +1,5 @@
 {
-  "last_updated": "10 September 2026 à 11:57 UTC",
+  "last_updated": "11 September 2026 à 11:56 UTC",
   "articles": [
     {
       "source": "Nature – Quantum Information",
@@ -15,6 +15,24 @@
     },
     {
       "source": "Physics Today",
+      "title": "Time-resolved investigation of photocatalytic allene deracemization with kinetic modeling and force-field-based molecular dynamics",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/10/104307/3404217/Time-resolved-investigation-of-photocatalytic",
+      "date": "10 Sep 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "The Python simulations of chemistry framework: 10 years of an open-source quantum chemistry project",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/10/102502/3404137/The-Python-simulations-of-chemistry-framework-10",
+      "date": "10 Sep 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Effective theory of quantum phases in the dipolar planar rotor chain",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/10/104116/3404136/Effective-theory-of-quantum-phases-in-the-dipolar",
+      "date": "10 Sep 2026"
+    },
+    {
+      "source": "Physics Today",
       "title": "A contactless heat engine driven by nonreciprocal fluctuation-induced torques",
       "link": "https://pubs.aip.org/aip/jcp/article/165/10/104111/3404059/A-contactless-heat-engine-driven-by-nonreciprocal",
       "date": "09 Sep 2026"
@@ -24,24 +42,6 @@
       "title": "Correlated-electron theory of triplet–triplet multiexciton states in polypentacene",
       "link": "https://pubs.aip.org/aip/jcp/article/165/10/104305/3404057/Correlated-electron-theory-of-triplet-triplet",
       "date": "09 Sep 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "HCl dissociation on Pt/Au(111) and Au/Pt(111): Contrasting barrier characters and rotational dynamics",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/10/104302/3403931/HCl-dissociation-on-Pt-Au-111-and-Au-Pt-111",
-      "date": "08 Sep 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Lattice matching dictates the growth mode and quality of deuterium crystallization in confined spherical shells",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/10/104503/3403920/Lattice-matching-dictates-the-growth-mode-and",
-      "date": "08 Sep 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Mixedness and entanglement witnessing analysis in two-spin-1/2 NMR systems",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/10/104105/3403919/Mixedness-and-entanglement-witnessing-analysis-in",
-      "date": "08 Sep 2026"
     }
   ]
 }
