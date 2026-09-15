@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **14 September 2026 à 13:29 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **15 September 2026 à 12:21 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -9,6 +9,8 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Nature – Quantum Information
 
+- [Quantum Coulomb drag signatures of Majorana bound states](https://www.nature.com/articles/s41534-026-01307-x) — *15 Sep 2026*
+- [Criteria for unbiased estimation: applications to noise-agnostic sensing and quantum channel estimation](https://www.nature.com/articles/s41534-026-01347-3) — *14 Sep 2026*
 - [Satellite-to-ground quantum key distribution model under time-evolving turbulence](https://www.nature.com/articles/s41534-026-01363-3) — *09 Sep 2026*
 - [Security risks of VOA-induced luminescence in chip-based quantum key distribution](https://www.nature.com/articles/s41534-026-01365-1) — *09 Sep 2026*
 

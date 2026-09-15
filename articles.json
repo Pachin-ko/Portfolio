@@ -1,6 +1,18 @@
 {
-  "last_updated": "14 September 2026 à 13:29 UTC",
+  "last_updated": "15 September 2026 à 12:21 UTC",
   "articles": [
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Quantum Coulomb drag signatures of Majorana bound states",
+      "link": "https://www.nature.com/articles/s41534-026-01307-x",
+      "date": "15 Sep 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Criteria for unbiased estimation: applications to noise-agnostic sensing and quantum channel estimation",
+      "link": "https://www.nature.com/articles/s41534-026-01347-3",
+      "date": "14 Sep 2026"
+    },
     {
       "source": "Nature – Quantum Information",
       "title": "Satellite-to-ground quantum key distribution model under time-evolving turbulence",
