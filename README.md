@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **18 September 2026 à 11:58 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **19 September 2026 à 11:42 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -10,6 +10,12 @@ agrégés depuis des sources académiques, tech et communautaires.
 ## 📰 Quanta Magazine
 
 - [Where Does the Quantum World End and Ours Begin?](https://www.quantamagazine.org/where-does-the-quantum-world-end-and-ours-begin-20260917/) — *17 Sep 2026*
+
+## 📰 Nature – Quantum Information
+
+- [Quantum Coulomb drag signatures of Majorana bound states](https://www.nature.com/articles/s41534-026-01307-x) — *15 Sep 2026*
+- [Superfluid helium thin films as quantum field theory simulators for probing information area laws](https://www.nature.com/articles/s41534-026-01367-z) — *15 Sep 2026*
+- [Criteria for unbiased estimation: applications to noise-agnostic sensing and quantum channel estimation](https://www.nature.com/articles/s41534-026-01347-3) — *14 Sep 2026*
 
 ## 📰 Physics Today
 
