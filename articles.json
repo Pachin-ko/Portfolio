@@ -1,5 +1,5 @@
 {
-  "last_updated": "20 September 2026 à 11:55 UTC",
+  "last_updated": "21 September 2026 à 13:28 UTC",
   "articles": [
     {
       "source": "Quanta Magazine",
@@ -18,12 +18,6 @@
       "title": "Superfluid helium thin films as quantum field theory simulators for probing information area laws",
       "link": "https://www.nature.com/articles/s41534-026-01367-z",
       "date": "15 Sep 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Criteria for unbiased estimation: applications to noise-agnostic sensing and quantum channel estimation",
-      "link": "https://www.nature.com/articles/s41534-026-01347-3",
-      "date": "14 Sep 2026"
     },
     {
       "source": "Physics Today",
@@ -48,18 +42,6 @@
       "title": "Proton-transfer dictated supramolecular hydrogen bonded architecture in cytosine with substituted carboxylic acid coformers: Experimental and theoretical investigation by density functional approximations, DLPNO-CCSD(T)-F12, and G 0 W 0  calculations",
       "link": "https://pubs.aip.org/aip/jcp/article/165/11/114301/3404514/Proton-transfer-dictated-supramolecular-hydrogen",
       "date": "15 Sep 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Quantum computing's flagship chemistry results don't say which state they found",
-      "link": "https://blog.purestatelabs.com/2026/09/16/quantum-chemistry-results-spin-state/",
-      "date": "17 Sep 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Nvidia Expands Open Source CUDA-Q Platform for Fault-Tolerant Quantum Computing",
-      "link": "https://nvidianews.nvidia.com/news/nvidia-expands-open-source-cuda-q-platform-for-fault-tolerant-quantum-computing",
-      "date": "16 Sep 2026"
     }
   ]
 }
