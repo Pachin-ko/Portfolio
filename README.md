@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **21 September 2026 à 13:28 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **22 September 2026 à 12:13 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -13,15 +13,13 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Nature – Quantum Information
 
-- [Quantum Coulomb drag signatures of Majorana bound states](https://www.nature.com/articles/s41534-026-01307-x) — *15 Sep 2026*
-- [Superfluid helium thin films as quantum field theory simulators for probing information area laws](https://www.nature.com/articles/s41534-026-01367-z) — *15 Sep 2026*
+- [Fragility of Magic State Distillation under Imperfect Measurements](https://www.nature.com/articles/s41534-026-01373-1) — *22 Sep 2026*
+- [Beyond Robertson–Schrödinger: a general uncertainty relation unveiling hidden noncommutative trade-offs](https://www.nature.com/articles/s41534-026-01374-0) — *21 Sep 2026*
 
 ## 📰 Physics Today
 
 - [Revisiting nuclear quantum effects on the mechanism of electrochemical reduction of CO at Cu(111) surface](https://pubs.aip.org/aip/jcp/article/165/11/114703/3404605/Revisiting-nuclear-quantum-effects-on-the) — *16 Sep 2026*
 - [Superradiant quantum phase transition can be easier with disorder](https://pubs.aip.org/aip/jcp/article/165/11/114109/3404592/Superradiant-quantum-phase-transition-can-be) — *16 Sep 2026*
-- [A benchmark dataset for ground-state protonic densities and energies](https://pubs.aip.org/aip/jcp/article/165/11/114302/3404516/A-benchmark-dataset-for-ground-state-protonic) — *15 Sep 2026*
-- [Proton-transfer dictated supramolecular hydrogen bonded architecture in cytosine with substituted carboxylic acid coformers: Experimental and theoretical investigation by density functional approximations, DLPNO-CCSD(T)-F12, and G 0 W 0  calculations](https://pubs.aip.org/aip/jcp/article/165/11/114301/3404514/Proton-transfer-dictated-supramolecular-hydrogen) — *15 Sep 2026*
 
 ---
 

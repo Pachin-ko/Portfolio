@@ -1,5 +1,5 @@
 {
-  "last_updated": "21 September 2026 à 13:28 UTC",
+  "last_updated": "22 September 2026 à 12:13 UTC",
   "articles": [
     {
       "source": "Quanta Magazine",
@@ -9,15 +9,15 @@
     },
     {
       "source": "Nature – Quantum Information",
-      "title": "Quantum Coulomb drag signatures of Majorana bound states",
-      "link": "https://www.nature.com/articles/s41534-026-01307-x",
-      "date": "15 Sep 2026"
+      "title": "Fragility of Magic State Distillation under Imperfect Measurements",
+      "link": "https://www.nature.com/articles/s41534-026-01373-1",
+      "date": "22 Sep 2026"
     },
     {
       "source": "Nature – Quantum Information",
-      "title": "Superfluid helium thin films as quantum field theory simulators for probing information area laws",
-      "link": "https://www.nature.com/articles/s41534-026-01367-z",
-      "date": "15 Sep 2026"
+      "title": "Beyond Robertson–Schrödinger: a general uncertainty relation unveiling hidden noncommutative trade-offs",
+      "link": "https://www.nature.com/articles/s41534-026-01374-0",
+      "date": "21 Sep 2026"
     },
     {
       "source": "Physics Today",
@@ -30,18 +30,6 @@
       "title": "Superradiant quantum phase transition can be easier with disorder",
       "link": "https://pubs.aip.org/aip/jcp/article/165/11/114109/3404592/Superradiant-quantum-phase-transition-can-be",
       "date": "16 Sep 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "A benchmark dataset for ground-state protonic densities and energies",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/11/114302/3404516/A-benchmark-dataset-for-ground-state-protonic",
-      "date": "15 Sep 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Proton-transfer dictated supramolecular hydrogen bonded architecture in cytosine with substituted carboxylic acid coformers: Experimental and theoretical investigation by density functional approximations, DLPNO-CCSD(T)-F12, and G 0 W 0  calculations",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/11/114301/3404514/Proton-transfer-dictated-supramolecular-hydrogen",
-      "date": "15 Sep 2026"
     }
   ]
 }
