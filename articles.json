@@ -1,11 +1,23 @@
 {
-  "last_updated": "22 September 2026 à 12:13 UTC",
+  "last_updated": "23 September 2026 à 12:26 UTC",
   "articles": [
     {
       "source": "Quanta Magazine",
       "title": "Where Does the Quantum World End and Ours Begin?",
       "link": "https://www.quantamagazine.org/where-does-the-quantum-world-end-and-ours-begin-20260917/",
       "date": "17 Sep 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Complex-valued Quantum Neural Networks",
+      "link": "https://www.nature.com/articles/s41534-026-01369-x",
+      "date": "23 Sep 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Publisher Correction: Asynchronous multi-photon interference for quantum networks",
+      "link": "https://www.nature.com/articles/s41534-026-01378-w",
+      "date": "23 Sep 2026"
     },
     {
       "source": "Nature – Quantum Information",
@@ -21,15 +33,45 @@
     },
     {
       "source": "Physics Today",
-      "title": "Revisiting nuclear quantum effects on the mechanism of electrochemical reduction of CO at Cu(111) surface",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/11/114703/3404605/Revisiting-nuclear-quantum-effects-on-the",
-      "date": "16 Sep 2026"
+      "title": "Erratum: “Quantum corrections to the kinetic energy and the  ab initio -based prediction of the thermodynamic properties and vapor-liquid equilibria of hydrogen” [J. Chem. Phys. 162, 144503 (2025)]",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/12/129901/3404995/Erratum-Quantum-corrections-to-the-kinetic-energy",
+      "date": "22 Sep 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Superradiant quantum phase transition can be easier with disorder",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/11/114109/3404592/Superradiant-quantum-phase-transition-can-be",
-      "date": "16 Sep 2026"
+      "title": "Breaking bonds on graphical processing units: Scalable implementations of the density-fitted CR-CC(2,3) and ΛCCSD(T) approaches",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/12/124103/3404994/Breaking-bonds-on-graphical-processing-units",
+      "date": "22 Sep 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Microscopic dissection of chirality-induced spin selectivity in cryptochrome",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/12/125101/3404974/Microscopic-dissection-of-chirality-induced-spin",
+      "date": "22 Sep 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "13 C and  19 F nucleus–electron correlation and self-energies",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/12/124109/3404922/13C-and-19F-nucleus-electron-correlation-and-self",
+      "date": "22 Sep 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Non-adiabatic effects induced by strong light–matter coupling in cavity QED",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/12/124104/3404920/Non-adiabatic-effects-induced-by-strong-light",
+      "date": "22 Sep 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "FCIA's FC-SP-3: A Standard Ready for the Quantum-Computing World",
+      "link": "https://www.storagereview.com/review/fcias-fc-sp-3-a-standard-ready-for-the-quantum-computing-world",
+      "date": "22 Sep 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "Quantum computing's flagship chemistry results don't say which state they found",
+      "link": "https://blog.purestatelabs.com/2026/09/16/quantum-chemistry-results-spin-state/",
+      "date": "17 Sep 2026"
     }
   ]
 }
