@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **23 September 2026 à 12:26 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **24 September 2026 à 12:25 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -9,6 +9,7 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Quanta Magazine
 
+- [Biology Might Not Be Quantum, but Its Math Is Quantumlike](https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/) — *23 Sep 2026*
 - [Where Does the Quantum World End and Ours Begin?](https://www.quantamagazine.org/where-does-the-quantum-world-end-and-ours-begin-20260917/) — *17 Sep 2026*
 
 ## 📰 Nature – Quantum Information
@@ -20,11 +21,11 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Physics Today
 
-- [Erratum: “Quantum corrections to the kinetic energy and the  ab initio -based prediction of the thermodynamic properties and vapor-liquid equilibria of hydrogen” [J. Chem. Phys. 162, 144503 (2025)]](https://pubs.aip.org/aip/jcp/article/165/12/129901/3404995/Erratum-Quantum-corrections-to-the-kinetic-energy) — *22 Sep 2026*
-- [Breaking bonds on graphical processing units: Scalable implementations of the density-fitted CR-CC(2,3) and ΛCCSD(T) approaches](https://pubs.aip.org/aip/jcp/article/165/12/124103/3404994/Breaking-bonds-on-graphical-processing-units) — *22 Sep 2026*
-- [Microscopic dissection of chirality-induced spin selectivity in cryptochrome](https://pubs.aip.org/aip/jcp/article/165/12/125101/3404974/Microscopic-dissection-of-chirality-induced-spin) — *22 Sep 2026*
-- [13 C and  19 F nucleus–electron correlation and self-energies](https://pubs.aip.org/aip/jcp/article/165/12/124109/3404922/13C-and-19F-nucleus-electron-correlation-and-self) — *22 Sep 2026*
-- [Non-adiabatic effects induced by strong light–matter coupling in cavity QED](https://pubs.aip.org/aip/jcp/article/165/12/124104/3404920/Non-adiabatic-effects-induced-by-strong-light) — *22 Sep 2026*
+- [Thermodynamics of tritium](https://pubs.aip.org/aip/jcp/article/165/12/124509/3405127/Thermodynamics-of-tritium) — *23 Sep 2026*
+- [Signatures of incoherent mixing pathways in action-detected spectroscopies](https://pubs.aip.org/aip/jcp/article/165/12/124204/3405122/Signatures-of-incoherent-mixing-pathways-in-action) — *23 Sep 2026*
+- [Kinetic and exchange energy semilocal functionals derived from model potentials by  Q -path integration](https://pubs.aip.org/aip/jcp/article/165/12/124113/3405120/Kinetic-and-exchange-energy-semilocal-functionals) — *23 Sep 2026*
+- [Transferable FB-GNN-MBE framework for potential energy surfaces: Data-adaptive transfer learning in deep learned many-body expansion theory](https://pubs.aip.org/aip/jcp/article/165/12/124116/3405119/Transferable-FB-GNN-MBE-framework-for-potential) — *23 Sep 2026*
+- [Infrared spectroscopy of coronene +  and C 60  +  resolving  13 C isotopologues](https://pubs.aip.org/aip/jcp/article/165/12/124306/3405082/Infrared-spectroscopy-of-coronene-and-C60) — *23 Sep 2026*
 
 ## 📰 Hacker News – Quantum
 

@@ -1,6 +1,12 @@
 {
-  "last_updated": "23 September 2026 à 12:26 UTC",
+  "last_updated": "24 September 2026 à 12:25 UTC",
   "articles": [
+    {
+      "source": "Quanta Magazine",
+      "title": "Biology Might Not Be Quantum, but Its Math Is Quantumlike",
+      "link": "https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/",
+      "date": "23 Sep 2026"
+    },
     {
       "source": "Quanta Magazine",
       "title": "Where Does the Quantum World End and Ours Begin?",
@@ -33,33 +39,33 @@
     },
     {
       "source": "Physics Today",
-      "title": "Erratum: “Quantum corrections to the kinetic energy and the  ab initio -based prediction of the thermodynamic properties and vapor-liquid equilibria of hydrogen” [J. Chem. Phys. 162, 144503 (2025)]",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/12/129901/3404995/Erratum-Quantum-corrections-to-the-kinetic-energy",
-      "date": "22 Sep 2026"
+      "title": "Thermodynamics of tritium",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/12/124509/3405127/Thermodynamics-of-tritium",
+      "date": "23 Sep 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Breaking bonds on graphical processing units: Scalable implementations of the density-fitted CR-CC(2,3) and ΛCCSD(T) approaches",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/12/124103/3404994/Breaking-bonds-on-graphical-processing-units",
-      "date": "22 Sep 2026"
+      "title": "Signatures of incoherent mixing pathways in action-detected spectroscopies",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/12/124204/3405122/Signatures-of-incoherent-mixing-pathways-in-action",
+      "date": "23 Sep 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Microscopic dissection of chirality-induced spin selectivity in cryptochrome",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/12/125101/3404974/Microscopic-dissection-of-chirality-induced-spin",
-      "date": "22 Sep 2026"
+      "title": "Kinetic and exchange energy semilocal functionals derived from model potentials by  Q -path integration",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/12/124113/3405120/Kinetic-and-exchange-energy-semilocal-functionals",
+      "date": "23 Sep 2026"
     },
     {
       "source": "Physics Today",
-      "title": "13 C and  19 F nucleus–electron correlation and self-energies",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/12/124109/3404922/13C-and-19F-nucleus-electron-correlation-and-self",
-      "date": "22 Sep 2026"
+      "title": "Transferable FB-GNN-MBE framework for potential energy surfaces: Data-adaptive transfer learning in deep learned many-body expansion theory",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/12/124116/3405119/Transferable-FB-GNN-MBE-framework-for-potential",
+      "date": "23 Sep 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Non-adiabatic effects induced by strong light–matter coupling in cavity QED",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/12/124104/3404920/Non-adiabatic-effects-induced-by-strong-light",
-      "date": "22 Sep 2026"
+      "title": "Infrared spectroscopy of coronene +  and C 60  +  resolving  13 C isotopologues",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/12/124306/3405082/Infrared-spectroscopy-of-coronene-and-C60",
+      "date": "23 Sep 2026"
     },
     {
       "source": "Hacker News – Quantum",
