@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **24 September 2026 à 12:25 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **25 September 2026 à 12:25 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -10,14 +10,14 @@ agrégés depuis des sources académiques, tech et communautaires.
 ## 📰 Quanta Magazine
 
 - [Biology Might Not Be Quantum, but Its Math Is Quantumlike](https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/) — *23 Sep 2026*
-- [Where Does the Quantum World End and Ours Begin?](https://www.quantamagazine.org/where-does-the-quantum-world-end-and-ours-begin-20260917/) — *17 Sep 2026*
 
 ## 📰 Nature – Quantum Information
 
+- [Simulating and sampling from quantum circuits with 2D tensor networks](https://www.nature.com/articles/s41534-026-01372-2) — *24 Sep 2026*
+- [Fully modulator-free architecture for quantum key distribution in scalable quantum networks](https://www.nature.com/articles/s41534-026-01377-x) — *24 Sep 2026*
 - [Complex-valued Quantum Neural Networks](https://www.nature.com/articles/s41534-026-01369-x) — *23 Sep 2026*
 - [Publisher Correction: Asynchronous multi-photon interference for quantum networks](https://www.nature.com/articles/s41534-026-01378-w) — *23 Sep 2026*
 - [Fragility of Magic State Distillation under Imperfect Measurements](https://www.nature.com/articles/s41534-026-01373-1) — *22 Sep 2026*
-- [Beyond Robertson–Schrödinger: a general uncertainty relation unveiling hidden noncommutative trade-offs](https://www.nature.com/articles/s41534-026-01374-0) — *21 Sep 2026*
 
 ## 📰 Physics Today
 
@@ -30,7 +30,6 @@ agrégés depuis des sources académiques, tech et communautaires.
 ## 📰 Hacker News – Quantum
 
 - [FCIA's FC-SP-3: A Standard Ready for the Quantum-Computing World](https://www.storagereview.com/review/fcias-fc-sp-3-a-standard-ready-for-the-quantum-computing-world) — *22 Sep 2026*
-- [Quantum computing's flagship chemistry results don't say which state they found](https://blog.purestatelabs.com/2026/09/16/quantum-chemistry-results-spin-state/) — *17 Sep 2026*
 
 ---
 

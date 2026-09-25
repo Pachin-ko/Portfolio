@@ -1,5 +1,5 @@
 {
-  "last_updated": "24 September 2026 à 12:25 UTC",
+  "last_updated": "25 September 2026 à 12:25 UTC",
   "articles": [
     {
       "source": "Quanta Magazine",
@@ -8,10 +8,16 @@
       "date": "23 Sep 2026"
     },
     {
-      "source": "Quanta Magazine",
-      "title": "Where Does the Quantum World End and Ours Begin?",
-      "link": "https://www.quantamagazine.org/where-does-the-quantum-world-end-and-ours-begin-20260917/",
-      "date": "17 Sep 2026"
+      "source": "Nature – Quantum Information",
+      "title": "Simulating and sampling from quantum circuits with 2D tensor networks",
+      "link": "https://www.nature.com/articles/s41534-026-01372-2",
+      "date": "24 Sep 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Fully modulator-free architecture for quantum key distribution in scalable quantum networks",
+      "link": "https://www.nature.com/articles/s41534-026-01377-x",
+      "date": "24 Sep 2026"
     },
     {
       "source": "Nature – Quantum Information",
@@ -30,12 +36,6 @@
       "title": "Fragility of Magic State Distillation under Imperfect Measurements",
       "link": "https://www.nature.com/articles/s41534-026-01373-1",
       "date": "22 Sep 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Beyond Robertson–Schrödinger: a general uncertainty relation unveiling hidden noncommutative trade-offs",
-      "link": "https://www.nature.com/articles/s41534-026-01374-0",
-      "date": "21 Sep 2026"
     },
     {
       "source": "Physics Today",
@@ -72,12 +72,6 @@
       "title": "FCIA's FC-SP-3: A Standard Ready for the Quantum-Computing World",
       "link": "https://www.storagereview.com/review/fcias-fc-sp-3-a-standard-ready-for-the-quantum-computing-world",
       "date": "22 Sep 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Quantum computing's flagship chemistry results don't say which state they found",
-      "link": "https://blog.purestatelabs.com/2026/09/16/quantum-chemistry-results-spin-state/",
-      "date": "17 Sep 2026"
     }
   ]
 }
