@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **25 September 2026 à 12:25 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **26 September 2026 à 11:58 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -21,11 +21,11 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Physics Today
 
+- [Rotational spectroscopy on building blocks of steroid hormones: Decahydro-2-naphthol and 5,6,7,8-tetrahydro-2-naphthol](https://pubs.aip.org/aip/jcp/article/165/12/124311/3405271/Rotational-spectroscopy-on-building-blocks-of) — *25 Sep 2026*
+- [More is not always better: Dissociative photoionization limits the EUV absorbing photoacid generator pentafluorophenyl triflate in photolithography](https://pubs.aip.org/aip/jcp/article/165/12/124312/3405268/More-is-not-always-better-Dissociative) — *25 Sep 2026*
 - [Thermodynamics of tritium](https://pubs.aip.org/aip/jcp/article/165/12/124509/3405127/Thermodynamics-of-tritium) — *23 Sep 2026*
 - [Signatures of incoherent mixing pathways in action-detected spectroscopies](https://pubs.aip.org/aip/jcp/article/165/12/124204/3405122/Signatures-of-incoherent-mixing-pathways-in-action) — *23 Sep 2026*
 - [Kinetic and exchange energy semilocal functionals derived from model potentials by  Q -path integration](https://pubs.aip.org/aip/jcp/article/165/12/124113/3405120/Kinetic-and-exchange-energy-semilocal-functionals) — *23 Sep 2026*
-- [Transferable FB-GNN-MBE framework for potential energy surfaces: Data-adaptive transfer learning in deep learned many-body expansion theory](https://pubs.aip.org/aip/jcp/article/165/12/124116/3405119/Transferable-FB-GNN-MBE-framework-for-potential) — *23 Sep 2026*
-- [Infrared spectroscopy of coronene +  and C 60  +  resolving  13 C isotopologues](https://pubs.aip.org/aip/jcp/article/165/12/124306/3405082/Infrared-spectroscopy-of-coronene-and-C60) — *23 Sep 2026*
 
 ## 📰 Hacker News – Quantum
 
