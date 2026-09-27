@@ -1,11 +1,23 @@
 {
-  "last_updated": "26 September 2026 à 11:58 UTC",
+  "last_updated": "27 September 2026 à 12:35 UTC",
   "articles": [
     {
       "source": "Quanta Magazine",
       "title": "Biology Might Not Be Quantum, but Its Math Is Quantumlike",
       "link": "https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/",
       "date": "23 Sep 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "The security of practical post-selection in Gaussian-modulated continuous-variable quantum key distribution",
+      "link": "https://www.nature.com/articles/s41534-026-01366-0",
+      "date": "26 Sep 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Decoherence-protected entangling gates in a silicon carbide quantum node",
+      "link": "https://www.nature.com/articles/s41534-026-01381-1",
+      "date": "26 Sep 2026"
     },
     {
       "source": "Nature – Quantum Information",
@@ -24,18 +36,6 @@
       "title": "Complex-valued Quantum Neural Networks",
       "link": "https://www.nature.com/articles/s41534-026-01369-x",
       "date": "23 Sep 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Publisher Correction: Asynchronous multi-photon interference for quantum networks",
-      "link": "https://www.nature.com/articles/s41534-026-01378-w",
-      "date": "23 Sep 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Fragility of Magic State Distillation under Imperfect Measurements",
-      "link": "https://www.nature.com/articles/s41534-026-01373-1",
-      "date": "22 Sep 2026"
     },
     {
       "source": "Physics Today",
@@ -66,12 +66,6 @@
       "title": "Kinetic and exchange energy semilocal functionals derived from model potentials by  Q -path integration",
       "link": "https://pubs.aip.org/aip/jcp/article/165/12/124113/3405120/Kinetic-and-exchange-energy-semilocal-functionals",
       "date": "23 Sep 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "FCIA's FC-SP-3: A Standard Ready for the Quantum-Computing World",
-      "link": "https://www.storagereview.com/review/fcias-fc-sp-3-a-standard-ready-for-the-quantum-computing-world",
-      "date": "22 Sep 2026"
     }
   ]
 }

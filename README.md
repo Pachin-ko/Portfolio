@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **26 September 2026 à 11:58 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **27 September 2026 à 12:35 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -13,11 +13,11 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Nature – Quantum Information
 
+- [The security of practical post-selection in Gaussian-modulated continuous-variable quantum key distribution](https://www.nature.com/articles/s41534-026-01366-0) — *26 Sep 2026*
+- [Decoherence-protected entangling gates in a silicon carbide quantum node](https://www.nature.com/articles/s41534-026-01381-1) — *26 Sep 2026*
 - [Simulating and sampling from quantum circuits with 2D tensor networks](https://www.nature.com/articles/s41534-026-01372-2) — *24 Sep 2026*
 - [Fully modulator-free architecture for quantum key distribution in scalable quantum networks](https://www.nature.com/articles/s41534-026-01377-x) — *24 Sep 2026*
 - [Complex-valued Quantum Neural Networks](https://www.nature.com/articles/s41534-026-01369-x) — *23 Sep 2026*
-- [Publisher Correction: Asynchronous multi-photon interference for quantum networks](https://www.nature.com/articles/s41534-026-01378-w) — *23 Sep 2026*
-- [Fragility of Magic State Distillation under Imperfect Measurements](https://www.nature.com/articles/s41534-026-01373-1) — *22 Sep 2026*
 
 ## 📰 Physics Today
 
@@ -26,10 +26,6 @@ agrégés depuis des sources académiques, tech et communautaires.
 - [Thermodynamics of tritium](https://pubs.aip.org/aip/jcp/article/165/12/124509/3405127/Thermodynamics-of-tritium) — *23 Sep 2026*
 - [Signatures of incoherent mixing pathways in action-detected spectroscopies](https://pubs.aip.org/aip/jcp/article/165/12/124204/3405122/Signatures-of-incoherent-mixing-pathways-in-action) — *23 Sep 2026*
 - [Kinetic and exchange energy semilocal functionals derived from model potentials by  Q -path integration](https://pubs.aip.org/aip/jcp/article/165/12/124113/3405120/Kinetic-and-exchange-energy-semilocal-functionals) — *23 Sep 2026*
-
-## 📰 Hacker News – Quantum
-
-- [FCIA's FC-SP-3: A Standard Ready for the Quantum-Computing World](https://www.storagereview.com/review/fcias-fc-sp-3-a-standard-ready-for-the-quantum-computing-world) — *22 Sep 2026*
 
 ---
 
