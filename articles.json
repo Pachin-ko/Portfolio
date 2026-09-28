@@ -1,11 +1,23 @@
 {
-  "last_updated": "27 September 2026 à 12:35 UTC",
+  "last_updated": "28 September 2026 à 14:43 UTC",
   "articles": [
     {
       "source": "Quanta Magazine",
       "title": "Biology Might Not Be Quantum, but Its Math Is Quantumlike",
       "link": "https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/",
       "date": "23 Sep 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Anomalous weak values in a generalized Mach–Zehnder interferometer extracted directly from intensity measurements",
+      "link": "https://www.nature.com/articles/s41534-026-01376-y",
+      "date": "28 Sep 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Ten-second electron-spin coherence in isotopically engineered diamond",
+      "link": "https://www.nature.com/articles/s41534-026-01368-y",
+      "date": "28 Sep 2026"
     },
     {
       "source": "Nature – Quantum Information",
@@ -24,18 +36,6 @@
       "title": "Simulating and sampling from quantum circuits with 2D tensor networks",
       "link": "https://www.nature.com/articles/s41534-026-01372-2",
       "date": "24 Sep 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Fully modulator-free architecture for quantum key distribution in scalable quantum networks",
-      "link": "https://www.nature.com/articles/s41534-026-01377-x",
-      "date": "24 Sep 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Complex-valued Quantum Neural Networks",
-      "link": "https://www.nature.com/articles/s41534-026-01369-x",
-      "date": "23 Sep 2026"
     },
     {
       "source": "Physics Today",

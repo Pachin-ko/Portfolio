@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **27 September 2026 à 12:35 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **28 September 2026 à 14:43 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -13,11 +13,11 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Nature – Quantum Information
 
+- [Anomalous weak values in a generalized Mach–Zehnder interferometer extracted directly from intensity measurements](https://www.nature.com/articles/s41534-026-01376-y) — *28 Sep 2026*
+- [Ten-second electron-spin coherence in isotopically engineered diamond](https://www.nature.com/articles/s41534-026-01368-y) — *28 Sep 2026*
 - [The security of practical post-selection in Gaussian-modulated continuous-variable quantum key distribution](https://www.nature.com/articles/s41534-026-01366-0) — *26 Sep 2026*
 - [Decoherence-protected entangling gates in a silicon carbide quantum node](https://www.nature.com/articles/s41534-026-01381-1) — *26 Sep 2026*
 - [Simulating and sampling from quantum circuits with 2D tensor networks](https://www.nature.com/articles/s41534-026-01372-2) — *24 Sep 2026*
-- [Fully modulator-free architecture for quantum key distribution in scalable quantum networks](https://www.nature.com/articles/s41534-026-01377-x) — *24 Sep 2026*
-- [Complex-valued Quantum Neural Networks](https://www.nature.com/articles/s41534-026-01369-x) — *23 Sep 2026*
 
 ## 📰 Physics Today
 
