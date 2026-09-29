@@ -1,5 +1,5 @@
 {
-  "last_updated": "28 September 2026 à 14:43 UTC",
+  "last_updated": "29 September 2026 à 13:33 UTC",
   "articles": [
     {
       "source": "Quanta Magazine",
@@ -39,33 +39,33 @@
     },
     {
       "source": "Physics Today",
+      "title": "Entangled photon pair excitation and time-frequency-filtered multidimensional photon correlation spectroscopy as a probe for dissipative exciton kinetics",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/12/124314/3405460/Entangled-photon-pair-excitation-and-time",
+      "date": "28 Sep 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Simulation of two-dimensional electronic and double-quantum coherence spectra of molecular polaritons",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/12/124121/3405343/Simulation-of-two-dimensional-electronic-and",
+      "date": "28 Sep 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Reactivity of ambident nucleophiles in magnetic fields: A combined conceptual DFT and current-DFT study",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/12/124315/3405327/Reactivity-of-ambident-nucleophiles-in-magnetic",
+      "date": "28 Sep 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "New features of BDF since 2020",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/12/122501/3405326/New-features-of-BDF-since-2020",
+      "date": "28 Sep 2026"
+    },
+    {
+      "source": "Physics Today",
       "title": "Rotational spectroscopy on building blocks of steroid hormones: Decahydro-2-naphthol and 5,6,7,8-tetrahydro-2-naphthol",
       "link": "https://pubs.aip.org/aip/jcp/article/165/12/124311/3405271/Rotational-spectroscopy-on-building-blocks-of",
       "date": "25 Sep 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "More is not always better: Dissociative photoionization limits the EUV absorbing photoacid generator pentafluorophenyl triflate in photolithography",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/12/124312/3405268/More-is-not-always-better-Dissociative",
-      "date": "25 Sep 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Thermodynamics of tritium",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/12/124509/3405127/Thermodynamics-of-tritium",
-      "date": "23 Sep 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Signatures of incoherent mixing pathways in action-detected spectroscopies",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/12/124204/3405122/Signatures-of-incoherent-mixing-pathways-in-action",
-      "date": "23 Sep 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Kinetic and exchange energy semilocal functionals derived from model potentials by  Q -path integration",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/12/124113/3405120/Kinetic-and-exchange-energy-semilocal-functionals",
-      "date": "23 Sep 2026"
     }
   ]
 }

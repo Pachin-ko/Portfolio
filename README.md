@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **28 September 2026 à 14:43 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **29 September 2026 à 13:33 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -21,11 +21,11 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Physics Today
 
+- [Entangled photon pair excitation and time-frequency-filtered multidimensional photon correlation spectroscopy as a probe for dissipative exciton kinetics](https://pubs.aip.org/aip/jcp/article/165/12/124314/3405460/Entangled-photon-pair-excitation-and-time) — *28 Sep 2026*
+- [Simulation of two-dimensional electronic and double-quantum coherence spectra of molecular polaritons](https://pubs.aip.org/aip/jcp/article/165/12/124121/3405343/Simulation-of-two-dimensional-electronic-and) — *28 Sep 2026*
+- [Reactivity of ambident nucleophiles in magnetic fields: A combined conceptual DFT and current-DFT study](https://pubs.aip.org/aip/jcp/article/165/12/124315/3405327/Reactivity-of-ambident-nucleophiles-in-magnetic) — *28 Sep 2026*
+- [New features of BDF since 2020](https://pubs.aip.org/aip/jcp/article/165/12/122501/3405326/New-features-of-BDF-since-2020) — *28 Sep 2026*
 - [Rotational spectroscopy on building blocks of steroid hormones: Decahydro-2-naphthol and 5,6,7,8-tetrahydro-2-naphthol](https://pubs.aip.org/aip/jcp/article/165/12/124311/3405271/Rotational-spectroscopy-on-building-blocks-of) — *25 Sep 2026*
-- [More is not always better: Dissociative photoionization limits the EUV absorbing photoacid generator pentafluorophenyl triflate in photolithography](https://pubs.aip.org/aip/jcp/article/165/12/124312/3405268/More-is-not-always-better-Dissociative) — *25 Sep 2026*
-- [Thermodynamics of tritium](https://pubs.aip.org/aip/jcp/article/165/12/124509/3405127/Thermodynamics-of-tritium) — *23 Sep 2026*
-- [Signatures of incoherent mixing pathways in action-detected spectroscopies](https://pubs.aip.org/aip/jcp/article/165/12/124204/3405122/Signatures-of-incoherent-mixing-pathways-in-action) — *23 Sep 2026*
-- [Kinetic and exchange energy semilocal functionals derived from model potentials by  Q -path integration](https://pubs.aip.org/aip/jcp/article/165/12/124113/3405120/Kinetic-and-exchange-energy-semilocal-functionals) — *23 Sep 2026*
 
 ---
 
