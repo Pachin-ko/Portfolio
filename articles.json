@@ -1,12 +1,6 @@
 {
-  "last_updated": "30 September 2026 à 13:11 UTC",
+  "last_updated": "01 October 2026 à 14:02 UTC",
   "articles": [
-    {
-      "source": "Quanta Magazine",
-      "title": "Biology Might Not Be Quantum, but Its Math Is Quantumlike",
-      "link": "https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/",
-      "date": "23 Sep 2026"
-    },
     {
       "source": "Nature – Quantum Information",
       "title": "Anomalous weak values in a generalized Mach–Zehnder interferometer extracted directly from intensity measurements",
@@ -30,12 +24,6 @@
       "title": "Decoherence-protected entangling gates in a silicon carbide quantum node",
       "link": "https://www.nature.com/articles/s41534-026-01381-1",
       "date": "26 Sep 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Simulating and sampling from quantum circuits with 2D tensor networks",
-      "link": "https://www.nature.com/articles/s41534-026-01372-2",
-      "date": "24 Sep 2026"
     },
     {
       "source": "Physics Today",

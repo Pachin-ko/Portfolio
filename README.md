@@ -1,15 +1,11 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **30 September 2026 à 13:11 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **01 October 2026 à 14:02 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
 
 ---
-
-## 📰 Quanta Magazine
-
-- [Biology Might Not Be Quantum, but Its Math Is Quantumlike](https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/) — *23 Sep 2026*
 
 ## 📰 Nature – Quantum Information
 
@@ -17,7 +13,6 @@ agrégés depuis des sources académiques, tech et communautaires.
 - [Ten-second electron-spin coherence in isotopically engineered diamond](https://www.nature.com/articles/s41534-026-01368-y) — *28 Sep 2026*
 - [The security of practical post-selection in Gaussian-modulated continuous-variable quantum key distribution](https://www.nature.com/articles/s41534-026-01366-0) — *26 Sep 2026*
 - [Decoherence-protected entangling gates in a silicon carbide quantum node](https://www.nature.com/articles/s41534-026-01381-1) — *26 Sep 2026*
-- [Simulating and sampling from quantum circuits with 2D tensor networks](https://www.nature.com/articles/s41534-026-01372-2) — *24 Sep 2026*
 
 ## 📰 Physics Today
 
