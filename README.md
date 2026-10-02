@@ -1,26 +1,24 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **01 October 2026 à 14:02 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **02 October 2026 à 13:22 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
 
 ---
 
-## 📰 Nature – Quantum Information
-
-- [Anomalous weak values in a generalized Mach–Zehnder interferometer extracted directly from intensity measurements](https://www.nature.com/articles/s41534-026-01376-y) — *28 Sep 2026*
-- [Ten-second electron-spin coherence in isotopically engineered diamond](https://www.nature.com/articles/s41534-026-01368-y) — *28 Sep 2026*
-- [The security of practical post-selection in Gaussian-modulated continuous-variable quantum key distribution](https://www.nature.com/articles/s41534-026-01366-0) — *26 Sep 2026*
-- [Decoherence-protected entangling gates in a silicon carbide quantum node](https://www.nature.com/articles/s41534-026-01381-1) — *26 Sep 2026*
-
 ## 📰 Physics Today
 
-- [Entangled photon pair excitation and time-frequency-filtered multidimensional photon correlation spectroscopy as a probe for dissipative exciton kinetics](https://pubs.aip.org/aip/jcp/article/165/12/124314/3405460/Entangled-photon-pair-excitation-and-time) — *28 Sep 2026*
-- [Simulation of two-dimensional electronic and double-quantum coherence spectra of molecular polaritons](https://pubs.aip.org/aip/jcp/article/165/12/124121/3405343/Simulation-of-two-dimensional-electronic-and) — *28 Sep 2026*
-- [Reactivity of ambident nucleophiles in magnetic fields: A combined conceptual DFT and current-DFT study](https://pubs.aip.org/aip/jcp/article/165/12/124315/3405327/Reactivity-of-ambident-nucleophiles-in-magnetic) — *28 Sep 2026*
-- [New features of BDF since 2020](https://pubs.aip.org/aip/jcp/article/165/12/122501/3405326/New-features-of-BDF-since-2020) — *28 Sep 2026*
-- [Rotational spectroscopy on building blocks of steroid hormones: Decahydro-2-naphthol and 5,6,7,8-tetrahydro-2-naphthol](https://pubs.aip.org/aip/jcp/article/165/12/124311/3405271/Rotational-spectroscopy-on-building-blocks-of) — *25 Sep 2026*
+- [Variance reduction for forces and pressure in variational Monte Carlo](https://pubs.aip.org/aip/jcp/article/165/13/134106/3405684/Variance-reduction-for-forces-and-pressure-in) — *01 Oct 2026*
+- [Effect of crystal size on triplet pair dynamics in singlet fission of rubrene](https://pubs.aip.org/aip/jcp/article/165/13/134702/3405674/Effect-of-crystal-size-on-triplet-pair-dynamics-in) — *01 Oct 2026*
+- [Economized path integrals](https://pubs.aip.org/aip/jcp/article/165/13/134104/3405671/Economized-path-integrals) — *01 Oct 2026*
+- [Kinetically constrained ring-polymer molecular dynamics extended to all regimes of electronic coupling](https://pubs.aip.org/aip/jcp/article/165/13/134102/3405654/Kinetically-constrained-ring-polymer-molecular) — *01 Oct 2026*
+- [Detection defines dephasing in two-dimensional electronic spectroscopy of materials: Coherent field emission vs incoherent population observables](https://pubs.aip.org/aip/jcp/article/165/13/134202/3405644/Detection-defines-dephasing-in-two-dimensional) — *01 Oct 2026*
+
+## 📰 Hacker News – Quantum
+
+- [DOE releases national quantum computing roadmap](https://news.fnal.gov/2026/09/doe-releases-national-quantum-computing-roadmap-following-field-wide-effort-led-by-scac-subcommittee/) — *27 Sep 2026*
+- [Quantum computing's "dark horse" just proved it can go universal](https://www.sciencedaily.com/releases/2026/09/260924020403.htm) — *27 Sep 2026*
 
 ---
 
