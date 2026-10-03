@@ -1,6 +1,42 @@
 {
-  "last_updated": "02 October 2026 à 13:22 UTC",
+  "last_updated": "03 October 2026 à 12:08 UTC",
   "articles": [
+    {
+      "source": "Nature – Quantum Information",
+      "title": "The equivalence of quantum deletion and insertion errors on permutation-invariant codes",
+      "link": "https://www.nature.com/articles/s41534-026-01371-3",
+      "date": "03 Oct 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Unitary fault-tolerant encoding of Pauli states in surface codes",
+      "link": "https://www.nature.com/articles/s41534-026-01362-4",
+      "date": "01 Oct 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Anomalous weak values in a generalized Mach–Zehnder interferometer extracted directly from intensity measurements",
+      "link": "https://www.nature.com/articles/s41534-026-01376-y",
+      "date": "28 Sep 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Ten-second electron-spin coherence in isotopically engineered diamond",
+      "link": "https://www.nature.com/articles/s41534-026-01368-y",
+      "date": "28 Sep 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Time-dependent quantum dynamics of NO(X) + Ar: Rotational excitation pathways and comparison with mixed quantum/classical theory",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/13/134310/3405839/Time-dependent-quantum-dynamics-of-NO-X-Ar",
+      "date": "02 Oct 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "A QM/MM calculation to identify a low frequency mode that causes anharmonic vibrational coupling in green fluorescent protein",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/13/131102/3405796/A-QM-MM-calculation-to-identify-a-low-frequency",
+      "date": "02 Oct 2026"
+    },
     {
       "source": "Physics Today",
       "title": "Variance reduction for forces and pressure in variational Monte Carlo",
@@ -18,30 +54,6 @@
       "title": "Economized path integrals",
       "link": "https://pubs.aip.org/aip/jcp/article/165/13/134104/3405671/Economized-path-integrals",
       "date": "01 Oct 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Kinetically constrained ring-polymer molecular dynamics extended to all regimes of electronic coupling",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/13/134102/3405654/Kinetically-constrained-ring-polymer-molecular",
-      "date": "01 Oct 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Detection defines dephasing in two-dimensional electronic spectroscopy of materials: Coherent field emission vs incoherent population observables",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/13/134202/3405644/Detection-defines-dephasing-in-two-dimensional",
-      "date": "01 Oct 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "DOE releases national quantum computing roadmap",
-      "link": "https://news.fnal.gov/2026/09/doe-releases-national-quantum-computing-roadmap-following-field-wide-effort-led-by-scac-subcommittee/",
-      "date": "27 Sep 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Quantum computing's \"dark horse\" just proved it can go universal",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260924020403.htm",
-      "date": "27 Sep 2026"
     }
   ]
 }
