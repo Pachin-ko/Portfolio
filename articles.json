@@ -1,5 +1,5 @@
 {
-  "last_updated": "03 October 2026 à 12:08 UTC",
+  "last_updated": "04 October 2026 à 12:57 UTC",
   "articles": [
     {
       "source": "Nature – Quantum Information",
@@ -54,6 +54,18 @@
       "title": "Economized path integrals",
       "link": "https://pubs.aip.org/aip/jcp/article/165/13/134104/3405671/Economized-path-integrals",
       "date": "01 Oct 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "DOE releases national quantum computing roadmap",
+      "link": "https://news.fnal.gov/2026/09/doe-releases-national-quantum-computing-roadmap-following-field-wide-effort-led-by-scac-subcommittee/",
+      "date": "27 Sep 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "Quantum computing's \"dark horse\" just proved it can go universal",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260924020403.htm",
+      "date": "27 Sep 2026"
     }
   ]
 }
