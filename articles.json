@@ -1,5 +1,5 @@
 {
-  "last_updated": "04 October 2026 à 12:57 UTC",
+  "last_updated": "05 October 2026 à 15:24 UTC",
   "articles": [
     {
       "source": "Nature – Quantum Information",
@@ -12,18 +12,6 @@
       "title": "Unitary fault-tolerant encoding of Pauli states in surface codes",
       "link": "https://www.nature.com/articles/s41534-026-01362-4",
       "date": "01 Oct 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Anomalous weak values in a generalized Mach–Zehnder interferometer extracted directly from intensity measurements",
-      "link": "https://www.nature.com/articles/s41534-026-01376-y",
-      "date": "28 Sep 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Ten-second electron-spin coherence in isotopically engineered diamond",
-      "link": "https://www.nature.com/articles/s41534-026-01368-y",
-      "date": "28 Sep 2026"
     },
     {
       "source": "Physics Today",
@@ -54,18 +42,6 @@
       "title": "Economized path integrals",
       "link": "https://pubs.aip.org/aip/jcp/article/165/13/134104/3405671/Economized-path-integrals",
       "date": "01 Oct 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "DOE releases national quantum computing roadmap",
-      "link": "https://news.fnal.gov/2026/09/doe-releases-national-quantum-computing-roadmap-following-field-wide-effort-led-by-scac-subcommittee/",
-      "date": "27 Sep 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Quantum computing's \"dark horse\" just proved it can go universal",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260924020403.htm",
-      "date": "27 Sep 2026"
     }
   ]
 }
