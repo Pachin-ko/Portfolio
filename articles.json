@@ -1,6 +1,36 @@
 {
-  "last_updated": "06 October 2026 à 13:47 UTC",
+  "last_updated": "07 October 2026 à 14:03 UTC",
   "articles": [
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Breaking Rayleigh’s curse: broadband frequency super-resolution via a quantum harmonic oscillator",
+      "link": "https://www.nature.com/articles/s41534-026-01388-8",
+      "date": "06 Oct 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "The equivalence of quantum deletion and insertion errors on permutation-invariant codes",
+      "link": "https://www.nature.com/articles/s41534-026-01371-3",
+      "date": "03 Oct 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Unitary fault-tolerant encoding of Pauli states in surface codes",
+      "link": "https://www.nature.com/articles/s41534-026-01362-4",
+      "date": "01 Oct 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Thawed Gaussian Ehrenfest dynamics",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/13/134119/3406100/Thawed-Gaussian-Ehrenfest-dynamics",
+      "date": "06 Oct 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Adsorption energies and decomposition barrier heights for ethylene carbonate on the surface of lithium from cluster-based quantum chemistry",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/13/134705/3406095/Adsorption-energies-and-decomposition-barrier",
+      "date": "06 Oct 2026"
+    },
     {
       "source": "Physics Today",
       "title": "Molecular dynamics simulation and QM/MM study of IscB-ωRNA complex",
@@ -20,16 +50,10 @@
       "date": "02 Oct 2026"
     },
     {
-      "source": "Physics Today",
-      "title": "Variance reduction for forces and pressure in variational Monte Carlo",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/13/134106/3405684/Variance-reduction-for-forces-and-pressure-in",
-      "date": "01 Oct 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Effect of crystal size on triplet pair dynamics in singlet fission of rubrene",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/13/134702/3405674/Effect-of-crystal-size-on-triplet-pair-dynamics-in",
-      "date": "01 Oct 2026"
+      "source": "Hacker News – Quantum",
+      "title": "Show HN: Quantum computing experiments with honest classical baselines",
+      "link": "https://github.com/p10node/qcpa",
+      "date": "06 Oct 2026"
     }
   ]
 }
