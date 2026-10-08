@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **07 October 2026 à 14:03 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **08 October 2026 à 14:12 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -9,9 +9,10 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Nature – Quantum Information
 
+- [High-order Magnus expansion for Hamiltonian simulation](https://www.nature.com/articles/s41534-026-01385-x) — *07 Oct 2026*
+- [Demonstration of subspace-search variational quantum eigensolver using photonic orbital angular momentum qudits](https://www.nature.com/articles/s41534-026-01380-2) — *07 Oct 2026*
 - [Breaking Rayleigh’s curse: broadband frequency super-resolution via a quantum harmonic oscillator](https://www.nature.com/articles/s41534-026-01388-8) — *06 Oct 2026*
 - [The equivalence of quantum deletion and insertion errors on permutation-invariant codes](https://www.nature.com/articles/s41534-026-01371-3) — *03 Oct 2026*
-- [Unitary fault-tolerant encoding of Pauli states in surface codes](https://www.nature.com/articles/s41534-026-01362-4) — *01 Oct 2026*
 
 ## 📰 Physics Today
 
