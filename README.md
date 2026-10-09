@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **08 October 2026 à 14:12 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **09 October 2026 à 13:59 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -9,21 +9,19 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Nature – Quantum Information
 
-- [High-order Magnus expansion for Hamiltonian simulation](https://www.nature.com/articles/s41534-026-01385-x) — *07 Oct 2026*
 - [Demonstration of subspace-search variational quantum eigensolver using photonic orbital angular momentum qudits](https://www.nature.com/articles/s41534-026-01380-2) — *07 Oct 2026*
+- [High-order Magnus expansion for Hamiltonian simulation](https://www.nature.com/articles/s41534-026-01385-x) — *07 Oct 2026*
 - [Breaking Rayleigh’s curse: broadband frequency super-resolution via a quantum harmonic oscillator](https://www.nature.com/articles/s41534-026-01388-8) — *06 Oct 2026*
 - [The equivalence of quantum deletion and insertion errors on permutation-invariant codes](https://www.nature.com/articles/s41534-026-01371-3) — *03 Oct 2026*
 
 ## 📰 Physics Today
 
-- [Thawed Gaussian Ehrenfest dynamics](https://pubs.aip.org/aip/jcp/article/165/13/134119/3406100/Thawed-Gaussian-Ehrenfest-dynamics) — *06 Oct 2026*
-- [Adsorption energies and decomposition barrier heights for ethylene carbonate on the surface of lithium from cluster-based quantum chemistry](https://pubs.aip.org/aip/jcp/article/165/13/134705/3406095/Adsorption-energies-and-decomposition-barrier) — *06 Oct 2026*
-- [Molecular dynamics simulation and QM/MM study of IscB-ωRNA complex](https://pubs.aip.org/aip/jcp/article/165/13/135103/3405904/Molecular-dynamics-simulation-and-QM-MM-study-of) — *05 Oct 2026*
-- [Time-dependent quantum dynamics of NO(X) + Ar: Rotational excitation pathways and comparison with mixed quantum/classical theory](https://pubs.aip.org/aip/jcp/article/165/13/134310/3405839/Time-dependent-quantum-dynamics-of-NO-X-Ar) — *02 Oct 2026*
-- [A QM/MM calculation to identify a low frequency mode that causes anharmonic vibrational coupling in green fluorescent protein](https://pubs.aip.org/aip/jcp/article/165/13/131102/3405796/A-QM-MM-calculation-to-identify-a-low-frequency) — *02 Oct 2026*
+- [Vibrational strong coupling influences product selectivity in a model for post-transition-state bifurcation reactions](https://pubs.aip.org/aip/jcp/article/165/14/144301/3406200/Vibrational-strong-coupling-influences-product) — *08 Oct 2026*
+- [The WEST code for large-scale excited-state materials simulations](https://pubs.aip.org/aip/jcp/article/165/14/142501/3406183/The-WEST-code-for-large-scale-excited-state) — *08 Oct 2026*
 
 ## 📰 Hacker News – Quantum
 
+- [Quantum computing startup Oratomic worth $5.4B after Series B](https://www.wsj.com/cio-journal/quantum-startup-oratomic-now-worth-5-4-billion-after-series-b-funding-538a80fc) — *08 Oct 2026*
 - [Show HN: Quantum computing experiments with honest classical baselines](https://github.com/p10node/qcpa) — *06 Oct 2026*
 
 ---

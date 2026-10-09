@@ -1,16 +1,16 @@
 {
-  "last_updated": "08 October 2026 à 14:12 UTC",
+  "last_updated": "09 October 2026 à 13:59 UTC",
   "articles": [
-    {
-      "source": "Nature – Quantum Information",
-      "title": "High-order Magnus expansion for Hamiltonian simulation",
-      "link": "https://www.nature.com/articles/s41534-026-01385-x",
-      "date": "07 Oct 2026"
-    },
     {
       "source": "Nature – Quantum Information",
       "title": "Demonstration of subspace-search variational quantum eigensolver using photonic orbital angular momentum qudits",
       "link": "https://www.nature.com/articles/s41534-026-01380-2",
+      "date": "07 Oct 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "High-order Magnus expansion for Hamiltonian simulation",
+      "link": "https://www.nature.com/articles/s41534-026-01385-x",
       "date": "07 Oct 2026"
     },
     {
@@ -27,33 +27,21 @@
     },
     {
       "source": "Physics Today",
-      "title": "Thawed Gaussian Ehrenfest dynamics",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/13/134119/3406100/Thawed-Gaussian-Ehrenfest-dynamics",
-      "date": "06 Oct 2026"
+      "title": "Vibrational strong coupling influences product selectivity in a model for post-transition-state bifurcation reactions",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/14/144301/3406200/Vibrational-strong-coupling-influences-product",
+      "date": "08 Oct 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Adsorption energies and decomposition barrier heights for ethylene carbonate on the surface of lithium from cluster-based quantum chemistry",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/13/134705/3406095/Adsorption-energies-and-decomposition-barrier",
-      "date": "06 Oct 2026"
+      "title": "The WEST code for large-scale excited-state materials simulations",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/14/142501/3406183/The-WEST-code-for-large-scale-excited-state",
+      "date": "08 Oct 2026"
     },
     {
-      "source": "Physics Today",
-      "title": "Molecular dynamics simulation and QM/MM study of IscB-ωRNA complex",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/13/135103/3405904/Molecular-dynamics-simulation-and-QM-MM-study-of",
-      "date": "05 Oct 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Time-dependent quantum dynamics of NO(X) + Ar: Rotational excitation pathways and comparison with mixed quantum/classical theory",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/13/134310/3405839/Time-dependent-quantum-dynamics-of-NO-X-Ar",
-      "date": "02 Oct 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "A QM/MM calculation to identify a low frequency mode that causes anharmonic vibrational coupling in green fluorescent protein",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/13/131102/3405796/A-QM-MM-calculation-to-identify-a-low-frequency",
-      "date": "02 Oct 2026"
+      "source": "Hacker News – Quantum",
+      "title": "Quantum computing startup Oratomic worth $5.4B after Series B",
+      "link": "https://www.wsj.com/cio-journal/quantum-startup-oratomic-now-worth-5-4-billion-after-series-b-funding-538a80fc",
+      "date": "08 Oct 2026"
     },
     {
       "source": "Hacker News – Quantum",
