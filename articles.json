@@ -1,5 +1,5 @@
 {
-  "last_updated": "10 October 2026 à 13:09 UTC",
+  "last_updated": "11 October 2026 à 13:38 UTC",
   "articles": [
     {
       "source": "Nature – Quantum Information",
@@ -48,18 +48,6 @@
       "title": "The WEST code for large-scale excited-state materials simulations",
       "link": "https://pubs.aip.org/aip/jcp/article/165/14/142501/3406183/The-WEST-code-for-large-scale-excited-state",
       "date": "08 Oct 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Quantum computing startup Oratomic worth $5.4B after Series B",
-      "link": "https://www.wsj.com/cio-journal/quantum-startup-oratomic-now-worth-5-4-billion-after-series-b-funding-538a80fc",
-      "date": "08 Oct 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Show HN: Quantum computing experiments with honest classical baselines",
-      "link": "https://github.com/p10node/qcpa",
-      "date": "06 Oct 2026"
     }
   ]
 }

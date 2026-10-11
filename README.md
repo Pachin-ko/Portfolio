@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **10 October 2026 à 13:09 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **11 October 2026 à 13:38 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -20,11 +20,6 @@ agrégés depuis des sources académiques, tech et communautaires.
 - [Vibrationally inelastic scattering of NO from metal surfaces: A partial mean-field approach](https://pubs.aip.org/aip/jcp/article/165/14/144105/3406256/Vibrationally-inelastic-scattering-of-NO-from) — *09 Oct 2026*
 - [Vibrational strong coupling influences product selectivity in a model for post-transition-state bifurcation reactions](https://pubs.aip.org/aip/jcp/article/165/14/144301/3406200/Vibrational-strong-coupling-influences-product) — *08 Oct 2026*
 - [The WEST code for large-scale excited-state materials simulations](https://pubs.aip.org/aip/jcp/article/165/14/142501/3406183/The-WEST-code-for-large-scale-excited-state) — *08 Oct 2026*
-
-## 📰 Hacker News – Quantum
-
-- [Quantum computing startup Oratomic worth $5.4B after Series B](https://www.wsj.com/cio-journal/quantum-startup-oratomic-now-worth-5-4-billion-after-series-b-funding-538a80fc) — *08 Oct 2026*
-- [Show HN: Quantum computing experiments with honest classical baselines](https://github.com/p10node/qcpa) — *06 Oct 2026*
 
 ---
 
