@@ -1,24 +1,6 @@
 {
-  "last_updated": "11 October 2026 à 13:38 UTC",
+  "last_updated": "12 October 2026 à 16:19 UTC",
   "articles": [
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Demonstration of subspace-search variational quantum eigensolver using photonic orbital angular momentum qudits",
-      "link": "https://www.nature.com/articles/s41534-026-01380-2",
-      "date": "07 Oct 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "High-order Magnus expansion for Hamiltonian simulation",
-      "link": "https://www.nature.com/articles/s41534-026-01385-x",
-      "date": "07 Oct 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Breaking Rayleigh’s curse: broadband frequency super-resolution via a quantum harmonic oscillator",
-      "link": "https://www.nature.com/articles/s41534-026-01388-8",
-      "date": "06 Oct 2026"
-    },
     {
       "source": "Physics Today",
       "title": "Infrared spectroscopy of MO(CH 4 )  n   (M = Ce, Y;  n  = 1–3) reveals two distinct adsorption configurations",
@@ -48,6 +30,18 @@
       "title": "The WEST code for large-scale excited-state materials simulations",
       "link": "https://pubs.aip.org/aip/jcp/article/165/14/142501/3406183/The-WEST-code-for-large-scale-excited-state",
       "date": "08 Oct 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "Quantum computing startup Oratomic worth $5.4B after Series B",
+      "link": "https://www.wsj.com/cio-journal/quantum-startup-oratomic-now-worth-5-4-billion-after-series-b-funding-538a80fc",
+      "date": "08 Oct 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "Show HN: Quantum computing experiments with honest classical baselines",
+      "link": "https://github.com/p10node/qcpa",
+      "date": "06 Oct 2026"
     }
   ]
 }
