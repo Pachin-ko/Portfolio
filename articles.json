@@ -1,6 +1,12 @@
 {
-  "last_updated": "13 October 2026 à 14:41 UTC",
+  "last_updated": "14 October 2026 à 12:33 UTC",
   "articles": [
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Mirror subspace diagonalization: a real-time quantum Krylov algorithm with near-optimal sampling cost",
+      "link": "https://www.nature.com/articles/s41534-026-01384-y",
+      "date": "13 Oct 2026"
+    },
     {
       "source": "Nature – Quantum Information",
       "title": "Exponential advantage in continuous-variable quantum state learning",
@@ -14,16 +20,16 @@
       "date": "12 Oct 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "Demonstration of subspace-search variational quantum eigensolver using photonic orbital angular momentum qudits",
-      "link": "https://www.nature.com/articles/s41534-026-01380-2",
-      "date": "07 Oct 2026"
+      "source": "Physics Today",
+      "title": "Cooling down trees for finite-temperature quantum dynamics: Purification within ML-MCTDH",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/14/144115/3406402/Cooling-down-trees-for-finite-temperature-quantum",
+      "date": "13 Oct 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "High-order Magnus expansion for Hamiltonian simulation",
-      "link": "https://www.nature.com/articles/s41534-026-01385-x",
-      "date": "07 Oct 2026"
+      "source": "Physics Today",
+      "title": "Quantum master equations for multisite exciton dynamics based on an extended perturbative approach: Redfield–Förster limits and application to the FMO complex",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/14/144111/3406401/Quantum-master-equations-for-multisite-exciton",
+      "date": "13 Oct 2026"
     },
     {
       "source": "Physics Today",
@@ -44,16 +50,10 @@
       "date": "09 Oct 2026"
     },
     {
-      "source": "Physics Today",
-      "title": "Rovibrational spectroscopy of 1,4-dioxane in the mid-infrared range from high resolution jet-cooled and long path cell measurements",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/14/144303/3406282/Rovibrational-spectroscopy-of-1-4-dioxane-in-the",
-      "date": "09 Oct 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Vibrationally inelastic scattering of NO from metal surfaces: A partial mean-field approach",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/14/144105/3406256/Vibrationally-inelastic-scattering-of-NO-from",
-      "date": "09 Oct 2026"
+      "source": "Hacker News – Quantum",
+      "title": "Quantum computing startup Oratomic worth $5.4B after Series B",
+      "link": "https://www.wsj.com/cio-journal/quantum-startup-oratomic-now-worth-5-4-billion-after-series-b-funding-538a80fc",
+      "date": "08 Oct 2026"
     }
   ]
 }
