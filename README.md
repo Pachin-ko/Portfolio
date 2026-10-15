@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **14 October 2026 à 12:33 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **15 October 2026 à 12:17 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -9,21 +9,19 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Nature – Quantum Information
 
+- [Structural control of two-level defect density revealed by high-throughput correlative measurements of Josephson junctions](https://www.nature.com/articles/s41534-026-01395-9) — *14 Oct 2026*
+- [Genuine continuous quantumness](https://www.nature.com/articles/s41534-026-01389-7) — *14 Oct 2026*
 - [Mirror subspace diagonalization: a real-time quantum Krylov algorithm with near-optimal sampling cost](https://www.nature.com/articles/s41534-026-01384-y) — *13 Oct 2026*
 - [Exponential advantage in continuous-variable quantum state learning](https://www.nature.com/articles/s41534-026-01391-z) — *12 Oct 2026*
 - [A quantitative model for embedding quantum-secure communications and evaluating communication autonomy in industrial control systems](https://www.nature.com/articles/s41534-026-01396-8) — *12 Oct 2026*
 
 ## 📰 Physics Today
 
+- [Low-energy electron collisions with BH +](https://pubs.aip.org/aip/jcp/article/165/14/144309/3406510/Low-energy-electron-collisions-with-BH) — *14 Oct 2026*
+- [Ultrafast spin-transfer dynamics and single-qubit logic gate design in monocyclic carbon rings with transition metal atoms adsorbed](https://pubs.aip.org/aip/jcp/article/165/14/144308/3406509/Ultrafast-spin-transfer-dynamics-and-single-qubit) — *14 Oct 2026*
+- [Semiclassical model of nonadiabatic energy transfer in atom-molecule collisions](https://pubs.aip.org/aip/jcp/article/165/14/144118/3406505/Semiclassical-model-of-nonadiabatic-energy) — *14 Oct 2026*
+- [Prediction of solvent aggregation in CO 2 -loaded aqueous amines using machine learning molecular dynamics simulations](https://pubs.aip.org/aip/jcp/article/165/14/144504/3406498/Prediction-of-solvent-aggregation-in-CO2-loaded) — *14 Oct 2026*
 - [Cooling down trees for finite-temperature quantum dynamics: Purification within ML-MCTDH](https://pubs.aip.org/aip/jcp/article/165/14/144115/3406402/Cooling-down-trees-for-finite-temperature-quantum) — *13 Oct 2026*
-- [Quantum master equations for multisite exciton dynamics based on an extended perturbative approach: Redfield–Förster limits and application to the FMO complex](https://pubs.aip.org/aip/jcp/article/165/14/144111/3406401/Quantum-master-equations-for-multisite-exciton) — *13 Oct 2026*
-- [Gate-controlled optical bistability via tunable self-action feedback in a semiconductor quantum dot–graphene nanodisk hybrid](https://pubs.aip.org/aip/jcp/article/165/14/144704/3406357/Gate-controlled-optical-bistability-via-tunable) — *12 Oct 2026*
-- [Symmetry-driven correlation patterns in one-dimensional periodic fermionic systems: Closed-form expressions and exact selection rules for correlation functions, entanglement entropies, and mutual information](https://pubs.aip.org/aip/jcp/article/165/14/144110/3406354/Symmetry-driven-correlation-patterns-in-one) — *12 Oct 2026*
-- [Infrared spectroscopy of MO(CH 4 )  n   (M = Ce, Y;  n  = 1–3) reveals two distinct adsorption configurations](https://pubs.aip.org/aip/jcp/article/165/14/144305/3406286/Infrared-spectroscopy-of-MO-CH4-n-M-Ce-Y-n-1-3) — *09 Oct 2026*
-
-## 📰 Hacker News – Quantum
-
-- [Quantum computing startup Oratomic worth $5.4B after Series B](https://www.wsj.com/cio-journal/quantum-startup-oratomic-now-worth-5-4-billion-after-series-b-funding-538a80fc) — *08 Oct 2026*
 
 ---
 
