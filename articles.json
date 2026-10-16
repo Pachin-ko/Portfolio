@@ -1,5 +1,5 @@
 {
-  "last_updated": "15 October 2026 à 12:17 UTC",
+  "last_updated": "16 October 2026 à 12:01 UTC",
   "articles": [
     {
       "source": "Nature – Quantum Information",
@@ -30,36 +30,6 @@
       "title": "A quantitative model for embedding quantum-secure communications and evaluating communication autonomy in industrial control systems",
       "link": "https://www.nature.com/articles/s41534-026-01396-8",
       "date": "12 Oct 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Low-energy electron collisions with BH +",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/14/144309/3406510/Low-energy-electron-collisions-with-BH",
-      "date": "14 Oct 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Ultrafast spin-transfer dynamics and single-qubit logic gate design in monocyclic carbon rings with transition metal atoms adsorbed",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/14/144308/3406509/Ultrafast-spin-transfer-dynamics-and-single-qubit",
-      "date": "14 Oct 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Semiclassical model of nonadiabatic energy transfer in atom-molecule collisions",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/14/144118/3406505/Semiclassical-model-of-nonadiabatic-energy",
-      "date": "14 Oct 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Prediction of solvent aggregation in CO 2 -loaded aqueous amines using machine learning molecular dynamics simulations",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/14/144504/3406498/Prediction-of-solvent-aggregation-in-CO2-loaded",
-      "date": "14 Oct 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Cooling down trees for finite-temperature quantum dynamics: Purification within ML-MCTDH",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/14/144115/3406402/Cooling-down-trees-for-finite-temperature-quantum",
-      "date": "13 Oct 2026"
     }
   ]
 }
