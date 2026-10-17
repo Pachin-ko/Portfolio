@@ -1,35 +1,17 @@
 {
-  "last_updated": "16 October 2026 à 12:01 UTC",
+  "last_updated": "17 October 2026 à 11:15 UTC",
   "articles": [
     {
-      "source": "Nature – Quantum Information",
-      "title": "Structural control of two-level defect density revealed by high-throughput correlative measurements of Josephson junctions",
-      "link": "https://www.nature.com/articles/s41534-026-01395-9",
-      "date": "14 Oct 2026"
+      "source": "Hacker News – Quantum",
+      "title": "Bringing the magic: Google breaks open a bottleneck in quantum computing",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/",
+      "date": "15 Oct 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "Genuine continuous quantumness",
-      "link": "https://www.nature.com/articles/s41534-026-01389-7",
-      "date": "14 Oct 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Mirror subspace diagonalization: a real-time quantum Krylov algorithm with near-optimal sampling cost",
-      "link": "https://www.nature.com/articles/s41534-026-01384-y",
-      "date": "13 Oct 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Exponential advantage in continuous-variable quantum state learning",
-      "link": "https://www.nature.com/articles/s41534-026-01391-z",
-      "date": "12 Oct 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "A quantitative model for embedding quantum-secure communications and evaluating communication autonomy in industrial control systems",
-      "link": "https://www.nature.com/articles/s41534-026-01396-8",
-      "date": "12 Oct 2026"
+      "source": "Hacker News – Quantum",
+      "title": "The Aesthetics of Quantum Computing",
+      "link": "https://www.ft.com/content/f0c877e2-7f9c-4c5a-8b06-e2f9e659fa12",
+      "date": "15 Oct 2026"
     }
   ]
 }
