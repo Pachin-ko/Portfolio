@@ -1,23 +1,23 @@
 {
-  "last_updated": "23 October 2026 à 12:17 UTC",
+  "last_updated": "24 October 2026 à 11:44 UTC",
   "articles": [
     {
-      "source": "Nature – Quantum Information",
-      "title": "Quantum state smoothing for tracking optical quantum dynamics and recovering purity and squeezing",
-      "link": "https://www.nature.com/articles/s41534-026-01390-0",
-      "date": "21 Oct 2026"
+      "source": "Physics Today",
+      "title": "An enhanced adaptive finite element method with linear scaling for 3D Hartree–Fock equation",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/16/164109/3407281/An-enhanced-adaptive-finite-element-method-with",
+      "date": "23 Oct 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "Scalability bottlenecks in entanglement-based satellite quantum key distribution: downlink asymmetry, orbit dependence and finite-key effects",
-      "link": "https://www.nature.com/articles/s41534-026-01382-0",
-      "date": "19 Oct 2026"
+      "source": "Physics Today",
+      "title": "Q-Chem/CP2K software interface for projection-based, pseudoperiodic wavefunction-in-DFT embedding",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/16/164112/3407246/Q-Chem-CP2K-software-interface-for-projection",
+      "date": "23 Oct 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "Programmable high-dimensional state synthesis through a 20-m multimode fiber via long-coherence atomic photons",
-      "link": "https://www.nature.com/articles/s41534-026-01398-6",
-      "date": "18 Oct 2026"
+      "source": "Physics Today",
+      "title": "Structural transition in one-dimensional water unveils the origin of multifurcated hydrogen bond weakening",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/16/164305/3407228/Structural-transition-in-one-dimensional-water",
+      "date": "23 Oct 2026"
     },
     {
       "source": "Physics Today",
@@ -30,42 +30,6 @@
       "title": "Probing the potential for anti-Kasha behavior through direct measurements of S 2  lifetimes in xanthione and thioxanthone",
       "link": "https://pubs.aip.org/aip/jcp/article/165/16/164501/3407132/Probing-the-potential-for-anti-Kasha-behavior",
       "date": "22 Oct 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Introducing Vmol software: A highly parallelized multi-purpose DFT program based on real-space grid formalism",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/16/164110/3407122/Introducing-Vmol-software-A-highly-parallelized",
-      "date": "22 Oct 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Nanoporous graphene homojunction mediated by interface charge transfer",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/16/164702/3407113/Nanoporous-graphene-homojunction-mediated-by",
-      "date": "22 Oct 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Efficient and reliable modeling of large  π -electron systems with the Pariser–Parr–Pople Hamiltonian and pCCD-based methods",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/16/164111/3406986/Efficient-and-reliable-modeling-of-large-electron",
-      "date": "22 Oct 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "A quantum computing feat brings the 'megaquops' era a step closer",
-      "link": "https://www.sciencenews.org/article/quantum-computer-megaquops-error-correction",
-      "date": "21 Oct 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Advancing Fault-Tolerant Quantum Computing with GPU-Accelerated Simulation",
-      "link": "https://nvidia.github.io/cuda-quantum/blogs/blog/2026/10/19/jupiter-magic-state-simulation/",
-      "date": "20 Oct 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Quantinuum Sees Path to Fault-Tolerant Quantum Computing by 2029",
-      "link": "https://www.wsj.com/tech/quantinuum-sees-path-to-fault-tolerant-quantum-computing-by-2029-with-new-milestone-9daa6b07",
-      "date": "19 Oct 2026"
     }
   ]
 }
