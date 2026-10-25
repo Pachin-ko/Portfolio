@@ -1,6 +1,36 @@
 {
-  "last_updated": "24 October 2026 à 11:44 UTC",
+  "last_updated": "25 October 2026 à 12:12 UTC",
   "articles": [
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Device-independent certification of Majorana fermions and a new self-testing equivalence",
+      "link": "https://www.nature.com/articles/s41534-026-01383-z",
+      "date": "24 Oct 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "High-fidelity flopping-mode single-spin operation via triple-dot orbital-band engineering",
+      "link": "https://www.nature.com/articles/s41534-026-01400-1",
+      "date": "24 Oct 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Simultaneously achieving Heisenberg- and Landau-limited precision in equilibrium quantum thermometry",
+      "link": "https://www.nature.com/articles/s41534-026-01397-7",
+      "date": "23 Oct 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Quantum state smoothing for tracking optical quantum dynamics and recovering purity and squeezing",
+      "link": "https://www.nature.com/articles/s41534-026-01390-0",
+      "date": "21 Oct 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Scalability bottlenecks in entanglement-based satellite quantum key distribution: downlink asymmetry, orbit dependence and finite-key effects",
+      "link": "https://www.nature.com/articles/s41534-026-01382-0",
+      "date": "19 Oct 2026"
+    },
     {
       "source": "Physics Today",
       "title": "An enhanced adaptive finite element method with linear scaling for 3D Hartree–Fock equation",
