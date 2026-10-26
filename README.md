@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **25 October 2026 à 12:12 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **26 October 2026 à 13:44 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -13,7 +13,6 @@ agrégés depuis des sources académiques, tech et communautaires.
 - [High-fidelity flopping-mode single-spin operation via triple-dot orbital-band engineering](https://www.nature.com/articles/s41534-026-01400-1) — *24 Oct 2026*
 - [Simultaneously achieving Heisenberg- and Landau-limited precision in equilibrium quantum thermometry](https://www.nature.com/articles/s41534-026-01397-7) — *23 Oct 2026*
 - [Quantum state smoothing for tracking optical quantum dynamics and recovering purity and squeezing](https://www.nature.com/articles/s41534-026-01390-0) — *21 Oct 2026*
-- [Scalability bottlenecks in entanglement-based satellite quantum key distribution: downlink asymmetry, orbit dependence and finite-key effects](https://www.nature.com/articles/s41534-026-01382-0) — *19 Oct 2026*
 
 ## 📰 Physics Today
 
