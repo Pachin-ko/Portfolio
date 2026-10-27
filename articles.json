@@ -1,29 +1,23 @@
 {
-  "last_updated": "26 October 2026 à 13:44 UTC",
+  "last_updated": "27 October 2026 à 12:51 UTC",
   "articles": [
     {
-      "source": "Nature – Quantum Information",
-      "title": "Device-independent certification of Majorana fermions and a new self-testing equivalence",
-      "link": "https://www.nature.com/articles/s41534-026-01383-z",
-      "date": "24 Oct 2026"
+      "source": "Physics Today",
+      "title": "Analysis of transition dipole moments of band-progression peaks of fluorocarbons: Fundamentals and application to orientation analysis of fluoropolymers",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/16/164706/3407345/Analysis-of-transition-dipole-moments-of-band",
+      "date": "26 Oct 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "High-fidelity flopping-mode single-spin operation via triple-dot orbital-band engineering",
-      "link": "https://www.nature.com/articles/s41534-026-01400-1",
-      "date": "24 Oct 2026"
+      "source": "Physics Today",
+      "title": "Navigating the BERMUDA triangle of scientific software: A modular approach to data, hardware, and algorithm design in quantum chemistry and its realization in Python",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/16/162502/3407343/Navigating-the-BERMUDA-triangle-of-scientific",
+      "date": "26 Oct 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "Simultaneously achieving Heisenberg- and Landau-limited precision in equilibrium quantum thermometry",
-      "link": "https://www.nature.com/articles/s41534-026-01397-7",
-      "date": "23 Oct 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Quantum state smoothing for tracking optical quantum dynamics and recovering purity and squeezing",
-      "link": "https://www.nature.com/articles/s41534-026-01390-0",
-      "date": "21 Oct 2026"
+      "source": "Physics Today",
+      "title": "Casimir force screening by a quantum Boltzmann plasma",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/16/164307/3407342/Casimir-force-screening-by-a-quantum-Boltzmann",
+      "date": "26 Oct 2026"
     },
     {
       "source": "Physics Today",
@@ -36,24 +30,6 @@
       "title": "Q-Chem/CP2K software interface for projection-based, pseudoperiodic wavefunction-in-DFT embedding",
       "link": "https://pubs.aip.org/aip/jcp/article/165/16/164112/3407246/Q-Chem-CP2K-software-interface-for-projection",
       "date": "23 Oct 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Structural transition in one-dimensional water unveils the origin of multifurcated hydrogen bond weakening",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/16/164305/3407228/Structural-transition-in-one-dimensional-water",
-      "date": "23 Oct 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "macroqc  2.0: An electronic structure theory software for large-scale applications",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/16/162501/3407139/macroqc-2-0-An-electronic-structure-theory",
-      "date": "22 Oct 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Probing the potential for anti-Kasha behavior through direct measurements of S 2  lifetimes in xanthione and thioxanthone",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/16/164501/3407132/Probing-the-potential-for-anti-Kasha-behavior",
-      "date": "22 Oct 2026"
     }
   ]
 }
