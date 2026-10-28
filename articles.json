@@ -1,6 +1,36 @@
 {
-  "last_updated": "27 October 2026 à 12:51 UTC",
+  "last_updated": "28 October 2026 à 13:40 UTC",
   "articles": [
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Device-independent certification of Majorana fermions and a new self-testing equivalence",
+      "link": "https://www.nature.com/articles/s41534-026-01383-z",
+      "date": "24 Oct 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "High-fidelity flopping-mode single-spin operation via triple-dot orbital-band engineering",
+      "link": "https://www.nature.com/articles/s41534-026-01400-1",
+      "date": "24 Oct 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Simultaneously achieving Heisenberg- and Landau-limited precision in equilibrium quantum thermometry",
+      "link": "https://www.nature.com/articles/s41534-026-01397-7",
+      "date": "23 Oct 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Quantum fluctuation-driven transport crossover between two liquid states in distinguishable helium-4",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/16/164507/3407447/Quantum-fluctuation-driven-transport-crossover",
+      "date": "27 Oct 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Intracavity photon statistics from correlated molecular electronic structure",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/16/161103/3407437/Intracavity-photon-statistics-from-correlated",
+      "date": "27 Oct 2026"
+    },
     {
       "source": "Physics Today",
       "title": "Analysis of transition dipole moments of band-progression peaks of fluorocarbons: Fundamentals and application to orientation analysis of fluoropolymers",
@@ -20,16 +50,22 @@
       "date": "26 Oct 2026"
     },
     {
-      "source": "Physics Today",
-      "title": "An enhanced adaptive finite element method with linear scaling for 3D Hartree–Fock equation",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/16/164109/3407281/An-enhanced-adaptive-finite-element-method-with",
-      "date": "23 Oct 2026"
+      "source": "Hacker News – Quantum",
+      "title": "Intel to Acquire Classiq to Create a Full-Stack Quantum Computing Platform",
+      "link": "https://www.intel.com/content/www/us/en/newsroom/news/corporate/intel-classiq-accelerate-scalable-quantum-computing.html",
+      "date": "28 Oct 2026"
     },
     {
-      "source": "Physics Today",
-      "title": "Q-Chem/CP2K software interface for projection-based, pseudoperiodic wavefunction-in-DFT embedding",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/16/164112/3407246/Q-Chem-CP2K-software-interface-for-projection",
-      "date": "23 Oct 2026"
+      "source": "Hacker News – Quantum",
+      "title": "Intel to Acquire Startup Classiq in Quantum Computing Push",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-26/intel-to-buy-israeli-startup-classiq-in-quantum-computing-push",
+      "date": "27 Oct 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "Intel to Acquire Classiq to Create a Full-Stack Quantum Computing Platform",
+      "link": "https://www.intc.com/news-events/press-releases/detail/1784/intel-to-acquire-classiq-to-create-a-full-stack-quantum",
+      "date": "26 Oct 2026"
     }
   ]
 }
