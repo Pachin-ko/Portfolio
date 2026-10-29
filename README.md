@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **28 October 2026 à 13:40 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **29 October 2026 à 13:50 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -9,6 +9,7 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Nature – Quantum Information
 
+- [Scalable neural decoders for practical real-time quantum error correction](https://www.nature.com/articles/s41534-026-01403-y) — *28 Oct 2026*
 - [Device-independent certification of Majorana fermions and a new self-testing equivalence](https://www.nature.com/articles/s41534-026-01383-z) — *24 Oct 2026*
 - [High-fidelity flopping-mode single-spin operation via triple-dot orbital-band engineering](https://www.nature.com/articles/s41534-026-01400-1) — *24 Oct 2026*
 - [Simultaneously achieving Heisenberg- and Landau-limited precision in equilibrium quantum thermometry](https://www.nature.com/articles/s41534-026-01397-7) — *23 Oct 2026*
