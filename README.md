@@ -1,26 +1,19 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **29 October 2026 à 13:50 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **30 October 2026 à 13:43 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
 
 ---
 
-## 📰 Nature – Quantum Information
-
-- [Scalable neural decoders for practical real-time quantum error correction](https://www.nature.com/articles/s41534-026-01403-y) — *28 Oct 2026*
-- [Device-independent certification of Majorana fermions and a new self-testing equivalence](https://www.nature.com/articles/s41534-026-01383-z) — *24 Oct 2026*
-- [High-fidelity flopping-mode single-spin operation via triple-dot orbital-band engineering](https://www.nature.com/articles/s41534-026-01400-1) — *24 Oct 2026*
-- [Simultaneously achieving Heisenberg- and Landau-limited precision in equilibrium quantum thermometry](https://www.nature.com/articles/s41534-026-01397-7) — *23 Oct 2026*
-
 ## 📰 Physics Today
 
-- [Quantum fluctuation-driven transport crossover between two liquid states in distinguishable helium-4](https://pubs.aip.org/aip/jcp/article/165/16/164507/3407447/Quantum-fluctuation-driven-transport-crossover) — *27 Oct 2026*
-- [Intracavity photon statistics from correlated molecular electronic structure](https://pubs.aip.org/aip/jcp/article/165/16/161103/3407437/Intracavity-photon-statistics-from-correlated) — *27 Oct 2026*
-- [Analysis of transition dipole moments of band-progression peaks of fluorocarbons: Fundamentals and application to orientation analysis of fluoropolymers](https://pubs.aip.org/aip/jcp/article/165/16/164706/3407345/Analysis-of-transition-dipole-moments-of-band) — *26 Oct 2026*
-- [Navigating the BERMUDA triangle of scientific software: A modular approach to data, hardware, and algorithm design in quantum chemistry and its realization in Python](https://pubs.aip.org/aip/jcp/article/165/16/162502/3407343/Navigating-the-BERMUDA-triangle-of-scientific) — *26 Oct 2026*
-- [Casimir force screening by a quantum Boltzmann plasma](https://pubs.aip.org/aip/jcp/article/165/16/164307/3407342/Casimir-force-screening-by-a-quantum-Boltzmann) — *26 Oct 2026*
+- [Position-and conformation-dependent effects of fluorination on the structure and methyl internal rotation of methyl benzoates](https://pubs.aip.org/aip/jcp/article/165/16/164309/3407545/Position-and-conformation-dependent-effects-of) — *29 Oct 2026*
+- [Origin of long-lived nuclear spin states and coherences in aliphatic chains revealed by relaxation theory](https://pubs.aip.org/aip/jcp/article/165/16/164124/3407543/Origin-of-long-lived-nuclear-spin-states-and) — *29 Oct 2026*
+- [Hybrid mechanics of coupled qubits](https://pubs.aip.org/aip/jcp/article/165/16/164130/3407540/Hybrid-mechanics-of-coupled-qubits) — *29 Oct 2026*
+- [Third-order size-consistent Brillouin–Wigner perturbation theory](https://pubs.aip.org/aip/jcp/article/165/16/164134/3407539/Third-order-size-consistent-Brillouin-Wigner) — *29 Oct 2026*
+- [Nonlinear canonical transformations for studying spin-1/2 Hamiltonians](https://pubs.aip.org/aip/jcp/article/165/16/164132/3407535/Nonlinear-canonical-transformations-for-studying) — *29 Oct 2026*
 
 ## 📰 Hacker News – Quantum
 

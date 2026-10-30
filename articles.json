@@ -1,59 +1,35 @@
 {
-  "last_updated": "29 October 2026 à 13:50 UTC",
+  "last_updated": "30 October 2026 à 13:43 UTC",
   "articles": [
     {
-      "source": "Nature – Quantum Information",
-      "title": "Scalable neural decoders for practical real-time quantum error correction",
-      "link": "https://www.nature.com/articles/s41534-026-01403-y",
-      "date": "28 Oct 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Device-independent certification of Majorana fermions and a new self-testing equivalence",
-      "link": "https://www.nature.com/articles/s41534-026-01383-z",
-      "date": "24 Oct 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "High-fidelity flopping-mode single-spin operation via triple-dot orbital-band engineering",
-      "link": "https://www.nature.com/articles/s41534-026-01400-1",
-      "date": "24 Oct 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Simultaneously achieving Heisenberg- and Landau-limited precision in equilibrium quantum thermometry",
-      "link": "https://www.nature.com/articles/s41534-026-01397-7",
-      "date": "23 Oct 2026"
+      "source": "Physics Today",
+      "title": "Position-and conformation-dependent effects of fluorination on the structure and methyl internal rotation of methyl benzoates",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/16/164309/3407545/Position-and-conformation-dependent-effects-of",
+      "date": "29 Oct 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Quantum fluctuation-driven transport crossover between two liquid states in distinguishable helium-4",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/16/164507/3407447/Quantum-fluctuation-driven-transport-crossover",
-      "date": "27 Oct 2026"
+      "title": "Origin of long-lived nuclear spin states and coherences in aliphatic chains revealed by relaxation theory",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/16/164124/3407543/Origin-of-long-lived-nuclear-spin-states-and",
+      "date": "29 Oct 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Intracavity photon statistics from correlated molecular electronic structure",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/16/161103/3407437/Intracavity-photon-statistics-from-correlated",
-      "date": "27 Oct 2026"
+      "title": "Hybrid mechanics of coupled qubits",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/16/164130/3407540/Hybrid-mechanics-of-coupled-qubits",
+      "date": "29 Oct 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Analysis of transition dipole moments of band-progression peaks of fluorocarbons: Fundamentals and application to orientation analysis of fluoropolymers",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/16/164706/3407345/Analysis-of-transition-dipole-moments-of-band",
-      "date": "26 Oct 2026"
+      "title": "Third-order size-consistent Brillouin–Wigner perturbation theory",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/16/164134/3407539/Third-order-size-consistent-Brillouin-Wigner",
+      "date": "29 Oct 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Navigating the BERMUDA triangle of scientific software: A modular approach to data, hardware, and algorithm design in quantum chemistry and its realization in Python",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/16/162502/3407343/Navigating-the-BERMUDA-triangle-of-scientific",
-      "date": "26 Oct 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Casimir force screening by a quantum Boltzmann plasma",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/16/164307/3407342/Casimir-force-screening-by-a-quantum-Boltzmann",
-      "date": "26 Oct 2026"
+      "title": "Nonlinear canonical transformations for studying spin-1/2 Hamiltonians",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/16/164132/3407535/Nonlinear-canonical-transformations-for-studying",
+      "date": "29 Oct 2026"
     },
     {
       "source": "Hacker News – Quantum",
