@@ -1,6 +1,12 @@
 {
-  "last_updated": "30 October 2026 à 13:43 UTC",
+  "last_updated": "31 October 2026 à 13:11 UTC",
   "articles": [
+    {
+      "source": "Physics Today",
+      "title": "How do interacting quantum atoms energy components depend on the choice of partitioning method? Disentangling the effects of atomic weights and populations",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/16/164136/3407680/How-do-interacting-quantum-atoms-energy-components",
+      "date": "30 Oct 2026"
+    },
     {
       "source": "Physics Today",
       "title": "Position-and conformation-dependent effects of fluorination on the structure and methyl internal rotation of methyl benzoates",
@@ -24,30 +30,6 @@
       "title": "Third-order size-consistent Brillouin–Wigner perturbation theory",
       "link": "https://pubs.aip.org/aip/jcp/article/165/16/164134/3407539/Third-order-size-consistent-Brillouin-Wigner",
       "date": "29 Oct 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Nonlinear canonical transformations for studying spin-1/2 Hamiltonians",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/16/164132/3407535/Nonlinear-canonical-transformations-for-studying",
-      "date": "29 Oct 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Intel to Acquire Classiq to Create a Full-Stack Quantum Computing Platform",
-      "link": "https://www.intel.com/content/www/us/en/newsroom/news/corporate/intel-classiq-accelerate-scalable-quantum-computing.html",
-      "date": "28 Oct 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Intel to Acquire Startup Classiq in Quantum Computing Push",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-26/intel-to-buy-israeli-startup-classiq-in-quantum-computing-push",
-      "date": "27 Oct 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Intel to Acquire Classiq to Create a Full-Stack Quantum Computing Platform",
-      "link": "https://www.intc.com/news-events/press-releases/detail/1784/intel-to-acquire-classiq-to-create-a-full-stack-quantum",
-      "date": "26 Oct 2026"
     }
   ]
 }
