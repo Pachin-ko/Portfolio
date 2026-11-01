@@ -1,6 +1,30 @@
 {
-  "last_updated": "31 October 2026 à 13:11 UTC",
+  "last_updated": "01 November 2026 à 13:55 UTC",
   "articles": [
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Efficient multi-basis quantum position verification secure against generalized adversaries",
+      "link": "https://www.nature.com/articles/s41534-026-01325-9",
+      "date": "31 Oct 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Ultra-large-scale compilation and manipulation of quantum circuits with Pandora",
+      "link": "https://www.nature.com/articles/s41534-026-01402-z",
+      "date": "30 Oct 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Experimental characterization of the qubit-mediated coupling between two waveguides",
+      "link": "https://www.nature.com/articles/s41534-026-01399-5",
+      "date": "29 Oct 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Scalable neural decoders for practical real-time quantum error correction",
+      "link": "https://www.nature.com/articles/s41534-026-01403-y",
+      "date": "28 Oct 2026"
+    },
     {
       "source": "Physics Today",
       "title": "How do interacting quantum atoms energy components depend on the choice of partitioning method? Disentangling the effects of atomic weights and populations",
@@ -30,6 +54,24 @@
       "title": "Third-order size-consistent Brillouin–Wigner perturbation theory",
       "link": "https://pubs.aip.org/aip/jcp/article/165/16/164134/3407539/Third-order-size-consistent-Brillouin-Wigner",
       "date": "29 Oct 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "Intel to Acquire Classiq to Create a Full-Stack Quantum Computing Platform",
+      "link": "https://www.intel.com/content/www/us/en/newsroom/news/corporate/intel-classiq-accelerate-scalable-quantum-computing.html",
+      "date": "28 Oct 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "Intel to Acquire Startup Classiq in Quantum Computing Push",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-26/intel-to-buy-israeli-startup-classiq-in-quantum-computing-push",
+      "date": "27 Oct 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "Intel to Acquire Classiq to Create a Full-Stack Quantum Computing Platform",
+      "link": "https://www.intc.com/news-events/press-releases/detail/1784/intel-to-acquire-classiq-to-create-a-full-stack-quantum",
+      "date": "26 Oct 2026"
     }
   ]
 }
