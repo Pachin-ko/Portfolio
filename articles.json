@@ -1,6 +1,12 @@
 {
-  "last_updated": "01 November 2026 à 13:55 UTC",
+  "last_updated": "02 November 2026 à 16:41 UTC",
   "articles": [
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Unifying quantum smoothing theories with extended retrodiction",
+      "link": "https://www.nature.com/articles/s41534-026-01379-9",
+      "date": "01 Nov 2026"
+    },
     {
       "source": "Nature – Quantum Information",
       "title": "Efficient multi-basis quantum position verification secure against generalized adversaries",
@@ -54,24 +60,6 @@
       "title": "Third-order size-consistent Brillouin–Wigner perturbation theory",
       "link": "https://pubs.aip.org/aip/jcp/article/165/16/164134/3407539/Third-order-size-consistent-Brillouin-Wigner",
       "date": "29 Oct 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Intel to Acquire Classiq to Create a Full-Stack Quantum Computing Platform",
-      "link": "https://www.intel.com/content/www/us/en/newsroom/news/corporate/intel-classiq-accelerate-scalable-quantum-computing.html",
-      "date": "28 Oct 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Intel to Acquire Startup Classiq in Quantum Computing Push",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-26/intel-to-buy-israeli-startup-classiq-in-quantum-computing-push",
-      "date": "27 Oct 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Intel to Acquire Classiq to Create a Full-Stack Quantum Computing Platform",
-      "link": "https://www.intc.com/news-events/press-releases/detail/1784/intel-to-acquire-classiq-to-create-a-full-stack-quantum",
-      "date": "26 Oct 2026"
     }
   ]
 }
