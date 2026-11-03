@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **02 November 2026 à 16:41 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **03 November 2026 à 14:45 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -9,19 +9,15 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Nature – Quantum Information
 
+- [Fault-tolerant quantum error correction for constant-excitation stabilizer codes under coherent noise](https://www.nature.com/articles/s41534-026-01401-0) — *02 Nov 2026*
 - [Unifying quantum smoothing theories with extended retrodiction](https://www.nature.com/articles/s41534-026-01379-9) — *01 Nov 2026*
 - [Efficient multi-basis quantum position verification secure against generalized adversaries](https://www.nature.com/articles/s41534-026-01325-9) — *31 Oct 2026*
 - [Ultra-large-scale compilation and manipulation of quantum circuits with Pandora](https://www.nature.com/articles/s41534-026-01402-z) — *30 Oct 2026*
 - [Experimental characterization of the qubit-mediated coupling between two waveguides](https://www.nature.com/articles/s41534-026-01399-5) — *29 Oct 2026*
-- [Scalable neural decoders for practical real-time quantum error correction](https://www.nature.com/articles/s41534-026-01403-y) — *28 Oct 2026*
 
 ## 📰 Physics Today
 
-- [How do interacting quantum atoms energy components depend on the choice of partitioning method? Disentangling the effects of atomic weights and populations](https://pubs.aip.org/aip/jcp/article/165/16/164136/3407680/How-do-interacting-quantum-atoms-energy-components) — *30 Oct 2026*
-- [Position-and conformation-dependent effects of fluorination on the structure and methyl internal rotation of methyl benzoates](https://pubs.aip.org/aip/jcp/article/165/16/164309/3407545/Position-and-conformation-dependent-effects-of) — *29 Oct 2026*
-- [Origin of long-lived nuclear spin states and coherences in aliphatic chains revealed by relaxation theory](https://pubs.aip.org/aip/jcp/article/165/16/164124/3407543/Origin-of-long-lived-nuclear-spin-states-and) — *29 Oct 2026*
-- [Hybrid mechanics of coupled qubits](https://pubs.aip.org/aip/jcp/article/165/16/164130/3407540/Hybrid-mechanics-of-coupled-qubits) — *29 Oct 2026*
-- [Third-order size-consistent Brillouin–Wigner perturbation theory](https://pubs.aip.org/aip/jcp/article/165/16/164134/3407539/Third-order-size-consistent-Brillouin-Wigner) — *29 Oct 2026*
+- [Delocalized relativistic effects: Unraveling cooperative and anticooperative mechanisms](https://pubs.aip.org/aip/jcp/article/165/17/174307/3407849/Delocalized-relativistic-effects-Unraveling) — *02 Nov 2026*
 
 ---
 

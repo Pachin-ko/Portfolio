@@ -1,6 +1,12 @@
 {
-  "last_updated": "02 November 2026 à 16:41 UTC",
+  "last_updated": "03 November 2026 à 14:45 UTC",
   "articles": [
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Fault-tolerant quantum error correction for constant-excitation stabilizer codes under coherent noise",
+      "link": "https://www.nature.com/articles/s41534-026-01401-0",
+      "date": "02 Nov 2026"
+    },
     {
       "source": "Nature – Quantum Information",
       "title": "Unifying quantum smoothing theories with extended retrodiction",
@@ -26,40 +32,10 @@
       "date": "29 Oct 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "Scalable neural decoders for practical real-time quantum error correction",
-      "link": "https://www.nature.com/articles/s41534-026-01403-y",
-      "date": "28 Oct 2026"
-    },
-    {
       "source": "Physics Today",
-      "title": "How do interacting quantum atoms energy components depend on the choice of partitioning method? Disentangling the effects of atomic weights and populations",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/16/164136/3407680/How-do-interacting-quantum-atoms-energy-components",
-      "date": "30 Oct 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Position-and conformation-dependent effects of fluorination on the structure and methyl internal rotation of methyl benzoates",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/16/164309/3407545/Position-and-conformation-dependent-effects-of",
-      "date": "29 Oct 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Origin of long-lived nuclear spin states and coherences in aliphatic chains revealed by relaxation theory",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/16/164124/3407543/Origin-of-long-lived-nuclear-spin-states-and",
-      "date": "29 Oct 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Hybrid mechanics of coupled qubits",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/16/164130/3407540/Hybrid-mechanics-of-coupled-qubits",
-      "date": "29 Oct 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Third-order size-consistent Brillouin–Wigner perturbation theory",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/16/164134/3407539/Third-order-size-consistent-Brillouin-Wigner",
-      "date": "29 Oct 2026"
+      "title": "Delocalized relativistic effects: Unraveling cooperative and anticooperative mechanisms",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/17/174307/3407849/Delocalized-relativistic-effects-Unraveling",
+      "date": "02 Nov 2026"
     }
   ]
 }
