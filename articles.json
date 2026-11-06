@@ -1,5 +1,5 @@
 {
-  "last_updated": "05 November 2026 à 15:01 UTC",
+  "last_updated": "06 November 2026 à 14:41 UTC",
   "articles": [
     {
       "source": "Nature – Quantum Information",
@@ -20,10 +20,16 @@
       "date": "31 Oct 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "Ultra-large-scale compilation and manipulation of quantum circuits with Pandora",
-      "link": "https://www.nature.com/articles/s41534-026-01402-z",
-      "date": "30 Oct 2026"
+      "source": "Physics Today",
+      "title": "Ab initio -based intermolecular potential for normal hydrogen, orthohydrogen, and parahydrogen: Prediction of thermodynamic behavior",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/17/174503/3408198/Ab-initio-based-intermolecular-potential-for",
+      "date": "05 Nov 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Quantum critical behavior in chains of hindered dipolar planar rotors",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/17/174120/3408164/Quantum-critical-behavior-in-chains-of-hindered",
+      "date": "05 Nov 2026"
     },
     {
       "source": "Physics Today",
@@ -41,18 +47,6 @@
       "source": "Physics Today",
       "title": "EmbASI: An extensible Pythonic framework for DFT-in-DFT and WF-in-DFT embedding",
       "link": "https://pubs.aip.org/aip/jcp/article/165/17/172501/3408102/EmbASI-An-extensible-Pythonic-framework-for-DFT-in",
-      "date": "04 Nov 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Critical point search and linear response theory for computing electronic excitation energies of molecular systems. II. CASSCF",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/17/174118/3408097/Critical-point-search-and-linear-response-theory",
-      "date": "04 Nov 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Excited-state intramolecular proton transfer dynamics with neural network potentials and nuclear quantum effects",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/17/174312/3408095/Excited-state-intramolecular-proton-transfer",
       "date": "04 Nov 2026"
     }
   ]
