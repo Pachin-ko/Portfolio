@@ -1,6 +1,12 @@
 {
-  "last_updated": "06 November 2026 à 14:41 UTC",
+  "last_updated": "07 November 2026 à 13:39 UTC",
   "articles": [
+    {
+      "source": "Quanta Magazine",
+      "title": "A Strange Quantum Theorem Has Killed Einstein’s Reality",
+      "link": "https://www.quantamagazine.org/a-strange-quantum-theorem-has-killed-einsteins-reality-20261106/",
+      "date": "06 Nov 2026"
+    },
     {
       "source": "Nature – Quantum Information",
       "title": "Fault-tolerant quantum error correction for constant-excitation stabilizer codes under coherent noise",
@@ -12,12 +18,6 @@
       "title": "Unifying quantum smoothing theories with extended retrodiction",
       "link": "https://www.nature.com/articles/s41534-026-01379-9",
       "date": "01 Nov 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Efficient multi-basis quantum position verification secure against generalized adversaries",
-      "link": "https://www.nature.com/articles/s41534-026-01325-9",
-      "date": "31 Oct 2026"
     },
     {
       "source": "Physics Today",

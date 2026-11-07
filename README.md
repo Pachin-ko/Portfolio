@@ -1,17 +1,20 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **06 November 2026 à 14:41 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **07 November 2026 à 13:39 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
 
 ---
 
+## 📰 Quanta Magazine
+
+- [A Strange Quantum Theorem Has Killed Einstein’s Reality](https://www.quantamagazine.org/a-strange-quantum-theorem-has-killed-einsteins-reality-20261106/) — *06 Nov 2026*
+
 ## 📰 Nature – Quantum Information
 
 - [Fault-tolerant quantum error correction for constant-excitation stabilizer codes under coherent noise](https://www.nature.com/articles/s41534-026-01401-0) — *02 Nov 2026*
 - [Unifying quantum smoothing theories with extended retrodiction](https://www.nature.com/articles/s41534-026-01379-9) — *01 Nov 2026*
-- [Efficient multi-basis quantum position verification secure against generalized adversaries](https://www.nature.com/articles/s41534-026-01325-9) — *31 Oct 2026*
 
 ## 📰 Physics Today
 
