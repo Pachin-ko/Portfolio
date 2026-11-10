@@ -1,5 +1,5 @@
 {
-  "last_updated": "09 November 2026 à 16:59 UTC",
+  "last_updated": "10 November 2026 à 15:18 UTC",
   "articles": [
     {
       "source": "Quanta Magazine",
@@ -9,33 +9,15 @@
     },
     {
       "source": "Physics Today",
-      "title": "Ab initio -based intermolecular potential for normal hydrogen, orthohydrogen, and parahydrogen: Prediction of thermodynamic behavior",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/17/174503/3408198/Ab-initio-based-intermolecular-potential-for",
-      "date": "05 Nov 2026"
+      "title": "A chemical link between interstellar isopropanol and acetone: H atom reactions in solid  para -hydrogen",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/18/184302/3408316/A-chemical-link-between-interstellar-isopropanol",
+      "date": "09 Nov 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Quantum critical behavior in chains of hindered dipolar planar rotors",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/17/174120/3408164/Quantum-critical-behavior-in-chains-of-hindered",
-      "date": "05 Nov 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "From 4D to 2D: Efficient computation of the electron correlation energies of atoms in molecular systems",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/17/174115/3408107/From-4D-to-2D-Efficient-computation-of-the",
-      "date": "04 Nov 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Electronic excited states and photodissociation pathways of iso-propylamine: Experimental and theoretical investigations",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/17/174313/3408106/Electronic-excited-states-and-photodissociation",
-      "date": "04 Nov 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "EmbASI: An extensible Pythonic framework for DFT-in-DFT and WF-in-DFT embedding",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/17/172501/3408102/EmbASI-An-extensible-Pythonic-framework-for-DFT-in",
-      "date": "04 Nov 2026"
+      "title": "The exact universal exchange-only local field factor of the uniform electron gas and its near-cancellation by parallel-spin correlation near 2k F",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/18/184101/3408310/The-exact-universal-exchange-only-local-field",
+      "date": "09 Nov 2026"
     }
   ]
 }

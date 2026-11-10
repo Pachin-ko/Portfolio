@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **09 November 2026 à 16:59 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **10 November 2026 à 15:18 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -13,11 +13,8 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Physics Today
 
-- [Ab initio -based intermolecular potential for normal hydrogen, orthohydrogen, and parahydrogen: Prediction of thermodynamic behavior](https://pubs.aip.org/aip/jcp/article/165/17/174503/3408198/Ab-initio-based-intermolecular-potential-for) — *05 Nov 2026*
-- [Quantum critical behavior in chains of hindered dipolar planar rotors](https://pubs.aip.org/aip/jcp/article/165/17/174120/3408164/Quantum-critical-behavior-in-chains-of-hindered) — *05 Nov 2026*
-- [From 4D to 2D: Efficient computation of the electron correlation energies of atoms in molecular systems](https://pubs.aip.org/aip/jcp/article/165/17/174115/3408107/From-4D-to-2D-Efficient-computation-of-the) — *04 Nov 2026*
-- [Electronic excited states and photodissociation pathways of iso-propylamine: Experimental and theoretical investigations](https://pubs.aip.org/aip/jcp/article/165/17/174313/3408106/Electronic-excited-states-and-photodissociation) — *04 Nov 2026*
-- [EmbASI: An extensible Pythonic framework for DFT-in-DFT and WF-in-DFT embedding](https://pubs.aip.org/aip/jcp/article/165/17/172501/3408102/EmbASI-An-extensible-Pythonic-framework-for-DFT-in) — *04 Nov 2026*
+- [A chemical link between interstellar isopropanol and acetone: H atom reactions in solid  para -hydrogen](https://pubs.aip.org/aip/jcp/article/165/18/184302/3408316/A-chemical-link-between-interstellar-isopropanol) — *09 Nov 2026*
+- [The exact universal exchange-only local field factor of the uniform electron gas and its near-cancellation by parallel-spin correlation near 2k F](https://pubs.aip.org/aip/jcp/article/165/18/184101/3408310/The-exact-universal-exchange-only-local-field) — *09 Nov 2026*
 
 ---
 
