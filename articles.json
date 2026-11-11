@@ -1,11 +1,47 @@
 {
-  "last_updated": "10 November 2026 à 15:18 UTC",
+  "last_updated": "11 November 2026 à 14:48 UTC",
   "articles": [
     {
       "source": "Quanta Magazine",
       "title": "A Strange Quantum Theorem Has Killed Einstein’s Reality",
       "link": "https://www.quantamagazine.org/a-strange-quantum-theorem-has-killed-einsteins-reality-20261106/",
       "date": "06 Nov 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Element-specific, non-destructive profiling of two-dimensional dopant layers in silicon",
+      "link": "https://www.nature.com/articles/s41534-026-01393-x",
+      "date": "11 Nov 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "On the complexity of the succinct state local Hamiltonian problem",
+      "link": "https://www.nature.com/articles/s41534-026-01375-z",
+      "date": "10 Nov 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "An unconditional distribution learning advantage with shallow quantum circuits",
+      "link": "https://www.nature.com/articles/s41534-026-01370-4",
+      "date": "10 Nov 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Optical response of coronene in the presence of a metallic substrate",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/18/184706/3408401/Optical-response-of-coronene-in-the-presence-of-a",
+      "date": "10 Nov 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Quantum-classical hierarchical equations of motion",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/18/184107/3408384/Quantum-classical-hierarchical-equations-of-motion",
+      "date": "10 Nov 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Calculation of thermodynamic properties of neon with  ab initio  potentials using path integral and semiclassical Monte Carlo simulations",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/18/184106/3408382/Calculation-of-thermodynamic-properties-of-neon",
+      "date": "10 Nov 2026"
     },
     {
       "source": "Physics Today",
@@ -18,6 +54,12 @@
       "title": "The exact universal exchange-only local field factor of the uniform electron gas and its near-cancellation by parallel-spin correlation near 2k F",
       "link": "https://pubs.aip.org/aip/jcp/article/165/18/184101/3408310/The-exact-universal-exchange-only-local-field",
       "date": "09 Nov 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "AI Cracks a Quantum Computing Bottleneck",
+      "link": "https://arxiv.org/abs/2611.08151",
+      "date": "11 Nov 2026"
     }
   ]
 }
