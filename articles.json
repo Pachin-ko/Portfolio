@@ -1,11 +1,17 @@
 {
-  "last_updated": "11 November 2026 à 14:48 UTC",
+  "last_updated": "12 November 2026 à 15:40 UTC",
   "articles": [
     {
       "source": "Quanta Magazine",
       "title": "A Strange Quantum Theorem Has Killed Einstein’s Reality",
       "link": "https://www.quantamagazine.org/a-strange-quantum-theorem-has-killed-einsteins-reality-20261106/",
       "date": "06 Nov 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Hardware-tailored logical Clifford circuits for stabilizer codes",
+      "link": "https://www.nature.com/articles/s41534-026-01404-x",
+      "date": "12 Nov 2026"
     },
     {
       "source": "Nature – Quantum Information",
@@ -24,6 +30,12 @@
       "title": "An unconditional distribution learning advantage with shallow quantum circuits",
       "link": "https://www.nature.com/articles/s41534-026-01370-4",
       "date": "10 Nov 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Hydrogen-bond donor–acceptor imbalance in low-frequency terahertz water spectra",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/18/184504/3408463/Hydrogen-bond-donor-acceptor-imbalance-in-low",
+      "date": "11 Nov 2026"
     },
     {
       "source": "Physics Today",
@@ -47,12 +59,6 @@
       "source": "Physics Today",
       "title": "A chemical link between interstellar isopropanol and acetone: H atom reactions in solid  para -hydrogen",
       "link": "https://pubs.aip.org/aip/jcp/article/165/18/184302/3408316/A-chemical-link-between-interstellar-isopropanol",
-      "date": "09 Nov 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "The exact universal exchange-only local field factor of the uniform electron gas and its near-cancellation by parallel-spin correlation near 2k F",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/18/184101/3408310/The-exact-universal-exchange-only-local-field",
       "date": "09 Nov 2026"
     },
     {
