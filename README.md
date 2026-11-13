@@ -1,15 +1,11 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **12 November 2026 à 15:40 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **13 November 2026 à 14:59 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
 
 ---
-
-## 📰 Quanta Magazine
-
-- [A Strange Quantum Theorem Has Killed Einstein’s Reality](https://www.quantamagazine.org/a-strange-quantum-theorem-has-killed-einsteins-reality-20261106/) — *06 Nov 2026*
 
 ## 📰 Nature – Quantum Information
 
@@ -20,15 +16,11 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Physics Today
 
+- [QEpy: Quantum ESPRESSO in python](https://pubs.aip.org/aip/jcp/article/165/18/184113/3408564/QEpy-Quantum-ESPRESSO-in-python) — *12 Nov 2026*
+- [Toward chemically accurate quantum simulations on quantum hardware: A quantum-HPC hybrid approach](https://pubs.aip.org/aip/jcp/article/165/18/184111/3408563/Toward-chemically-accurate-quantum-simulations-on) — *12 Nov 2026*
 - [Hydrogen-bond donor–acceptor imbalance in low-frequency terahertz water spectra](https://pubs.aip.org/aip/jcp/article/165/18/184504/3408463/Hydrogen-bond-donor-acceptor-imbalance-in-low) — *11 Nov 2026*
 - [Optical response of coronene in the presence of a metallic substrate](https://pubs.aip.org/aip/jcp/article/165/18/184706/3408401/Optical-response-of-coronene-in-the-presence-of-a) — *10 Nov 2026*
 - [Quantum-classical hierarchical equations of motion](https://pubs.aip.org/aip/jcp/article/165/18/184107/3408384/Quantum-classical-hierarchical-equations-of-motion) — *10 Nov 2026*
-- [Calculation of thermodynamic properties of neon with  ab initio  potentials using path integral and semiclassical Monte Carlo simulations](https://pubs.aip.org/aip/jcp/article/165/18/184106/3408382/Calculation-of-thermodynamic-properties-of-neon) — *10 Nov 2026*
-- [A chemical link between interstellar isopropanol and acetone: H atom reactions in solid  para -hydrogen](https://pubs.aip.org/aip/jcp/article/165/18/184302/3408316/A-chemical-link-between-interstellar-isopropanol) — *09 Nov 2026*
-
-## 📰 Hacker News – Quantum
-
-- [AI Cracks a Quantum Computing Bottleneck](https://arxiv.org/abs/2611.08151) — *11 Nov 2026*
 
 ---
 

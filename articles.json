@@ -1,12 +1,6 @@
 {
-  "last_updated": "12 November 2026 à 15:40 UTC",
+  "last_updated": "13 November 2026 à 14:59 UTC",
   "articles": [
-    {
-      "source": "Quanta Magazine",
-      "title": "A Strange Quantum Theorem Has Killed Einstein’s Reality",
-      "link": "https://www.quantamagazine.org/a-strange-quantum-theorem-has-killed-einsteins-reality-20261106/",
-      "date": "06 Nov 2026"
-    },
     {
       "source": "Nature – Quantum Information",
       "title": "Hardware-tailored logical Clifford circuits for stabilizer codes",
@@ -33,6 +27,18 @@
     },
     {
       "source": "Physics Today",
+      "title": "QEpy: Quantum ESPRESSO in python",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/18/184113/3408564/QEpy-Quantum-ESPRESSO-in-python",
+      "date": "12 Nov 2026"
+    },
+    {
+      "source": "Physics Today",
+      "title": "Toward chemically accurate quantum simulations on quantum hardware: A quantum-HPC hybrid approach",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/18/184111/3408563/Toward-chemically-accurate-quantum-simulations-on",
+      "date": "12 Nov 2026"
+    },
+    {
+      "source": "Physics Today",
       "title": "Hydrogen-bond donor–acceptor imbalance in low-frequency terahertz water spectra",
       "link": "https://pubs.aip.org/aip/jcp/article/165/18/184504/3408463/Hydrogen-bond-donor-acceptor-imbalance-in-low",
       "date": "11 Nov 2026"
@@ -48,24 +54,6 @@
       "title": "Quantum-classical hierarchical equations of motion",
       "link": "https://pubs.aip.org/aip/jcp/article/165/18/184107/3408384/Quantum-classical-hierarchical-equations-of-motion",
       "date": "10 Nov 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Calculation of thermodynamic properties of neon with  ab initio  potentials using path integral and semiclassical Monte Carlo simulations",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/18/184106/3408382/Calculation-of-thermodynamic-properties-of-neon",
-      "date": "10 Nov 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "A chemical link between interstellar isopropanol and acetone: H atom reactions in solid  para -hydrogen",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/18/184302/3408316/A-chemical-link-between-interstellar-isopropanol",
-      "date": "09 Nov 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "AI Cracks a Quantum Computing Bottleneck",
-      "link": "https://arxiv.org/abs/2611.08151",
-      "date": "11 Nov 2026"
     }
   ]
 }
