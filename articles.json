@@ -1,5 +1,5 @@
 {
-  "last_updated": "13 November 2026 à 14:59 UTC",
+  "last_updated": "14 November 2026 à 13:52 UTC",
   "articles": [
     {
       "source": "Nature – Quantum Information",
@@ -27,6 +27,12 @@
     },
     {
       "source": "Physics Today",
+      "title": "Sampling methods to describe photon statistics in large ensembles of quantum emitters",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/18/184117/3408665/Sampling-methods-to-describe-photon-statistics-in",
+      "date": "13 Nov 2026"
+    },
+    {
+      "source": "Physics Today",
       "title": "QEpy: Quantum ESPRESSO in python",
       "link": "https://pubs.aip.org/aip/jcp/article/165/18/184113/3408564/QEpy-Quantum-ESPRESSO-in-python",
       "date": "12 Nov 2026"
@@ -50,10 +56,22 @@
       "date": "10 Nov 2026"
     },
     {
-      "source": "Physics Today",
-      "title": "Quantum-classical hierarchical equations of motion",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/18/184107/3408384/Quantum-classical-hierarchical-equations-of-motion",
-      "date": "10 Nov 2026"
+      "source": "Hacker News – Quantum",
+      "title": "Making Software – Quantum Computing",
+      "link": "https://www.makingsoftware.com/chapters/quantum-computing",
+      "date": "14 Nov 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "What Is Quantum Computing",
+      "link": "https://www.makingsoftware.com/chapters/quantum-computing",
+      "date": "13 Nov 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "AI Cracks a Quantum Computing Bottleneck",
+      "link": "https://arxiv.org/abs/2611.08151",
+      "date": "11 Nov 2026"
     }
   ]
 }

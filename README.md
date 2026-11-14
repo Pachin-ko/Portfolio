@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **13 November 2026 à 14:59 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **14 November 2026 à 13:52 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -16,11 +16,17 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Physics Today
 
+- [Sampling methods to describe photon statistics in large ensembles of quantum emitters](https://pubs.aip.org/aip/jcp/article/165/18/184117/3408665/Sampling-methods-to-describe-photon-statistics-in) — *13 Nov 2026*
 - [QEpy: Quantum ESPRESSO in python](https://pubs.aip.org/aip/jcp/article/165/18/184113/3408564/QEpy-Quantum-ESPRESSO-in-python) — *12 Nov 2026*
 - [Toward chemically accurate quantum simulations on quantum hardware: A quantum-HPC hybrid approach](https://pubs.aip.org/aip/jcp/article/165/18/184111/3408563/Toward-chemically-accurate-quantum-simulations-on) — *12 Nov 2026*
 - [Hydrogen-bond donor–acceptor imbalance in low-frequency terahertz water spectra](https://pubs.aip.org/aip/jcp/article/165/18/184504/3408463/Hydrogen-bond-donor-acceptor-imbalance-in-low) — *11 Nov 2026*
 - [Optical response of coronene in the presence of a metallic substrate](https://pubs.aip.org/aip/jcp/article/165/18/184706/3408401/Optical-response-of-coronene-in-the-presence-of-a) — *10 Nov 2026*
-- [Quantum-classical hierarchical equations of motion](https://pubs.aip.org/aip/jcp/article/165/18/184107/3408384/Quantum-classical-hierarchical-equations-of-motion) — *10 Nov 2026*
+
+## 📰 Hacker News – Quantum
+
+- [Making Software – Quantum Computing](https://www.makingsoftware.com/chapters/quantum-computing) — *14 Nov 2026*
+- [What Is Quantum Computing](https://www.makingsoftware.com/chapters/quantum-computing) — *13 Nov 2026*
+- [AI Cracks a Quantum Computing Bottleneck](https://arxiv.org/abs/2611.08151) — *11 Nov 2026*
 
 ---
 
