@@ -1,5 +1,5 @@
 {
-  "last_updated": "15 November 2026 à 14:25 UTC",
+  "last_updated": "16 November 2026 à 16:37 UTC",
   "articles": [
     {
       "source": "Nature – Quantum Information",
@@ -60,24 +60,6 @@
       "title": "Optical response of coronene in the presence of a metallic substrate",
       "link": "https://pubs.aip.org/aip/jcp/article/165/18/184706/3408401/Optical-response-of-coronene-in-the-presence-of-a",
       "date": "10 Nov 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Making Software – Quantum Computing",
-      "link": "https://www.makingsoftware.com/chapters/quantum-computing",
-      "date": "14 Nov 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "What Is Quantum Computing",
-      "link": "https://www.makingsoftware.com/chapters/quantum-computing",
-      "date": "13 Nov 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "AI Cracks a Quantum Computing Bottleneck",
-      "link": "https://arxiv.org/abs/2611.08151",
-      "date": "11 Nov 2026"
     }
   ]
 }
