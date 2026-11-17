@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **16 November 2026 à 16:37 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **17 November 2026 à 16:34 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -9,19 +9,16 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Nature – Quantum Information
 
+- [Quantum quickest change detection](https://www.nature.com/articles/s41534-026-01418-5) — *17 Nov 2026*
 - [CryoCMOS RF multiplexer for superconducting qubit control, readout and flux biasing at millikelvin temperatures with picowatt power consumption](https://www.nature.com/articles/s41534-026-01424-7) — *14 Nov 2026*
 - [Hardware-tailored logical Clifford circuits for stabilizer codes](https://www.nature.com/articles/s41534-026-01404-x) — *12 Nov 2026*
 - [Element-specific, non-destructive profiling of two-dimensional dopant layers in silicon](https://www.nature.com/articles/s41534-026-01393-x) — *11 Nov 2026*
-- [On the complexity of the succinct state local Hamiltonian problem](https://www.nature.com/articles/s41534-026-01375-z) — *10 Nov 2026*
-- [An unconditional distribution learning advantage with shallow quantum circuits](https://www.nature.com/articles/s41534-026-01370-4) — *10 Nov 2026*
 
 ## 📰 Physics Today
 
-- [Sampling methods to describe photon statistics in large ensembles of quantum emitters](https://pubs.aip.org/aip/jcp/article/165/18/184117/3408665/Sampling-methods-to-describe-photon-statistics-in) — *13 Nov 2026*
-- [QEpy: Quantum ESPRESSO in python](https://pubs.aip.org/aip/jcp/article/165/18/184113/3408564/QEpy-Quantum-ESPRESSO-in-python) — *12 Nov 2026*
-- [Toward chemically accurate quantum simulations on quantum hardware: A quantum-HPC hybrid approach](https://pubs.aip.org/aip/jcp/article/165/18/184111/3408563/Toward-chemically-accurate-quantum-simulations-on) — *12 Nov 2026*
-- [Hydrogen-bond donor–acceptor imbalance in low-frequency terahertz water spectra](https://pubs.aip.org/aip/jcp/article/165/18/184504/3408463/Hydrogen-bond-donor-acceptor-imbalance-in-low) — *11 Nov 2026*
-- [Optical response of coronene in the presence of a metallic substrate](https://pubs.aip.org/aip/jcp/article/165/18/184706/3408401/Optical-response-of-coronene-in-the-presence-of-a) — *10 Nov 2026*
+- [Photoelectron and MATI spectra of pyridine from the beyond Born–Oppenheimer constructed diabatic Hamiltonian matrices](https://pubs.aip.org/aip/jcp/article/165/19/194102/3408760/Photoelectron-and-MATI-spectra-of-pyridine-from) — *16 Nov 2026*
+- [Poincaré sphere representation of spin-driven polarization encoding in two-dimensional perovskite light sources](https://pubs.aip.org/aip/jcp/article/165/19/191102/3408756/Poincare-sphere-representation-of-spin-driven) — *16 Nov 2026*
+- [Unraveling electron-transfer mediated decay through quantum wavepacket dynamics](https://pubs.aip.org/aip/jcp/article/165/19/194301/3408754/Unraveling-electron-transfer-mediated-decay) — *16 Nov 2026*
 
 ---
 

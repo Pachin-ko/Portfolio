@@ -1,6 +1,12 @@
 {
-  "last_updated": "16 November 2026 à 16:37 UTC",
+  "last_updated": "17 November 2026 à 16:34 UTC",
   "articles": [
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Quantum quickest change detection",
+      "link": "https://www.nature.com/articles/s41534-026-01418-5",
+      "date": "17 Nov 2026"
+    },
     {
       "source": "Nature – Quantum Information",
       "title": "CryoCMOS RF multiplexer for superconducting qubit control, readout and flux biasing at millikelvin temperatures with picowatt power consumption",
@@ -20,46 +26,22 @@
       "date": "11 Nov 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "On the complexity of the succinct state local Hamiltonian problem",
-      "link": "https://www.nature.com/articles/s41534-026-01375-z",
-      "date": "10 Nov 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "An unconditional distribution learning advantage with shallow quantum circuits",
-      "link": "https://www.nature.com/articles/s41534-026-01370-4",
-      "date": "10 Nov 2026"
+      "source": "Physics Today",
+      "title": "Photoelectron and MATI spectra of pyridine from the beyond Born–Oppenheimer constructed diabatic Hamiltonian matrices",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/19/194102/3408760/Photoelectron-and-MATI-spectra-of-pyridine-from",
+      "date": "16 Nov 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Sampling methods to describe photon statistics in large ensembles of quantum emitters",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/18/184117/3408665/Sampling-methods-to-describe-photon-statistics-in",
-      "date": "13 Nov 2026"
+      "title": "Poincaré sphere representation of spin-driven polarization encoding in two-dimensional perovskite light sources",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/19/191102/3408756/Poincare-sphere-representation-of-spin-driven",
+      "date": "16 Nov 2026"
     },
     {
       "source": "Physics Today",
-      "title": "QEpy: Quantum ESPRESSO in python",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/18/184113/3408564/QEpy-Quantum-ESPRESSO-in-python",
-      "date": "12 Nov 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Toward chemically accurate quantum simulations on quantum hardware: A quantum-HPC hybrid approach",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/18/184111/3408563/Toward-chemically-accurate-quantum-simulations-on",
-      "date": "12 Nov 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Hydrogen-bond donor–acceptor imbalance in low-frequency terahertz water spectra",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/18/184504/3408463/Hydrogen-bond-donor-acceptor-imbalance-in-low",
-      "date": "11 Nov 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Optical response of coronene in the presence of a metallic substrate",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/18/184706/3408401/Optical-response-of-coronene-in-the-presence-of-a",
-      "date": "10 Nov 2026"
+      "title": "Unraveling electron-transfer mediated decay through quantum wavepacket dynamics",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/19/194301/3408754/Unraveling-electron-transfer-mediated-decay",
+      "date": "16 Nov 2026"
     }
   ]
 }
