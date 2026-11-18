@@ -1,10 +1,16 @@
 {
-  "last_updated": "17 November 2026 à 16:34 UTC",
+  "last_updated": "18 November 2026 à 16:03 UTC",
   "articles": [
     {
       "source": "Nature – Quantum Information",
       "title": "Quantum quickest change detection",
       "link": "https://www.nature.com/articles/s41534-026-01418-5",
+      "date": "17 Nov 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Entanglement-based quantum key distribution with classical signals in hollow-core fiber",
+      "link": "https://www.nature.com/articles/s41534-026-01417-6",
       "date": "17 Nov 2026"
     },
     {
@@ -18,12 +24,6 @@
       "title": "Hardware-tailored logical Clifford circuits for stabilizer codes",
       "link": "https://www.nature.com/articles/s41534-026-01404-x",
       "date": "12 Nov 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "Element-specific, non-destructive profiling of two-dimensional dopant layers in silicon",
-      "link": "https://www.nature.com/articles/s41534-026-01393-x",
-      "date": "11 Nov 2026"
     },
     {
       "source": "Physics Today",
@@ -42,6 +42,18 @@
       "title": "Unraveling electron-transfer mediated decay through quantum wavepacket dynamics",
       "link": "https://pubs.aip.org/aip/jcp/article/165/19/194301/3408754/Unraveling-electron-transfer-mediated-decay",
       "date": "16 Nov 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "Making Software – Quantum Computing",
+      "link": "https://www.makingsoftware.com/chapters/quantum-computing",
+      "date": "14 Nov 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "What Is Quantum Computing",
+      "link": "https://www.makingsoftware.com/chapters/quantum-computing",
+      "date": "13 Nov 2026"
     }
   ]
 }
