@@ -1,6 +1,18 @@
 {
-  "last_updated": "18 November 2026 à 16:03 UTC",
+  "last_updated": "19 November 2026 à 16:10 UTC",
   "articles": [
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Compilation-informed probabilistic logical-error cancellation",
+      "link": "https://www.nature.com/articles/s41534-026-01407-8",
+      "date": "19 Nov 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "High-key-rate fully-passive quantum access network with thermal source",
+      "link": "https://www.nature.com/articles/s41534-026-01412-x",
+      "date": "19 Nov 2026"
+    },
     {
       "source": "Nature – Quantum Information",
       "title": "Quantum quickest change detection",
@@ -20,10 +32,10 @@
       "date": "14 Nov 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "Hardware-tailored logical Clifford circuits for stabilizer codes",
-      "link": "https://www.nature.com/articles/s41534-026-01404-x",
-      "date": "12 Nov 2026"
+      "source": "Physics Today",
+      "title": "Nonlinear quantum master equations from time-dependent projectors",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/19/194112/3408942/Nonlinear-quantum-master-equations-from-time",
+      "date": "18 Nov 2026"
     },
     {
       "source": "Physics Today",
@@ -42,18 +54,6 @@
       "title": "Unraveling electron-transfer mediated decay through quantum wavepacket dynamics",
       "link": "https://pubs.aip.org/aip/jcp/article/165/19/194301/3408754/Unraveling-electron-transfer-mediated-decay",
       "date": "16 Nov 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Making Software – Quantum Computing",
-      "link": "https://www.makingsoftware.com/chapters/quantum-computing",
-      "date": "14 Nov 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "What Is Quantum Computing",
-      "link": "https://www.makingsoftware.com/chapters/quantum-computing",
-      "date": "13 Nov 2026"
     }
   ]
 }
