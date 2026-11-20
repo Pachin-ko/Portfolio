@@ -1,6 +1,12 @@
 {
-  "last_updated": "19 November 2026 à 16:10 UTC",
+  "last_updated": "20 November 2026 à 15:50 UTC",
   "articles": [
+    {
+      "source": "Nature – Quantum Information",
+      "title": "RF-free control of nuclear spins with color centers in silicon carbide",
+      "link": "https://www.nature.com/articles/s41534-026-01415-8",
+      "date": "20 Nov 2026"
+    },
     {
       "source": "Nature – Quantum Information",
       "title": "Compilation-informed probabilistic logical-error cancellation",
@@ -26,12 +32,6 @@
       "date": "17 Nov 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "CryoCMOS RF multiplexer for superconducting qubit control, readout and flux biasing at millikelvin temperatures with picowatt power consumption",
-      "link": "https://www.nature.com/articles/s41534-026-01424-7",
-      "date": "14 Nov 2026"
-    },
-    {
       "source": "Physics Today",
       "title": "Nonlinear quantum master equations from time-dependent projectors",
       "link": "https://pubs.aip.org/aip/jcp/article/165/19/194112/3408942/Nonlinear-quantum-master-equations-from-time",
@@ -54,6 +54,18 @@
       "title": "Unraveling electron-transfer mediated decay through quantum wavepacket dynamics",
       "link": "https://pubs.aip.org/aip/jcp/article/165/19/194301/3408754/Unraveling-electron-transfer-mediated-decay",
       "date": "16 Nov 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "Making Software – Quantum Computing",
+      "link": "https://www.makingsoftware.com/chapters/quantum-computing",
+      "date": "14 Nov 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "What Is Quantum Computing",
+      "link": "https://www.makingsoftware.com/chapters/quantum-computing",
+      "date": "13 Nov 2026"
     }
   ]
 }
