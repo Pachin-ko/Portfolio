@@ -1,5 +1,5 @@
 {
-  "last_updated": "20 November 2026 à 15:50 UTC",
+  "last_updated": "21 November 2026 à 15:00 UTC",
   "articles": [
     {
       "source": "Nature – Quantum Information",
@@ -33,6 +33,12 @@
     },
     {
       "source": "Physics Today",
+      "title": "From isolated molecules to solution: A discrete/continuum model with ellipsoidal non-periodic boundary conditions",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/19/194117/3409106/From-isolated-molecules-to-solution-A-discrete",
+      "date": "20 Nov 2026"
+    },
+    {
+      "source": "Physics Today",
       "title": "Nonlinear quantum master equations from time-dependent projectors",
       "link": "https://pubs.aip.org/aip/jcp/article/165/19/194112/3408942/Nonlinear-quantum-master-equations-from-time",
       "date": "18 Nov 2026"
@@ -54,18 +60,6 @@
       "title": "Unraveling electron-transfer mediated decay through quantum wavepacket dynamics",
       "link": "https://pubs.aip.org/aip/jcp/article/165/19/194301/3408754/Unraveling-electron-transfer-mediated-decay",
       "date": "16 Nov 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Making Software – Quantum Computing",
-      "link": "https://www.makingsoftware.com/chapters/quantum-computing",
-      "date": "14 Nov 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "What Is Quantum Computing",
-      "link": "https://www.makingsoftware.com/chapters/quantum-computing",
-      "date": "13 Nov 2026"
     }
   ]
 }

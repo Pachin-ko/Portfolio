@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **20 November 2026 à 15:50 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **21 November 2026 à 15:00 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -17,15 +17,11 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Physics Today
 
+- [From isolated molecules to solution: A discrete/continuum model with ellipsoidal non-periodic boundary conditions](https://pubs.aip.org/aip/jcp/article/165/19/194117/3409106/From-isolated-molecules-to-solution-A-discrete) — *20 Nov 2026*
 - [Nonlinear quantum master equations from time-dependent projectors](https://pubs.aip.org/aip/jcp/article/165/19/194112/3408942/Nonlinear-quantum-master-equations-from-time) — *18 Nov 2026*
 - [Photoelectron and MATI spectra of pyridine from the beyond Born–Oppenheimer constructed diabatic Hamiltonian matrices](https://pubs.aip.org/aip/jcp/article/165/19/194102/3408760/Photoelectron-and-MATI-spectra-of-pyridine-from) — *16 Nov 2026*
 - [Poincaré sphere representation of spin-driven polarization encoding in two-dimensional perovskite light sources](https://pubs.aip.org/aip/jcp/article/165/19/191102/3408756/Poincare-sphere-representation-of-spin-driven) — *16 Nov 2026*
 - [Unraveling electron-transfer mediated decay through quantum wavepacket dynamics](https://pubs.aip.org/aip/jcp/article/165/19/194301/3408754/Unraveling-electron-transfer-mediated-decay) — *16 Nov 2026*
-
-## 📰 Hacker News – Quantum
-
-- [Making Software – Quantum Computing](https://www.makingsoftware.com/chapters/quantum-computing) — *14 Nov 2026*
-- [What Is Quantum Computing](https://www.makingsoftware.com/chapters/quantum-computing) — *13 Nov 2026*
 
 ---
 
