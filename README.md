@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **21 November 2026 à 15:00 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **22 November 2026 à 14:58 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -22,6 +22,10 @@ agrégés depuis des sources académiques, tech et communautaires.
 - [Photoelectron and MATI spectra of pyridine from the beyond Born–Oppenheimer constructed diabatic Hamiltonian matrices](https://pubs.aip.org/aip/jcp/article/165/19/194102/3408760/Photoelectron-and-MATI-spectra-of-pyridine-from) — *16 Nov 2026*
 - [Poincaré sphere representation of spin-driven polarization encoding in two-dimensional perovskite light sources](https://pubs.aip.org/aip/jcp/article/165/19/191102/3408756/Poincare-sphere-representation-of-spin-driven) — *16 Nov 2026*
 - [Unraveling electron-transfer mediated decay through quantum wavepacket dynamics](https://pubs.aip.org/aip/jcp/article/165/19/194301/3408754/Unraveling-electron-transfer-mediated-decay) — *16 Nov 2026*
+
+## 📰 Hacker News – Quantum
+
+- [The quantum computing race is becoming a deployment race](https://www.techradar.com/pro/the-quantum-computing-race-is-becoming-a-deployment-race) — *22 Nov 2026*
 
 ---
 
