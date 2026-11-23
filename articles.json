@@ -1,6 +1,12 @@
 {
-  "last_updated": "22 November 2026 à 14:58 UTC",
+  "last_updated": "23 November 2026 à 18:51 UTC",
   "articles": [
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Experimental realization of rabi-driven reset for fast cooling of a high-Q cavity",
+      "link": "https://www.nature.com/articles/s41534-026-01408-7",
+      "date": "23 Nov 2026"
+    },
     {
       "source": "Nature – Quantum Information",
       "title": "RF-free control of nuclear spins with color centers in silicon carbide",
@@ -26,12 +32,6 @@
       "date": "17 Nov 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "Entanglement-based quantum key distribution with classical signals in hollow-core fiber",
-      "link": "https://www.nature.com/articles/s41534-026-01417-6",
-      "date": "17 Nov 2026"
-    },
-    {
       "source": "Physics Today",
       "title": "From isolated molecules to solution: A discrete/continuum model with ellipsoidal non-periodic boundary conditions",
       "link": "https://pubs.aip.org/aip/jcp/article/165/19/194117/3409106/From-isolated-molecules-to-solution-A-discrete",
@@ -44,22 +44,10 @@
       "date": "18 Nov 2026"
     },
     {
-      "source": "Physics Today",
-      "title": "Photoelectron and MATI spectra of pyridine from the beyond Born–Oppenheimer constructed diabatic Hamiltonian matrices",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/19/194102/3408760/Photoelectron-and-MATI-spectra-of-pyridine-from",
-      "date": "16 Nov 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Poincaré sphere representation of spin-driven polarization encoding in two-dimensional perovskite light sources",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/19/191102/3408756/Poincare-sphere-representation-of-spin-driven",
-      "date": "16 Nov 2026"
-    },
-    {
-      "source": "Physics Today",
-      "title": "Unraveling electron-transfer mediated decay through quantum wavepacket dynamics",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/19/194301/3408754/Unraveling-electron-transfer-mediated-decay",
-      "date": "16 Nov 2026"
+      "source": "Hacker News – Quantum",
+      "title": "Quantum computing's first real-world payoff may come in energy",
+      "link": "https://www.cnbc.com/2026/11/22/quantum-computing-energy-applications.html",
+      "date": "22 Nov 2026"
     },
     {
       "source": "Hacker News – Quantum",
