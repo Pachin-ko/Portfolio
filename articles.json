@@ -1,6 +1,12 @@
 {
-  "last_updated": "23 November 2026 à 18:51 UTC",
+  "last_updated": "24 November 2026 à 18:28 UTC",
   "articles": [
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Transmon qutrit-based simulation of spin-1 AKLT systems",
+      "link": "https://www.nature.com/articles/s41534-026-01421-w",
+      "date": "24 Nov 2026"
+    },
     {
       "source": "Nature – Quantum Information",
       "title": "Experimental realization of rabi-driven reset for fast cooling of a high-Q cavity",
@@ -26,22 +32,28 @@
       "date": "19 Nov 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "Quantum quickest change detection",
-      "link": "https://www.nature.com/articles/s41534-026-01418-5",
-      "date": "17 Nov 2026"
+      "source": "Physics Today",
+      "title": "Quantum flow algorithm: Quantum simulations of chemical systems using reduced quantum resources and constant depth quantum circuits",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/20/201101/3409211/Quantum-flow-algorithm-Quantum-simulations-of",
+      "date": "23 Nov 2026"
     },
     {
       "source": "Physics Today",
-      "title": "From isolated molecules to solution: A discrete/continuum model with ellipsoidal non-periodic boundary conditions",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/19/194117/3409106/From-isolated-molecules-to-solution-A-discrete",
-      "date": "20 Nov 2026"
+      "title": "Spectroscopic characterization of PH 4  ●  radical and PH 4  +  cation: A matrix isolation and CCSD(T) study",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/20/204302/3409195/Spectroscopic-characterization-of-PH4-radical-and",
+      "date": "23 Nov 2026"
     },
     {
       "source": "Physics Today",
-      "title": "Nonlinear quantum master equations from time-dependent projectors",
-      "link": "https://pubs.aip.org/aip/jcp/article/165/19/194112/3408942/Nonlinear-quantum-master-equations-from-time",
-      "date": "18 Nov 2026"
+      "title": "Benchmarking the photophysics of a rigid square-planar Ni(II) complex using GASSCF, MC-PDFT, and TDDFT",
+      "link": "https://pubs.aip.org/aip/jcp/article/165/20/204104/3409189/Benchmarking-the-photophysics-of-a-rigid-square",
+      "date": "23 Nov 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "Quint Computing Secures €9.1M Round for German Quantum Computing",
+      "link": "https://www.quint-computing.com/news/quint-computing-secures-9-1-million-record-first-funding-round/",
+      "date": "24 Nov 2026"
     },
     {
       "source": "Hacker News – Quantum",

@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **23 November 2026 à 18:51 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **24 November 2026 à 18:28 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -9,19 +9,21 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Nature – Quantum Information
 
+- [Transmon qutrit-based simulation of spin-1 AKLT systems](https://www.nature.com/articles/s41534-026-01421-w) — *24 Nov 2026*
 - [Experimental realization of rabi-driven reset for fast cooling of a high-Q cavity](https://www.nature.com/articles/s41534-026-01408-7) — *23 Nov 2026*
 - [RF-free control of nuclear spins with color centers in silicon carbide](https://www.nature.com/articles/s41534-026-01415-8) — *20 Nov 2026*
 - [Compilation-informed probabilistic logical-error cancellation](https://www.nature.com/articles/s41534-026-01407-8) — *19 Nov 2026*
 - [High-key-rate fully-passive quantum access network with thermal source](https://www.nature.com/articles/s41534-026-01412-x) — *19 Nov 2026*
-- [Quantum quickest change detection](https://www.nature.com/articles/s41534-026-01418-5) — *17 Nov 2026*
 
 ## 📰 Physics Today
 
-- [From isolated molecules to solution: A discrete/continuum model with ellipsoidal non-periodic boundary conditions](https://pubs.aip.org/aip/jcp/article/165/19/194117/3409106/From-isolated-molecules-to-solution-A-discrete) — *20 Nov 2026*
-- [Nonlinear quantum master equations from time-dependent projectors](https://pubs.aip.org/aip/jcp/article/165/19/194112/3408942/Nonlinear-quantum-master-equations-from-time) — *18 Nov 2026*
+- [Quantum flow algorithm: Quantum simulations of chemical systems using reduced quantum resources and constant depth quantum circuits](https://pubs.aip.org/aip/jcp/article/165/20/201101/3409211/Quantum-flow-algorithm-Quantum-simulations-of) — *23 Nov 2026*
+- [Spectroscopic characterization of PH 4  ●  radical and PH 4  +  cation: A matrix isolation and CCSD(T) study](https://pubs.aip.org/aip/jcp/article/165/20/204302/3409195/Spectroscopic-characterization-of-PH4-radical-and) — *23 Nov 2026*
+- [Benchmarking the photophysics of a rigid square-planar Ni(II) complex using GASSCF, MC-PDFT, and TDDFT](https://pubs.aip.org/aip/jcp/article/165/20/204104/3409189/Benchmarking-the-photophysics-of-a-rigid-square) — *23 Nov 2026*
 
 ## 📰 Hacker News – Quantum
 
+- [Quint Computing Secures €9.1M Round for German Quantum Computing](https://www.quint-computing.com/news/quint-computing-secures-9-1-million-record-first-funding-round/) — *24 Nov 2026*
 - [Quantum computing's first real-world payoff may come in energy](https://www.cnbc.com/2026/11/22/quantum-computing-energy-applications.html) — *22 Nov 2026*
 - [The quantum computing race is becoming a deployment race](https://www.techradar.com/pro/the-quantum-computing-race-is-becoming-a-deployment-race) — *22 Nov 2026*
 
