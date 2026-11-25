@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **24 November 2026 à 18:28 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **25 November 2026 à 17:42 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -9,11 +9,11 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Nature – Quantum Information
 
+- [Regional attention transformers for spatially structured open quantum dynamics](https://www.nature.com/articles/s41534-026-01414-9) — *24 Nov 2026*
 - [Transmon qutrit-based simulation of spin-1 AKLT systems](https://www.nature.com/articles/s41534-026-01421-w) — *24 Nov 2026*
 - [Experimental realization of rabi-driven reset for fast cooling of a high-Q cavity](https://www.nature.com/articles/s41534-026-01408-7) — *23 Nov 2026*
 - [RF-free control of nuclear spins with color centers in silicon carbide](https://www.nature.com/articles/s41534-026-01415-8) — *20 Nov 2026*
 - [Compilation-informed probabilistic logical-error cancellation](https://www.nature.com/articles/s41534-026-01407-8) — *19 Nov 2026*
-- [High-key-rate fully-passive quantum access network with thermal source](https://www.nature.com/articles/s41534-026-01412-x) — *19 Nov 2026*
 
 ## 📰 Physics Today
 
