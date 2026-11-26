@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **25 November 2026 à 17:42 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **26 November 2026 à 17:25 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -13,10 +13,10 @@ agrégés depuis des sources académiques, tech et communautaires.
 - [Transmon qutrit-based simulation of spin-1 AKLT systems](https://www.nature.com/articles/s41534-026-01421-w) — *24 Nov 2026*
 - [Experimental realization of rabi-driven reset for fast cooling of a high-Q cavity](https://www.nature.com/articles/s41534-026-01408-7) — *23 Nov 2026*
 - [RF-free control of nuclear spins with color centers in silicon carbide](https://www.nature.com/articles/s41534-026-01415-8) — *20 Nov 2026*
-- [Compilation-informed probabilistic logical-error cancellation](https://www.nature.com/articles/s41534-026-01407-8) — *19 Nov 2026*
 
 ## 📰 Physics Today
 
+- [gREST-ABMD: A general enhanced-sampling framework for free-energy calculations across QM/MM, coarse-grained, and all-atom models](https://pubs.aip.org/aip/jcp/article/165/20/205103/3409301/gREST-ABMD-A-general-enhanced-sampling-framework) — *25 Nov 2026*
 - [Quantum flow algorithm: Quantum simulations of chemical systems using reduced quantum resources and constant depth quantum circuits](https://pubs.aip.org/aip/jcp/article/165/20/201101/3409211/Quantum-flow-algorithm-Quantum-simulations-of) — *23 Nov 2026*
 - [Spectroscopic characterization of PH 4  ●  radical and PH 4  +  cation: A matrix isolation and CCSD(T) study](https://pubs.aip.org/aip/jcp/article/165/20/204302/3409195/Spectroscopic-characterization-of-PH4-radical-and) — *23 Nov 2026*
 - [Benchmarking the photophysics of a rigid square-planar Ni(II) complex using GASSCF, MC-PDFT, and TDDFT](https://pubs.aip.org/aip/jcp/article/165/20/204104/3409189/Benchmarking-the-photophysics-of-a-rigid-square) — *23 Nov 2026*
