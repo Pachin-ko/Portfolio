@@ -1,6 +1,18 @@
 {
-  "last_updated": "26 November 2026 à 17:25 UTC",
+  "last_updated": "27 November 2026 à 17:04 UTC",
   "articles": [
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Universal sequential quantum hypothesis testing",
+      "link": "https://www.nature.com/articles/s41534-026-01420-x",
+      "date": "27 Nov 2026"
+    },
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Super-resolution imaging via photon enumeration",
+      "link": "https://www.nature.com/articles/s41534-026-01413-w",
+      "date": "27 Nov 2026"
+    },
     {
       "source": "Nature – Quantum Information",
       "title": "Regional attention transformers for spatially structured open quantum dynamics",
@@ -18,12 +30,6 @@
       "title": "Experimental realization of rabi-driven reset for fast cooling of a high-Q cavity",
       "link": "https://www.nature.com/articles/s41534-026-01408-7",
       "date": "23 Nov 2026"
-    },
-    {
-      "source": "Nature – Quantum Information",
-      "title": "RF-free control of nuclear spins with color centers in silicon carbide",
-      "link": "https://www.nature.com/articles/s41534-026-01415-8",
-      "date": "20 Nov 2026"
     },
     {
       "source": "Physics Today",
@@ -48,6 +54,12 @@
       "title": "Benchmarking the photophysics of a rigid square-planar Ni(II) complex using GASSCF, MC-PDFT, and TDDFT",
       "link": "https://pubs.aip.org/aip/jcp/article/165/20/204104/3409189/Benchmarking-the-photophysics-of-a-rigid-square",
       "date": "23 Nov 2026"
+    },
+    {
+      "source": "Hacker News – Quantum",
+      "title": "Shor Enough? On Quantum Computing's Killer Benchmark, and the Future of Crypto",
+      "link": "https://quantumvillage.substack.com/p/shor-enough",
+      "date": "26 Nov 2026"
     },
     {
       "source": "Hacker News – Quantum",

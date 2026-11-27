@@ -1,6 +1,6 @@
 # ⚛️ Veille Quantum Computing
 
-> 🔄 Mise à jour automatique — dernière actualisation : **26 November 2026 à 17:25 UTC**
+> 🔄 Mise à jour automatique — dernière actualisation : **27 November 2026 à 17:04 UTC**
 
 Cette page recense automatiquement les derniers articles sur l'informatique quantique,
 agrégés depuis des sources académiques, tech et communautaires.
@@ -9,10 +9,11 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Nature – Quantum Information
 
+- [Universal sequential quantum hypothesis testing](https://www.nature.com/articles/s41534-026-01420-x) — *27 Nov 2026*
+- [Super-resolution imaging via photon enumeration](https://www.nature.com/articles/s41534-026-01413-w) — *27 Nov 2026*
 - [Regional attention transformers for spatially structured open quantum dynamics](https://www.nature.com/articles/s41534-026-01414-9) — *24 Nov 2026*
 - [Transmon qutrit-based simulation of spin-1 AKLT systems](https://www.nature.com/articles/s41534-026-01421-w) — *24 Nov 2026*
 - [Experimental realization of rabi-driven reset for fast cooling of a high-Q cavity](https://www.nature.com/articles/s41534-026-01408-7) — *23 Nov 2026*
-- [RF-free control of nuclear spins with color centers in silicon carbide](https://www.nature.com/articles/s41534-026-01415-8) — *20 Nov 2026*
 
 ## 📰 Physics Today
 
@@ -23,6 +24,7 @@ agrégés depuis des sources académiques, tech et communautaires.
 
 ## 📰 Hacker News – Quantum
 
+- [Shor Enough? On Quantum Computing's Killer Benchmark, and the Future of Crypto](https://quantumvillage.substack.com/p/shor-enough) — *26 Nov 2026*
 - [Quint Computing Secures €9.1M Round for German Quantum Computing](https://www.quint-computing.com/news/quint-computing-secures-9-1-million-record-first-funding-round/) — *24 Nov 2026*
 - [Quantum computing's first real-world payoff may come in energy](https://www.cnbc.com/2026/11/22/quantum-computing-energy-applications.html) — *22 Nov 2026*
 - [The quantum computing race is becoming a deployment race](https://www.techradar.com/pro/the-quantum-computing-race-is-becoming-a-deployment-race) — *22 Nov 2026*
