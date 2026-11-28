@@ -1,6 +1,12 @@
 {
-  "last_updated": "27 November 2026 à 17:04 UTC",
+  "last_updated": "28 November 2026 à 15:53 UTC",
   "articles": [
+    {
+      "source": "Nature – Quantum Information",
+      "title": "Efficient Hamiltonian dynamics tomography",
+      "link": "https://www.nature.com/articles/s41534-026-01422-9",
+      "date": "28 Nov 2026"
+    },
     {
       "source": "Nature – Quantum Information",
       "title": "Universal sequential quantum hypothesis testing",
@@ -26,12 +32,6 @@
       "date": "24 Nov 2026"
     },
     {
-      "source": "Nature – Quantum Information",
-      "title": "Experimental realization of rabi-driven reset for fast cooling of a high-Q cavity",
-      "link": "https://www.nature.com/articles/s41534-026-01408-7",
-      "date": "23 Nov 2026"
-    },
-    {
       "source": "Physics Today",
       "title": "gREST-ABMD: A general enhanced-sampling framework for free-energy calculations across QM/MM, coarse-grained, and all-atom models",
       "link": "https://pubs.aip.org/aip/jcp/article/165/20/205103/3409301/gREST-ABMD-A-general-enhanced-sampling-framework",
@@ -54,30 +54,6 @@
       "title": "Benchmarking the photophysics of a rigid square-planar Ni(II) complex using GASSCF, MC-PDFT, and TDDFT",
       "link": "https://pubs.aip.org/aip/jcp/article/165/20/204104/3409189/Benchmarking-the-photophysics-of-a-rigid-square",
       "date": "23 Nov 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Shor Enough? On Quantum Computing's Killer Benchmark, and the Future of Crypto",
-      "link": "https://quantumvillage.substack.com/p/shor-enough",
-      "date": "26 Nov 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Quint Computing Secures €9.1M Round for German Quantum Computing",
-      "link": "https://www.quint-computing.com/news/quint-computing-secures-9-1-million-record-first-funding-round/",
-      "date": "24 Nov 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "Quantum computing's first real-world payoff may come in energy",
-      "link": "https://www.cnbc.com/2026/11/22/quantum-computing-energy-applications.html",
-      "date": "22 Nov 2026"
-    },
-    {
-      "source": "Hacker News – Quantum",
-      "title": "The quantum computing race is becoming a deployment race",
-      "link": "https://www.techradar.com/pro/the-quantum-computing-race-is-becoming-a-deployment-race",
-      "date": "22 Nov 2026"
     }
   ]
 }
